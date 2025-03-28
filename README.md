@@ -1,2 +1,3 @@
-# subjective_time
-The code for the Subjective Time art project
+# Subjective Time
+
+This is the code for the Subjective Time art project.
