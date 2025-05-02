@@ -1,0 +1,481 @@
++05317,-004033;africa/abidjan ~~~~~~~~~~~~~~~~~~~~~~~~
++05550,-000200;africa/accra ~~~~~~~~~~~~~~~~~~~~~~~~~~
++09030,+038740;africa/addis ababa ~~~~~~~~~~~~~ +03:00
++36754,+003059;africa/algiers ~~~~~~~~~~~~~~~~~ +01:00
++15323,+038925;africa/asmara ~~~~~~~~~~~~~~~~~~ +03:00
++12639,-008003;africa/bamako ~~~~~~~~~~~~~~~~~~~~~~~~~
++04373,+018563;africa/bangui ~~~~~~~~~~~~~~~~~~ +01:00
++13453,-016578;africa/banjul ~~~~~~~~~~~~~~~~~~~~~~~~~
++11850,-015567;africa/bissau ~~~~~~~~~~~~~~~~~~~~~~~~~
+-15786,+035006;africa/blantyre ~~~~~~~~~~~~~~~~ +02:00
+-04268,+015292;africa/brazzaville ~~~~~~~~~~~~~ +01:00
+-03383,+029367;africa/bujumbura ~~~~~~~~~~~~~~~ +02:00
++30044,+031236;africa/cairo ~~~~~~~~~~~~~~~~~~~ +02:00
++33533,-007583;africa/casablanca ~~~~~~~~~~~~~~ z_014.
++35892,-005354;africa/ceuta ~~~~~~~~~~~~~~~~~~~ z_015.
++09509,-013712;africa/conakry ~~~~~~~~~~~~~~~~~~~~~~~~
++14693,-017447;africa/dakar ~~~~~~~~~~~~~~~~~~~~~~~~~~
+-06800,+039283;africa/dar es salaam ~~~~~~~~~~~ +03:00
++11500,+043000;africa/djibouti ~~~~~~~~~~~~~~~~ +03:00
++04050,+009700;africa/douala ~~~~~~~~~~~~~~~~~~ +01:00
++27154,-013203;africa/el aaiun ~~~~~~~~~~~~~~~~ z_021.
++08484,-013234;africa/freetown ~~~~~~~~~~~~~~~~~~~~~~~
+-24658,+025912;africa/gaborone ~~~~~~~~~~~~~~~~ +02:00
+-17829,+031052;africa/harare ~~~~~~~~~~~~~~~~~~ +02:00
+-26204,+028046;africa/johannesburg ~~~~~~~~~~~~ +02:00
++04850,+031600;africa/juba ~~~~~~~~~~~~~~~~~~~~ +02:00
++00314,+032581;africa/kampala ~~~~~~~~~~~~~~~~~ +03:00
++15501,+032560;africa/khartoum ~~~~~~~~~~~~~~~~ +02:00
+-01944,+030059;africa/kigali ~~~~~~~~~~~~~~~~~~ +02:00
+-04325,+015322;africa/kinshasa ~~~~~~~~~~~~~~~~ +01:00
++06455,+003384;africa/lagos ~~~~~~~~~~~~~~~~~~~ +01:00
++00390,+009454;africa/libreville ~~~~~~~~~~~~~~ +01:00
++06132,+001223;africa/lome ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-08838,+013234;africa/luanda ~~~~~~~~~~~~~~~~~~ +01:00
+-11667,+027483;africa/lubumbashi ~~~~~~~~~~~~~~ +02:00
+-15417,+028283;africa/lusaka ~~~~~~~~~~~~~~~~~~ +02:00
++03750,+008783;africa/malabo ~~~~~~~~~~~~~~~~~~ +01:00
+-25967,+032583;africa/maputo ~~~~~~~~~~~~~~~~~~ +02:00
+-29310,+027480;africa/maseru ~~~~~~~~~~~~~~~~~~ +02:00
+-26317,+031133;africa/mbabane ~~~~~~~~~~~~~~~~~ +02:00
++02033,+045333;africa/mogadishu ~~~~~~~~~~~~~~~ +03:00
++06313,-010801;africa/monrovia ~~~~~~~~~~~~~~~~~~~~~~~
+-01286,+036817;africa/nairobi ~~~~~~~~~~~~~~~~~ +03:00
++12110,+015050;africa/ndjamena ~~~~~~~~~~~~~~~~ +01:00
++13512,+002125;africa/niamey ~~~~~~~~~~~~~~~~~~ +01:00
++18086,-015979;africa/nouakchott ~~~~~~~~~~~~~~~~~~~~~
++12369,-001528;africa/ouagadougou ~~~~~~~~~~~~~~~~~~~~
++06497,+002605;africa/porto-novo ~~~~~~~~~~~~~~ +01:00
++00336,+006731;africa/sao tome ~~~~~~~~~~~~~~~~~~~~~~~
++32887,+013191;africa/tripoli ~~~~~~~~~~~~~~~~~ +02:00
++36806,+010182;africa/tunis ~~~~~~~~~~~~~~~~~~~ +01:00
+-22570,+017084;africa/windhoek ~~~~~~~~~~~~~~~~ +02:00
++51872,-176636;america/adak ~~~~~~~~~~~~~~~~~~~ z_053.
++61217,-149900;america/anchorage ~~~~~~~~~~~~~~ z_054.
++18227,-063049;america/anguilla ~~~~~~~~~~~~~~~ -04:00
++17083,-061800;america/antigua ~~~~~~~~~~~~~~~~ -04:00
++12519,-070036;america/aruba ~~~~~~~~~~~~~~~~~~ -04:00
+-07191,-048207;america/araguaina ~~~~~~~~~~~~~~ -03:00
+-34603,-058382;america/argentina/buenos aires ~ -03:00
+-28467,-065783;america/argentina/catamarca ~~~~ -03:00
+-31417,-064183;america/argentina/cordoba ~~~~~~ -03:00
+-24183,-065300;america/argentina/jujuy ~~~~~~~~ -03:00
+-29413,-066854;america/argentina/la rioja ~~~~~ -03:00
+-32883,-068817;america/argentina/mendoza ~~~~~~ -03:00
+-51633,-069217;america/argentina/rio gallegos ~ -03:00
+-24783,-065417;america/argentina/salta ~~~~~~~~ -03:00
+-31534,-068526;america/argentina/san juan ~~~~~ -03:00
+-33300,-066333;america/argentina/san luis ~~~~~ -03:00
+-26940,-065340;america/argentina/tucuman ~~~~~~ -03:00
+-54802,-068303;america/argentina/ushuaia ~~~~~~ -03:00
+-25300,-057633;america/asuncion ~~~~~~~~~~~~~~~ z_071.
++48750,-091617;america/atikokan ~~~~~~~~~~~~~~~ -05:00
+-12975,-038477;america/salvador bahia ~~~~~~~~~ -03:00
++20649,-105382;america/bahia de banderas ~~~~~~ -06:00
++13170,-059553;america/barbados ~~~~~~~~~~~~~~~ -04:00
+-01456,-048504;america/belem ~~~~~~~~~~~~~~~~~~ -03:00
++17067,-088700;america/belize ~~~~~~~~~~~~~~~~~ -06:00
++51417,-057133;america/blanc sablon ~~~~~~~~~~~ -04:00
++02819,-060671;america/boa vista ~~~~~~~~~~~~~~ -04:00
++04711,-074072;america/bogota ~~~~~~~~~~~~~~~~~ -05:00
++43616,-116202;america/boise ~~~~~~~~~~~~~~~~~~ z_081.
++69114,-105053;america/cambridge bay ~~~~~~~~~~ z_082.
+-20484,-054615;america/campo grande ~~~~~~~~~~~ -04:00
++21161,-086848;america/cancun ~~~~~~~~~~~~~~~~~ -05:00
++10481,-066904;america/caracas ~~~~~~~~~~~~~~~~ -04:00
++04937,-052326;america/cayenne ~~~~~~~~~~~~~~~~ -03:00
++19500,-080500;america/cayman ~~~~~~~~~~~~~~~~~ -05:00
++41882,-087628;america/chicago ~~~~~~~~~~~~~~~~ z_088.
++28635,-106089;america/chihuahua ~~~~~~~~~~~~~~ -06:00
++10000,-084000;america/costa rica ~~~~~~~~~~~~~ -06:00
++49098,-116510;america/creston ~~~~~~~~~~~~~~~~ -07:00
+-15596,-056097;america/cuiaba ~~~~~~~~~~~~~~~~~ -04:00
++12183,-069000;america/curacao ~~~~~~~~~~~~~~~~ -04:00
++76767,-018667;america/danmarkshavn ~~~~~~~~~~~~~~~~~~
++64067,-139417;america/dawson ~~~~~~~~~~~~~~~~~ -07:00
++55760,-120237;america/dawson creek ~~~~~~~~~~~ -07:00
++39739,-104985;america/denver ~~~~~~~~~~~~~~~~~ z_097.
++42331,-083046;america/detroit ~~~~~~~~~~~~~~~~ z_098.
++15417,-061333;america/dominica ~~~~~~~~~~~~~~~ -04:00
++53534,-113490;america/edmonton ~~~~~~~~~~~~~~~ z_100.
+-06660,-069874;america/eirunepe ~~~~~~~~~~~~~~~ -05:00
++13683,-089183;america/el salvador ~~~~~~~~~~~~ -06:00
++58806,-122696;america/fort nelson ~~~~~~~~~~~~ -07:00
+-03728,-038528;america/fortaleza ~~~~~~~~~~~~~~ -03:00
++46200,-059967;america/glace bay ~~~~~~~~~~~~~~ z_105.
++64181,-051694;america/godthab ~~~~~~~~~~~~~~~~ -03:00
++48433,-053835;america/goose bay ~~~~~~~~~~~~~~ z_107.
++21472,-071139;america/grand turk ~~~~~~~~~~~~~ z_108.
++12117,-061667;america/grenada ~~~~~~~~~~~~~~~~ -04:00
++16250,-061583;america/guadeloupe ~~~~~~~~~~~~~ -04:00
++14613,-090535;america/guatemala ~~~~~~~~~~~~~~ -06:00
+-02190,-079888;america/guayaquil ~~~~~~~~~~~~~~ -05:00
++06801,-058155;america/guyana ~~~~~~~~~~~~~~~~~ -04:00
++44867,-063716;america/halifax ~~~~~~~~~~~~~~~~ z_114.
++23137,-082359;america/havana ~~~~~~~~~~~~~~~~~ z_115.
++29099,-110954;america/hermosillo ~~~~~~~~~~~~~ -07:00
++39765,-086158;america/indiana/indianapolis ~~~ z_117.
++41294,-086623;america/indiana/knox ~~~~~~~~~~~ z_118.
++38371,-086343;america/indiana/marengo ~~~~~~~~ z_119.
++38492,-087280;america/indiana/petersburg ~~~~~ z_120.
++37953,-086761;america/indiana/tell city ~~~~~~ z_121.
++38745,-085071;america/indiana/vevay ~~~~~~~~~~ z_122.
++38678,-087000;america/indiana/vincennes ~~~~~~ z_123.
++41050,-086600;america/indiana/winamac ~~~~~~~~ z_124.
++68361,-133730;america/inuvik ~~~~~~~~~~~~~~~~~ z_125.
++63750,-068517;america/iqaluit ~~~~~~~~~~~~~~~~ z_126.
++17971,-076793;america/jamaica ~~~~~~~~~~~~~~~~ -05:00
++58300,-134416;america/juneau ~~~~~~~~~~~~~~~~~ z_128.
++38256,-085751;america/kentucky/louisville ~~~~ z_129.
++36800,-084500;america/kentucky/monticello ~~~~ z_130.
++12144,-068266;america/kralendijk ~~~~~~~~~~~~~ -04:00
+-16500,-068150;america/la paz ~~~~~~~~~~~~~~~~~ -04:00
+-12060,-077038;america/lima ~~~~~~~~~~~~~~~~~~~ -05:00
++34050,-118250;america/los angeles ~~~~~~~~~~~~ z_134.
++18053,-063043;america/lower princes quarter ~~ -04:00
+-09666,-035735;america/maceio ~~~~~~~~~~~~~~~~~ -03:00
++12136,-086251;america/managua ~~~~~~~~~~~~~~~~ -06:00
+-03100,-060017;america/manaus ~~~~~~~~~~~~~~~~~ -04:00
++18120,-063025;america/marigot ~~~~~~~~~~~~~~~~ -04:00
++14600,-061000;america/martinique ~~~~~~~~~~~~~ -04:00
++25880,-097504;america/matamoros ~~~~~~~~~~~~~~ z_141.
++23217,-106417;america/mazatlan ~~~~~~~~~~~~~~~ -07:00
++47100,-056379;america/miquelon ~~~~~~~~~~~~~~~ z_143.
++45108,-087614;america/menominee ~~~~~~~~~~~~~~ z_144.
++20970,-089620;america/merida ~~~~~~~~~~~~~~~~~ -06:00
++55128,-131500;america/metlakatla ~~~~~~~~~~~~~ z_146.
++19433,-099133;america/mexico city ~~~~~~~~~~~~ -06:00
++46133,-064771;america/moncton ~~~~~~~~~~~~~~~~ z_148.
++25667,-100300;america/monterrey ~~~~~~~~~~~~~~ -06:00
+-34884,-056182;america/montevideo ~~~~~~~~~~~~~ -03:00
++16750,-062200;america/montserrat ~~~~~~~~~~~~~ -04:00
++25078,-077339;america/nassau ~~~~~~~~~~~~~~~~~ z_193.
++40752,-073975;america/new york ~~~~~~~~~~~~~~~ z_153.
++49000,-088300;america/nipigon ~~~~~~~~~~~~~~~~ z_193.
++64504,-165399;america/nome ~~~~~~~~~~~~~~~~~~~ z_155.
+-03855,-032425;america/fernando de noronha ~~~~ -02:00
++47268,-101777;america/north dakota/beulah ~~~~ z_157.
++47116,-101300;america/north dakota/center ~~~~ z_158.
++46843,-101412;america/north dakota/new salem ~ z_159.
++29564,-104416;america/ojinaga ~~~~~~~~~~~~~~~~ z_160.
++09080,-079680;america/panama ~~~~~~~~~~~~~~~~~ -05:00
++66148,-065699;america/pangnirtung ~~~~~~~~~~~~ z_126.
++05852,-055204;america/paramaribo ~~~~~~~~~~~~~ -03:00
++33448,-112074;america/phoenix ~~~~~~~~~~~~~~~~ -07:00
++18533,-072333;america/port au prince ~~~~~~~~~ z_165.
++10667,-061517;america/port of spain ~~~~~~~~~~ -04:00
+-08762,-063904;america/porto velho ~~~~~~~~~~~~ -04:00
++18222,-066430;america/puerto rico ~~~~~~~~~~~~ -04:00
+-53610,-072140;america/punta arenas ~~~~~~~~~~~ -03:00
++48717,-094567;america/rainy river ~~~~~~~~~~~~ z_197.
++62810,-092099;america/rankin inlet ~~~~~~~~~~~ z_171.
+-08050,-034900;america/recife ~~~~~~~~~~~~~~~~~ -03:00
++50455,-104607;america/regina ~~~~~~~~~~~~~~~~~ -06:00
++74696,-094829;america/resolute ~~~~~~~~~~~~~~~ z_174.
+-09975,-067810;america/rio branco ~~~~~~~~~~~~~ -05:00
+-02430,-054720;america/santarem ~~~~~~~~~~~~~~~ -03:00
+-33450,-070667;america/santiago ~~~~~~~~~~~~~~~ z_177.
++18467,-069950;america/santo domingo ~~~~~~~~~~ -04:00
+-23550,-046633;america/sao paulo ~~~~~~~~~~~~~~ -03:00
++70485,-021967;america/scoresbysund ~~~~~~~~~~~ z_180.
++57053,-135335;america/sitka ~~~~~~~~~~~~~~~~~~ z_181.
++17900,-062833;america/saint barthelemy ~~~~~~~ -04:00
++47482,-052797;america/saint johns ~~~~~~~~~~~~ z_183.
++17310,-062720;america/saint kitts ~~~~~~~~~~~~ -04:00
++13883,-060967;america/saint lucia ~~~~~~~~~~~~ -04:00
++18333,-064917;america/saint thomas ~~~~~~~~~~~ -04:00
++13250,-061200;america/saint vincent ~~~~~~~~~~ -04:00
++50288,-107794;america/swift current ~~~~~~~~~~ -06:00
++14100,-087217;america/tegucigalpa ~~~~~~~~~~~~ -06:00
++77467,-069231;america/thule ~~~~~~~~~~~~~~~~~~ z_190.
++48441,-089328;america/thunder bay ~~~~~~~~~~~~ z_193.
++32525,-117033;america/tijuana ~~~~~~~~~~~~~~~~ z_192.
++43742,-079373;america/toronto ~~~~~~~~~~~~~~~~ z_193.
++18423,-064618;america/tortola ~~~~~~~~~~~~~~~~ -04:00
++49261,-123114;america/vancouver ~~~~~~~~~~~~~~ z_195.
++60724,-135056;america/whitehorse ~~~~~~~~~~~~~ -07:00
++49884,-097146;america/winnipeg ~~~~~~~~~~~~~~~ z_197.
++59547,-139727;america/yakutat ~~~~~~~~~~~~~~~~ z_198.
++62454,-114370;america/yellowknife ~~~~~~~~~~~~ z_199.
+-66283,+110527;antarctica/casey station ~~~~~~~ +11:00
+-68577,+077968;antarctica/davis station ~~~~~~~ +07:00
+-66663,+140002;antarctica/dumont d'urville ~~~~ +10:00
+-54500,+158936;antarctica/macquarie island ~~~~ z_203.
+-67603,+062874;antarctica/mawson station ~~~~~~ +05:00
+-77846,+166668;antarctica/mcmurdo station ~~~~~ z_390.
+-64774,-064053;antarctica/palmer station ~~~~~~ -03:00
+-67568,-068126;antarctica/rothera station ~~~~~ -03:00
+-69004,+039582;antarctica/syowa station ~~~~~~~ +03:00
+-72011,+002535;antarctica/troll station ~~~~~~~ z_209.
+-78464,+106838;antarctica/vostok station ~~~~~~ +06:00
++78220,+015650;arctic/longyearbyen ~~~~~~~~~~~~ z_323.
++12800,+045033;asia/aden ~~~~~~~~~~~~~~~~~~~~~~ +03:00
++43278,+076896;asia/almaty ~~~~~~~~~~~~~~~~~~~~ +06:00
++31950,+035933;asia/amman ~~~~~~~~~~~~~~~~~~~~~ +03:00
++64733,+177517;asia/anadyr ~~~~~~~~~~~~~~~~~~~~ +12:00
++43653,+051158;asia/aqtau ~~~~~~~~~~~~~~~~~~~~~ +05:00
++50284,+057230;asia/aqtobe ~~~~~~~~~~~~~~~~~~~~ +05:00
++37938,+058380;asia/ashgabat ~~~~~~~~~~~~~~~~~~ +05:00
++47117,+051883;asia/atyrau ~~~~~~~~~~~~~~~~~~~~ +05:00
++33333,+044383;asia/baghdad ~~~~~~~~~~~~~~~~~~~ +03:00
++26028,+050550;asia/bahrain ~~~~~~~~~~~~~~~~~~~ +03:00
++40395,+049882;asia/baku ~~~~~~~~~~~~~~~~~~~~~~ +04:00
++13753,+100494;asia/bangkok ~~~~~~~~~~~~~~~~~~~ +07:00
++53333,+083750;asia/barnaul ~~~~~~~~~~~~~~~~~~~ +07:00
++33887,+035513;asia/beirut ~~~~~~~~~~~~~~~~~~~~ z_225.
++42875,+074612;asia/bishkek ~~~~~~~~~~~~~~~~~~~ +06:00
++04500,+114667;asia/brunei ~~~~~~~~~~~~~~~~~~~~ +08:00
++52050,+113467;asia/chita ~~~~~~~~~~~~~~~~~~~~~ +09:00
++48078,+114535;asia/choibalsan ~~~~~~~~~~~~~~~~ +08:00
++06934,+079843;asia/colombo ~~~~~~~~~~~~~~~~~~~ +05:30
++33513,+036292;asia/damascus ~~~~~~~~~~~~~~~~~~ +03:00
++23764,+090389;asia/dhaka ~~~~~~~~~~~~~~~~~~~~~ +06:00
+-08554,+125578;asia/dili ~~~~~~~~~~~~~~~~~~~~~~ +09:00
++25263,+055297;asia/dubai ~~~~~~~~~~~~~~~~~~~~~ +04:00
++38537,+068780;asia/dushanbe ~~~~~~~~~~~~~~~~~~ +05:00
++35125,+033942;asia/famagusta ~~~~~~~~~~~~~~~~~ z_236.
++31517,+034450;asia/gaza ~~~~~~~~~~~~~~~~~~~~~~ z_237.
++31533,+035095;asia/hebron ~~~~~~~~~~~~~~~~~~~~ z_238.
++10800,+106650;asia/ho chi minh ~~~~~~~~~~~~~~~ +07:00
++22300,+114200;asia/hong kong ~~~~~~~~~~~~~~~~~ +08:00
++48004,+091641;asia/khovd ~~~~~~~~~~~~~~~~~~~~~ +07:00
++52283,+104283;asia/irkutsk ~~~~~~~~~~~~~~~~~~~ +08:00
+-06200,+106817;asia/jakarta ~~~~~~~~~~~~~~~~~~~ +07:00
+-02533,+140717;asia/jayapura ~~~~~~~~~~~~~~~~~~ +09:00
++31783,+035217;asia/jerusalem ~~~~~~~~~~~~~~~~~ z_245.
++34525,+069178;asia/kabul ~~~~~~~~~~~~~~~~~~~~~ +04:30
++56203,+162484;asia/kamchatka ~~~~~~~~~~~~~~~~~ +12:00
++24860,+067010;asia/karachi ~~~~~~~~~~~~~~~~~~~ +05:00
++27717,+085324;asia/kathmandu ~~~~~~~~~~~~~~~~~ +05:45
++63000,+137400;asia/khandyga ~~~~~~~~~~~~~~~~~~ +09:00
++22573,+088364;asia/kolkata ~~~~~~~~~~~~~~~~~~~ +05:30
++56009,+092872;asia/krasnoyarsk ~~~~~~~~~~~~~~~ +07:00
++03148,+101695;asia/kuala lumpur ~~~~~~~~~~~~~~ +08:00
++01561,+110342;asia/kuching ~~~~~~~~~~~~~~~~~~~ +08:00
++29370,+047978;asia/kuwait ~~~~~~~~~~~~~~~~~~~~ +03:00
++22167,+113550;asia/macau ~~~~~~~~~~~~~~~~~~~~~ +08:00
++59567,+150800;asia/magadan ~~~~~~~~~~~~~~~~~~~ +11:00
+-05133,+119414;asia/makassar ~~~~~~~~~~~~~~~~~~ +08:00
++14596,+120977;asia/manila ~~~~~~~~~~~~~~~~~~~~ +08:00
++23589,+058408;asia/muscat ~~~~~~~~~~~~~~~~~~~~ +04:00
++35173,+033365;asia/nicosia ~~~~~~~~~~~~~~~~~~~ z_261.
++53767,+087133;asia/novokuznetsk ~~~~~~~~~~~~~~ +07:00
++55050,+082950;asia/novosibirsk ~~~~~~~~~~~~~~~ +07:00
++54983,+073367;asia/omsk ~~~~~~~~~~~~~~~~~~~~~~ +06:00
++51223,+051373;asia/oral ~~~~~~~~~~~~~~~~~~~~~~ +05:00
++11569,+104921;asia/phnom penh ~~~~~~~~~~~~~~~~ +07:00
+-00021,+109341;asia/pontianak ~~~~~~~~~~~~~~~~~ +07:00
++39019,+125738;asia/pyongyang ~~~~~~~~~~~~~~~~~ +09:00
++25500,+051250;asia/qatar ~~~~~~~~~~~~~~~~~~~~~ +03:00
++53200,+063620;asia/qostanay ~~~~~~~~~~~~~~~~~~ +06:00
++44850,+065517;asia/qyzylorda ~~~~~~~~~~~~~~~~~ +05:00
++24633,+046717;asia/riyadh ~~~~~~~~~~~~~~~~~~~~ +03:00
++39700,+066983;asia/samarkand ~~~~~~~~~~~~~~~~~ +05:00
++51000,+143000;asia/sakhalin ~~~~~~~~~~~~~~~~~~ +11:00
++37560,+126990;asia/seoul ~~~~~~~~~~~~~~~~~~~~~ +09:00
++31229,+121475;asia/shanghai ~~~~~~~~~~~~~~~~~~ +08:00
++01283,+103833;asia/singapore ~~~~~~~~~~~~~~~~~ +08:00
++68000,+149000;asia/srednekolymsk ~~~~~~~~~~~~~ +11:00
++25067,+121517;asia/taipei ~~~~~~~~~~~~~~~~~~~~ +08:00
++41300,+069267;asia/tashkent ~~~~~~~~~~~~~~~~~~ +05:00
++41723,+044793;asia/tbilisi ~~~~~~~~~~~~~~~~~~~ +04:00
++35689,+051389;asia/tehran ~~~~~~~~~~~~~~~~~~~~ +03:30
++27472,+089636;asia/thimphu ~~~~~~~~~~~~~~~~~~~ +06:00
++35690,+139692;asia/tokyo ~~~~~~~~~~~~~~~~~~~~~ +09:00
++56500,+084967;asia/tomsk ~~~~~~~~~~~~~~~~~~~~~ +07:00
++47920,+106917;asia/ulaanbaatar ~~~~~~~~~~~~~~~ +08:00
++43823,+087613;asia/urumqi ~~~~~~~~~~~~~~~~~~~~ +06:00
++64583,+143250;asia/ust-nera ~~~~~~~~~~~~~~~~~~ +10:00
++17967,+102600;asia/vientiane ~~~~~~~~~~~~~~~~~ +07:00
++43133,+131900;asia/vladivostok ~~~~~~~~~~~~~~~ +10:00
++62030,+129730;asia/yakutsk ~~~~~~~~~~~~~~~~~~~ +09:00
++16795,+096160;asia/yangon ~~~~~~~~~~~~~~~~~~~~ +06:30
++56836,+060613;asia/yekaterinburg ~~~~~~~~~~~~~ +05:00
++40181,+044514;asia/yerevan ~~~~~~~~~~~~~~~~~~~ +04:00
++38800,-028517;atlantic/the azores ~~~~~~~~~~~~ z_295.
++32333,-064750;atlantic/bermuda ~~~~~~~~~~~~~~~ z_296.
++28000,-016000;atlantic/the canary islands ~~~~ z_297.
++15917,-023917;atlantic/cape verde ~~~~~~~~~~~~ -01:00
++62000,-006783;atlantic/the faroe islands ~~~~~ z_299.
++32750,-017000;atlantic/madeira ~~~~~~~~~~~~~~~ z_300.
++64147,-021940;atlantic/reykjavik ~~~~~~~~~~~~~~~~~~~~
+-54250,-036750;atlantic/south georgia island ~~ -02:00
+-15967,-005700;atlantic/saint helena ~~~~~~~~~~~~~~~~~
+-51694,-057853;atlantic/port stanley ~~~~~~~~~~ -03:00
+-34928,+138600;australia/adelaide ~~~~~~~~~~~~~ z_305.
+-27468,+153028;australia/brisbane ~~~~~~~~~~~~~ +10:00
+-31950,+141467;australia/broken hill ~~~~~~~~~~ z_307.
+-39931,+143851;australia/currie ~~~~~~~~~~~~~~~ z_311.
+-12438,+130841;australia/darwin ~~~~~~~~~~~~~~~ +09:30
+-31675,+128883;australia/eucla ~~~~~~~~~~~~~~~~ +08:45
+-42881,+147325;australia/hobart ~~~~~~~~~~~~~~~ z_311.
+-20450,+149033;australia/lindeman island ~~~~~~ +10:00
+-31554,+159085;australia/lord howe island ~~~~~ z_313.
+-37814,+144963;australia/melbourne ~~~~~~~~~~~~ z_314.
+-31952,+115859;australia/perth ~~~~~~~~~~~~~~~~ +08:00
+-33868,+151210;australia/sydney ~~~~~~~~~~~~~~~ z_316.
+-77500,-010000;etc/utc ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++52367,+004900;europe/amsterdam ~~~~~~~~~~~~~~~ z_325.
++42500,+001517;europe/andorra ~~~~~~~~~~~~~~~~~ z_319.
++46350,+048050;europe/astrakhan ~~~~~~~~~~~~~~~ +04:00
++37984,+023728;europe/athens ~~~~~~~~~~~~~~~~~~ z_321.
++44817,+020467;europe/belgrade ~~~~~~~~~~~~~~~~ z_322.
++52520,+013405;europe/berlin ~~~~~~~~~~~~~~~~~~ z_323.
++48144,+017110;europe/bratislava ~~~~~~~~~~~~~~ z_354.
++50850,+004350;europe/brussels ~~~~~~~~~~~~~~~~ z_325.
++44433,+026104;europe/bucharest ~~~~~~~~~~~~~~~ z_326.
++47493,+019051;europe/budapest ~~~~~~~~~~~~~~~~ z_327.
++47697,+008690;europe/busingen ~~~~~~~~~~~~~~~~ z_377.
++47023,+028835;europe/chisinau ~~~~~~~~~~~~~~~~ z_329.
++55676,+012568;europe/copenhagen ~~~~~~~~~~~~~~ z_323.
++53350,-006260;europe/dublin ~~~~~~~~~~~~~~~~~~ z_331.
++36132,-005352;europe/gibraltar ~~~~~~~~~~~~~~~ z_332.
++49450,-002580;europe/guernsey ~~~~~~~~~~~~~~~~ z_343.
++60171,+024938;europe/helsinki ~~~~~~~~~~~~~~~~ z_334.
++54235,-004525;europe/the isle of man ~~~~~~~~~ z_343.
++41014,+028955;europe/istanbul ~~~~~~~~~~~~~~~~ +03:00
++49190,-002110;europe/jersey ~~~~~~~~~~~~~~~~~~ z_343.
++54700,+020453;europe/kaliningrad ~~~~~~~~~~~~~ +02:00
++50450,+030523;europe/kyiv ~~~~~~~~~~~~~~~~~~~~ z_339.
++58600,+049683;europe/kirov ~~~~~~~~~~~~~~~~~~~ +03:00
++38725,-009150;europe/lisbon ~~~~~~~~~~~~~~~~~~ z_341.
++46056,+014508;europe/ljubljana ~~~~~~~~~~~~~~~ z_322.
++51507,-000128;europe/london ~~~~~~~~~~~~~~~~~~ z_343.
++49612,+006132;europe/luxembourg ~~~~~~~~~~~~~~ z_325.
++40417,-003717;europe/madrid ~~~~~~~~~~~~~~~~~~ z_345.
++35900,+014517;europe/malta ~~~~~~~~~~~~~~~~~~~ z_346.
++60100,+019933;europe/mariehamn ~~~~~~~~~~~~~~~ z_334.
++53900,+027567;europe/minsk ~~~~~~~~~~~~~~~~~~~ +03:00
++43733,+007417;europe/monaco ~~~~~~~~~~~~~~~~~~ z_352.
++55756,+037617;europe/moscow ~~~~~~~~~~~~~~~~~~ +03:00
++59914,+010752;europe/oslo ~~~~~~~~~~~~~~~~~~~~ z_323.
++48857,+002352;europe/paris ~~~~~~~~~~~~~~~~~~~ z_352.
++42441,+019263;europe/podgorica ~~~~~~~~~~~~~~~ z_322.
++50083,+014417;europe/prague ~~~~~~~~~~~~~~~~~~ z_354.
++56949,+024106;europe/riga ~~~~~~~~~~~~~~~~~~~~ z_355.
++41893,+012483;europe/rome ~~~~~~~~~~~~~~~~~~~~ z_356.
++53203,+050141;europe/samara ~~~~~~~~~~~~~~~~~~ +04:00
++43942,+012458;europe/san marino ~~~~~~~~~~~~~~ z_356.
++43867,+018417;europe/sarajevo ~~~~~~~~~~~~~~~~ z_322.
++51533,+046017;europe/saratov ~~~~~~~~~~~~~~~~~ +04:00
++44952,+034102;europe/simferopol ~~~~~~~~~~~~~~ +03:00
++42000,+021433;europe/skopje ~~~~~~~~~~~~~~~~~~ z_322.
++42700,+023330;europe/sofia ~~~~~~~~~~~~~~~~~~~ z_363.
++59329,+018069;europe/stockholm ~~~~~~~~~~~~~~~ z_323.
++59437,+024745;europe/tallinn ~~~~~~~~~~~~~~~~~ z_365.
++41329,+019818;europe/tirane ~~~~~~~~~~~~~~~~~~ z_366.
++54317,+048367;europe/ulyanovsk ~~~~~~~~~~~~~~~ +04:00
++48624,+022295;europe/uzhgorod ~~~~~~~~~~~~~~~~ z_339.
++47141,+009521;europe/vaduz ~~~~~~~~~~~~~~~~~~~ z_377.
++41902,+012453;europe/vatican city ~~~~~~~~~~~~ z_356.
++48208,+016373;europe/vienna ~~~~~~~~~~~~~~~~~~ z_371.
++54683,+025283;europe/vilnius ~~~~~~~~~~~~~~~~~ z_372.
++48709,+044515;europe/volgograd ~~~~~~~~~~~~~~~ +03:00
++52230,+021011;europe/warsaw ~~~~~~~~~~~~~~~~~~ z_374.
++45817,+015983;europe/zagreb ~~~~~~~~~~~~~~~~~~ z_322.
++47850,+035118;europe/zaporozhye ~~~~~~~~~~~~~~ z_339.
++47374,+008541;europe/zurich ~~~~~~~~~~~~~~~~~~ z_377.
+-18933,+047517;indian/antananarivo ~~~~~~~~~~~~ +03:00
+-06000,+071500;indian/the chagos islands ~~~~~~ +06:00
+-10490,+105628;indian/christmas island ~~~~~~~~ +07:00
+-12118,+096895;indian/the cocos islands ~~~~~~~ +06:30
+-12140,+044250;indian/the comoro islands ~~~~~~ +03:00
+-49250,+069167;indian/the kerguelen islands ~~~ +05:00
+-04667,+055467;indian/mahe ~~~~~~~~~~~~~~~~~~~~ +04:00
++04180,+073510;indian/the maldives ~~~~~~~~~~~~ +05:00
+-20200,+057500;indian/mauritius ~~~~~~~~~~~~~~~ +04:00
+-12843,+045138;indian/mayotte ~~~~~~~~~~~~~~~~~ +03:00
+-21114,+055533;indian/reunion island ~~~~~~~~~~ +04:00
+-13833,-171750;pacific/apia ~~~~~~~~~~~~~~~~~~~ +13:00
+-36841,+174740;pacific/auckland ~~~~~~~~~~~~~~~ z_390.
+-06244,+155384;pacific/bougainville island ~~~~ +11:00
+-44033,-176433;pacific/chatham island ~~~~~~~~~ z_392.
++07417,+151783;pacific/chuuk ~~~~~~~~~~~~~~~~~~ +10:00
+-27117,-109367;pacific/easter island ~~~~~~~~~~ z_394.
+-17667,+168417;pacific/efate ~~~~~~~~~~~~~~~~~~ +11:00
+-02800,-171600;pacific/enderbury island ~~~~~~~ +13:00
+-09365,-171215;pacific/fakaofo ~~~~~~~~~~~~~~~~ +13:00
+-18000,+179000;pacific/fiji ~~~~~~~~~~~~~~~~~~~ +12:00
+-08517,+179200;pacific/funafuti ~~~~~~~~~~~~~~~ +12:00
+-00500,-090500;pacific/the galapagos ~~~~~~~~~~ -06:00
+-23117,-134967;pacific/gambier ~~~~~~~~~~~~~~~~ -09:00
+-09617,+160183;pacific/guadalcanal ~~~~~~~~~~~~ +11:00
++13500,+144800;pacific/guam ~~~~~~~~~~~~~~~~~~~ +10:00
++21307,-157858;pacific/honolulu ~~~~~~~~~~~~~~~ -10:00
++01850,-157400;pacific/kiritimati ~~~~~~~~~~~~~ +14:00
++05317,+162983;pacific/kosrae ~~~~~~~~~~~~~~~~~ +11:00
++08717,+167733;pacific/kwajalein ~~~~~~~~~~~~~~ +12:00
++07083,+171383;pacific/majuro ~~~~~~~~~~~~~~~~~ +12:00
+-09450,-139383;pacific/marquesas ~~~~~~~~~~~~~~ -09:30
++28200,-177350;pacific/midway island ~~~~~~~~~~ -11:00
+-00533,+166917;pacific/nauru ~~~~~~~~~~~~~~~~~~ +12:00
+-19050,-169850;pacific/niue ~~~~~~~~~~~~~~~~~~~ -11:00
+-29033,+167950;pacific/norfolk island ~~~~~~~~~ z_413.
+-22276,+166458;pacific/noumea ~~~~~~~~~~~~~~~~~ +11:00
+-14279,-170701;pacific/pago pago ~~~~~~~~~~~~~~ -11:00
++07500,+134500;pacific/palau ~~~~~~~~~~~~~~~~~~ +09:00
+-25067,-130100;pacific/pitcairn island ~~~~~~~~ -08:00
++06883,+158233;pacific/pohnpei ~~~~~~~~~~~~~~~~ +11:00
+-09479,+147149;pacific/port moresby ~~~~~~~~~~~ +10:00
+-21235,-159778;pacific/rarotonga ~~~~~~~~~~~~~~ -10:00
++15183,+145750;pacific/saipan ~~~~~~~~~~~~~~~~~ +10:00
+-17667,-149417;pacific/tahiti ~~~~~~~~~~~~~~~~~ -10:00
++01333,+173000;pacific/tarawa ~~~~~~~~~~~~~~~~~ +12:00
+-21211,-175153;pacific/tongatapu ~~~~~~~~~~~~~~ +13:00
++19295,+166631;pacific/wake island ~~~~~~~~~~~~ +12:00
+-13267,-176200;pacific/wallis island ~~~~~~~~~~ +12:00
+-60000,+176000;etc/gmt-12 ~~~~~~~~~~~~~~~~~~~~~ -12:00
+-60000,+165000;etc/gmt-11 ~~~~~~~~~~~~~~~~~~~~~ -11:00
+-60000,+150000;etc/gmt-10 ~~~~~~~~~~~~~~~~~~~~~ -10:00
+-60000,+135000;etc/gmt-9 ~~~~~~~~~~~~~~~~~~~~~~ -09:00
+-60000,+120000;etc/gmt-8 ~~~~~~~~~~~~~~~~~~~~~~ -08:00
+-60000,+105000;etc/gmt-7 ~~~~~~~~~~~~~~~~~~~~~~ -07:00
+-60000,+090000;etc/gmt-6 ~~~~~~~~~~~~~~~~~~~~~~ -06:00
+-60000,+075000;etc/gmt-5 ~~~~~~~~~~~~~~~~~~~~~~ -05:00
+-60000,+060000;etc/gmt-4 ~~~~~~~~~~~~~~~~~~~~~~ -04:00
+-60000,+045000;etc/gmt-3 ~~~~~~~~~~~~~~~~~~~~~~ -03:00
+-60000,+030000;etc/gmt-2 ~~~~~~~~~~~~~~~~~~~~~~ -02:00
+-60000,+015000;etc/gmt-1 ~~~~~~~~~~~~~~~~~~~~~~ -01:00
+-60000,+000000;etc/gmt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-60000,-015000;etc/gmt+1 ~~~~~~~~~~~~~~~~~~~~~~ +01:00
+-60000,-030000;etc/gmt+2 ~~~~~~~~~~~~~~~~~~~~~~ +02:00
+-57000,-045000;etc/gmt+3 ~~~~~~~~~~~~~~~~~~~~~~ +03:00
+-60000,-060000;etc/gmt+4 ~~~~~~~~~~~~~~~~~~~~~~ +04:00
+-60000,-075000;etc/gmt+5 ~~~~~~~~~~~~~~~~~~~~~~ +05:00
+-60000,-090000;etc/gmt+6 ~~~~~~~~~~~~~~~~~~~~~~ +06:00
+-60000,-105000;etc/gmt+7 ~~~~~~~~~~~~~~~~~~~~~~ +07:00
+-60000,-120000;etc/gmt+8 ~~~~~~~~~~~~~~~~~~~~~~ +08:00
+-60000,-135000;etc/gmt+9 ~~~~~~~~~~~~~~~~~~~~~~ +09:00
+-60000,-150000;etc/gmt+10 ~~~~~~~~~~~~~~~~~~~~~ +10:00
+-60000,-165000;etc/gmt+11 ~~~~~~~~~~~~~~~~~~~~~ +11:00
+-60000,-176000;etc/gmt+12 ~~~~~~~~~~~~~~~~~~~~~ +12:00
++40786,-119207;etc/black rock city ~~~~~~~~~~~~ z_134.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Everything below line (#452) should NEVER be directly 
+indexed.  This means that all of this acts as comments
+for the file.  So the leading numbers are the latitude
+of a representative point in the time zone.  Generally
+it is the city that the time zone is named for.   Zone
+location is encoded as:                               
+    <+|-><latitude>,<+|-><longitude>;                 
+Numbers are floating point with the decimal ommitted  
+and carried out to three digits of precision.  Leading
+zeroes are required.  As an example, the numbers:     
+    +33533,-007583;                                   
+correspond to:                                        
+    latitude  = 33.533                                
+    longitude = -7.583                                
+These coordinates are provided in order to validate   
+the timezone finding algorithm on different platforms.
+                                                      
+The next block is the name of the timezone.  This is  
+in ITC format but with spaces in place of underscores 
+and all names in lowercase.  A tilde is the delimiter 
+for the string.                                       
+All region data is from the 2020a version of the time 
+zone database.  All time zone offsets were determined 
+in 2023. Later changes are not reflected in the data. 
+                                                      
+variation 01:    asia/khandyga may now be vladivostok?
+variation 02:   asia/srednekolymsk may now be magadan?
+variation 03:        asia/ust-nera may now be magadan?

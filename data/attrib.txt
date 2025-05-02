@@ -1,0 +1,1062 @@
+It's about time...
+
+"Time is not what you think it is.  People assume that time is a strict progression of cause to effect, but actually
+ from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly wobbly time-y wimey... stuff."
+
+And that's the problem.  Any clock will tell you what time it is from a strictly Newtonian perspective.  But... time 
+and space are intimately twisted about.  Events can occasionally precede their causes and the past can be edited. In
+a sense, the future and past don't exist, yet we live as though they do.  The terms "elsewhere" and "elsewhen" take
+on different meanings according to our lives, our paths, and even our moods.  There are people in your life whom you
+may have just met and yet know them as though you've known them all their lives.  You remember events that you could
+not possibly have attended with perfect clarity as though they just happened.  People who have long passed or who are
+yet to be are still with you in every moment.
+
+There's nothing wrong with your mind.  That's just how time is.  And this clock will help you make sense of it.
+
+First, please note that it's impossible to keep accurate time with this device.  Look to your normal clock for that.
+Not only is this device inherently (and often shockingly) inaccurate from a linear time perspective, but even the
+interval at which it updates itself is more-or-less random.  And it will sometimes lie to you.
+
+This device knows many things but may only choose to tell you a few of them.  It understands and tracks... 
+
+- the positions and motions of the sun and moon and planets and stars
+- the workings of many different calendars including...
+    - Gregorian         - Hebrew            - Chinese           - Martian
+    - Indian National   - Arabic Standard   - Japanese          - Zodiac
+    - Coptic            - Mesoamerican      - Julian
+
+- It may decide to cast an I-Ching reading, draw a card from a divination deck, or shake a magic 8-ball, or throw runes
+- It may give you positional references to any one of many thousands of different points
+- Or temporal references to many thousands of different past or future events
+- Its database contains many many thousands of holidays and important times
+- It may give you instructions or give you a quest to go on
+- It also knows quite a lot of book and movie quotes and song lyrics
+
+------------------------------------------------------------------------------------------------------------------------
+
+ALL content of the files in this project is copyright Jim Cavera, 2009-present, unless otherwise noted below.   Any
+derivative work based on this must include this unmodified attribution file.  This includes any work that makes use
+of code, data, image, or resource files; in whole or in part.  All rights reserved, except as otherwise noted.
+
+"...today I consider myself the luckiest man on the face of this earth."  - Lou Gehrig
+
+General thanks and credits:
+
+**** Amy Eichstead for absolutely everything, ever, for all of space and time ****
+
+Jessica Buenrostro and Sondra Carr for their help with the original (2009) project (and everything else)
+Heather Dessel for a ton of database entries and a healthy dose of inspiration, love, and humor
+Fabiola Bergi for all the right nudges at all the right times, and a lot of love and patiences
+Paul Eggert for tirelessly and thanklessly maintining the timezone databases
+Susan Kaman and Barbara Elliot, for their past (and forever onward) understanding and support
+Jessica Armstrong and Kali Readwin for loving friendship
+Chantell Osejo for support, love, believing, and not an insignificant bit of coding help
+J-Anne Carlsen for energy, inspiration and a good bit of silliness -- you get my noodle
+Megan Allen for assistance with the astrological data
+Tasha Rose for her tenacity, strength, and hope
+Max Fractal (nee Kim Boekbinder), Arden Leigh, and Miss Monique (Alesia Arkusha) for the music and lyrics and magic
+
+Most of the locations in the database come from Wikipedia, the list of UNESCO world heritage sites, and Atlas Obscura
+
+Database entry suggestions from ePlaya (obviously these are screen names, and also from around 2009):
+
+    gyre                Finnegan            Oldguy              Simon of the Playa
+    pinemom             Playa Tom           Da Mule             theCryptofishist
+    SilverOrange        Token               AntiM               2 cents
+    ChillyFire          beaublumberg        the fire elf        theshaman
+
+Attributions and credits for image files (made by me, unless specified):
+
+    brc     Black Rock City background image
+    brd     Black Rock Desert at night (photo by Phil Mosby https://phil.camera/)
+    car     Tarot card background image (source via Gemini image generator)
+    chn     Chinese calendar (https://www.confuciusinstitute.ac.uk/)
+    cop     Coptic calendar (Coptic cross via wikimedia)
+    cyb     Cyborg pride (inspired by Dresden Codak)
+    d20     d20 for gaming references
+
+    gfb     Bill Cypher journal page from Gravity Falls
+    heb     Hebrew calendar (Volvelle: Offenbach, Germany, 1722, image via Library of Congress)
+    hrg     Hourglass background image (source via Gemini image generator)
+    ich     Hexagrams from the I Ching (Nuclear Hexagram Chart by Qian Chengzhi, Qing dynasty)
+    ind     Indian national calendar (via wikimedia)
+    isl     Islamic calendar (via cleanpng.com)
+    key     Background related to the Key story (source via Adobe Firefly image generator)
+
+    kim     The personal glyph for Max Fractal (nee Kim Boekbinder)
+    lnf     Clock of the Long Now (via the Long Now Foundation)
+    m8b     Magic 8-ball (tm) (source via Craion image generator)
+    map     Stylized world map
+    mar     From the Marathon series of games (via Marathon source code)
+    max     One of the Delphic maxims (image via Wikimedia)
+    mrs     Martian calendar (NASA image)
+
+    mun     Moon phases by Roberto Atzeni (via vecteezy.com)
+    myn     Mayan calendar (from wikimedia)
+    one     One ring text from the Lord of the Rings
+    p##     Creative Commons "10 principles" images courtesy of James Wickham and adapted by Kelly Craig
+    pbd     The famous "pale blue dot" photo from NASA
+    qst     You are now on a quest (image by William Brown and Sondra Carr)
+    run     casting runes (source via Adobe Firefly image generator)
+
+    scp     The SCP Foundation (image from https://scp-wiki.wikidot.com/)
+    tfe     The fire elf (source via Adobe Firefly image generator)
+    wnv     Welcome to Night Vale (image from https://wallpapercave.com/)
+    zil     Large-scale structure of the universe (NASA image)
+    zod     Constellation chart for the zodiac related stuff (composite of multiple NASA images)
+
+Some of the algorithm sources (the ones not written by me):
+
+    Time zone data:    https://github.com/evansiroky/timezone-boundary-builder/releases
+    Time zone names:   https://www.iana.org/time-zones
+    Day of the week:   https://cs.uwaterloo.ca/~alopez-o/math-faq/node73.html
+    Julian dates:      Wirth, "Case Study - Julian Dates"
+    Solar position:    https://gml.noaa.gov/grad/solcalc/calcdetails.html
+    Lunar phase:       http://www.voidware.com/moon_phase.htm
+    Astronomy:         Jean Meeus, "Astronomical Algorithms"
+    Astronomy data:    astropixels.com and in-the-sky.org
+    Kuwati algorithm:  https://www.al-habib.info/islamic-calendar/hijricalendartext.htm
+    Hindu holidays:    https://www.drikpanchang.com/calendars/hindu/hinducalendar.html
+    Martian time:      https://en.wikipedia.org/wiki/Timekeeping_on_Mars
+    Rhumb lines:       https://github.com/SpyrosMouselinos/distancly
+    Ephemeris data:    https://github.com/brandon-rhodes/pyephem
+
+Attributions and credits (and general notes and sometimes translations) for database items and other references, in 
+no particular order.  And please note that with a lot of the database entries, some artistic license and/or editing 
+has taken place in order to change the flow, or to fit the constraints of the code.  It's been said that some artists 
+wear their psychoses on their sleeves.  If you get the reasoning behind most of these references, you'll certainly 
+have a good idea of mine.
+
+0001  Jamiroquai, Virtual Insanity; lyrics by Simon Katz, Stuart Zender, Toby Smith, Derrick Mckenzie, Jason Kay, et al
+0002  The Cure, Friday I'm in Love; lyrics by Boris Williams, Porl Thompson, Perry Bamonte, Robert James Smith, et al
+0003  Cat Stevens, Another Saturday Night; lyrics by Sam Cooke
+0004  Counting Crows, A Long December; lyrics by Adam Fredric Duritz, Ben G Mize, Charles Thomas Gillingham, et al
+0005  The Eagles, Take it Easy; lyrics by Jackson Browne and Glenn Frey
+0006  The Bangles, Manic Monday; lyrics by Prince
+0007  Toto, Africa; lyrics by David Paich, Jeffrey Porcaro
+0008  Murray Head, One Night in Bangkok; lyrics by Tim Rice, Benny Goran, Bror Andersson, Bjoern Ulvaeus
+0009  11 Acorn Lane, Time for Tea
+0010  Night Ranger, Four in the Morning; lyrics by Jack Blades
+0011  Richard Marx, Hold on to the Night
+0012  Phil Collins, In the Air Tonight
+0013  Switchfoot, We are One Tonight; lyrics by Jonathan Mark Foreman, Timothy David Foreman
+0014  Bob Seger, Night Moves
+0015  Cake, The Distance; lyrics by Gregory Browne
+0016  The Moody Blues, Nights in White Satin; lyrics by Hayward David Justin
+0017  Al Stewart, Year of the Cat; lyrics by Alistair Ian Stewart, Peter John Wood
+0018  Alan Jackson, Summertime Blues; lyrics by Eddie Cochran, Jerry Neal Capehart
+0019  Beyonce, Summertime; lyrics by Angela Beyince, Beyonce Knowles, Mario Winans, Mario Mendell Winans, et al
+0020  Simple Minds, Someone Somewhere in Summertime; lyrics by Derek Forbes, Charles Burchill
+0021  Ella Fitzgerald, Summertime and the Living is Easy; lyrics by Ira Gershwin, George Gershwin, Dubose Heyward
+0022  Michael Franti, Summertime is in Our Hands; lyrics by Michael Franti, Stephen David McGregor, Jason Patrick Bowman
+0023  The Bangles, Hazy Shade of Winter; lyrics by Paul Simon
+0024  The Byrds, Turn Turn Turn; lyrics by Peter Seeger (originally by King Solomon, and probably in Aramaic)
+0025  Jesus Jones, Right Here Right Now; lyrics by Michael Edwards
+0026  Red Hot Chili Peppers, Can't Stop; lyrics by Chad Smith, John Frusciante, Anthony Kiedis, Michael Peter Balzary
+0027  AC/DC, For Those About to Rock; lyrics by Angus Mckinnon Young, Brian Johnson
+0028  from Babylon 5; written by J Michael Strazinsky
+0029  J.R.R. Tolkien, The Hobbit and The Lord of the Rings trilogy
+0030  from Blade Runner, written by Ridley Scott and David Peoples and improved on by Rutger Hauer
+0031  Kansas, Dust in the Wind; lyrics by Kerry Livgren
+0032  Louis Armstrong, What a Wonderful World; lyrics by Robert Thiele (as George Douglas) and George David Weiss
+0033  various bits from the Rocky Horror Picture Show
+0034  Green Day, Time of Your Life; lyrics by Michael Pritchard, Billie Joe Armstrong, Frank Wright
+0035  Enya, Anywhere Is; lyrics by Nicky Ryan, Roma Shane Ryan, Enya
+0036  Clean Bandit and Jess Glynne, Rather Be; lyrics by James John Napier, Stephen Fasano, Jack Robert Patterson, et al
+0037  Pharrell Williams, Freedom; lyrics by Keir Gist, Pharrell Williams, Anthony Shawn Criss, Vincent E. Brown
+0038  Stevie Wonder, Higher Ground
+0039  Fun, Carry On; lyrics by Nathaniel Joseph Ruess, Jack Antonoff, Jeff Bhasker, Andrew Dost
+0040  Saul Williams, Talk to Strangers; lyrics by Saul Williams, Serj Tankian
+0041  Axwell and Ingrosso, Sun is Shining; lyrics by Axel Christofer Hedfors, Sebastian Carmine Ingrosso, et al
+0042  Van Halen, Right Now; lyrics by Alex Van Halen, Edward Van Halen, Sammy Hagar, Michael Anthony
+0043  Five for Fighting, One Hundred Years; lyrics by John Ondrasik
+0044  Pharrell Williams, Happy
+0045  Dirty Vegas, Days Go By; lyrics by Steve Smith, Victoria Horn
+0046  Angels and Airwaves, Everything's Magic; lyrics by Thomas Delonge
+0047  Chicago, Does Anybody Really Know What Time it Is?; lyrics by Robert William Lamm
+0048  Survivor, Eye of the Tiger; lyrics by James Peterik, Frank Michael Sullivan
+0049  Sheryl Crow, Everyday is a Winding Road; lyrics by Sheryl Crow, Jeff Trott, Brian MacLeod
+0050  Foo Fighters, Everlong; lyrics by David Grohl
+
+0051  Caravan Palace, Miracle
+0052  The Youngbloods, Get Together; lyrics by Chet Powers
+0053  Axwell, Leave the World Behind You; lyrics by Axel Christofer Hedfors, Sebastian Carmine Ingrosso, et al
+0054  Martin Garrix, High on Life; lyrics by Martijn Garritsen, Kristoffer Fogelmark, Jan Patrik
+0055  Pink Floyd, Time; lyrics by David Jon Gilmour, Nicholas Berkeley Mason, George Roger Waters, Richard Wright
+0056  Jack Johnson, Go On
+0057  from the Shawshank Redemption, spoken by Morgan Freeman and written by Steven King
+0058  Cracker, Get Off This; lyrics by David Lowery, Johnny Hickman, Davey Faragher
+0059  Peter Gabriel, Solsbury Hill
+0060  Dee-Lite, Groove is in the Heart; lyrics by Herbie Hancock, Towa Tei, Dmitry Brill, Kier Kirby, Kamal Ibn, et al
+0061  Spanish: Eat, drink, and be merry for tomorrow we die.
+0062  Spanish: What's done is done.
+0063  Spanish: Put on a brave face.
+0064  Latin: from eternity, from time immemorial
+0065  Latin: from here onward
+0066  Latin: from the cradle, from infancy
+0067  Latin: from the cradle to the grave
+0068  Latin: from the beginning
+0069  Latin: again and again in the same way, forever
+0070  Latin: always toward better things
+0071  Latin: many happy returns
+0072  Latin: here we are
+0073  Italian: use extreme means to fight extreme evil
+0074  Latin: the die has been cast
+0075  Latin: in the year of our lord
+0076  Latin: in the year of the world
+0077  Latin: god favors our work
+0078  Latin: in the year of horrors
+0079  Latin: in the year of wonders
+0080  Latin: before the war
+0081  Latin: before the day of anger
+0082  Latin: before the letter, before the common use
+0083  Latin: before a meal
+0084  French: after a storm, good weather follows
+0085  Latin: life is short and art is long (to learn)
+0086  Latin: the stars incline us but they do not bind us
+0087  Latin: may we dare
+0088  Old Scots: for the sake of old times (in days gone by)
+0089  Latin: other times, other customs (that's just how it was)
+0090  French: if you see a chance, take it
+0091  Spanish: stay alert or circumstances will overwhelm you
+0092  Latin: holding the infinite
+0093  Latin: seize the day
+0094  Latin: seize the night
+0095  Italian: faster than cooking asparagus (wow, that happened quick!)
+0096  Italian: no matter where you go or turn, you will always end up at home
+0097  Latin: in a normal time
+0098  Latin: in a normal place
+0099  Latin: no herb grows in the gardens against the power of death (there's nothing to be done about some things)
+0100  Latin: the future is ours
+
+0101  Latin: light, ever increasing (ever onward to the light)
+0102  Latin: it grows as it goes (knowledge is ever increasing)
+0103  Latin: at a later time
+0104  Latin: their story is our story (things remain the same)
+0105  Latin: from the beginning
+0106  Latin: down the rabbit hole
+0107  Latin: like i said before...
+0108  Mary Oliver, The Summer Day and other poems
+0109  Latin: the fates lead the willing and drag the unwilling
+0110  Latin: it's sweet, on occasion, to play the fool (relax)
+0111  Spanish: we are in our adolescence
+0112  Latin: and elsewhere...
+0113  Latin: before the event...
+0114  Latin: ever upward
+0115  Cast of Rent, Seasons of Love; lyrics by Jonathan Larson
+0116  Latin: source and origin
+0117  Spanish: well it was nice while it lasted
+0118  Latin: the sprit of the place
+0119  Latin: we are all one people (family)
+0120  Spanish: wipe the slate clean
+0121  Andrew Marvell, To His Coy Mistress
+0122  Fatboy Slim album title
+0123  Lifehouse, Hanging by a Moment; lyrics by Jason Wade
+0124  They Might be Giants, songs from Flood; lyrics by John Flansburgh, John Linnell
+0125  Angels and Airwaves, The Adventure; lyrics by Thomas Delonge
+0126  Latin: here and now
+0127  Latin: here and everywhere
+0128  Latin: here be dragons
+0129  Latin: don't count the hours unless they're tranquil
+0130  The Chemical Brothers, Let Forever Be; lyrics by Noel Gallagher, Tom Rowlands, Ed Simons
+0131  Spanish: today it is you, tomorrow it can be me
+0132  Joey Comeau and Emily Horne, A Softer World (webcomic)
+0133  Lewis Caroll, Alice in Wonderland and Alice's Adventures Through the Looking Glass
+0134  Latin: take me with you (referring to an object)
+0135  with no apologies whatsoever to Carly Rae Jepsen
+0136  Led Zeppelin, Kashmir; lyrics by John Bonham, Robert Plant, Jimmy Page
+0137  Fall Out Boy, Immortals; lyrics by Patrick Stump, Pete Wentz, Joe Trohman, Andy Hurley
+0138  Creedence Clearwater Revival, Bad Moon Rising; lyrics by John Fogerty
+0139  Max Fractal (nee Kim Boekbinder), The Impossible Girl
+0140  Max Fractal (nee Kim Boekbinder), Planet 216
+0141  Max Fractal (nee Kim Boekbinder), Who Are You? Who Am I?
+0142  The Killers, All These Things That I've Done; lyrics by Ronnie Vannucci, Dave Keuning, Brandon Flowers, et al
+0143  Foreigner, Feels Like the First Time; lyrics by Michael Jones
+0144  Forest for the Trees, Dream; lyrics by Baj Jaspr, Kevin Krakower, Carl Stephenson
+0145  Billie Holiday, I'll Be Seeing You; lyrics by Sammy Fain, Irving Kahal
+0146  Vera Lynn, We'll Meet Again
+0147  Alicia Lemke, Trip the Light; lyrics by Garry Schyman
+0148  The Rolling Stones, I'm Free; lyrics by Mick Jagger, Keith Richards
+0149  Italian: the best is yet to come
+0150  Italian: the best way to predict the future is to create it
+
+0151  Live, All Over You; lyrics by C Taylor, P Dahlheimer, C Gracey, E Kowalczyk
+0152  Jim Croce, Time in a Bottle
+0153  Cat Stevens, If You Want to Sing Out Sing Out
+0154  R.E.M., Stand; lyrics by Bill Berry, Peter Buck, Michael Mills, Michael Stipe
+0155  Latin: at that time
+0156  Latin: in possibility, having a potential to exist
+0157  Latin: in the current month...
+0158  Latin: steadfast in the midst of change
+0159  from Doctor Who
+0160  The Zombies, Time of the Season; lyrics by R. Argent
+0161  Foo Fighters, Times Like These; lyrics by Taylor Hawkins, Nate Mendel, David Grohl, Chris Shiflett
+0162  Max Fractal (nee Kim Boekbinder), The Jewel at the Heart of Everything
+0163  French: truth is more valuable if it takes you a few years to find it
+0164  French: life is too short to drink bad wine
+0165  French: life is a deep sleep and love is its dream
+0166  French: time is the best teacher but unfortunately it kills its students
+0167  Tom Cochrane, Life is a Highway
+0168  Ellie Goulding, Burn; lyrics by Ellie Goulding, Gregory Kurstin, Noel Zancanella, Brent Kutzle, Ryan B Tedder
+0169  from Iain Banks' culture novels
+0170  Latin: (that which is spoken dies) that which has been written remains
+0171  Star Wars, duh.
+0172  Latin: greater things are pressing (more urgent)
+0173  Fire Inc., Tonight Is What It Means to be Young; Streets of Fire Soundtrack, lyrics by Jim Steinman
+0174  Fire Inc., Nowhere Fast; Streets of Fire Soundtrack, lyrics by Jim Steinman
+0175  French: eat well, laugh often, love lots
+0176  Polish: you have the time for that (in the middle of a storm, time for a celebration)
+0177  Italian: better late than never
+0178  Latin: a reminder of death
+0179  Latin: a reminder of life
+0180  Latin: mindful of what has been done, aware of what will be
+0181  French: better late than never
+0182  Robert Frost, various poems
+0183  Latin: death is certain, it's hour not (from William Shakespeare, Julius Caesar)
+0184  Latin: the world grows old
+0185  Mandarin: hello
+0186  Spanish: don't leave for tomorrow what you can do today
+0187  John Lennon, Imagine
+0188  from Buckaroo Banzai, spoken by Peter Weller, written by Earl Mac Rouch
+0189  Spanish: it doesn't matter how early you wake up in the morning, the sun will always rise at the same time
+0190  from Inspector Spacetime, obviously
+0191  Italian: don't wait because the time will never be just right
+0192  Italian: never regret anything that made you smile
+0193  Italian: do what you can, with what you have, where you are
+0194  Italian: all in good time
+0195  Italian: if you obey all the rules, you'll miss all the fun
+0196  Italian: not all donuts succeed with a hole (you win some, you lose some)
+0197  Italian: I can't see the time! (hurry up!)
+0198  Latin: a new order of the ages
+0199  Latin: no day will ever erase you from the memory of time (Virgil)
+0200  Latin: now is the time to drink!
+
+0201  Meatloaf, Objects in the Rearview Mirror; lyrics by Jim Steinman
+0202  The Beatles, Yesterday; lyrics by Andrew Tumi, Chris Papathanasiou, Pavos Liassi
+0203  John Denver, Country Roads; lyrics by Bill Danoff, John Denver, Taffy Nivert Danoff
+0204  Daft Punk, One More Time; lyrics by Anthony Wayne Moore, Thomas Bangalter, Guy Manuel
+0205  This is Madness, I say!  Madness!!
+0206  Latin: for the time being
+0207  Italian: that without remedy, without regard (what's done is done)
+0208  French: if you don't go foward, you go backward
+0209  French: time will tell
+0210  Spanish: no risk, no gain
+0211  Latin: what has happened, has happened
+0212  Live, We Open the Door; lyrics by Patrick Dahlheimer, Chad Gracey, Chad Taylor, Christopher Shinn, Bruce Wallace
+0213  Latin: look to the end
+0214  Fatboy Slim, The Rockafeller Skank; lyrics by John Barry, Norman Cook, John Terry
+0215  Latin: for eternity
+0216  Cowboy Bebop (r.i.p.)
+0217  Latin: once in a year one is allowed to go crazy
+0218  Latin: so goes earthly glory
+0219  Latin: the problem is solved by walking (moving)
+0220  Kay Ryan, Bad Day
+0221  Tim McGraw, Live Like You Were Dying; lyrics by Craig Michael Wiseman, James Timothy Nichols
+0222  Eavan Boland, The Moment
+0223  Paul Simon, Still Crazy After All These Years
+0224  Vanilla Ice, Ice Ice Baby; lyrics pretty much stolen from every other musician ever
+0225  MC Hammer, U Can't Touch This; lyrics by Rick James, Alonzo Miller, MC Hammer
+0226  Latin: at the end
+0227  Latin: in heroic times
+0228  Latin: times are changed and we also are changed with them
+0229  Latin: time that devours all things
+0230  Latin: time flies
+0231  Rabindranath Tagore, Poems On Time
+0232  Dead Can Dance, various songs; lyrics by Brendan Michael Perry, Lisa Germaine Gerrard
+0233  Shakira, Whenever Wherever; lyrics by Shakira Mebarak, Tim Mitchell
+0234  Maggie Smith, Good Bones
+0235  Douglas Adams, The Hitchhikers' Guide to the Galaxy series
+0236  Richard Feynman
+0237  Steve Miller Band, Fly Like and Eagle; lyrics by Steve Miller
+0238  Bob Dylan, duh.
+0239  Buzz Lightyear. Also duh. Seriously, you needed to look this one up??
+0240  Spanish: all in due (good) time
+0241  French: all's well that ends well
+0242  Italian: all's well that ends well (latin-based languages, go figure)
+0243  Latin: everywhere, where right and glory may lead
+0244  Latin: the truth enlightens
+0245  Latin: live that you may live (live a full life)
+0246  Spanish: here we go again...
+0247  Eminem, Lose Yourself; lyrics by Jeffrey Bass, Marshall Mathers, Luis Edgardo Resto
+0248  Carl Sagan, Pale Blue Dot
+0249  French: sleep on it
+0250  from Ferris Bueller's Day Off
+
+0251  Edward Sharpe and the Magnetic Zeros, Home; lyrics by Alexander Ebert, Jade Allyson Castrinos
+0252  Robbie Williams, Let Love Be Your Energy; lyrics by Robert Peter Williams, Guy Chambers
+0253  Dead Can Dance, How Fortunate the Man With None; lyrics by Brendan Michael Perry, Bertolt Brecht, John Willett
+0254  Latin: from nothing
+0255  Earth Wind and Fire, September; lyrics by Maurice White, Alta Sherral Willis, Albert Phillip McKay
+0256  Talking Heads, Once in a Lifetime
+0257  Gorillaz, 19-2000; lyrics by Damon Albarn, Jamie Hewlett (and lots of drugs were probably involved)
+0258  Latin: from here the way leads to the stars
+0259  from Futurama (probably said by Bender)
+0260  French: let's go! (also from Doctor Who)
+0261  Lenny Kravitz, Believe; lyrics by Lenny Kravitz, Henry Hirsch
+0262  Lenny Kravitz, Are You Gonna Go My Way; lyrics by Lenny Kravitz, Craig David Ross
+0263  Rush, 2112 (yep, the entire album)
+0264  John LoPorto, The Wayseer Manifesto
+0265  Joseph Fink and Jeffrey Cranor, Night Vale (podcast, books, and other media)
+0266  Caravan Palace, Lone Digger
+0267  Bob Marley, No Woman No Cry; lyrics by Vincent Ford
+0268  Percy Shelly, Ozymandias
+0269  from Gravity Falls
+0270  Latin: incrementally fiercely
+0271  Latin: the spirit of our times
+0272  with apologies to Yogi Berra
+0273  from Firefly (the show, not the insect)
+0274  William Blake, Auguries of Innocence
+0275  Mandarin: in one day, a thousand autumns (a day in which everything changes)
+0276  Mandarin: in one day, a thousand miles (a day of rapid progress)
+0277  Japanese: a once-in-a-lifetime experience
+0278  J.M. Barrie, Peter Pan
+0279  Wild Cherry, Play that Funky Music; lyrics by Robert Parissi
+0280  Parliment, Give Up the Funk; lyrics by George Clinton
+0281  Orleans, Still the One; lyrics by John and Johanna Hall
+0282  Groucho Marx
+0283  Queen, Bohemian Rhapsody; lyrics by Freddie Mercury
+0284  from South Park
+0285  Baz Luhrmann, Everybody's Free (to wear sunscreen)
+0286  Rozalla, Everybody's Free (to feel good)
+0287  Olive, You are Not Alone
+0288  Randall Munroe, XKCD; #137, dreams
+0289  Randall Munroe, XKCD; #1704, gnome Ann
+0290  Miguel de Cervantes
+0291  Randall Munroe, XKCD; #240, dream girl
+0292  Randall Munroe, XKCD; choices (series)
+0293  Pierre Teilhard de Chardin
+0294  Kansas, Carry On My Wayward Son; lyrics by Kerry Livgren
+0295  Kansas, Point of Know Return; lyrics by Ehart Phil, Robert Steinhardt, Steve Walsh
+0296  Kansas, The Wall; lyrics by Kerry Livgren, Steve Walsh
+0297  Coldplay, Clocks
+0298  William Blake, The Tyger
+0299  Bungie, The Marathon Trilogy
+0300  Scottish: I'll make sure
+
+0301  Latin: From the cathedral (from a higher source)
+0302  from Rick and Morty (no particular episode)
+0303  Randall Munroe, XKCD; not a specific one, because there are just too many good ones
+0304  Arryn Diaz, Dresden Codak
+0305  Zhuang Zhou
+0306  H.P. Lovecraft, The Call of Cthulhu (trans.: in his house at R'lyeh, dead Cthulhu waits dreaming)
+0307  Carl Sagan
+0308  Maya Mendoza
+0309  Lo Fidelity All-Stars, Battleflag; lyrics by Steve Fisk, Prince, Shawn Smith
+0310  William Shakespeare, A Midsummer Night's Dream
+0311  Jim Steinman, When Rock and Roll Dreams Come True; lyrics by Jim Steinman
+0312  from the Evil Dead movies
+0313  from Empire Records
+0314  Latin: from the egg (from the beginning)
+0315  Latin: the drama has been acted out (it's all over)
+0316  Latin: in the meantime
+0317  Latin: love conquers all
+0318  Latin: before noon
+0319  Latin: a necessary condition (that which must come before)
+0320  Latin: in the course of your life
+0321  Latin: day in and day out
+0322  Latin: in life, hope (where there is life there is hope)
+0323  Latin: now and forever after
+0324  Latin: flies the hour (time flies)
+0325  Latin: in this time, in this place
+0326  Latin: at the hour of sleep
+0327  Latin: the die has been cast
+0328  Latin: in to the middle of things
+0329  Latin: for all eternity
+0330  Latin: soon night, to work (get going on it!)
+0331  Fake Latin: don't let the bastards get you down
+0332  Latin: without a date, without a place, without a name (completely unknown)
+0333  Latin: practice makes perfect
+0334  from Star Trek (no particular episode)
+0335  Latin: through effort we rise
+0336  Deadpool.  Various writers.  All hilarious.
+0337  Stewart Brand, The Whole Earth Catalog and other works
+0338  Tom Wolfe, The Electric Kool-Aid Acid Test (quoting Ken Kesey)
+0339  Prince, 1999
+0340  Prince, Let's Go Crazy
+0341  J.K. Rowling, The Harry Potter Series
+0342  Live, Run to the Water; lyrics by Patrick Dahlheimer, Ed Kowalczyk, Chad Gracey, Chad Taylor
+0343  Lemon Jelly, Nice Weather for Ducks
+0344  Latin: such is life
+0345  The various Bill and Ted movies
+0346  John Alejandro King
+0347  Latin: here is Rhodes, jump here (don't tell me, show me)
+0348  from Black Panther (the movie)
+0349  from various points in the Marvel Cinematic Universe
+0350  Spider Robinson, all of the various "Callahan" books
+
+0351  Doctor Seuss, Oh the Places You'll Go!
+0352  William Shakespeare, Julius Caesar
+0353  Latin: live to create
+0354  The Five Stairsteps, Oooh Child; lyrics by Stan Vincent
+0355  Geggy Tah, Century Plant
+0356  Roger Zelazny, various writings (mostly the Amber series)
+0357  Dead Can Dance, A Passage in Time; lyrics by Brendan Michael Perry, Lisa Germaine Gerrard
+0358  from the movie, Tomorrowland (Disney Studios, 2015)
+0359  Earnest Shackleton
+0360  from Henry David Thoreau, Walking
+0361  from Henry David Thoreau, Walden
+0362  Latin: after noon
+0363  Latin: to the holy land
+0364  Latin: from the east, light; from the west, fruit
+0365  from Alexander Pope, A Little Learning
+0366  from Ralph Waldo Emerson, various essays
+0367  Latin: do not seek things outside of yourself
+0368  Nikola Tesla
+0369  from The Venture Brothers
+0370  Roosevelt's Law of Task Planning
+0371  Patton's Law of Program Planning
+0372  Larrabee's Law
+0373  Varsi's Law
+0374  Mo's Law of Evolutionary Development
+0375  The totalitarian principle, attributed to Murray Gell-Mann
+0376  Parkinson's Law
+0377  Segal's Law
+0378  Augustine's Laws
+0379  Tobler's first law of geography
+0380  Ulysses by Dead Can Dance
+0381  Bruce Lee
+0382  Theodore Roosevelt
+0383  Rage Against the Machine, Wake Up
+0384  Rage Against the Machine, Guerrilla Radio
+0385  Rage Against the Machine, Testify
+0386  Cat Stevens, Peace Train
+0387  Attributed to Wumen Huikai
+0388  Attributed to Hoshin
+0389  From the Shaseki-shu (Collection of Stone and Sand) compiled by Muju
+0390  Sting, Desert Rose
+0391  Dio, Rainbow in the Dark
+0392  Enya, Carribean Blue
+0393  Enya, Storms in Africa
+0394  Enya, Book of Days
+0395  Robert W. Chambers, The King in Yellow
+0396  French: Want what you have and you'll have what you want
+0397  Latin: He conquers who conquers himself
+0398  Norwegian: Owls in the moss (something isn't quite right here)
+0399  Norwegian: One should never sell the skin before the bear is shot (don't celebrate too early)
+0400  Idina Menzel, Let it Go; lyrics by Kristen Anderson-Lopez and Robert Lopez
+
+0401  Brad Kane and Lea Salonga, A Whole New World; lyrics by Tim Rice and Alan Menken
+0402  Carmen Twillie and Lebo M., Circle of Life; lyrics by Elton John and Tim Rice
+0403  Jodi Benson, Part of Your World; lyrics by Howard Elliott Ashman and Alan Menken
+0404  Auli'i Cravalho, How Far I'll Go; lyrics by Lin-manuel Miranda
+0405  Shakira, Try Everything; lyrics by Tor Hermansen, Mikkel Eriksen, and Sia Furler
+0406  Jim Morrison, An American Prayer
+0407  Jim Morrison, Break on Through
+0408  Jim Morrison, End of the Night
+0409  Jim Morrison, The Ghost Song
+0410  Jim Morrison, The Palace of Exile
+0411  Shona: I am because we are
+0412  Zulu: A person is a person through other people
+0413  Madonna, Ray of Light; lyrics by William Orbit, Christine Leach, Dave Curtiss, Clive Maldoon, Madonna Ciccone
+0414  Katy Perry, Firework; lyrics by Esther Dean, Sandy Wilhelm, Tor Erik Hermansen, Mikkel Eriksen, Katheryn Hudson
+0415  Jackson Browne, Running on Empty
+0416  Japanese: Who cares? Alternately, What the hell? (idomatic)
+0417  Frank Herbert, Dune novels
+0418  Rumi, various writings
+0419  Sanskrit: to have awoken and understood
+0420  Chinese: a moment of initial insight
+0421  Japanese: seeing in to your true nature
+0422  Japanese: the experience of seeing in to your true nature
+0423  The most interesting man in the world
+0424  Paul Simon, The Boy in the Bubble; lyrics by Forere Motlhoheloa and Paul Simon
+0425  Arthur C. Clarke's second law
+0426  Edward Gorey, the Fantod Deck
+0427  Latin: love your fate
+0428  Eric Holthaus
+0429  Lucius Annaeus Seneca (Seneca the Younger)
+0430  Alan Watts
+0431  Robert Anton Wilson
+0432  Giordano Bruno
+0433  Erich Fromm
+0434  Latin: a voice crying in the desert
+0435  e e cummings
+0436  Latin: Abandon all hope, ye who enter here (from Dante's Inferno)
+0437  Latin: before the end of the day
+0438  From Dante's Divine Comedy
+0439  David Foster Wallace, Infinite Jest
+0440  Neon Genesis Evangelion
+0441  Pablo Neruda
+0442  Cassia Chloe Tsura
+0443  Rapi Kaur
+0444  Oscar Wilde
+0445  Galantis, Peanut Butter Jelly
+0446  Madison "Can Can" Lindgren
+0447  William Butler Yeats
+0448  Muse, Knights of Cydonia; lyrics by Matt Bellamy
+0449  in reference to the Kcymaerxthaere project by Eames Demetrios
+0450  Anthony Bourdain
+
+0451  Estafania Arrocet Corral (Stephanie Seungmin Kim)
+0452  Danger Ranger (Michael Mikel)
+0453  Henry Miller
+0454  Latin: the (same) sun shines on all of us
+0455  Wang Chung, Everybody Have Fun Tonight; lyrics by Jack Hues, Nicholas Laurence Feldman, and Peter Wolf
+0456  Wang Chung, Dance Hall Days; lyrics by Jack Hues, Nicholas Laurence Feldman, and Darren Costin
+0457  from Buffy the Vampire Slayer
+0458  John Roedel
+0459  Alan Ginsburg
+0460  Dylan Thomas
+0461  Linkin Park, Wretches and Kings
+0462  Tank Girl comic, various writers
+0463  John Milton, When I Consider How My Light is Spent
+0464  Rage Against the Machine, Take the Power Back
+0465  Rage Against the Machine, Settle for Nothing
+0466  from the Monument Valley series by Ustwo Games
+0467  Jeph Jacques, Questionable Content
+0468  The Electric Light Orchestra, Mr. Blue Sky; lyrics by Jeff Lynne
+0469  David Farragut
+0470  From the Apollo 11 flight audio, NASA Audio & Multimedia Collections
+0471  From President John F. Kennedy's address at Rice University on September 12, 1962
+0472  Public Service Broadcasting, The Race for Space (album)
+0473  Arden Leigh
+0474  Sumerian: The writer of was En-hedu-ana. My king, something has been created that none has created before.
+0475  Public Service Broadcasting, Progress
+0476  Neil deGrasse Tyson
+0477  David Bowie (all of David Bowie)
+0478  CW McCall, Convoy; lyrics by Chip Davis and William Fries
+0479  H.P. Lovecraft, various writings
+0480  Alice Toler, quotes from her Dreamscapes project
+0481  Sofi Tukker, Dancing on the People; lyrics by Jon Hume, Sophie Weld, Tucker Halpern, Joshua Hoisingto, et al
+0482  Coolio, Gangsta's Paradise
+0483  Cut Copy, Love is All We Share
+0484  from Mythbusters
+0485  from Casablanca
+0486  Latin: [they are] not counted but weighed
+0487  David Byrne
+0488  Anais Nin
+0489  John F. Kennedy
+0490  Queen, Don't Stop me Now; lyrics by Freddie Mercury
+0491  Clement Clarke Moor, A Visit from Saint Nicholas
+0492  Rabbi Dali Rick, The Stupendous Technicolor See-Through Art and Convenience Store Book
+0493  Latin: we are what we are
+0494  Garrison Keillor, A Prairie Home Companion
+0495  Oliver Sacks
+0496  Soren Kierkegaard
+0497  Kyra Bramble, Burning Wings
+0498  Latin: prepare for war
+0499  Latin: through hardship to the stars
+0500  Latin: to the stars
+
+0501  John Milton, Paradise Lost
+0502  Dutch (informal): go outside and walk with the wind in your face
+0503  Donald Knuth
+0504  Boston, Don't Look Back; lyrics by Tom Sholtz
+0505  Rick Astley, Never Gonna Give You Up; Lyrics by M Aitken, P Waterman, M Stock
+0506  Niken Afifah, Universe
+0507  Baruch Spinoza
+0508  from Critical Role
+0509  Neil Gaiman
+0510  William Blake, The Marriage of Heaven and Hell
+0511  William Blake
+0512  Jim Morrison and the Doors, Strange Days
+0513  Jim Morrison (various quotes)
+0514  Caravan Palace, Lone Digger
+0515  Latin: in the absence of god
+0516  Derek Jarman
+0517  Bruce Springsteen, Born to Run
+0518  Latin: in the original place
+0519  Voltaire, various writings
+0520  A reference to the works of Jorge Luis Borges
+0521  Terry Pratchett, various sources
+0522  Len, Steal My Sunshine; lyrics by Marc Costanzo and Gregg Diamond
+0523  Kermit, The Rainbow Connection; lyrics by Paul Williams
+0524  Wig Wam, Do Ya Wanna Taste It; lyrics by Aage Sten Nilsen and Trond Holter
+0525  R.E.M, It's the End of the World As We Know It (and I feel fine); lyrics by John Stipe, Michael Mills, et al
+0526  Martin Page, In the House of Stone and Light
+0527  Portugese: plunge head first
+0528  Portugese: don't count on it (literal: take the pony away from the rain)
+0529  Portugese: finish what you started (literal: you kneeled, you have to pray)
+0530  Portugese: it's about time that happened (literal: fell because it's ripe)
+0531  Portugese: it's about time that you did that (literal: wash the mare)
+0532  Portugese: don't worry (literal: kick it to the corner)
+0533  Portugese: no worries (literal: under the shade of the bannana tree)
+0534  Beau Taplin, The One Saving Grace and other poems
+0535  Men Without Hats, The Safety Dance; lyrics by Ivan Doroschuk
+0536  Big Country, In a Big Country; lyrics by Bruce Watson, Mark Brzezicki, Stuart Adamson, Tony Butler
+0537  Midnight Oil, Beds are Burning; lyrics by James Moginie, Robert Hirst, Martin Rotsey, Peter Gifford, et al
+0538  Men At Work, Down Under; lyrics by C. Hay, R. Strykert
+0539  Marcus Aurelius, Meditations
+0540  Three Dog Night, Shambala; lyrics by Danny Moore
+0541  Massive Attack, Teardrop; lyrics by Andrew Vowles, Elizabeth Fraser, Grantley Marshall, Robert Del Naja
+0542  Sabu Martinez, Afro Temple
+0543  The Imaginary Foundation
+0544  Dwayne "The Rock" Johnson, You're Welcome; from Moana, lyrics by Lin-Manuel Miranda
+0545  from Stranger Things
+0546  Abraham Maslow
+0547  Musashi Miyamoto, The Book of Five Rings
+0548  Shannon Alder
+0549  Doctor Teeth and the Electric Mayhem, Can You Picture That?; lyrics by Kenneth Ascher and Paul Williams
+0550  The Mowgli's, San Francisco; lyrics by Andrew Warren, Michael Vincze, Joshua Hogan, Colin Dieden, et al
+
+0551  swrpoetry, Sometimes the Wolf Cries Girl
+0552  Albert Einstein
+0553  Eugene Debs
+0554  Sweet, Ballroom Blitz; lyrics by Michael Donald Chapman and Nicholas Barry Chinn
+0555  D.J. Hinton, Red's Safe Haven
+0556  Phil Kaye and Sarah Kay, When Love Arrives
+0557  Kevin Kelly, The Technium
+0558  Arden Leigh, The Last Pure Heart
+0559  Arden Leigh, Another Year of Rain
+0560  Latin: Why did I just start speaking Latin?
+0561  Jamie Commons and Kygo, Feels Like Forever
+0562  Stephen Hawking
+0563  Samuel Alexander
+0564  Akin's Laws
+0565  Henry Wadsworth Longfellow, A Psalm of Life
+0566  Bob Marley
+0567  John Archibald Wheeler
+0568  Sahil Bansal
+0569  Sabah Knodir
+0570  John Muir
+0571  Latin: a token of a better age
+0572  Douangdeuane Bounyavong
+0573  Frida Kahlo
+0574  Khalil Gibran
+0575  Doctor Seuss (Theodore Geisel)
+0576  Andrea Gibson
+0575  Lynn Margulis
+0576  Cicero
+0577  Keaton St. James, various poems
+0578  From (or inspired by) the SCP Foundation wiki
+0579  Tania Hart
+0580  Swedish House Mafia, Don't You Worry Child; lyrics by Steve Angello, Sebastian Ingrosso, Axel Hedfors, et al
+0581  Henry Rollins, various writings
+0582  Naomi Shihab Nye
+0583  Sanskrit: As is your vision, so is the universe
+0584  C.S. Lewis, various writings
+0585  Leonard Cohen, various songs and writings
+0586  Jimi Hendrix
+0587  Michael Franti
+0588  Vicetone, Chasing Time; lyrics by Daniel Gidlund, Victor Pool, Ruben Den Boer, Leon Palmen
+0589  Tom Swoon and Paris Blohm, Synchronize
+0590  Carlo Levi, various writings
+0591  Viktor Frankl, various writings
+0592  Latin: sleep in vigilence, live in lucidity
+0593  Buckminster Fuller, various writings
+0594  T.S. Eliot, various writings
+0595  Thoughts of Dog
+0596  Latin: rise up, in order that your anger may be but a brief madness; control it! (also a pallendrome)
+0597  Barak Obama, various writings
+0598  Catherynne Valente, various writings
+0599  From the Hindu Yuga Cycle
+0600  Joseph Campbell, various writings
+
+0601  Lee Smolin, various writings
+0602  from Bob's Burgers (seriously)
+0603  Lyric Rivera (neurodivergent rebel)
+0604  Cory Doctorow, various writings
+0605  The Church, Under the Milky Way
+0606  Carl Gustov Jung, various writings
+0607  Michael Ende, Momo
+0608  Natasha Bedingfield, Unwritten; lyrics by Danielle Brisebois, Natasha Bedingfield, Wayne Steven Rodrigues Jr
+0609  Latin: let us live, since we must die
+0610  Janice Joplin
+0611  Ursula K. Le Guin
+0612  Larry Harvey
+0613  David Bohm, various writings
+0614  Roger Penrose, various writings
+0615  Ernest Hemmingway, various writings
+0616  Tom Stoppard, Arcadia
+0617  Arthur C. Clarke, various writings
+0618  Seanan McGuire, from the Wayward Children series
+0619  Langston Hughes, various poems
+0620  Darla Evans
+0621  Jane Austin, various writings
+0622  Samira Vivette, Pastel Dreams and Glittered Hearts
+0623  Topher Kearby, Watercolor Words
+0624  Ann Voskamp, One Thousand Gifts
+0625  Rose Cook, The Dawntreader
+0626  Tim Kreider, I Wrote This Book Because I Love You: Essays
+0627  Antal Szerb, Journey by Moonlight
+0628  Afrojack and David Guetta, Hero; lyrics by Elena Goulding, Jamie Scott, Mikkel Eriksen, Nick Van De Wall, et al
+0629  Galantis, Runaway (U & I)
+0630  Galantis, Dancing to the Sound of a Broken Heart
+0631  Harriet Selina, various writings
+0632  Alix E. Harrow, The Ten Thousand Doors of January
+0633  Coldplay, Something Like This; lyrics by Chris Martin, Will Champion, Guy Berryman, Andrew Taggart, et al
+0634  Greta Thunburg
+0635  Eugene Wigner
+0636  Jean Jacques Rousseau, various writings
+0637  William Shakespeare, The Tempest
+0638  Terence McKenna, various writings
+0639  Martin Luther King Jr.
+0640  Zedd, I Want You to Know; lyrics by Anton Zaslavski, Kevin Drew, Ryan Tedder
+0641  Alessia Cara and Zedd, Stay; lyrics by Alessia Caracciolo, Anders Froen, Anton Zaslavski, Jonnali Parmenius, et al
+0642  Empire of the Sun, Alive; lyrics by Anton Zaslavski, Jonathan Sloan, Luke Steele, Nick Littlemore, et al
+0643  Alesso and Calvin Harris, Under Control; lyrics by Calvin Harris, Theo Hutchcraft, Alessandro Lindblad
+0644  French: I see it but I don't believe
+0645  May Sarton
+0646  M.C. Escher
+0647  Jack Gilbert, The Great Fires and other works
+0648  Steven Trask, Wig in a Box
+0649  Marjane Satrapi, various writings
+0650  Dorothy Sayers, Gaudy Night
+
+0651  Zedd and Ariana Grande, Break Free; lyrics by Anton Zaslavski, Max Martin, Savan Kotecha
+0652  Gregory David Roberts
+0653  Japanese: cheer up, have courage, do your best
+0654  Ray Bradbury, various writings
+0655  William Goldman, The Princess Bride
+0656  Sarah Williams, Twilight Hours: A legacy of verse
+0657  Rebecca Solnit, various writings
+0658  Jane Goodall
+0659  Antonio Gramsci
+0660  Haana
+0661  Latin: we enter the circle after dark and are consumed by fire (also a pallendrome)
+0662  Dolly Parton
+0663  Sinead O'Conner
+0664  Robert M. Drake
+0665  Donna Ashworth, Life
+0666  Vincent van Gogh
+0667  Spacehog, In the Meantime; lyrics by Royston Langdon
+0668  Roald Dahl
+0669  James Baldwin
+0670  Latin: By the power of truth, I, while living, have conquered the universe
+0671  Miles Davis
+0672  Sanskrit: Let all the living things be happy
+0673  Jackie De Shannon, Put a Little Love in Your Heart; lyrics by Jackie De Shannon, Jimmy Holiday, Randy Myers
+0674  George R. R. Martin, The Game of Thrones series: All men must die
+0675  Richard Dawkins
+0676  Samurai Jack
+0677  Arthur Schopenhauer
+0678  Walt Whitman
+0679  Simone de Beauvoir
+0680  Latin: while I breathe, I hope
+0681  Latin: fortune favors the bold
+0682  Kurt Vonnegut, various writings
+0683  Eugene O'Neill
+0684  Hunter S. Thompson
+0685  George Orwell
+0686  F. Scott Fitzgerald
+0687  Steven Wright
+0688  Spanish: Love is short/the memory of it is long
+0689  Hebrew: Heal the world
+0690  Latin: it's how you live that matters, not how long
+0691  Latin: the sun shines on us all
+0692  German: gate-closing panic
+0693  Stasha Ginsburg, Archaeology for the Woman's Soul
+0694  Nicole Lyons, various writings
+0695  Cleanthes the Stoic
+0696  Persius
+0697  From the Sumerian Kings List
+0698  Bertrand Russell, various writings
+0699  Charlie Jane Anders, All the Birds in the Sky
+0700  Greek: (one of the 147 maxims of Stobaeus) Know thyself
+
+0701  Greek: (one of the 147 maxims of Stobaeus) Be overcome by justice
+0702  Greek: (one of the 147 maxims of Stobaeus) Know what you have learned
+0703  Greek: (one of the 147 maxims of Stobaeus) Perceive what you have heard
+0704  Greek: (one of the 147 maxims of Stobaeus) Be yourself
+0705  Greek: (one of the 147 maxims of Stobaeus) Know your opportunity
+0706  Greek: (one of the 147 maxims of Stobaeus) Think as a mortal
+0707  Greek: (one of the 147 maxims of Stobaeus) Honour the hearth (home)
+0708  Greek: (one of the 147 maxims of Stobaeus) Control yourself
+0709  Greek: (one of the 147 maxims of Stobaeus) Help your friends
+0710  Greek: (one of the 147 maxims of Stobaeus) Control anger
+0711  Greek: (one of the 147 maxims of Stobaeus) Exercise prudence
+0712  Greek: (one of the 147 maxims of Stobaeus) Honour providence
+0713  Greek: (one of the 147 maxims of Stobaeus) Love friendship
+0714  Greek: (one of the 147 maxims of Stobaeus) Cling to discipline
+0715  Greek: (one of the 147 maxims of Stobaeus) Pursue honour
+0716  Greek: (one of the 147 maxims of Stobaeus) Long for wisdom
+0717  Greek: (one of the 147 maxims of Stobaeus) Praise the good
+0718  Greek: (one of the 147 maxims of Stobaeus) Find fault with no one
+0719  Greek: (one of the 147 maxims of Stobaeus) Praise virtue
+0720  Greek: (one of the 147 maxims of Stobaeus) Practice what is just
+0721  Greek: (one of the 147 maxims of Stobaeus) Be kind to your friends
+0722  Greek: (one of the 147 maxims of Stobaeus) Watch out for your enemies
+0723  Greek: (one of the 147 maxims of Stobaeus) Exercise nobility of character
+0724  Greek: (one of the 147 maxims of Stobaeus) Shun evil
+0725  Greek: (one of the 147 maxims of Stobaeus) Be impartial
+0726  Greek: (one of the 147 maxims of Stobaeus) Listen to everyone
+0727  Greek: (one of the 147 maxims of Stobaeus) Do a favour for a friend
+0728  Greek: (one of the 147 maxims of Stobaeus) Nothing to excess
+0729  Greek: (one of the 147 maxims of Stobaeus) Use time sparingly
+0730  Greek: (one of the 147 maxims of Stobaeus) Foresee the future
+0731  Greek: (one of the 147 maxims of Stobaeus) Despise insolence
+0732  Greek: (one of the 147 maxims of Stobaeus) Give what you have
+0733  Greek: (one of the 147 maxims of Stobaeus) Fear deceit
+0734  Greek: (one of the 147 maxims of Stobaeus) Speak well of everyone
+0735  Greek: (one of the 147 maxims of Stobaeus) Be a seeker of wisdom
+0736  Greek: (one of the 147 maxims of Stobaeus) Choose what is divine
+0737  Greek: (one of the 147 maxims of Stobaeus) Act when you know
+0738  Greek: (one of the 147 maxims of Stobaeus) Consult the wise
+0739  Greek: (one of the 147 maxims of Stobaeus) Test the character
+0740  Greek: (one of the 147 maxims of Stobaeus) Give back what you have received
+0741  Greek: (one of the 147 maxims of Stobaeus) Look down on no one
+0742  Greek: (one of the 147 maxims of Stobaeus) Use your skill
+0743  Greek: (one of the 147 maxims of Stobaeus) Do what you mean to do
+0744  Greek: (one of the 147 maxims of Stobaeus) Honour a benefaction
+0745  Greek: (one of the 147 maxims of Stobaeus) Be jealous of no one
+0746  Greek: (one of the 147 maxims of Stobaeus) Be on your guard
+0747  Greek: (one of the 147 maxims of Stobaeus) Praise hope
+0748  Greek: (one of the 147 maxims of Stobaeus) Despise a slanderer
+0749  Greek: (one of the 147 maxims of Stobaeus) Gain possessions justly
+0750  Greek: (one of the 147 maxims of Stobaeus) Honour good men
+
+0751  Greek: (one of the 147 maxims of Stobaeus) Speak plainly
+0752  Greek: (one of the 147 maxims of Stobaeus) Be happy with what you have
+0753  Greek: (one of the 147 maxims of Stobaeus) Fulfill a favour
+0754  Greek: (one of the 147 maxims of Stobaeus) Observe what you have heard
+0755  Greek: (one of the 147 maxims of Stobaeus) Despise strife
+0756  Greek: (one of the 147 maxims of Stobaeus) Restrain the tongue
+0757  Greek: (one of the 147 maxims of Stobaeus) Make just judgements
+0758  Greek: (one of the 147 maxims of Stobaeus) Use what you have
+0759  Greek: (one of the 147 maxims of Stobaeus) Judge incorruptibly
+0760  Greek: (one of the 147 maxims of Stobaeus) Tell when you know
+0761  Greek: (one of the 147 maxims of Stobaeus) Do not depend on strength
+0762  Greek: (one of the 147 maxims of Stobaeus) Live without sorrow
+0763  Greek: (one of the 147 maxims of Stobaeus) Live together meekly
+0764  Greek: (one of the 147 maxims of Stobaeus) Finish the race with courage
+0765  Greek: (one of the 147 maxims of Stobaeus) Deal kindly with everyone
+0766  Greek: (one of the 147 maxims of Stobaeus) Benefit yourself
+0767  Greek: (one of the 147 maxims of Stobaeus) Be courteous
+0768  Greek: (one of the 147 maxims of Stobaeus) Give a timely response
+0769  Greek: (one of the 147 maxims of Stobaeus) Struggle with glory
+0770  Greek: (one of the 147 maxims of Stobaeus) Control the eye
+0771  Greek: (one of the 147 maxims of Stobaeus) Give a timely counsel
+0772  Greek: (one of the 147 maxims of Stobaeus) Act quickly
+0773  Greek: (one of the 147 maxims of Stobaeus) Guard friendship
+0774  Greek: (one of the 147 maxims of Stobaeus) Be grateful
+0775  Greek: (one of the 147 maxims of Stobaeus) Pursue harmony
+0776  Greek: (one of the 147 maxims of Stobaeus) Accept due measure
+0777  Greek: (one of the 147 maxims of Stobaeus) Do away with enmities
+0778  Greek: (one of the 147 maxims of Stobaeus) Do not boast in might
+0779  Greek: (one of the 147 maxims of Stobaeus) Do not abandon honour
+0780  Greek: (one of the 147 maxims of Stobaeus) Despise evil
+0781  Greek: (one of the 147 maxims of Stobaeus) Venture into danger prudently
+0782  Greek: (one of the 147 maxims of Stobaeus) Do not tire of learning
+0783  Greek: (one of the 147 maxims of Stobaeus) Teach a youngster
+0784  Greek: (one of the 147 maxims of Stobaeus) Respect yourself
+0785  Greek: (one of the 147 maxims of Stobaeus) Do not be discontented by life
+0786  Greek: (one of the 147 maxims of Stobaeus) Share the load of the unfortunate
+0787  Greek: (one of the 147 maxims of Stobaeus) Do not trust fortune
+0788  Analee Newitz; Scatter, Adapt, Remember
+0789  Daft Punk, Get Lucky; lyrics by Pharrell Williams, Nile Rodgers, Thomas Bangalter, Guy-manuel De Homem-christo
+0790  Bertolt Brecht, various writings
+0791  The Presidents of the United States of America, Peaches; lyrics by David Dederer, Jason Finn, Chris Ballew
+0792  Victor Hugo
+0793  Leonardo da Venci
+0794  Zanna Keithley
+0795  Spanish: for everyone, everything
+0796  Isaac Asimov
+0797  Mark Twain
+0798  Tom Waits
+0799  Latin: fortune favors the bold
+0800  Douglass' thirtieth law
+
+0801  Charles Bukowski
+0802  Leela Rose
+0803  Guido van Rossum, PEP-8
+0804  Tim Peters, PEP-20 (The Zen of Python)
+0805  Pico Iver
+0806  Rene Descartes
+0807  P!nk, God is a DJ
+0808  George Bernard Shaw
+0809  Immanuel Kant (a real pissant)
+0810  Jack Kerouac
+0811  Franz Kafka
+0812  Paulo Coelho
+0813  Faithless, God is a DJ
+0814  Freeman Dyson
+0815  Rich Berlew, The Order of the Stick
+0816  Aldus Huxley
+0817  Latin: thus always to tyrants
+0818  From the Duck Tales theme song.  Duh.
+0819  Mercedes Perguson
+0820  Mae Jemison
+0821  Latin: who watches the watchers?
+0822  Robert Lewis Stevenson
+0823  Arabic: the people want to end the regime
+0824  David Eggers
+0825  Latin: what nature has begrudged, industry has supplied
+0826  Spanish: in the place where you feel at home
+0827  Latin: take no one's word for it
+0828  Latin: play in safety
+0829  Latin: live well
+0830  Lou Reed
+0831  Latin: more the beyond / this is our path forward
+0832  Cher, This is a Song for the Lonely
+0833  Latin: and shit...
+0834  Leo Tolstoy
+0835  Thomas Jefferson
+0836  Bell Hooks
+0837  Friedrich Nietzsche
+0838  Wendell Berry
+0839  Jackie DeShannon, Put A Little Love in Your Heart
+0840  Welsh: good health to you now and forever
+0841  Latin: the picts defeated, the enemy destroyed, play safely
+0842  Latin: use happily and live well
+0843  Ayumi Hamasaki, Evolution
+0844  Gaelic: we will meet again soon
+0845  Japanese: love is something to nurture
+0846  Japanese: knowing yourself is the beginning of love
+0847  Japanese: even if I don't understand the meaning [meaning: try, even if you don't fully know how]
+0848  Japanese: so are you [meaning: you are beautiful and I love you]
+0849  Spanish: my cunt is in no mood for Chinese lanterns [meaning: this is not the right time]
+0850  Japanese: the moon is beautiful, isn't it? [meaning: I love you]
+
+0851  Japanese: walk together
+0852  Japanese: to meeet is the beginning of parting
+0853  Latin: through difficulties to greatness
+0854  Tennyson, Ulysses
+0855  Latin: God's dice are always loaded
+0856  Simon and Garfunkle, April; lyrics by Paul Simon
+0857  Japanese: small efforts lead to big things
+0858  Japanese: we have unlimited potential
+0859  Latin: ready for anything
+0860  French: don't be afraid to try
+0861  Latin: if you wish to be loved, love
+0862  French: you know nothing
+0863  Japanese: today's theme is... this!
+0864  German: between the years
+0865  Octavia Butler
+0866  Latin: to have her is to have the stars
+0867  Edgar Allan Poe
+0868  Latin: so long as you love me
+0869  Latin: live without regrets
+0870  Japanese: because I love you, I want you to be free
+0871  Welsh: return to the trees
+0872  Latin: pain grows with time
+0873  Latin: death levels all things
+0874  Latin: I've done what I could; let others who can, do better
+0875  German: he who rests, rusts
+0876  Japanese: you'll be in my heart forever
+0877  French: what's done is done
+0878  Noam Chomsky
+0879  Latin: the brave may fall but they won't yield
+0880  Socrates
+0881  Latin: while we live, let us live
+0882  Alexandra Ocasio Cortez
+0883  Latin: in discordant harmony
+0884  French: words fly away, writing remains
+0885  Latin: a just fate for fools
+0886  Malcom X
+0887  French: far from the eyes, close to the heart
+0888  Japanese: don't let plans tie you down
+0889  Latin: Lord, direct my steps
+0890  Pythagoras
+0891  Mahmoud Darwish
+0892  Rush, Closer to the Heart; lyrics by Geddy Lee, Alex Lifeson, Neil Peart, Peter Talbot
+0893  Maori: in their own space and time
+0894  Plato, various writings
+0895  French: a memory untainted by human blood
+0896  Italian: life goes on
+0897  Latin: always in my heart
+0898  Japanese: don't beg for a reply
+0899  Japanese: you have friends (you are not alone)
+0900  Japanese: people can change - I will show you
+
+0901  Latin: with love and laughter
+0902  Tom Robbins
+0903  Matt Dinniman, from the Dungeon Crawler Carl series
+0904  Keanu Reeves
+0905  Kate Foster
+0906  T.S. Eliot, The Waste Land
+0907  Harper Lee
+0908  Hanna Arendt
+0909  Albert Camus
+0910  Benjamin Franklin
+0911  Japanese: if there’s no wind, keep rowing
+0912  Jacque Fresco
+0913  Heinrich Heine
