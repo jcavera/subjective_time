@@ -2,11 +2,16 @@
 !M=5,d=25 (a-1919) the birth of ray smullyan
 !M=5,d=28 (b-585) the eclipse of thales
 <G=+25721,+032611 the colossi of memnon
+<G=+35470,+138620 the spirit forest of aokigahara
 <G=+46917,+151950 a forgotten military base under a volcano
+<G=+66533,-065317 mount thor
+<O=50-500 where the bodies are buried
+<O=50-500 where the evidence is hidden
 
 creativity isn't rare/it's buried
 don't sit this one out
 encouraging someone to be entirely themselves/is the loudest way to love them
+fifty one hundred years since the carving of the cochno stone
 halfway between here and there
 information wants to be free
 integrity is proved/not proclaimed
@@ -20,9 +25,12 @@ the management is not responsible for broken vortexes
 the management is not responsible for creepy hugs
 the management is not responsible for disappointing hook-ups
 the management is not responsible for malfunctioning portals
+the management is not responsible for missed connections
 the management is not responsible for pixie glitter
+the management is not responsible for sloppy make-out sessions
 the management is not responsible for ufo abductions
 the management is not responsible for unicorn stabbings
+the management is not responsible for weirdo self-proclaimed <?gurus|shamans|yogis
 the truth has no defense against/a fool determined to believe a lie - Mark Twain
 there is neither glory nor heroes in war
 those who labor without purpose/are wasting their time
