@@ -1,6 +1,8 @@
 *** met Tasha and Kim 2017-09-30, not 2015
+*** 1st mon in june: western austrailia day
 
 !M=5,d=23 (a-2025) candace graduated with her degree in biochemistry
+!M=6,d=2 festa della repubblica
 !M=8,d=30 (a-2003) the passing of katharine lampman
 (a-1025) guido of arezzo invented musical notation
 (a-1834) janet taylor invented the mariner's calculator
@@ -24,6 +26,7 @@ fifty seven hundred years since the ubaid vanished
 in the quiet before the breakthrough
 it's not too late
 realities are like radio stations/you can only tune in to one at a time
+rebellions are built on hope
 seven thousand years since the sinking of doggerland
 silence is complicity
 the first draft of anything/is shit
