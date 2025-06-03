@@ -26,6 +26,9 @@
 <R=2-20 <?days|weeks|months|years since the previous interdimensional incident
 <R=2-20 <?days|weeks|months|years until the next dimensional incursion
 <R=2-20 <?days|weeks|months|years until the next interdimensional incident
+<R=2-20 <?days|weeks|months until they decide against it
+<R=2-20 <?days|weeks|months until they decide to do it
+<R=2-20 years until the awakening
 <R=200-2000 years until a cosmic <?disaster|catastrophe strikes
 <R=200-2000 years until we are forced to become a multiplanetary species
 <t come to terms with your past
