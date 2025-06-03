@@ -1,10 +1,14 @@
 *** met Tasha and Kim 2017-09-30, not 2015
 *** 1st mon in june: western austrailia day
+*** 2-4-ish AM: in the <?wee|quiet|small hours
 
 !M=5,d=23 (a-2025) candace graduated with her degree in biochemistry
 !M=6,d=2 festa della repubblica
-!M=8,d=30 (a-2003) the passing of katharine lampman
+!M=6,d=3 ugandan martyrs day
+!M=8,d=30 (a-2003) the passing of katharine lampman ~~~ $brc
+!M=8,d=5 (a-2267) saturn transits the crab nebula pulsar
 (a-1025) guido of arezzo invented musical notation
+(a-1054) the creation of the crab nebula
 (a-1834) janet taylor invented the mariner's calculator
 (a-829) the death of gwynn ap nudd/king of the tylwyth teg and ruler of annwn
 (a-940) the fall of the kingdom of axum
@@ -13,30 +17,50 @@
 (b-520) the fall of d'mt
 <G=+14443,-061039 diamond rock
 <G=+15333,+038917 asmara eritrea
-<G=+43.422,+053800 gora bokty
+<G=+26792,+037953 hegra
+<G=+43422,+053800 gora bokty
 <G=+57137,-005976 the fortress of shadow
 <G=+57307,+006230 the isle of skye
 <O=500-5000 a portal to annwn
-<R=200-2000 years until a cosmic catastrophe strikes
+<R=2-20 <?days|weeks|months|years since the previous dimensional incursion
+<R=2-20 <?days|weeks|months|years since the previous interdimensional incident
+<R=2-20 <?days|weeks|months|years until the next dimensional incursion
+<R=2-20 <?days|weeks|months|years until the next interdimensional incident
+<R=200-2000 years until a cosmic <?disaster|catastrophe strikes
 <R=200-2000 years until we are forced to become a multiplanetary species
+<t come to terms with your past
 
+after the death of the grand narrative
+be at peace with your past
+before words become meaningless
 change is freedom/change is life - Ursula K
+don't stay silent
 eighty eight hundred years since/the rise of the ubaid civilization
 fifty seven hundred years since the ubaid vanished
+in the midst of a series of historic events
 in the quiet before the breakthrough
 it's not too late
+make two people proud/nine year old you/and ninety year old you
+ninety five hundred years since the/carving of the jericho skull
+not everyone who comes here is happy/some are healing or hiding or lonely/or scared or in pain ~~~ $brc
 realities are like radio stations/you can only tune in to one at a time
 rebellions are built on hope
 seven thousand years since the sinking of doggerland
 silence is complicity
-the first draft of anything/is shit
-the poor tell us who we are/the visionaries tell us who we can be/let's stop hiding the poor and killing the visionaries
+the <?beginning|end doesn't happen all at once
+the end doesn't happen all at once/neither does the beginning
+the first draft of anything is shit
+the poor tell us who we are/the visionaries tell us who we can be/stop hiding the poor and killing the visionaries
 the roots go deep before the fruit appears
+the wicked become worse when tolerated - Leo Tolstoy
+the world is better with you in it
 there comes a point when you have to/choose whether to be like those around you/or make a virtue of your peculiarities - Ursula K
+this is only the beginning
 this isn't about just being happy/this is about being fully fucking alive/grief rage awe bliss - all of it
 those who build walls are their own prisoners - Ursula K
 those who do not question their beliefs/have none worth defending
 twenty two thousand years since/the carving of the ishango bone
 you are not as lost as you think you are
+you don't need to have it all together
 you will be found
-you're never too old to/completely upend your life
+you're never too old to completely upend your life
