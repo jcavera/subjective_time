@@ -1,5 +1,5 @@
 *** western australia day ~~~ 1st monday in june
-*** 7th of aban - cyrus the great day
-*** black history month (612) is in ALL the months??!!  For ALL the r_year files??!!
 *** 611 not in any of the r_year januaries??!!
+*** replaced 612 w. 999 in all r_year files
+*** fixed files to and including: 2026
 
