@@ -3,3 +3,6 @@
 *** replaced 612 w. '   ' in all r_year files
 *** fixed files to and including: 2030?
 *** check all use of <t - make sure all possibilities make sense!
+
+please wait... dad joke loading
+remeber that we can build something beautiful
