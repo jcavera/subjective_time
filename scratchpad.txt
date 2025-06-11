@@ -4,5 +4,6 @@
 *** fixed files to and including: 2030?
 *** check all use of <t - make sure all possibilities make sense!
 
+don't overthink it/don't underthink it either/use the exact right amount of think
 please wait... dad joke loading
 remeber that we can build something beautiful
