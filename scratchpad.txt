@@ -1,14 +1,3 @@
 *** western australia day ~~~ 1st monday in june
-*** 611 not in any of the r_year januaries??!!
-*** replaced 612 w. '   ' in all r_year files
-*** fixed files to and including: 2030?
 *** check all use of <t - make sure all possibilities make sense!
 
-!M=10,d=5 (a-1997) the launch of slashdot
-!M=6,d=12 dia dos namorados
-!M=6,d=12 loving day
-<G=+42681,+026317 the old elm
-
-don't overthink it/don't underthink it either/use the exact right amount of think
-please wait... dad joke loading
-remeber that we can build something beautiful
