@@ -20,7 +20,7 @@ _C #1 #30 ;_F a _H #1 ;_2 _C #1 #30 ;#1 #30 or so;_H the hour;a night in <M;slee
 going on a _V of #2 ;_H #1 ;_h #1 #30 ;#1 #30 give or take;really freaking dark;<i <m <p on <D the <d of <M <Y ~~~~~~~~~~~~~~~~~~ 0135
 _F a _V of #2 ;#15 _J the hour;_D #2 _E;_V of #2 or so;#15 _J the hour;<D;_6 ;dark ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0140
 going on #2 _W;_i #2 _b;_F a _V of #2 ;_C a _V till #2 ;_F a _V til;<D night;in between two days ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0145
-a bit _J #2 ;_B #2 _W;_D #2 _b;going on #2 _E;just _F #2 _b;last call;matins;dark _E ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0150
+a bit _J #2 ;_B #2 _W;_D #2 _b;going on #2 _E;just _F #2 _b;last call;matins;dark _E;in the <?wee|quiet|small hours ~~~~~~~~~~~~~ 0150
 #2 _W;_C #2 _b;a bit _J #2 ;_B #2 _E;_F #2 _b;the hour of reconciliation;vigil;<M;dormiens vigila ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0155
 _h #2 _b;a bit past #2 _E;a little _K #2 ;#2 _E _W;_X;oh #2 _d;_g #2 _E;matins;<H _d <?gmt|utc|zulu ;<h _d ~~~~~~~~~~~~~~~~~~~~~~ 0200
 a little _K #2 _b;going on a _V _K #2 ;a bit past #2 _E;_1 _K #2 ;bedtime;flip the pillow to the cool side ~~~~~~~~~~~~~~~~~~~~~~ 0205
@@ -29,10 +29,10 @@ _h #2 #15 ;a bit _K #2 ;going on #2 #30 ;_K #2 _b;_2 between #2 and #2 #30 ;mati
 _D _H #2 ;_B #2 #30 _W;just _F #2 #30 ;_3 on #2 #30 ;_B _H #2 _b;a night in <M;#2 #22 ish;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0220
 _H #2 ;just _F #2 #30 ;#2 #30 _W;#2 #30 ish;_a roll over;ante meridiem;<M;in the wee small _Q ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0225
 _F #2 #30 ;a bit _K #2 #30 ;#2 #30 _b;#2 #30 or so;_1 _C #2 #30 ;a <D night;<i <m <p on <D the <d of <M <Y ~~~~~~~~~~~~~~~~~~~~~~ 0230
-#20 til #3 ;_V of #3 or so;_D a _V of #3 ;_C #2 #45 _b;_F a _V of #3 ;a night in <S;<Y ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0235
+#20 til #3 ;_V of #3 or so;_D a _V of #3 ;_C #2 #45 _b;_F a _V of #3 ;a night in <S;<Y;in the <?wee|quiet|small hours ~~~~~~~~~~~ 0235
 _V of #3 ;_F a _V til #3 ;_B #3 _W;#15 _J the hour;_V til;<D night;<A;<i <m <p on <D;you really should try to sleep ~~~~~~~~~~~~~ 0240
 _D #3 _b;just past a _V of #3 ;going on #3 _W;a few _R _J #3 ;_4 #3 _b;<D;dark _E;dormiens vigila ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0245
-_i #3 _b;_F a _V of #3 ;_D #3 _W;a little bit _I #3 ;_D #3 _b;a night in <M;<i <m <p ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0250
+_i #3 _b;_F a _V of #3 ;_D #3 _W;a little bit _I #3 ;_D #3 _b;a night in <M;<i <m <p;in the <?wee|quiet|small hours ~~~~~~~~~~~~~ 0250
 _B #3 _E;_F #3 _b;_i #3 ;#3 _W;bedtime;why aren't you asleep?;early morning;<S;dark;qala d shahra ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0255
 _C #3 _E;a bit _K #3 ;_F #3 _b;just past #3 ;#3 _b ish;_a flip the pillow over to the cool side;oh #3 _d;_g #3 _E;_X;<h _d ~~~~~~ 0300
 #3 _W;a little _K #3 ;_h #3 _b;#3 _E or thereabouts;#3 _b or so;the witching hour;<H _d <?gmt|utc|zulu ~~~~~~~~~~~~~~~~~~~~~~~~~~ 0305
@@ -43,13 +43,13 @@ _V _K #3 or so;_D a _V _K #3 ;_F a _V past #3 ;_F #3 #15 ;bedtime;the witching h
 _H #3 _E;_C #3 #30 ;#3 #30 or so;_F #3 #30 _W;#3 #30 ish;past your bedtime;<D;in the wee small _Q;#3 #33 ish ~~~~~~~~~~~~~~~~~~~~ 0330
 _h #3 #30 ;_F a _H #3 ;_H #3 or so;_B a _V til #4 ;#20 #5 or #6 to #4 ;<D night;<S;_W;_a pee ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0335
 going on a _V to #4 ;_V of #4 ;_C a _V to #4 ;#3 #45 or so;way past your bedtime;oh dark #30 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0340
-just past _V of #4 ;_B #4 _b;_F a _V to #4 ;nearing #4 _E;_F a _V til;the witching hour;<Y ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0345
+just past _V of #4 ;_B #4 _b;_F a _V to #4 ;nearing #4 _E;_F a _V til;the witching hour;<Y;in the <?wee|quiet|small hours ~~~~~~~ 0345
 _3 on #4 _b;just _F #4 _W;a bit _J #4 _b;just prior to #4 _E;_D #4 _b;a night in <S;after yesterday but before tomorrow ~~~~~~~~~ 0350
 #4 _b or so;_C #4 _W;_B #4 _E;_D #4 _b;the hour of scampering;ante meridiem;_T;dormiens vigila ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0355
 _h #4 _b;#4 _W or so;a little bit _K #4 _b;#4 _E ish;really too early to be awake;oh #4 _d;_g #4 _E;_X;<h _d ~~~~~~~~~~~~~~~~~~~~ 0400
 a few _R _K #4 ;just past #4 _W;a little _K #4 _b;_3 on #4 #15 ;going on a _V _K;<H _d <?gmt|utc|zulu ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0405
 _B a _V _K #4 ;_V past #4 or so;_F #4 #15 ;_C a _V _K #4 _E;_D a _V past #4 ;<M;this morning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0410
-_V past #4 ;_h #4 #15 ;_F #4 #15 _W;_V past #4 ish;#4 #20 or so;a <D morning;<A;_T ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0415
+_V past #4 ;_h #4 #15 ;_F #4 #15 _W;_V past #4 ish;#4 #20 or so;a <D morning;<A;_T;in the <?wee|quiet|small hours ~~~~~~~~~~~~~~~ 0415
 _B a _H #4 ;going on #4 #30 ;_D #4 #30 or so;just _F a _H #4 ;_B #4 #30 _b;oh dark #30 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0420
 #4 #30 give or take;_H #4 _W;_Y;going on #4 #30 ;oh dark #30 ;a morning in <M;_W;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0425
 #4 #30 or so;_F a _H #4 _E;_C #4 #30 ;#4 #30 or so;darkest _J the dawn;oh dark #30 ;<S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0430
@@ -57,7 +57,7 @@ _H #4 ;_C #4 #30 _W;going toward a _V of #5 ;_F #20 to #5 ;entirely too early to
 #4 #45 or so;_F a _V of #5 ;_D a _V to #5 ;#5 _E in _F #15 _R;_1 _J #5 _b;<M;<Y;_W ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0440
 a _V of #5 or so;_B #5 _b;just prior to #5 ;_V of #5 ish;_i dawn;do you really have to get up now?;#4 #44 ish ~~~~~~~~~~~~~~~~~~~ 0445
 a few _R _I #5 ;a bit _J #5 _W;going on #5 _b;rapidly _4 #5 _b;_3 lighter out;<i <m <p on <D the <d of <M <Y ~~~~~~~~~~~~~~~~~~~~ 0450
-_C #5 ;#5 _W;a few _R _I #5 ;_F #5 _b;you can yawn now;<D morning;lauds;<D;<S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0455
+_C #5 ;#5 _W;a few _R _I #5 ;_F #5 _b;you can yawn now;<D morning;lauds;<D;<S;the world feels quiet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0455
 _h #5 _b;a couple of _R past #5 ;a bit _K #5 _W;#5 ish;you could still be _3 some sleep;oh #5 _d;_g #5 _E;_X;<h _d ~~~~~~~~~~~~~~ 0500
 a few _R _K #5 ;_h #5 _E;a little bit _K #5 ;_3 near #5 #15 ;a few past #5 _b;<H _d <?gmt|utc|zulu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0505
 _F a _V _K #5 ;_V past #5 _b;_C #5 #15 ;a little bit to #5 #15 ;#5 #15 ish;lauds;uht ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0510
@@ -89,18 +89,18 @@ _V _K #7 or so;#7 #15 or thereabouts;just past a _V _K;a _V _K ish;still _f brea
 _4 #7 #30 ;nearing a _H #7 _E;#7 #20 give or take;a little _K #7 #15 ;going on #7 #30 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0720
 _C #7 #30 ;_F a _H #7 ;_2 _C #7 #30 ;#7 #30 or so;_H #7 ish;<D morning;a morning in <S;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0725
 _h #7 #30 ;#7 #30 give or take;_F a _H #7 _b;_Y;_h breakfast time;a morning in <M;_t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0730
-nearing #7 #45 ;a bit _K #7 #30 ;going on a _V to #8 ;still _C _H #7 ;_D a _V of;_W ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0735
-_B a _V to #8 ;_F #7 #45 _b;nearing a _V of #8 ;_B #8 _W;_V of #8 or so;morning;<Y ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0740
+nearing #7 #45 ;a bit _K #7 #30 ;going on a _V to #8 ;still _C _H #7 ;_D a _V of;_W;morning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0735
+_B a _V to #8 ;_F #7 #45 _b;nearing a _V of #8 ;_B #8 _W;_V of #8 or so;morning;<Y;the day begins anew ~~~~~~~~~~~~~~~~~~~~~~~~~~ 0740
 just past a _V of;a bit _J #8 _W;nearing #8 _E;_F a _V to #8 _E;_D #8 _b;first breakfast;<i <m <p on <D the <d of <M <Y ~~~~~~~~~ 0745
 a few _R to #8 _b;a little bit _J #8 ;_C #8 _W;_B #8 _E;#8 _b ish;<M;<S;_W;_t;practice radical self-espresso ~~~~~~~~~~~~~~~~~~~~ 0750
 #8 _E;close to #8 _b;a couple of _R to #8 ;#8 _W;_X;ante meridiem;a <D morning;_T ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0755
 _F #8 _b;_C #8 _E _W;_h #8 ;a few _R past #8 ;#8 _W or so;oh #8 _d;_g #8 _E;<H _d <?gmt|utc|zulu ;_X;<h _d ~~~~~~~~~~~~~~~~~~~~~~ 0800
 a little _K #8 ;some time _K #8 _E;just this side of #8 _b;nearing a _V _K;a bit past #8 _W ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0805
 going on a _V _K;_C #8 #15 or so;a bit _J #8 #15 ;_B a _V _K #8 ;#8 #15 ish;a morning in <S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0810
-_F a _V _K #8 ;#15 _K the hour;nearing #8 #30 ;_2 _C #8 #15 ;_F #15 _R past #8 ;today ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0815
+_F a _V _K #8 ;#15 _K the hour;nearing #8 #30 ;_2 _C #8 #15 ;_F #15 _R past #8 ;today;a <D morning in <M ~~~~~~~~~~~~~~~~~~~~~~~~ 0815
 _h #8 #15 ;a bit past a _V _K;going toward #8 #30 ;_3 on #8 #30 ;nearing a _H;_W;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0820
 _H #8 _W;_C #8 #30 or so;#8 #30 give or take;#8 #30 ish;_f #1 more latte;<D;_t;hurkle-durkle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0825
-_H #8 or so;_2 _C #8 #30 ;just past #8 #30 ;a bit _K _H #8 ;you should be _3 to work now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0830
+_H #8 or so;_2 _C #8 #30 ;just past #8 #30 ;a bit _K _H #8 ;you should be _3 to work now;<D morning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0830
 going on a _V to;nearing #9 _W;a bit _J a _V of #9 ;nearing #8 #45 ;_V of #9 ish;<H _d <?gmt|utc|zulu ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0835
 _F a _V of #9 ;_4 #9 _b;#8 #45 or so;#8 #45 ish;_F a _V of;<D morning;morning;<Y;_W;stretch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0840
 _B #9 ;_C #8 #45 _W;just past a _V to;rapidly _4 #9 ;_3 on #9 _b;a morning in <M;quta'a ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0845
@@ -113,7 +113,7 @@ _F a _V _K #9 ;_2 _C #9 ;i think it's _C #9 _b;just _F a _V past #9 ;going on #9
 going on #9 #30 ;a little _K #9 #15 _b;a bit _J _H #9 ;_3 on #9 #30 _W;going on _H;_W;_t;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0920
 #9 #30 or so;_F a _H #9 ;#9 #30 ish;a few _R to #9 #30 ;_Y;tiny sausage time;top o' the mornin' to ye;<S;<i <m <p ~~~~~~~~~~~~~~~ 0925
 _h a _H #9 ;a little bit _K #9 #30 ;a few _R past #9 #30 _b;just past #9 #30 _W;_H #9 ;hurkle-durkle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0930
-a little _K #9 #30 ;#9 #30 _W;_3 on a _V of ten;_F #9 #40 or so;_f a late breakfast;_W ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0935
+a little _K #9 #30 ;#9 #30 _W;_3 on a _V of ten;_F #9 #40 or so;_f a late breakfast;_W;a <M morning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0935
 going on a _V to;nearing a _V of ten;_i #9 #45 _b;_C a _V of ten;_V of ten ish;a morning in <S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0940
 _F a _V _I ten _b;_3 on ten _b;_C a _V of ten;_4 ten _W;_F a _V of;<D morning;daytime;<Y;deep breath ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0945
 a few _R to ten;_B ten _b;just _F ten _W;a bit _J ten;nearing ten _E;a <D morning;another cup of coffee might help ~~~~~~~~~~~~~~ 0950
@@ -144,7 +144,7 @@ going on _e;_D _e;right _C #12 _e;_B #12 _E;just _F #12 ;daytime;sext;<S;_T;toda
 #12 _e give or take;straight up #12 ;_i _e;_e ish;_X;_t;_C _e;endana;<M;_t;_4 _e;dhuhr ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1155
 _C _e;#12 _e or so;high _e;just past _e;lunchtime;_H yesterday;#12 _d;_g _e;#12 _E _g;_e _g;_e _E;_X;<h _d ~~~~~~~~~~~~~~~~~~~~~~ 1200
 _h #12 _e;_4 #12 #15 ;a bit past _e;a bit _K _e;midday;meridiem;sext;<H _d <?gmt|utc|zulu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1205
-_F a _V _K #12 ;_3 on a _V _K;_h _e;just past _e;high _e;endana;sheth sho'in ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1210
+_F a _V _K #12 ;_3 on a _V _K;_h _e;just past _e;high _e;endana;sheth sho'in;lunch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1210
 a _V _K or so;_C #12 _e;_F a _V _K;_V past #12 ;_f lunch;an afternoon in <S;sext ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1215
 _3 toward #12 #30 ;going on #12 #30 ;just past a _V _K;nearing _H _e;still _C _e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1220
 _F #12 #30 ;_2 _C #12 #30 ;_H #12 ;_C #12 #30 ;_Y;post meridiem;<M;<S;_t;_4 _H;dhuhr ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1225

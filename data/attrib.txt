@@ -46,13 +46,13 @@ General thanks and credits:
 
 Jessica Buenrostro and Sondra Carr for their help with the original (2009) project (and everything else)
 Heather Dessel for a ton of database entries and a healthy dose of inspiration, love, and humor
-Fabiola Bergi for all the right nudges at all the right times, and a lot of love and patiences
+Fabiola Bergi for all the right nudges at all the right times, and a lot of love and patience
 Paul Eggert for tirelessly and thanklessly maintining the timezone databases
 Susan Kaman and Barbara Elliot, for their past (and forever onward) understanding and support
 Jessica Armstrong and Kali Readwin for loving friendship
-Chantell Osejo for support, love, believing, and not an insignificant bit of coding help
+Chantell Osejo for support, believing, and not an insignificant bit of coding help
 J-Anne Carlsen for energy, inspiration and a good bit of silliness -- you get my noodle
-Megan Allen for assistance with the astrological data
+Megan Allen for assistance with the astrological data and just for being her
 Tasha Rose for her tenacity, strength, and hope
 Max Fractal (nee Kim Boekbinder), Arden Leigh, and Miss Monique (Alesia Arkusha) for the music and lyrics and magic
 
@@ -1057,6 +1057,14 @@ have a good idea of mine.
 0908  Hanna Arendt
 0909  Albert Camus
 0910  Benjamin Franklin
-0911  Japanese: if there’s no wind, keep rowing
+0911  Japanese: if there's no wind, keep rowing
 0912  Jacque Fresco
 0913  Heinrich Heine
+0914  Margaret Atwood
+0915  Helen Keller
+0916  Maya Angelou
+0917  Epictetus
+0918  Walter Cronkite
+0919  John Locke (not the one from Lost)
+0920  Dostoevsky
+0921  Charles de Lint
