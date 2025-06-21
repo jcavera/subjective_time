@@ -8,26 +8,27 @@
 ##                      sub_macro               Handle macro subsititutions (_<?>)
 ##                      sub_numeric             Handle numeric substitutions (#nnnn)
 ##                      sub_computed            Handle computed substitutions (<xxxxx...)
-##  Sub-sub-processors  sub_subproc_A               lat-lon coordinates rendered as the nearest whole number
-##                      sub_subproc_C               ordinal century
-##                      sub_subproc_D               day of the week
-##                      sub_subproc_G               distance and/or direction from the specified gps coordinates
-##                      sub_subproc_Hh              hour (24 hour format)
-##                      sub_subproc_M               month of the year
-##                      sub_subproc_O               random distance and/or direction
-##                      sub_subproc_P               random on-playa location
-##                      sub_subproc_Rr              random number
-##                      sub_subproc_S               season of the year
-##                      sub_subproc_Y               year
-##                      sub_subproc_Z               name of the current timezone
-##                      sub_subproc_d               ordinal date of the month
-##                      sub_subproc_i               hour (12 hour format)
-##                      sub_subproc_mn              minutes
-##                      sub_subproc_p               am or pm string
-##                      sub_subproc_s               substitution for the current hemisphere (south | north)
-##                      sub_subproc_t               randomizer: time to | just about time to | a good time to | ...
-##                      sub_subproc_y               ordinal day of the year
-##                      sub_subproc_qq              random choice between multiple items in a list
+##  Sub-sub-processors: sub_subproc_A           lat-lon coordinates rendered as the nearest whole number
+##                      sub_subproc_C           ordinal century
+##                      sub_subproc_D           day of the week
+##                      sub_subproc_G           distance and/or direction from the specified gps coordinates
+##                      sub_subproc_Hh          hour (24 hour format)
+##                      sub_subproc_M           month of the year
+##                      sub_subproc_N           random month of the year
+##                      sub_subproc_O           random distance and/or direction
+##                      sub_subproc_P           random on-playa location
+##                      sub_subproc_Rr          random number
+##                      sub_subproc_S           season of the year
+##                      sub_subproc_Y           year
+##                      sub_subproc_Z           name of the current timezone
+##                      sub_subproc_d           ordinal date of the month
+##                      sub_subproc_i           hour (12 hour format)
+##                      sub_subproc_mn          minutes
+##                      sub_subproc_p           am or pm string
+##                      sub_subproc_s           substitution for the current hemisphere (south | north)
+##                      sub_subproc_t           randomizer: time to | just about time to | a good time to | ...
+##                      sub_subproc_y           ordinal day of the year
+##                      sub_subproc_qq          random choice between multiple items in a list
 
 from dataclasses import dataclass
 import re
@@ -293,7 +294,7 @@ def sub_numeric (s):
 
 def sub_computed (s, coord):
     if (s == ""): return ("")                           ## safety check
-    valid = "[<][ACDGHMOPRSYZdghimnprsty?][^ ~/]*"      ## regex to find any valid substitution
+    valid = "[<][ACDGHMNOPRSYZdghimnprsty?][^ ~/]*"     ## regex to find any valid substitution
     subs  = re.findall(valid, s)
     if (len(subs) == 0): return (s)                     ## pop out if nothing found
     for item in subs:                                   ## step through each thing to substitute
@@ -304,6 +305,7 @@ def sub_computed (s, coord):
         elif (t == 'G'): s = sub_subproc_G  (s, coord, item)        ## distance and/or direction from the specified gps coordinates
         elif (t == 'H'): s = sub_subproc_Hh (s, coord, item)        ## 24-hour GMT clock (0..23).
         elif (t == 'M'): s = sub_subproc_M  (s, coord, item)        ## month (1..12; january, february, ...)
+        elif (t == 'N'): s = sub_subproc_N  (s, coord, item)        ## random month
         elif (t == 'O'): s = sub_subproc_O  (s, coord, item)        ## random distance and/or direction
         elif (t == 'P'): s = sub_subproc_P  (s, coord, item)        ## random playa co-ordinates
         elif (t == 'R'): s = sub_subproc_Rr (s, coord, item)        ## random number ranging from N..M
@@ -385,7 +387,7 @@ def sub_subproc_G (s, coord, item):
     
     heading  = app_numeric.gps_dir_deg_rhumb(coord.lat, coord.lon, la, lo)    ## compute distance and direction from target (lat, lon)
     distance = app_numeric.gps_dist_km_rhumb(coord.lat, coord.lon, la, lo)
-    if (distance < 11): return ("")                                     ## if too close to call, return null
+    if (distance < 25): return ("")                                     ## if too close to call, return null
     
     dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)       ## convert direction to string
     dir_str = k_directions[dir_idx] + " of"
@@ -427,6 +429,7 @@ def sub_subproc_Hh (s, coord, item):
     
 
 ## Process the current (local time) month (1..12; january, february, ...).  Start/end string data is unused.
+## The "N" macro is to pick a random month.
 
 k_months = [ "january", "february", "march",     "april",   "may",      "june",
              "july",    "august",   "september", "october", "november", "december" ]
@@ -437,6 +440,13 @@ def sub_subproc_M (s, coord, item):
     s = s.replace(item, a)
     return (s)
 
+
+def sub_subproc_N (s, coord, item):
+    if (s == ""): return ("")                                           ## safety check
+    mon = app_numeric.arand(2, 1, 12)                                   ## grab a random month
+    s = s.replace(item, k_months[mon - 1])
+    return (s)
+    
 
 ## Generate a random distance and/or direction. Start/end designate the '=aaa-bbbb' substring. Note that the
 ## string in question is in the WORK string.  This is important as it's where we (a) get the random distance

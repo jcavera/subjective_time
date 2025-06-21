@@ -47,9 +47,10 @@ class Config:
     ## Initialization routine - set up class members and read the file.
     
     def __init__ (self):
-        self.lat     = 47.434765                    ## Port Orchard, Washington, USA, Earth
-        self.lon     = -122.668934
-        self.tz      = 134                          ## time zone: north america/los angeles
+        self.lat     = 47.434765                    ## Port Orchard, Washington, USA, Earth = 47.434765, -122.668934
+        self.lon     = -122.668934                  ## Black Rock City, Nevada, USA, Earth  = 40.786110, -119.204595
+        self.tz      = 134                          ## time zone: north america/los angeles (port orchard)
+        
         self.tz_off  = -700                         ## offset: PDT = -700, PST = -800
         self.debug   = False                        ## debug flag (used for setting sleepytime and other stuff)
         self.playa   = True                         ## display on-playa messages
@@ -68,11 +69,11 @@ class Config:
         self.t_style = 'bold'                       ## style for the display font
         self.t_color = "#4f4"                       ## color for the line text
         
-        self.sec    = 'CONFIG'                      ## section name
-        self.f_cfg  = app_files.file_config         ## configuration file location
-        self.p      = configparser.ConfigParser()   ## set up a configuration parser
-        f_path = Path(self.f_cfg)                   ## check that the configuration file exists
-        exists = f_path.is_file()
+        self.sec     = 'CONFIG'                     ## section name
+        self.f_cfg   = app_files.file_config        ## configuration file location
+        self.p       = configparser.ConfigParser()  ## set up a configuration parser
+        f_path       = Path(self.f_cfg)             ## check that the configuration file exists
+        exists       = f_path.is_file()
         if (exists):    self.read()                 ## read the file to the globals if it does
         else:           self.write()                ## make the file with the defaults if it doesn't
     
@@ -135,8 +136,9 @@ class App ():
         self.i          = 0                         ## iteration counter
         self.c          = app_parser.coordinate(ltc, utc, self.cfg.lat, self.cfg.lon, self.cfg.tz, self.cfg.tz_off)
         
-        angle_start     = np.radians(self.cfg.l_start)      ## beginning angular position of the line
-        angle_end       = np.radians(self.cfg.l_end)        ## ending angular position of the line
+        angle_off       = 0.0                                       ## display rotation angle (-45 is diagonal)
+        angle_start     = np.radians(self.cfg.l_start + angle_off)  ## beginning angular position of the line
+        angle_end       = np.radians(self.cfg.l_end + angle_off)    ## ending angular position of the line
         
         self.root = tk.Tk()                                 ## set up the root window
         self.root.attributes('-fullscreen', True)           ##      use the full screen
@@ -174,7 +176,10 @@ class App ():
                 next_font = (self.cfg.t_font, (self.cfg.t_size - (j * self.cfg.t_sstep)), self.cfg.t_style)
                 self.textboxes[j].append(self.canvas.create_text(textX, textY, font=next_font, fill=self.cfg.t_color, angle=aangle ))
         clock_font = (self.cfg.t_font, self.cfg.t_size, self.cfg.t_style)
-        self.clock_txt = self.canvas.create_text(center_x, self.h - 150, anchor="center", font=clock_font, fill="#040")
+        if (angle_off != 0):
+            self.clock_txt = self.canvas.create_text(center_x - 300, center_y + 300, anchor="center", font=clock_font, fill="#040", angle=angle_off)
+        else:
+            self.clock_txt = self.canvas.create_text(center_x, self.h - 150, anchor="center", font=clock_font, fill="#040")
         
         self.update_me()                            ## update the UI elements
         self.root.mainloop()                        ## then enter the primary loop
@@ -183,7 +188,6 @@ class App ():
     
     def quit_me(self, event):
         self.cfg.write()
-##      if (platform.system() == "Linux"): os.system("shutdown now -h")     ## uncomment when the shutdown button handler is enabled
         sys.exit()
     
     ## Update the background image with the given file name.  If no file name is specified, then hide
