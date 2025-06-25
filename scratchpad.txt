@@ -2,12 +2,15 @@
 *** check all use of <t - make sure all possibilities make sense!
 
 !M=12,d=4 (a-1975) the death of hannah arendt
+!M=7,d=23 (a-1928) the birth of vera rubin
+!M=7,d=24 the greater feast of marjorie cameron
 (a-1662) pierre de fermat published the principle of least time
 
 <G=+36509,+043229 dur-sharrukin
 <G=+53380,-001459 the park hill estate/i love you will u marry me
-<O=200-2000 a <?door|gateway to the <?astral|beyond|ethereal|feywilds|shadow
-<O=200-2000 an interdimensional <?door|gate|incursion|portal|rift
+<O=200-2000 a <?door|gateway to the <?astral|beyond|ethereal|feywilds
+<O=200-2000 a <?door|gateway to the <?shadow|ineffable|bizarre|real
+<O=200-2000 an interdimensional <?door|gateway|incursion|portal|rift
 <O=200-2000 an interdimensional <?library|cafe
 
 ab aeterno (latin: from the eternal)
@@ -16,8 +19,21 @@ ab incunabulis (latin: from the cradle)
 ab initio (latin: from the beginning)
 acta non verba (latin: deeds not Words)
 
+a new day is <?dawning|coming|here
 all we have is each other
+as <?he|she is holding a gun to <?his|her head
+as <?he|she is lost in the beauty of a forgotten <?love|memory|song
 before we move beyond
 in actu (latin: in the act of)
+in the beginning
+it's a new day
+it's all going to be okay
+it's all part of the process/stay as strong as you can
+it's all part of the process
 never show all of your cards
 prior to the awakening
+soon the surface will break
+the world is painted by our dreams/and by our pain
+this <?may|might|could be your moment
+you weren't trying to make a mistake/you were trying to solve a problem/no shame - we're all figuring this out on the fly
+your moment is coming/be <?ready|patient|prepared
