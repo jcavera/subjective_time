@@ -1,21 +1,57 @@
 *** western australia day ~~~ 1st monday in june
 *** check all use of <t - make sure all possibilities make sense!
 *** set the long-timer to something shorter (but at least 30 sec.)
+*** add a macro for: 
+*** *** sex
+*** *** drugs
+*** *** politics
+*** *** yoga
+*** *** crafting
+*** *** alcohol
+*** *** music
+*** *** science
+*** *** art
+*** *** dancing
+*** *** magic
+*** *** ecology
+*** *** futurism
+*** *** food
+*** *** economics
+*** *** mysticism
+*** *** religion
+*** *** healing
+*** *** medicine
+*** *** psychology
+*** *** engineering
+*** *** technology
 
 !M=6,d=26 (a-1945) the establishment of the united nations
-(b-1500) the forging of the sword of jutphaas
+!M=6,d=26 (a-2025) max fractal and molly crabapple won emmy awards
+!M>6,M<10 right now a haleakala volcano silversword is blooming for the first and last time in its life
+(a-843) the founding of the kingdom of alba
+<G=+35136,+025379 ariadne's labyrinth
 <G=+36378,+037275 tell qaramel
 <G=+52274,-003327 the llandegley international airport
 <G=-23528,-068263 el salar de atacama
 
 become a sheep and you will see the wolf
+come in to the light
 every human is the first and last of their kind
 evolution doesn't have a single aim
 fifty four hundred years since the/beginning of the bronze age
 humanity is found in the present/you will never understand your full impact
 hunger sees nothing but bread
 in the <Z of our discontent
+it's okay to stop pretending that it's working
+next <?week|month|year will be different
 normalcy is a matter of consensus
 seventy six hundred years since the invention of the plow
+six hundred thirty two million years/until the last solar eclipse
+that <?event|workshop|lecture that sounds like it's about <***> ? / it's actually about <***> / go figure
 the future is made of change
+thirty six hundred years since the forging/of the bronze sword of jutphaas
+thirty six hundred years since the hyksos ruled lower egypt
+tomorrow will be different
 we love you/you are not alone/everything is going to be okay
+you are allowed to take up <?space|time
+you are imporant to the world
