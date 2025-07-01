@@ -3,8 +3,14 @@
 *** set the long-timer to something shorter (but at least 30 sec.)
 *** first saturday in september - the weekend of the cumberland kentucky possum festival
 
+!M=2,d=1 (a-1959) the dyatlov pass incident
 !M=3,d=25 (a-1611) the birth of evliya celebi the traveler
+!M=7 (a-2076) sedna is at perihelion
+!M>6,M<10 (a-1918) the japanese rice riots
 (a-1663) lagari hasan celebi made the first manned rocket flight
+(a-2078) leleakuhonua is at perihelion
+<G=-46675,+169006 slope point
+<G=-52619,+169126 jacquemart island
 
 drag time
 thank you for being a friend
@@ -14,5 +20,10 @@ ahhh... that awkward age/where you're old enough to drink/and too young to retir
 begin to weave and god will provide the thread
 don't just train for the situation you're in/train for the situations ahead
 if you wash your hands of the conflict/between the powerful and the powerless/you have sided with the powerful
+in a society where lies are law/honesty is rebellion
+in a society where lies are law
+one day it might be you
+there but for the grace of god... /
 try to leave the world like you came into it/naked and screaming and covered in blood
 you are an irreplaceable gift
+you saved them in ways that you/can't even understand
