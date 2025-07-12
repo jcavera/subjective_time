@@ -2,19 +2,3 @@
 *** check all use of <t - make sure all possibilities make sense!
 *** set the long-timer to something shorter (but at least 30 sec.)
 *** reconcile with https://www.internationaldays.co/
-
-<G=+31977,-104752 mckittrick canyon
-<G=+35311,-082788 the sliding rock
-<G=+35341,-111690 humphreys peak
-<G=+35342,-111836 the coconino lava river cave
-<G=+36255,-112698 havasupai falls
-<G=+36737,-118861 the buck rock fire lookout
-<G=+37395,-091576 the welch spring hospital ruins
-<G=+38841,-105043 the pikes peak summit house
-<G=+39011,-114302 the prometheus tree stump
-<G=+47866,-123870 one square inch of perfect silence
-<G=+47872,-123929 the hall of mosses
-<G=+48760,-113787 the ptarmigan tunnel
-
-quo peregrinatur grex pastor secum (Latin: where wanders the flock, the shepard is with them)
-weird is just inspiration that didn't ask permission
