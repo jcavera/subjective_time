@@ -22,6 +22,7 @@
 ##                      sub_subproc_Y           year
 ##                      sub_subproc_Z           name of the current timezone
 ##                      sub_subproc_d           ordinal date of the month
+##                      sub_subproc_e           event classification (this is a weird one)
 ##                      sub_subproc_i           hour (12 hour format)
 ##                      sub_subproc_mn          minutes
 ##                      sub_subproc_p           am or pm string
@@ -294,7 +295,7 @@ def sub_numeric (s):
 
 def sub_computed (s, coord):
     if (s == ""): return ("")                           ## safety check
-    valid = "[<][ACDGHMNOPRSYZdghimnprsty?][^ ~/]*"     ## regex to find any valid substitution
+    valid = "[<][ACDGHMNOPRSYZdeghimnprsty?][^ ~/]*"    ## regex to find any valid substitution
     subs  = re.findall(valid, s)
     if (len(subs) == 0): return (s)                     ## pop out if nothing found
     for item in subs:                                   ## step through each thing to substitute
@@ -313,6 +314,7 @@ def sub_computed (s, coord):
         elif (t == 'Y'): s = sub_subproc_Y  (s, coord, item)        ## year (e.g: two thousand and fifteen)
         elif (t == 'Z'): s = sub_subproc_Z  (s, coord, item)        ## name of the current timezone
         elif (t == 'd'): s = sub_subproc_d  (s, coord, item)        ## ordinal date of the month (1..31; first, second, ...)
+        elif (t == 'e'): s = sub_subproc_e  (s, coord, item)        ## event classification for random playa "events"
         elif (t == 'g'): s = ""                                     ## geomagnetic orientation (degrees and/or north, northeast, east, etc.)
         elif (t == 'h'): s = sub_subproc_Hh (s, coord, item)        ## 24-hour clock (0..23)
         elif (t == 'i'): s = sub_subproc_i  (s, coord, item)        ## 12-hour clock (1..12)
@@ -579,6 +581,19 @@ def sub_subproc_d (s, coord, item):
     if (s == ""): return ("")                                           ## safety check
     a = app_strings.num_to_text(coord.ltc.day, True)
     s = s.replace(item, a)
+    return (s)
+
+
+## Do a substitution for made-up playa events.  
+
+k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "music",    "science", "engineering", "technology",
+            "magic", "ecology", "futurism", "food", "economics", "mysticism", "religion", "healing", "medicine",    "psychology",
+            "art",   "dance" ]
+
+def sub_subproc_e (s, coord, item):
+    if (s == ""): return ("")                                           ## safety check
+    r  = app_numeric.arand(1, 1, 22)                                    ## random selection of the event type
+    s = s.replace(item, k_event[r])
     return (s)
 
 

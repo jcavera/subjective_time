@@ -38,7 +38,7 @@ k_LEN_K_MACR =  27      ## file - k_macro.txt
 
 dir_top         = ""                                ## top level directory relative to this fileyt
 
-dir_images      = dir_top + "image_1080_1080/"      ## directory - default for image files
+dir_images      = dir_top + "image_1920_45/"        ## directory - default for image files (on playa use "image_1920_45")
 dir_data        = dir_top + "data/"                 ## directory - data files
 dir_h_year      = dir_top + "h_year/"               ## directory - high-priority daily event files by year
 dir_r_year      = dir_top + "r_year/"               ## directory - normal daily event files by year

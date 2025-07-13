@@ -47,9 +47,9 @@ class Config:
     ## Initialization routine - set up class members and read the file.
     
     def __init__ (self):
-        self.lat     = 47.434765                    ## Port Orchard, Washington, USA, Earth = 47.434765, -122.668934
-        self.lon     = -122.668934                  ## Black Rock City, Nevada, USA, Earth  = 40.786110, -119.204595
-        self.tz      = 134                          ## time zone: north america/los angeles (port orchard)
+        self.lat     = 40.786110                    ## Port Orchard, Washington, USA, Earth = 47.434765, -122.668934
+        self.lon     = -119.204595                  ## Black Rock City, Nevada, USA, Earth  = 40.786110, -119.204595
+        self.tz      = 134                          ## time zone: 134 = north america/los angeles (port orchard)
         
         self.tz_off  = -700                         ## offset: PDT = -700, PST = -800
         self.debug   = False                        ## debug flag (used for setting sleepytime and other stuff)
@@ -136,7 +136,7 @@ class App ():
         self.i          = 0                         ## iteration counter
         self.c          = app_parser.coordinate(ltc, utc, self.cfg.lat, self.cfg.lon, self.cfg.tz, self.cfg.tz_off)
         
-        angle_off       = 0.0                                       ## display rotation angle (-45 is diagonal)
+        angle_off       = -45.0                                     ## display rotation angle (-45 is diagonal, otherwise 0.0)
         angle_start     = np.radians(self.cfg.l_start + angle_off)  ## beginning angular position of the line
         angle_end       = np.radians(self.cfg.l_end + angle_off)    ## ending angular position of the line
         
@@ -144,8 +144,7 @@ class App ():
         self.root.attributes('-fullscreen', True)           ##      use the full screen
         self.root.config(cursor="none")                     ##      get rid of the mouse cursor
         
-        ## install handlers for events
-        ## TODO: figure out how to read a button to shut down the system then add a handler for it
+        ## install handlers for events --- none right now
         
         self.root.bind("<Escape>", self.quit_me)            ## bind the quit method to the escape key
         signal.signal(signal.SIGTERM, self.quit_me)         ## add signal handlers for power-down
@@ -271,7 +270,7 @@ class App ():
         
         self.update_strings(a.message)                                          ## update the message string
         sleepytime = app_numeric.roll_dice("3d20") * 5000                       ## random sleepytime = 0:15 - 5:00 (nominally 2.5 minutes)
-        if (self.cfg.debug): sleepytime = 8000                                  ## debug sleepytime = 8 seconds
+        if (self.cfg.debug): sleepytime = 10000                                 ## debug sleepytime = 8 seconds
         self.root.after(sleepytime, self.update_me)                             ## set the time for the next update
         
 
