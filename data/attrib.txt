@@ -26,11 +26,11 @@ This device knows many things but may only choose to tell you a few of them.  It
     - Coptic            - Mesoamerican      - Julian
 
 - It may decide to cast an I-Ching reading, draw a card from a divination deck, or shake a magic 8-ball, or throw runes
-- It may give you positional references to any one of many thousands of different points
+- It may give you positional references to any one of many thousands of different places
 - Or temporal references to many thousands of different past or future events
 - Its database contains many many thousands of holidays and important times
 - It may give you instructions or give you a quest to go on
-- It also knows quite a lot of book and movie quotes and song lyrics
+- It also knows quite a lot of book and movie quotes and song lyrics and random sayings
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -421,7 +421,7 @@ have a good idea of mine.
 0287  Olive, You are Not Alone
 0288  Randall Munroe, XKCD; #137, dreams
 0289  Randall Munroe, XKCD; #1704, gnome Ann
-0290  Miguel de Cervantes
+0290  Miguel de Cervantes Saavedra, Don Quixote
 0291  Randall Munroe, XKCD; #240, dream girl
 0292  Randall Munroe, XKCD; choices (series)
 0293  Pierre Teilhard de Chardin
@@ -1068,3 +1068,12 @@ have a good idea of mine.
 0919  John Locke (not the one from Lost)
 0920  Dostoevsky
 0921  Charles de Lint
+0922  Latin: from the ancient
+0923  Latin: deeds not words
+0924  Latin: in the act of
+0925  Scottish: long may your chimney smoke
+0926  Latin: shit happens
+0927  Latin: where wanders the flock, the shepard is with them
+0928  James Hillman
+0929  Japanese: be strong, be gentle, be beautiful
+0930  Edward Abbey

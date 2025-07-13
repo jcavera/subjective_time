@@ -181,7 +181,7 @@ logistics _t;paul bunyan _t;tapioca _t;tau _t;(a-1969) the stonewall riot;body p
 camera _t;_u mud _t;_u _t _, tropics;mnarja;waffle iron _t;xyla foxlin's _v;(a-1613) the globe theatre was destroyed ~~~~~~~~~~~ 06-29
 asteroid _t;social media _t;mnarja;(a-1908) the tunguska event;meteor watching _t;ellen sheidlin's _v;knit in public;the _L _t of <M ~
 postal workers _t;reggae _t;weird ice cream flavor _t;joke _t;(a-1983) _q buckminster fuller;<M the _s;canada _t;_u tartan _t ~~ 07-01
-i forgot;anisette _t;hangesho;_u ufo _t;(a-1900) the _s zepplin flight;vicente fox quesada's _v;palio di drovenzano ~~~~~~~~~~~~ 07-02
+i forgot;anisette _t;hangesho;_u ufo _t;(a-1900) the _s zepplin flight;vicente fox quesada's _v;palio di drovenzano;_u porcupine _t ~~
 disobedience _t;eat beans;rock dropping _t;fried clam _t;(a-1971) _q jim morrison;plastic bag free _t;van mahotsav;crown _t ~~~~ 07-03
 jackfruit _t;american independence _t;henrietta swan leavitt's _v;wonderland _t;richard garriott's _v;van mahotsav;caeser salad _t ~~~
 apple turnover _t;build a scarecrow;bikini _t;(a-1687) _y principia mathematica;a e douglass' _v;mechanical pencil _t;van mahotsav ~~~
@@ -210,7 +210,7 @@ norfolk _t;walk on stilts;korean war armistice _t;love is kind;chicken finger _t
 milk _z _t;hepatitis _t;visit a waterpark;buffalo soldiers _t;the _. _, piscis austrinid meteors;olavsoka eve;karl popper's _v ~ 07-28
 lipstick _t;_u tiger _t;chicken wing _t;(a-1890) _q vincent van gogh;rain _t;(a-1958) _r nasa;carl cox's _v;olavsoka;lasagna _t ~~~ 29
 cheesecake _t;_u friendship _t;paperback book _t;(a-762) _r baghdad;father in law _t;the _. _, southern delta aquariid meteors ~ 07-30
-avocodo _t;mutt _t;ranger _t;uncommon instrument _t;sysadmins _t;bubblegum _t;ka hae hawai'i _t;_. _, alpha capricornid meteors ~~~ 31
+avocado _t;mutt _t;ranger _t;uncommon instrument _t;sysadmins _t;bubblegum _t;ka hae hawai'i _t;_. _, alpha capricornid meteors ~~~ 31
 girl friends _t;_u friendship _t;childfree _t;respect _7 parents;planning _t;pachamama raymi;lammas;freyfaxi;<s=lughnasadh|imbolic ~~~
 _u beer _t;coloring book _t;ice cream sandwich _t;_u _m _t _, roma holocaust;harvest fest;rap _t;elisha gray's _v;nebuta;llamas! ~~ 02
 disc golf _t;watermelon _t;white wine _t;joseph paxton's _v;maggie kuhn's _v;esther _t;cloves syndrome _k;nebuta;kanto ~~~~~~~~~ 08-03
@@ -724,7 +724,7 @@ _w bowling _t;_w garage sale _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 homemless animals _t;_u honeybee _t;_u geocaching _t;laguna beach bandit _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third saturday in august x
 _u bat _. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last sunday in august and the preceeding saturday x
 _t _, programmer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256th day of the year x
-_w lazy moms _t;_w food bank _t;_w chianti _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first friday in september x
+_w lazy moms _t;_w food bank _t;_w chianti _t;the weekend of the cumberland kentucky possum festival ~~~~~ first friday in september x
 _u beard _t;_u turkey vulture _t;_w tailgating _t;freddie mercury montreux _m _t ~~~~~~~~~~~~~~~~~~~~~~~ first saturday in september x
 _w boss employee exchange _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ second monday in september x
 school picture _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ second thursday in september x
