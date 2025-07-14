@@ -3,6 +3,7 @@
 *** set the long-timer to something shorter (but at least 30 sec.)
 *** reconcile with https://www.internationaldays.co/
 
+!M=7,d=14 the death of andrea gibson
 (a-1610) galileo wrote the sidereus nuncius
 (a-1955) emma gatewood walked the entire appalachian trail
 (a-1976) mau pialug sailed from hawai'i to tahiti using only the stars
@@ -13,6 +14,7 @@ astra intra (Latin: the stars are within)
 fear only lasts for as long as you let it
 fortuna veniet (Latin: luck will come)
 joy doesn't cancel out the heavy things/but it gives strength to carry them
+life won't postpone your death/so don't postpone your life
 one must give value to their existence/by behaving as if one's very existence/were a work of art - Nietzsche
 semper amatus/numquam oblitus (Latin: always loved, never forgotten)
 the considerate also need consideration
