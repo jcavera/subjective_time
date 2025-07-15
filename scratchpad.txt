@@ -1,37 +1,3 @@
 *** western australia day ~~~ 1st monday in june
 *** reconcile with https://www.internationaldays.co/
-*** from r_brc.txt - get rid of lines 47..49 (extra man burns tonight lines)
 
-!M=7,d=14 the death of andrea gibson
-(a-1165) the death of the archpoet
-(a-1230) the writing of carmina burana
-(a-1610) galileo wrote the sidereus nuncius
-(a-1955) emma gatewood walked the entire appalachian trail
-(a-1976) mau pialug sailed from hawai'i to tahiti using only the stars
-<G=+52080,+004310 the hague
-<O=1000-5000 a road to the land of cockaigne
-
-a lot can go wrong/before it all goes right
-all you ever really have is/what you hold inside you
-astra intra (Latin: the stars are within)
-fear only lasts for as long as you let it
-fortuna imperatrix mundi (Latin: fortune imperils the world)
-fortuna veniet (Latin: luck will come)
-in interiore homine habitat veritas (Latin: truth lies within the inner person)
-in the warm glow of the love that remains [also brc after the man burns - sunday or monday]
-it's not the weight of life that crushes you/it's that you try to carry it alone
-joy doesn't cancel out the heavy things/but it gives strength to carry them
-life won't postpone your death/so don't postpone your life
-one must give value to their existence/by behaving as if one's very existence/were a work of art - Nietzsche
-quis custodiet ipsos custodes? / (Latin: who watches the watchmen?)
-semper amatus/numquam oblitus (Latin: always loved, never forgotten)
-sit deus propitius huic potatori (Latin: may god be merciful to this poor drunkard)
-the considerate also need consideration
-the healer also needs healing
-the giver also needs to receive
-the planner also needs surprises
-the thoughtful also need to be though of
-the whole world is a series of miracles/but we're so used to them/that we call them ordinary
-we were a story with pages left unwritten/perhaps in another universe/we'll pick up the pen and write the ending
-what you lose can create space/for what you need
-you are reading a book with no way to turn back pages/pay close attention to the narrative
