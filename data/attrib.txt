@@ -42,7 +42,7 @@ of code, data, image, or resource files; in whole or in part.  All rights reserv
 
 General thanks and credits:
 
-**** Amy Eichstead for absolutely everything, ever, for all of space and time ****
+**** Amy Eichsteadt for absolutely everything, ever, for all of space and time ****
 
 Jessica Buenrostro and Sondra Carr for their help with the original (2009) project (and everything else)
 Heather Dessel for a ton of database entries and a healthy dose of inspiration, love, and humor
@@ -1077,3 +1077,11 @@ have a good idea of mine.
 0928  James Hillman
 0929  Japanese: be strong, be gentle, be beautiful
 0930  Edward Abbey
+0931  Latin: the stars are within
+0932  Latin: fortune imperils the world
+0933  Latin: luck will come
+0934  Latin: truth lies within the inner person
+0935  Latin: always loved, never forgotten
+0936  Latin: may god be merciful to this poor drunkard
+0937  Andrea Gibson
+0938  Frederick Law Olmsted
