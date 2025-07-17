@@ -3,6 +3,7 @@
 *** cond 07-13: replace evan's with evans'
 *** app_markup.py sub_subproc_e : fix array indexing to start at 0 and go to len()-1
 
+!M=6,d=11 (a-2078) leleakuhonua is at perihelion
 !M=7,d=17 melanie wullaert's birthday
 !M=8,d=23 shannon hastings' birthday
 (a-1025) guido of arezzo invented musical notation
