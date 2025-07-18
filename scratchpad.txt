@@ -2,3 +2,9 @@
 *** reconcile with https://www.internationaldays.co/
 *** app_markup.py sub_subproc_e : fix array indexing to start at 0 and go to len()-1
 
+(b-1180) meli-sipak the second commissioned the hunnubat-nanaya kudurru
+
+if it's not right do not do it/if it's not true do not say it - Marcus A
+the eyes of others - our prisons/their thoughts - our cages - Virginia Woolf
+when truth is inconvenient/power labels it conspiracy - Noam Chomsky
+without disturbance we are only strangers
