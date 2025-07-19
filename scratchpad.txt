@@ -1,21 +1,3 @@
 *** western australia day ~~~ 1st monday in june
 *** reconcile with https://www.internationaldays.co/
-*** app_markup.py sub_subproc_e : fix array indexing to start at 0 and go to len()-1
 
-(a-2017) the temple of the golden spike ~~~ $brc
-(b-1180) meli-sipak the second commissioned the hunnubat-nanaya kudurru
-<t raise your voice
-
-if it's not right do not do it/if it's not true do not say it - Marcus A
-never love anyone who treats you/like you are ordinary - Oscar Wilde
-next week it will be gone/but next week might as well be never/you are here now ~~ $brc
-out of nothing/we created everything ~~~ $brc
-the eyes of others - our prisons/their thoughts - our cages - Virginia Woolf
-the path to freedom begins with honesty
-welcome to nowhere/its name is whatever you name it/its wealth is whatever you bring it/next week it will be gone ~~~ $brc
-when truth is inconvenient/power labels it conspiracy - Noam Chomsky
-when we were young
-without disturbance we are only strangers
-you must become an outlaw/if you wish to find the truth - Nietzsche
-you shouldn't be getting your dopamine from the internet
-you shouldn't be reading quotes for motivation
