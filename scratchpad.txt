@@ -1,20 +1,26 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
+*** japanese sea day ~~~ third monday in july
 *** reconcile with https://www.internationaldays.co/
 
+!M=7,d=21 belgian national day
 <G=+30262,+079732 the skeleton lake of roopkund
+<G=+43267,-001533 zugarramurdi
 <G=+59014,+006429 the florlitrappene staircase
 <t join the revolution
 
-blind obedience to authority is the greatest/enemy of the truth ~~~ 0552
+blind obedience to authority is/the greatest enemy of the truth ~~~ 0552
+civilization has not yet recovered from the shock of its birth ~~~ Karl Popper
 even the most beautiful stories have some bad chapters/and there's nothing wrong with that
 fill your life with adventure and not things/have stories to tell and not stuff to show
-how we do this matters as much/as what gets done
+how we do this matters/as much as what gets done
 if you encounter any physical sensorial/cognitive memetic or temporal anomalies/please document and report them ~~~ $wnv
-in a moment of <?strength|weakness|oneness|clarity
+in a moment of <?strength|weakness|oneness|clarity|absurdity
 interested in traveling through time? /meet here last thursday at seven! /
-promise me you'll fight until your hands are bleeding/that you're lungs will give in before you do/that no one will look on you with remorse or pity - Samira Vivette
-the point was not to break the rules/the point was to build a world in which/rules make no sense ~~~ $brc
-this was never supposed to scale/it was supposed to matter ~~~ $brc
-we didn't build all of this so that people could/function as interchangrable parts in a flow chart/we built it to challenge consensus reality ~~~ $brc
-you have no idea what the universe has planned/so keep going
+promise me that you'll fight so that no one will/look on you with remorse or pity - Samira Vivette
+promise me you'll fight until your hands are bleeding/that you're lungs will give in before you do - Samira Vivette
+the <?day|week|month|year that it all changed for <?him|her|them
+the point was not to break the rules/the point was to build a world in which/rules make no sense to have ~~~ $brc
+this was never supposed to scale/it was just supposed to matter ~~~ $brc
+we didn't build all of this so that people could/function as parts in an org chart/we built it to challenge consensus reality ~~~ $brc
+you have no idea what the universe has planned/so keep going and find out
