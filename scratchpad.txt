@@ -1,6 +1,6 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
-*** japanese sea day ~~~ third monday in july
+*** japanese sea day ~~~ third monday in july (line 710 in macro file)
 *** reconcile with https://www.internationaldays.co/
 
 !M=7,d=21 belgian national day
