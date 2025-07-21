@@ -2,6 +2,7 @@
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** japanese sea day ~~~ third monday in july (line 710 in macro file)
 *** reconcile with https://www.internationaldays.co/
+*** fix line 916 in brc: you->your
 
 !M=7,d=21 belgian national day
 <G=+30262,+079732 the skeleton lake of roopkund
