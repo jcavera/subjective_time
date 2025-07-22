@@ -33,12 +33,12 @@ promise me you'll fight until your hands are bleeding/that you're lungs will giv
 silence doesn't change the world/it changes you
 take the time to drink your <?coffee|tea
 the <?day|week|month|year that it all changed for <?him|her|them
-the point was not to break the rules/the point was to build a world in which/rules make no sense to have ~~~ $brc
+the point is not to break the rules/the point is to build a world in which/rules make no sense to have ~~~ $brc
 the reason that you should care is not/that it might happen to you/it's that it's already happening to others
 there are times that you must speak/not because you are going to change others/but because if you stay silent they change you
 this was never supposed to scale/it was just supposed to matter ~~~ $brc
 those who have the privilege to know/have the duty to act ~~~ 0552
-we didn't build all of this so that people could/function as parts in an org chart/we built it to challenge consensus reality ~~~ $brc
+we didn't build all of this so that people/could function as parts in an org chart/we built it to challenge consensus reality ~~~ $brc
 what brings no benefit to the hive/brings none to the bee ~~~ 0539
 years of love have been forgotten/in the hatred of the moment ~~~ 0867
 you are not too weird or too broken to be loved/the right people will absolutely adore you
