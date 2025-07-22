@@ -8,6 +8,7 @@
 (a-305) emperor diocletian retired to a farm to grow cabbages
 !M=7,d=21 belgian national day
 !M=7,d=22 fudgesicle day
+!M=9 (a-1977) the release of the atari twenty six hundred
 <G=+30262,+079732 the skeleton lake of roopkund
 <G=+31655,+034938 horvat midras
 <G=+43267,-001533 zugarramurdi
