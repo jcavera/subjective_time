@@ -7,6 +7,7 @@
 (a-1200) the creation of the seljuk lockbox
 (a-305) emperor diocletian retired to a farm to grow cabbages
 !M=7,d=21 belgian national day
+!M=7,d=22 fudgesicle day
 <G=+30262,+079732 the skeleton lake of roopkund
 <G=+31655,+034938 horvat midras
 <G=+43267,-001533 zugarramurdi
@@ -24,6 +25,7 @@ fill your life with adventure and not things/have stories to tell and not stuff 
 how we do this matters/as much as what gets done
 if you encounter any physical sensorial/cognitive memetic or temporal anomalies/please document and report them ~~~ $wnv
 in a moment of <?strength|weakness|oneness|clarity|absurdity
+progress in your art looks like tiny awkward steps/take them anyway because standing still/costs more in the long run
 interested in traveling through time? /meet here last thursday at seven! /
 promise me that you'll fight so that no one will/look on you with remorse or pity - Samira Vivette
 promise me you'll fight until your hands are bleeding/that you're lungs will give in before you do - Samira Vivette
@@ -37,4 +39,5 @@ this was never supposed to scale/it was just supposed to matter ~~~ $brc
 those who have the privilege to know/have the duty to act ~~~ 0552
 we didn't build all of this so that people could/function as parts in an org chart/we built it to challenge consensus reality ~~~ $brc
 what brings no benefit to the hive/brings none to the bee - Marcus A
+years of love have been forgotten/in the hatred of the moment - Edgar Allen Poe
 you have no idea what the universe has planned/so keep going and find out
