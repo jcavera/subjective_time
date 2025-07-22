@@ -4,14 +4,21 @@
 *** reconcile with https://www.internationaldays.co/
 *** fix line 916 in brc: you->your
 
+(a-1200) the creation of the seljuk lockbox
+(a-305) emperor diocletian retired to a farm to grow cabbages
 !M=7,d=21 belgian national day
 <G=+30262,+079732 the skeleton lake of roopkund
+<G=+31655,+034938 horvat midras
 <G=+43267,-001533 zugarramurdi
 <G=+59014,+006429 the florlitrappene staircase
+<t free yourself
 <t join the revolution
+<t unearth what is buried within you
 
 blind obedience to authority is/the greatest enemy of the truth ~~~ 0552
+caution! /you are entering a heightened deja vu area/please alert the authorities if you experience this again ~~~ $wnv
 civilization has not yet recovered from the shock of its birth ~~~ Karl Popper
+climb the goddamn mountain
 even the most beautiful stories have some bad chapters/and there's nothing wrong with that
 fill your life with adventure and not things/have stories to tell and not stuff to show
 how we do this matters/as much as what gets done
@@ -20,8 +27,14 @@ in a moment of <?strength|weakness|oneness|clarity|absurdity
 interested in traveling through time? /meet here last thursday at seven! /
 promise me that you'll fight so that no one will/look on you with remorse or pity - Samira Vivette
 promise me you'll fight until your hands are bleeding/that you're lungs will give in before you do - Samira Vivette
+silence doesn't change the world/it changes you
+take the time to drink your <?coffee|tea
 the <?day|week|month|year that it all changed for <?him|her|them
 the point was not to break the rules/the point was to build a world in which/rules make no sense to have ~~~ $brc
+the reason that you should care is not/that it might happen to you/it's that it's already happening to others
+there are times that you must speak/not because you are going to change others/but because if you stay silent they change you
 this was never supposed to scale/it was just supposed to matter ~~~ $brc
+those who have the privilege to know/have the duty to act ~~~ 0552
 we didn't build all of this so that people could/function as parts in an org chart/we built it to challenge consensus reality ~~~ $brc
+what brings no benefit to the hive/brings none to the bee - Marcus A
 you have no idea what the universe has planned/so keep going and find out
