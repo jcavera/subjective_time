@@ -7,17 +7,20 @@
 (a-1200) the creation of the seljuk lockbox
 (a-1894) albert michelson stated that most of the underlying principles of science have been firmly established
 (a-305) emperor diocletian retired to a farm to grow cabbages
+(b-1650) the last woolly mammoths died on wrangel island
 !M=4,d=26 (a-1902) lord kelvin stated that heavier than air flight is impossible
 !M=4,d=27 (a-1900) lord kelvin stated that there is nothing new to be discovered in physics
 !M=7,d=21 belgian national day
 !M=7,d=22 fudgesicle day
 !M=7,d=22 (a-2025) the death of ozzy osborne
+!M=7 (a-1976) the release of the zilog z-eighty microprocessor
 !M=9 (a-1977) the release of the atari twenty six hundred
 <G=+30262,+079732 the skeleton lake of roopkund
 <G=+31655,+034938 horvat midras
-<G=+34480,-113335 the town of nothing
+<G=+34480,-113335 the lost town of nothing
 <G=+43267,-001533 zugarramurdi
 <G=+59014,+006429 the florlitrappene staircase
+<G=+71233,-179417 wrangel island
 <t free yourself
 <t join the revolution
 <t unearth what is buried within you
@@ -31,9 +34,9 @@ fill your life with adventure and not things/have stories to tell and not stuff 
 he told a story on his body/each tattoo a lesson learned/each scar a rite of passage ~~~ $brc
 how we do this matters/as much as what gets done
 if you encounter any physical sensorial/cognitive memetic or temporal anomalies/please document and report them ~~~ $wnv
-in a lost dream ~~~~ $brc
+in a <?lost|lucid|realistic dream ~~~~ $brc
 in a moment of <?strength|weakness|oneness|clarity|absurdity
-in an ancient dream ~~~ $brc
+in an <?absurd|ancient dream ~~~ $brc
 interested in traveling through time? /meet here last thursday at seven! /
 nothing in the world is worth/turning your back on what you love ~~~ 0909
 prior to the rapid unscheduled disassembly
@@ -43,13 +46,16 @@ promise me you'll fight until your hands are bleeding/that you're lungs will giv
 she told a story on her body/each tattoo a lesson learned/each scar a rite of passage ~~~ $brc
 silence doesn't change the world/it changes you
 take the time to drink your <?coffee|tea
+that was then/this is now
 the <?day|week|month|year that it all changed for <?him|her|them
 the best thing to hold onto in life/is each other ~~~ $brc
 the point is not to break the rules/the point is to build a world in which/rules make no sense to have ~~~ $brc
 the reason that you should care is not/that it might happen to you/it's that it's already happening to others
 there are times that you must speak/not because you are going to change others/but because if you stay silent they change you
+this is now/and now/and now
 this was never supposed to scale/it was just supposed to matter ~~~ $brc
 those who have the privilege to know/have the duty to act ~~~ 0552
+time will tell
 we didn't build all of this so that people/could function as parts in an org chart/we built it to challenge consensus reality ~~~ $brc
 what brings no benefit to the hive/brings none to the bee ~~~ 0539
 years of love have been forgotten/in the hatred of the moment ~~~ 0867
