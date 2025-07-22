@@ -5,12 +5,17 @@
 *** fix line 916 in brc: you->your
 
 (a-1200) the creation of the seljuk lockbox
+(a-1894) albert michelson stated that most of the underlying principles of science have been firmly established
 (a-305) emperor diocletian retired to a farm to grow cabbages
+!M=4,d=26 (a-1902) lord kelvin stated that heavier than air flight is impossible
+!M=4,d=27 (a-1900) lord kelvin stated that there is nothing new to be discovered in physics
 !M=7,d=21 belgian national day
 !M=7,d=22 fudgesicle day
+!M=7,d=22 (a-2025) the death of ozzy osborne
 !M=9 (a-1977) the release of the atari twenty six hundred
 <G=+30262,+079732 the skeleton lake of roopkund
 <G=+31655,+034938 horvat midras
+<G=+34480,-113335 the town of nothing
 <G=+43267,-001533 zugarramurdi
 <G=+59014,+006429 the florlitrappene staircase
 <t free yourself
