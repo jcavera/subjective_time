@@ -1,13 +1,26 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
+*** add to:
+k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "music",    "science", "engineering", "technology",
+            "magic", "ecology", "futurism", "food", "economics", "mysticism", "religion", "healing", "medicine",    "psychology",
+            "art",   "dance",   ...
+            "kung fu", "transportation", "genomics", "drag", "history", "space travel", "time travel", "anthropology", "bondage",
+            "fencing", "computers", "physics", "forestry", "flogging", "deep time", "airplanes", "brewing", "cooking", "baking",
+            "fashion", "sewing", "blacksmithing", "stripping", "security", "demolitions", "podcasting", "aliens", "burlesque",
+            "artificial intelligence", "networking", "body painting", "robotics", "filmmaking", "architecture", "landscaping",
+            "sports", "tattoos", "group sex", "archery", "survivalism", "hacking", "body modification", "poetry", "journaling",
+            "scrapbooking", "photography", "crystals", "herbalism", "nudity", "dungeons and dragons", "avionics", "astronomy",
+            "furries", "biomimicry", "bluegrass", "finance", "sailing", "hentai", "linguistics", "trauma", "solar power",
+            "" ]
+
 
 almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
+dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 on the edge of reality ~~~ $brc
 there's no need to drink the entire sea/to realize that it's salty
 time for that <?event|lecture|seminar on <e and <e ~~~ $brc
-you can't just tell a dad joke/they're supposed to sneak up on you/and it's only after you hear them/that they become apparent
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
