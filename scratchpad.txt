@@ -2,8 +2,11 @@
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
 
+almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
+go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 on the edge of reality ~~~ $brc
 there's no need to drink the entire sea/to realize that it's salty
+time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 you can't just tell a dad joke/they're supposed to sneak up on you/and it's only after you hear them/that they become apparent
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
