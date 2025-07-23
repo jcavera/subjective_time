@@ -19,20 +19,30 @@
 !M=1,d=14 (a-1950) the death of alma maximiliana karlin
 !M=7,d=17 (a-1570) the issuance of quo primum tempore following the council of trent
 (a-1136) the death of gwenllian ferch gruffydd
+(a-2009) the founding of octopolis by our cepholopod friends in jervis bay
+(a-2016) the founding of octlantis by our cepholopod friends in jervis bay
+(a-2022) the passing of the animal welfare sentience act
+
 <G=+35185,+140060 the shimizu waterfall and cave portal
+<G=-35180,+150632 octopolis
+<G=-35206,+150667 octlantis
+<R=50-150 years until the creation of a true synthetic consciousness
 
 <?at|on the edge of reality ~~~ $brc
 almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 as long as you keep trying/you're probably doing better than you think
+ashes inspire no one/rising from them does
 cras incipit hodie (Latin: tomorrow starts today)
 dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 doing your best looks different every day
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 <?he|she stared at me and i felt a change/time meant nothing/never would again ~~~ 0033
-i remember doing the time warp/drinking those moments when/the blackness would hit me/and the void would be calling... / ~~~ 0033
+i remember doing the time warp/drinking those moments when/the blackness would hit me/and the void would be calling... / ~~ 0033
 in another dimension/with voyeuristic intention/well-secluded/i see all ~~~ 0033
 it's astounding/time is fleeting/madness takes its toll... / ~~~ 0033
+like a child in <?his|her fantasy/punching holes in the walls of reality
 pax vobiscum (Latin: peace be with you)
+punching holes in the walls of reality
 quo primum tempore (Latin: from the beginning and henceforth)
 spaced out on sensation/like you're under sedation... / ~~~ 0033
 that event at <P that's supposed to be about <e /is actually about <e /go figure ~~~ $brc
@@ -43,6 +53,7 @@ there is still time for you to be/all that you want to be
 time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 we cannot preserve freedom by capitulating to power
 with a bit of a mind flip/you're into the time slip/and nothing can ever be the same... / ~~~ 0033
+your entire existence is a love letter/you decide what it's to
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
