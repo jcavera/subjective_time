@@ -11,14 +11,17 @@ k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "m
             "artificial intelligence", "networking", "body painting", "robotics", "filmmaking", "architecture", "landscaping",
             "sports", "tattoos", "group sex", "archery", "survivalism", "hacking", "body modification", "poetry", "journaling",
             "scrapbooking", "photography", "crystals", "herbalism", "nudity", "dungeons and dragons", "avionics", "astronomy",
-            "furries", "biomimicry", "bluegrass", "finance", "sailing", "hentai", "linguistics", "trauma", "solar power",
-            "" ]
+            "furries", "biomimicry", "bluegrass", "finance", "sailing", "hentai", "linguistics", "recovery", "solar power",
+            "social media", "fly fishing", "paganism", "witchcraft", "" ]
 
 
+<?at|on the edge of reality ~~~ $brc
 almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
-on the edge of reality ~~~ $brc
+that event at <P that's supposed to be about <e /is actually about <e /go figure ~~~ $brc
+that event at <P that's supposed to be about <e /is actually about <e and <e ~~~ $brc
+that event that's supposed to be about <e /is actually about <e and <e /go figure ~~~ $brc
 there's no need to drink the entire sea/to realize that it's salty
 time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 
