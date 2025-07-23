@@ -27,12 +27,14 @@ as long as you keep trying/you're probably doing better than you think
 cras incipit hodie (Latin: tomorrow starts today)
 dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 doing your best looks different every day
-drinking those moments when/the blackness would hit me/and the void would be calling... /
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
-<?he|she stared at me and i felt a change/time meant nothing/never would again
-it's astounding/time is fleeting/madness takes its toll... /
+<?he|she stared at me and i felt a change/time meant nothing/never would again ~~~ 0033
+i remember doing the time warp/drinking those moments when/the blackness would hit me/and the void would be calling... / ~~~ 0033
+in another dimension/with voyeuristic intention/well-secluded/i see all ~~~ 0033
+it's astounding/time is fleeting/madness takes its toll... / ~~~ 0033
 pax vobiscum (Latin: peace be with you)
 quo primum tempore (Latin: from the beginning and henceforth)
+spaced out on sensation/like you're under sedation... / ~~~ 0033
 that event at <P that's supposed to be about <e /is actually about <e /go figure ~~~ $brc
 that event at <P that's supposed to be about <e /is actually about <e and <e ~~~ $brc
 that event that's supposed to be about <e /is actually about <e and <e /go figure ~~~ $brc
@@ -40,7 +42,7 @@ there's no need to drink the entire sea/to realize that it's salty
 there is still time for you to be/all that you want to be
 time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 we cannot preserve freedom by capitulating to power
-with a bit of a mind flip/you're into the time slip/and nothing can ever be the same... /
+with a bit of a mind flip/you're into the time slip/and nothing can ever be the same... / ~~~ 0033
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
