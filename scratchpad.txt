@@ -1,21 +1,23 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
-*** add to:
-k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "music",    "science", "engineering", "technology",
-            "magic", "ecology", "futurism", "food", "economics", "mysticism", "religion", "healing", "medicine",    "psychology",
-            "art",   "dance",   ...
-            "kung fu", "transportation", "genomics", "drag", "history", "space travel", "time travel", "anthropology", "bondage",
-            "fencing", "computers", "physics", "forestry", "flogging", "deep time", "airplanes", "brewing", "cooking", "baking",
-            "fashion", "sewing", "blacksmithing", "stripping", "security", "demolitions", "podcasting", "aliens", "burlesque",
-            "artificial intelligence", "networking", "body painting", "robotics", "filmmaking", "architecture", "landscaping",
-            "sports", "tattoos", "group sex", "archery", "survivalism", "hacking", "body modification", "poetry", "journaling",
-            "scrapbooking", "photography", "crystals", "herbalism", "nudity", "dungeons and dragons", "avionics", "astronomy",
-            "furries", "biomimicry", "bluegrass", "finance", "sailing", "hentai", "linguistics", "recovery", "solar power",
-            "social media", "fly fishing", "paganism", "witchcraft", "solarpunk", "steampunk", "dadaism", "pornography", "tacos",
-            "" ]
+*** add to: k_event = [ 
+    "airplanes",    "alcohol",     "aliens",       "anthropology", "archery",       "architecture",         "art history",       "artificial intelligence",
+    "astronomy",    "avionics",    "baking",       "biomimicry",   "blacksmithing", "bluegrass",            "body modification", "body painting",
+    "bondage",      "braiding",    "burlesque",    "computers",    "cooking",       "crafting",             "crystals",          "daoism",
+    "dance",        "deep time",   "demolitions",  "drag queens",  "drugs",         "dungeons and dragons", "ecology",           "economics",
+    "electronics",  "engineering", "fashion",      "fencing",      "filmmaking",    "finance",              "flogging",          "fly fishing",
+    "food",         "forestry",    "furries",      "futurism",     "genomics",      "ghosts",               "gnosticism",        "group sex",
+    "hacking",      "healing",     "hentai",       "herbalism",    "history",       "humanism",             "icelandic sagas",   "journaling",
+    "kung fu",      "landscaping", "linguistics",  "magic",        "medicine",      "music theory",         "mysticism",         "networking",
+    "nudity",       "paganism",    "photography",  "physics",      "podcasting",    "poetry",               "politics",          "pornography",
+    "psychology",   "recovery",    "religion",     "robotics",     "sailing",       "science",              "scrapbooking",      "security systems", 
+    "sewing",       "sex",         "social media", "solar power",  "solarpunk",     "space travel",         "sportsmanship",     "steampunk",
+    "stripping",    "survivalism", "tacos",        "tattoos",      "technology",    "time travel",          "transportation",    "witchcraft",        
+    "yoga",         "zombies",     "zoology",      "zymurgy"  ]
 
 !M=1,d=14 (a-1950) the death of alma maximiliana karlin
+!M=7,d=17 (a-1570) the issuance of quo primum tempore following the council of trent
 (a-1136) the death of gwenllian ferch gruffydd
 <G=+35185,+140060 the shimizu waterfall and cave portal
 
@@ -25,6 +27,8 @@ as long as you keep trying/you're probably doing better than you think
 cras incipit hodie (Latin: tomorrow starts today)
 dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
+pax vobiscum (Latin: peace be with you)
+quo primum tempore (Latin: from the beginning and henceforth)
 that event at <P that's supposed to be about <e /is actually about <e /go figure ~~~ $brc
 that event at <P that's supposed to be about <e /is actually about <e and <e ~~~ $brc
 that event that's supposed to be about <e /is actually about <e and <e /go figure ~~~ $brc
