@@ -12,18 +12,23 @@ k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "m
             "sports", "tattoos", "group sex", "archery", "survivalism", "hacking", "body modification", "poetry", "journaling",
             "scrapbooking", "photography", "crystals", "herbalism", "nudity", "dungeons and dragons", "avionics", "astronomy",
             "furries", "biomimicry", "bluegrass", "finance", "sailing", "hentai", "linguistics", "recovery", "solar power",
-            "social media", "fly fishing", "paganism", "witchcraft", "" ]
+            "social media", "fly fishing", "paganism", "witchcraft", "solarpunk", "steampunk", "dadaism", "pornography", "tacos",
+            "" ]
 
+<G=+35185,+140060 the shimizu waterfall and cave portal
 
 <?at|on the edge of reality ~~~ $brc
 almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
+as long as you keep trying/you're probably doing better than you think
 dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 that event at <P that's supposed to be about <e /is actually about <e /go figure ~~~ $brc
 that event at <P that's supposed to be about <e /is actually about <e and <e ~~~ $brc
 that event that's supposed to be about <e /is actually about <e and <e /go figure ~~~ $brc
 there's no need to drink the entire sea/to realize that it's salty
+there is still time for you to be/all that you want to be
 time for that <?event|lecture|seminar on <e and <e ~~~ $brc
+we cannot preserve freedom by capitulating to power
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
