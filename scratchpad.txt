@@ -15,11 +15,14 @@ k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "m
             "social media", "fly fishing", "paganism", "witchcraft", "solarpunk", "steampunk", "dadaism", "pornography", "tacos",
             "" ]
 
+!M=1,d=14 (a-1950) the death of alma maximiliana karlin
+(a-1136) the death of gwenllian ferch gruffydd
 <G=+35185,+140060 the shimizu waterfall and cave portal
 
 <?at|on the edge of reality ~~~ $brc
 almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 as long as you keep trying/you're probably doing better than you think
+cras incipit hodie (Latin: tomorrow starts today)
 dad jokes are supposed to sneak up on you/and it's only after you hear them/that they become apparent
 go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
 that event at <P that's supposed to be about <e /is actually about <e /go figure ~~~ $brc
