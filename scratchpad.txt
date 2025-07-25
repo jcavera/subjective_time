@@ -4,13 +4,13 @@
 *** add to: k_event = [ 
     "airplanes",    "alcohol",     "aliens",       "anthropology", "archery",       "architecture",         "art history",       "artificial intelligence",
     "astronomy",    "avionics",    "baking",       "biomimicry",   "blacksmithing", "bluegrass",            "body modification", "body painting",
-    "bondage",      "braiding",    "burlesque",    "computers",    "cooking",       "crafting",             "crystals",          "daoism",
+    "bondage",      "braiding",    "burlesque",    "cephalopods",  "cooking",       "crafting",             "crystals",          "daoism",
     "dance",        "deep time",   "demolitions",  "drag queens",  "drugs",         "dungeons and dragons", "ecology",           "economics",
     "electronics",  "engineering", "fashion",      "fencing",      "filmmaking",    "finance",              "flogging",          "fly fishing",
     "food",         "forestry",    "furries",      "futurism",     "genomics",      "ghosts",               "gnosticism",        "group sex",
     "hacking",      "healing",     "hentai",       "herbalism",    "history",       "humanism",             "icelandic sagas",   "journaling",
     "kung fu",      "landscaping", "linguistics",  "magic",        "medicine",      "music theory",         "mysticism",         "networking",
-    "nudity",       "paganism",    "photography",  "physics",      "podcasting",    "poetry",               "politics",          "pornography",
+    "nudity",       "opera",       "photography",  "physics",      "podcasting",    "poetry",               "politics",          "pornography",
     "psychology",   "recovery",    "religion",     "robotics",     "sailing",       "science",              "scrapbooking",      "security systems", 
     "sewing",       "sex",         "social media", "solar power",  "solarpunk",     "space travel",         "sportsmanship",     "steampunk",
     "stripping",    "survivalism", "tacos",        "tattoos",      "technology",    "time travel",          "transportation",    "witchcraft",        
@@ -18,15 +18,24 @@
 
 !M=1,d=14 (a-1950) the death of alma maximiliana karlin
 !M=7,d=17 (a-1570) the issuance of quo primum tempore following the council of trent
+!M=7,d=23 (a-2022) new york city removed its last public payphone
+!M=7,d=25 the national day of galicia
 (a-1136) the death of gwenllian ferch gruffydd
+(a-1992) the death of the after-school special
+(a-2004) the age of translucent candy-colored technology
 (a-2009) the founding of octopolis by our cepholopod friends in jervis bay
 (a-2016) the founding of octlantis by our cepholopod friends in jervis bay
 (a-2022) the passing of the animal welfare sentience act
 
 <G=+35185,+140060 the shimizu waterfall and cave portal
+<G=+35756,-096022 the last remaining nickel payphone
+<G=+38332,-075087 the eastern end of the lonliest road in america
+<G=+38497,-106326 the monarch pass of the continental divide
+<G=+38575,-121570 the western end of the lonliest road in america
 <G=-35180,+150632 octopolis
 <G=-35206,+150667 octlantis
 <R=50-150 years until the creation of a true synthetic consciousness
+<t reclaim yourself
 
 <?at|on the edge of reality ~~~ $brc
 almost time for that <?event|lecture|seminar on <e and <e ~~~ $brc
@@ -40,7 +49,7 @@ go to <P /it's almost time for that <?event|lecture|seminar on <e and <e ~~~ $br
 i remember doing the time warp/drinking those moments when/the blackness would hit me/and the void would be calling... / ~~ 0033
 in another dimension/with voyeuristic intention/well-secluded/i see all ~~~ 0033
 it's astounding/time is fleeting/madness takes its toll... / ~~~ 0033
-just one look at you/and i know it's gonna be/a lovely daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaay
+just one look at you/and i know it's gonna be/a lovely daaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay
 like a child in <?his|her fantasy/punching holes in the walls of reality
 pax vobiscum (Latin: peace be with you)
 punching holes in the walls of reality
