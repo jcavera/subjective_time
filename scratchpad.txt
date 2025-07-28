@@ -1,26 +1,34 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
+*** figure out what I was thinking with months > 20 in the chinese calendar section (maybe it's in the C code?)
 
+(a-1987) the death of the philosopher physicist and janitor peter putnam
 !M=9,d=14 (a-1985) the golden girls first aired
 <G=+20024,+075179 the kailasa temple
 
 <?compassion|empathy is never a weakness/only those without it think otherwise
-art can be your air/when you are underwater
+art can be your air/when you are feeling underwater
+before you got here i was humming for you/you now have bardic inspriation as a bonus/go do the thing ~~ $d20
 burning man is where giraffes go to be reptiles ~~~ $brc
 fifty three hundred years since the egyptians/taught the aliens how to build pyramids
 humans are so strange to believe that/they are the main characters
 i always wondered why blessings came in disguise/if i were a blessing i'd run around naked - GG
+learn to properly deal with harmless discomfort
 life is like a can of tuna/sometimes you're the cat food/sometimes the can opener - GG
 nearing a point in the future/when anyone can kill everyone
 no it was the herrings that did the juggling/tiny little ginsu knives/one wrong move and they could've filleted themselves - GG
+no i'm not crazy - i'm high on life/and the software equivalent of molly/but also life
 no matter how bad things get remember this/you get old - you sag - you get over it - GG
+not all storms come to disrupt your life/some come to clear your path
 people waste time wondering if the glass/is half full or half empty/just drink the damn water - GG
 sex is like a game of bridge/if you don't have a good partner/you'd better have a good hand - GG
 sometimes the greatest love is simply to let go
 the older you get the better you get/unless you're a banana - GG
 their heart is in the right place/but i don't know where the hell their brain is - GG
-trauma can be a muse/art can be your air/when you are underwater
+trauma can be a muse/and art can be your air/when you are feeling underwater
+whatever is currently happening to humanity/it is happening to all of us/no matter how hidden the cruelty/we live in one world - Alice Walker
+whatever is happening to any of us/is happening to all of us/we are not elevated until everyone is
 you can lead a herring to water/but you have to walk really fast/or he'll die - GG
 you don't need to apologize to anyone/for your lived experiences
 you're always going to look back and wish/that you could've done things differently/doing your best now is enough
