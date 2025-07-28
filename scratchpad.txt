@@ -4,6 +4,7 @@
 *** figure out what I was thinking with months > 20 in the chinese calendar section (maybe it's in the C code?)
 
 (a-1816) sophie germain won the paris academy of sciences prize for the theory of elasticity
+(a-1894) the bone wars
 (a-1987) the death of the philosopher physicist and janitor peter putnam
 !M=12,d>15 christmas without fruitcake is like/saint sigmund's day without a headless boy - GG
 !M=9,d=14 (a-1985) the golden girls first aired
