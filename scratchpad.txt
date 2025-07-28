@@ -3,11 +3,14 @@
 *** reconcile with https://www.internationaldays.co/
 *** figure out what I was thinking with months > 20 in the chinese calendar section (maybe it's in the C code?)
 
+(a-1816) sophie germain won the paris academy of sciences prize for the theory of elasticity
 (a-1987) the death of the philosopher physicist and janitor peter putnam
+!M=12,d>15 christmas without fruitcake is like/saint sigmund's day without a headless boy - GG
 !M=9,d=14 (a-1985) the golden girls first aired
 <G=+20024,+075179 the kailasa temple
-
 <?compassion|empathy is never a weakness/only those without it think otherwise
+<?facebook|instagram|reddit didn't prepare me for this
+
 art can be your air/when you are feeling underwater
 before you got here i was humming for you/you now have bardic inspriation as a bonus/go do the thing ~~ $d20
 burning man is where giraffes go to be reptiles ~~~ $brc
@@ -22,7 +25,9 @@ no i'm not crazy - i'm high on life/and the software equivalent of molly/but als
 no matter how bad things get remember this/you get old - you sag - you get over it - GG
 not all storms come to disrupt your life/some come to clear your path
 people waste time wondering if the glass/is half full or half empty/just drink the damn water - GG
+picture it... /sicily nineteen <R=20-50 ... / - GG
 sex is like a game of bridge/if you don't have a good partner/you'd better have a good hand - GG
+sometimes good things happen and/sometimes bad things happen/but if you don't take a chance/nothing happens
 sometimes the greatest love is simply to let go
 the older you get the better you get/unless you're a banana - GG
 their heart is in the right place/but i don't know where the hell their brain is - GG
@@ -30,6 +35,7 @@ trauma can be a muse/and art can be your air/when you are feeling underwater
 whatever is currently happening to humanity/it is happening to all of us/no matter how hidden the cruelty/we live in one world - Alice Walker
 whatever is happening to any of us/is happening to all of us/we are not elevated until everyone is
 you can lead a herring to water/but you have to walk really fast/or he'll die - GG
+you didn't ask for my opinion/but i'm old so i'm giving it anyway - GG
 you don't need to apologize to anyone/for your lived experiences
 you're always going to look back and wish/that you could've done things differently/doing your best now is enough
 
