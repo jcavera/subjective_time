@@ -3,13 +3,17 @@
 *** reconcile with https://www.internationaldays.co/
 *** figure out wtf I was thinking with months > 20 in the chinese calendar section (maybe it's in the C code?)
 
+!h>5,h<8 dawn has taken in the stars/and left a faint white moon
 <G=+54017,-007291 finn mccool's fingers
 <G=+54430,-002963 the ambleside bridge house
 
 every voice matters
 if <?he|she says stop/you will stop ~~~ $p11
 if they say stop/you will stop ~~~ $p11
+it's okay/other people feel the same way
+it's time to become who you always wanted to be
 the safeword is/no ~~~ $p11
+your life is about to change in the direction you choose
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
