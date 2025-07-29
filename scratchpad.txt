@@ -3,6 +3,7 @@
 *** reconcile with https://www.internationaldays.co/
 *** figure out wtf I was thinking with months > 20 in the chinese calendar section (maybe it's in the C code?)
 
+<G=+54017,-007291 finn mccool's fingers
 <G=+54430,-002963 the ambleside bridge house
 
 every voice matters
