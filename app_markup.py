@@ -9,6 +9,7 @@
 ##                      sub_numeric             Handle numeric substitutions (#nnnn)
 ##                      sub_computed            Handle computed substitutions (<xxxxx...)
 ##  Sub-sub-processors: sub_subproc_A           lat-lon coordinates rendered as the nearest whole number
+##                      sub_subproc_B           benedryl cucumber's birthday
 ##                      sub_subproc_C           ordinal century
 ##                      sub_subproc_D           day of the week
 ##                      sub_subproc_G           distance and/or direction from the specified gps coordinates
@@ -295,12 +296,13 @@ def sub_numeric (s):
 
 def sub_computed (s, coord):
     if (s == ""): return ("")                           ## safety check
-    valid = "[<][ACDGHMNOPRSYZdeghimnprsty?][^ ~/]*"    ## regex to find any valid substitution
+    valid = "[<][ABCDGHMNOPRSYZdeghimnprsty?][^ ~/]*"   ## regex to find any valid substitution
     subs  = re.findall(valid, s)
     if (len(subs) == 0): return (s)                     ## pop out if nothing found
     for item in subs:                                   ## step through each thing to substitute
         t = item[1]                                                 ## do a thing by subsititution type...
         if   (t == 'A'): s = sub_subproc_A  (s, coord, item)        ## current lat-lon coordinates rendered as the nearest whole number
+        elif (t == 'B'): s = sub_subproc_B  (s, coord, item)        ## bandersnatch curbstomp's birthday
         elif (t == 'C'): s = sub_subproc_C  (s, coord, item)        ## ordinal century (e.g.: twenty first)
         elif (t == 'D'): s = sub_subproc_D  (s, coord, item)        ## day (sunday = 1, monday = 2, ...)
         elif (t == 'G'): s = sub_subproc_G  (s, coord, item)        ## distance and/or direction from the specified gps coordinates
@@ -348,6 +350,31 @@ def sub_subproc_A (s, coord, item):
     s = s.replace(item, a)
     return (s)
 
+## Return a random name for the actor "Benedict Cumberbatch".
+
+k_BC = [ "bandicoot coloringbook",     "baritone choirboy",          "benedryl cucumber",            "benedict cumberbatch",         "benzedrine charcoal",
+         "benefit carwash",            "ballpark centerfield",       "bellicose custardbath",        "beeinfested cucumberpatch",    "bumpercar crumplezone",
+         "burlington coatfactory",     "benevolent computerglitch",  "buildingmaterial cinderblock", "braidedhair yogamat",          "birdfeeder climatechange",
+         "beneficial cabbagepants",    "bumblebee cutiebutt",        "badfinger carebearstare",      "barbecue charcuterieboard",    "barrister tennismatch",
+         "britishname cantgetitright", "bandersnoot cannabis",       "bustamove charlestondance",    "budapest lumberjack",          "backitup johnnycash",
+         "backflipping corgidogs",     "boondoggle campaignmanager", "battlefield counterstrike",    "balancepole carryingcase",     "bathysphere cuttlefish",
+         "butternut crinklefries",     "butterfried crunchwrap",     "bedridden catalepticman",      "butcherknife kitchenware",     "beachside contemplation",
+         "bangladesh cricketmatch",    "beelzebubs carphonenumber",  "beneficial cholesterol",       "burningman centercamp",        "badminton concubine",
+         "bangalore kryptonite",       "build-a-bear comewithme",    "barelylegal codename",         "burningdown campingspot",      "bucketboy compostbin",
+         "buffalo cornerstone",        "barristerof collingswood",   "brambleberry creampie",        "berryflavored cookiebatch",    "burberry crochetpattern",
+         "bakelite countertop",        "bentonite claycement",       "beachcomber cleanupcrew"       "bendystraw creamsodacup",      "broccolislaw carmelcorn", 
+         "boogieman cantgetenough",    "borealis carringtonevent",   "beattheodds kesselrun",        "breakingnews kesslersyndrome", "beveryquiet chasingrabbits",
+         "byzantine codedmessage",     "brocaded cummerbund",        "byzantium crusadeknight",      "bollywood cameracrew",         "beneficial cantonfood", 
+         "butterfinger candybar",      "bootycall comeovertonight",  "barelynoticed catchphrase",    "balancingact catchersnet",     "baseball catchersmitt",
+         "bernardino highwaycrash",    "billionaire casinowinner",   "broccolislaw cupofnoodles",    "bodywork cadillac",            "blacklight cameralens",
+         "blackletter calligraphy",    "barcelona krispykreme",      "bossanova carhorn",            "baselessly convicted",         "beverly crushersghost" ]
+
+def sub_subproc_B (s, coord, item):
+    if (s == ""): return ("")                                       ## safety check
+    r  = app_numeric.arand(1, 0, len(k_BC) - 1)                     ## random selection of the event type
+    s = s.replace(item, k_BC[r])
+    return (s)
+    
 
 ## Process ordinal century (e.g.: twenty first). Start/end string data is unused. So this is kind of a cheat
 ## because there's no way in hell that this code will last until the year 2200.  Which means that we're safe
@@ -387,9 +414,11 @@ def sub_subproc_G (s, coord, item):
     lo = float(item[11:14]) + (float(item[14:]) / 1000.0)
     if (item[10] == '-'): lo = -1 * lo
     
-    heading  = app_numeric.gps_dir_deg_rhumb(coord.lat, coord.lon, la, lo)    ## compute distance and direction from target (lat, lon)
+    heading  = app_numeric.gps_dir_deg_rhumb(coord.lat, coord.lon, la, lo)  ## compute distance and direction from target (lat, lon)
     distance = app_numeric.gps_dist_km_rhumb(coord.lat, coord.lon, la, lo)
-    if (distance < 25): return ("")                                     ## if too close to call, return null
+    if (distance < 25): return ("")                                         ## if too close to call, return null
+    if (la < -89.000): heading = "north"
+    if (la >  89.000): heading = "south"
     
     dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)       ## convert direction to string
     dir_str = k_directions[dir_idx] + " of"
@@ -586,13 +615,23 @@ def sub_subproc_d (s, coord, item):
 
 ## Do a substitution for made-up playa events.  
 
-k_event = [ "sex",   "drugs",   "politics", "yoga", "crafting",  "alcohol",   "music",    "science", "engineering", "technology",
-            "magic", "ecology", "futurism", "food", "economics", "mysticism", "religion", "healing", "medicine",    "psychology",
-            "art",   "dance" ]
+k_event = [ "airplanes",    "alcohol",     "aliens",       "anthropology", "archery",       "architecture",         "art history",       "artificial intelligence",
+            "astronomy",    "avionics",    "baking",       "biomimicry",   "blacksmithing", "bluegrass",            "body modification", "body painting",
+            "bondage",      "braiding",    "burlesque",    "cephalopods",  "cooking",       "crafting",             "crystals",          "daoism",
+            "dance",        "deep time",   "demolitions",  "drag queens",  "drugs",         "dungeons and dragons", "ecology",           "economics",
+            "electronics",  "engineering", "fashion",      "fencing",      "filmmaking",    "finance",              "flogging",          "fly fishing",
+            "food",         "forestry",    "furries",      "futurism",     "genomics",      "ghosts",               "gnosticism",        "group sex",
+            "hacking",      "healing",     "hentai",       "herbalism",    "history",       "humanism",             "icelandic sagas",   "journaling",
+            "kung fu",      "landscaping", "linguistics",  "magic",        "medicine",      "music theory",         "mysticism",         "networking",
+            "nudity",       "opera",       "photography",  "physics",      "podcasting",    "poetry",               "politics",          "pornography",
+            "psychology",   "recovery",    "religion",     "robotics",     "sailing",       "science",              "scrapbooking",      "security systems", 
+            "sewing",       "sex",         "social media", "solar power",  "solarpunk",     "space travel",         "sportsmanship",     "steampunk",
+            "stripping",    "survivalism", "tacos",        "tattoos",      "technology",    "time travel",          "transportation",    "witchcraft",        
+            "yoga",         "zombies",     "zoology",      "zymurgy"  ]
 
 def sub_subproc_e (s, coord, item):
     if (s == ""): return ("")                                           ## safety check
-    r  = app_numeric.arand(1, 1, 22)                                    ## random selection of the event type
+    r  = app_numeric.arand(1, 0, len(k_event) - 1)                      ## random selection of the event type
     s = s.replace(item, k_event[r])
     return (s)
 

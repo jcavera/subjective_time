@@ -613,6 +613,8 @@ class Parser:
         d  = "the " + app_strings.num_to_text(dd, True) + " day of"             ## convert to strings for each
         m  = "the month of "
         r  = app_numeric.arand(1, 1, 100)                                       ## roll the dice for traditional v modern month
+        if (mm > 20): mm = mm - 21
+        if (mm > 11): return ("")
         if (r <= 50): m  = m + self.k_ChiMT[mm]
         else:         m  = m + self.k_ChiMM[mm]
         
