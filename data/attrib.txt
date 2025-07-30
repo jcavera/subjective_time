@@ -49,12 +49,13 @@ Heather Dessel for a ton of database entries and a healthy dose of inspiration, 
 Fabiola Bergi for all the right nudges at all the right times, and a lot of love and patience
 Paul Eggert for tirelessly and thanklessly maintining the timezone databases
 Susan Kaman and Barbara Elliot, for their past (and forever onward) understanding and support
-Jessica Armstrong and Kali Readwin for loving friendship
+Jessica Armstrong and Kali Readwin for loving friendship (and occasional therapy)
 Chantell Osejo for support, believing, and not an insignificant bit of coding help
 J-Anne Carlsen for energy, inspiration and a good bit of silliness -- you get my noodle
 Megan Allen for assistance with the astrological data and just for being her
 Tasha Rose for her tenacity, strength, and hope
 Max Fractal (nee Kim Boekbinder), Arden Leigh, and Miss Monique (Alesia Arkusha) for the music and lyrics and magic
+And finally... my sincere apologies to Benedict Cumberbatch
 
 Most of the locations in the database come from Wikipedia, the list of UNESCO world heritage sites, and Atlas Obscura
 
@@ -1085,3 +1086,11 @@ have a good idea of mine.
 0936  Latin: may god be merciful to this poor drunkard
 0937  Andrea Gibson
 0938  Frederick Law Olmsted
+0939  Virginia Woolf
+0940  Karl Popper
+0941  Samira Vivette
+0942  Latin: tomorrow starts today
+0943  Latin: peace be with you
+0944  Latin: from the beginning and henceforth
+0945  from The Golden Girls
+0946  Alice Walker
