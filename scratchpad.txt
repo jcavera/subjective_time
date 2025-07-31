@@ -3,18 +3,6 @@
 *** reconcile with https://www.internationaldays.co/
 *** figure out wtf I was thinking with months > 20 in the chinese calendar section (maybe it's in the C code?)
 
-!M=4,d=24 (a-1922) the last horse-drawn cab in new york city retired
-(a-1624) the creation of the maneki-neko
-(b-610) the construction of the cube of zarathushtra
-
-<G=+29879,+052807 marvdasht
-<G=+29879,+052807 ka'ba-ye zartosht
-<G=+29879,+052807 the cube of zarathushtra
-<G=+62258,+059298 the manpupuner rock formations
-
-i hope that we all make it
-not all goodbyes are loud/some stand still as the future rushes by
-there's more to life than survival
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
