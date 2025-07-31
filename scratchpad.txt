@@ -1,7 +1,22 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
+*** check the regex: (<.{2,})(?=.*\1) to find lines with repeating duplicate "<" tags
 
+!M=11,d=12 (a-1900) the exposition universelle
+!M=7,d=31 hawai'i sovereignty restoration day
+!M=7,d=31 la ho'iho'i ea
+
+a day in the life
+a most <?amazing|auspicious|extraordinary|remarkable <?day|time|week|month|year
+a most <?amazing|extraordinary|remarkable place
+absorb as much light as you can/whenever it falls on you/so that when you are lost in darkness/your tears will glow like fireflies
+if you don't pick a day to rest/your body will pick one for you
+nine point two million years since/tomatoes went underground and/turned into potatoes
+non solum armis (Latin: not only with weapons)
+ua mau ke ea o ka 'aina i ka pono (Hawai'ian: The life of the land is preserved in the righteousness of the people)
+you've tried being your own worst enemy/now try being your own best friend ~~~ $qst
+you've tried to find the love you'd die for/and looked for the love you'd kill for/now try to find the one you'd live for ~~~ $qst
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
