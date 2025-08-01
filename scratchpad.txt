@@ -2,6 +2,8 @@
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
 
+!M=7,d=27 dungeons and dragons day
+!M=7,d=27 gary gygax day
 !M=8,d=1 lughnasadh
 !M=8 buwan ng wika
 
