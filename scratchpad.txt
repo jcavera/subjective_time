@@ -6,7 +6,7 @@
 !M=7,d=27 gary gygax day
 !M=8,d=1 lughnasadh
 !M=8 buwan ng wika
-
+(a-331) te k'ab chaak ascended the throne of caracol
 <G=+20215,-087428 the temple of the descending god
 <G=+20215,-087429 the temple of the frescoes
 <G=+20228,-087458 cenote calavera
@@ -14,12 +14,12 @@
 <G=-14095,-075740 the seven-headed palm tree of prophecy
 <O=50-500 someone who just received the news that they were hoping for
 <O=50-500 someone whose whole entire world just came crashing down around them
-<R=2-15 <?months|years since <?his|her entire world fell apart
+<R=2-15 <?days|weeks|months|years since <?his|her entire world fell apart
 
 a new day will come
 in lost time
-in a dangerous <?place|time
 list <R=5-20 books you want to read before you die/they're at the local library/go get one ~~~ $qst
+list <R=5-20 events you want to attend before you die/pick one and just go ~~~~ $qst
 list <R=5-20 things you want to do before you die/pick one and do that ~~~~ $qst
 name <R=5-20 people you want to see before you die/one of them is free next week/and is waiting for you ~~~ $qst
 name <R=5-20 places you want to go before you die/pick one and go there ~~~ $qst
