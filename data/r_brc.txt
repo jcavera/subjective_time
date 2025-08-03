@@ -384,6 +384,8 @@ decommodify ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deep <?paces|steps <?after|before|of|past|to|til|until <?disaster|atmosphere|setting|charity|proposal|artifice|dream ~~~~~~~~~~~~~~~~~
 deep breath ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deep breath/it's going to be okay ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+did you find what you're looking for? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+did you get what you need? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 direct experience leads to/comprehending the true nature ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 do more things that make you/forget to check your phone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 do not fear/for the future burns brighter/than you can ever imagine ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -721,6 +723,7 @@ in every animal there is a human/and in every human there is an animal ~~~~~~~~~
 in every lifetime/i will find you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in flagrante delicto ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in girum imus nocte et consumimur igni ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0661
+in <?lost|forgotten|missing time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in love we find truth/in unity we find strength/in every ending we find a beginning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in order to rise from its own ashes/a phoenix first must burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0865
 in our obscurity/in all this vastness/there is no hint that help will come from elsewhere to save us from ourselves ~~~~~~~~ $pbd 0248
@@ -1136,11 +1139,12 @@ tell <R=2-8 strangers that they are beautiful ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 tell it to the wind ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 tell someone the most dad joke you know ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 thank you for being a friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-that <?event|workshop|lecture at <P that's supposed to be about <e /is actually about <e /go figure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-that <?event|workshop|lecture at <P that's supposed to be about <e /is actually about <e and <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-that <?event|workshop|lecture that sounds like it's about <e ? / it's actually about <e / go figure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-that <?event|workshop|lecture that sounds like it's about <e ? / it's actually about <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-that <?event|workshop|lecture that's supposed to be about <e /is actually about <e and <e /go figure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+that <?event|workshop|lecture about <e is actually about <e and <e /seriously ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+that <?event|workshop|lecture at <P that's supposed to be about <e is actually about <e /go figure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+that <?event|workshop|lecture at <P that's supposed to be about <e is actually about <e and <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+that <?event|workshop|lecture that sounds like it's about <e ? it's actually about <e / go figure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+that <?event|workshop|lecture that sounds like it's about <e ? it's actually about <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+that <?event|workshop|lecture that's supposed to be about <e is actually about <e and <e /go figure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 that dream was planted in your heart for a reason ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 that sounds freaky and wrong so you kinda need to do it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 that truth is living proof/of the fact that god is strange ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0040
@@ -1341,6 +1345,7 @@ when the lights started out/they don't know what they heard/strike the match pla
 when the lights started out/they don't know what they heard/strike the match play it loud/giving love to the world ~~~~~~~~~~~~~~ 0168
 when you finally take the time/to see what they're about ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0040
 when you open to it/vulnerability is power ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0040
+where reality is bent ~~~ $brc ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 where the impossible takes shape ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 where the sacred meets the strange ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 wherever you fly/you'll be best of the best/wherever you go/you will top all the rest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
@@ -1417,6 +1422,8 @@ you're off to great places! /today is your day! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you're off to great places! /today is your day! /your mountain is waiting/so get on your way! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
 you're on your own and you know what you know/and you are the one who'll decide where to go ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
 you're too smart to go down any not-so-good street ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
+you've tried being your own worst enemy/now try being your own best friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+you've tried to find the love you'd die for/and looked for the love you'd kill for/now try to find the one you'd live for ~~~~~~~ $qst
 your antagonist has to be every bit/as formidable as your hero ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your entire existence is a love letter/you decide what it's to ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your light doesn't need to be perfect/it just needs to be seen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
