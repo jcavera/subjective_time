@@ -2,32 +2,6 @@
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
 
-!M=7,d=27 dungeons and dragons day
-!M=7,d=27 gary gygax day
-!M=8,d=1 lughnasadh
-!M=8 buwan ng wika
-(a-331) te k'ab chaak ascended the throne of caracol
-<G=+20215,-087428 the temple of the descending god
-<G=+20215,-087429 the temple of the frescoes
-<G=+20228,-087458 cenote calavera
-<G=+51055,-000688 the temple of the winds
-<G=-14095,-075740 the seven-headed palm tree of prophecy
-<O=50-500 someone who just received the news that they were hoping for
-<O=50-500 someone whose whole entire world just came crashing down around them
-<R=2-15 <?days|weeks|months|years since <?his|her entire world fell apart
-
-a new day will come
-in lost time
-list <R=5-20 books you want to read before you die/they're at the local library/go get one ~~~ $qst
-list <R=5-20 events you want to attend before you die/pick one and just go ~~~~ $qst
-list <R=5-20 things you want to do before you die/pick one and do that ~~~~ $qst
-name <R=5-20 people you want to see before you die/one of them is free next week/and is waiting for you ~~~ $qst
-name <R=5-20 places you want to go before you die/pick one and go there ~~~ $qst
-no matter how bad it gets/break the cycle/and don't let boredom or loneliness/send you bak
-railway time
-remember who the hell you are
-right now all you have is time/but someday you won't have that
-soon the sun will rise and a new day will come/soon that sun will set and/that day will be gone
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
