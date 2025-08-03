@@ -36,6 +36,7 @@ from dataclasses import dataclass
 import re
 import datetime
 import math
+import time
 
 import app_strings
 import app_numeric
@@ -417,8 +418,8 @@ def sub_subproc_G (s, coord, item):
     heading  = app_numeric.gps_dir_deg_rhumb(coord.lat, coord.lon, la, lo)  ## compute distance and direction from target (lat, lon)
     distance = app_numeric.gps_dist_km_rhumb(coord.lat, coord.lon, la, lo)
     if (distance < 25): return ("")                                         ## if too close to call, return null
-    if (la < -89.000): heading = "north"
-    if (la >  89.000): heading = "south"
+    if (la < -87.000): heading = "north"
+    if (la >  87.000): heading = "south"
     
     dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)       ## convert direction to string
     dir_str = k_directions[dir_idx] + " of"
@@ -631,8 +632,9 @@ k_event = [ "airplanes",    "alcohol",     "aliens",       "anthropology", "arch
 
 def sub_subproc_e (s, coord, item):
     if (s == ""): return ("")                                           ## safety check
-    r  = app_numeric.arand(1, 0, len(k_event) - 1)                      ## random selection of the event type
-    s = s.replace(item, k_event[r])
+    while s.count(item) > 0:
+        r  = app_numeric.arand(1, 0, len(k_event) - 1)                  ## random selection of the event type
+        s = s.replace(item, k_event[r], 1)
     return (s)
 
 

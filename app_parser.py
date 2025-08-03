@@ -613,10 +613,13 @@ class Parser:
         d  = "the " + app_strings.num_to_text(dd, True) + " day of"             ## convert to strings for each
         m  = "the month of "
         r  = app_numeric.arand(1, 1, 100)                                       ## roll the dice for traditional v modern month
-        if (mm > 20): mm = mm - 21
+        l  = ""
+        if (mm > 20):                                                           ## this is a leap month so...
+            mm = mm - 20                                                        ##      correct the month index and
+            l = "jun-"                                                          ##      add the leap prefix
         if (mm > 11): return ("")
-        if (r <= 50): m  = m + self.k_ChiMT[mm]
-        else:         m  = m + self.k_ChiMM[mm]
+        if (r <= 50): m  = m + l + self.k_ChiMT[mm]
+        else:         m  = m + l + self.k_ChiMM[mm]
         
         y  = "in the year of "
         r  = app_numeric.arand(1, 1, 100)                                       ## roll the dice for english v chinese year
@@ -954,9 +957,19 @@ def return_everything ():
         
 
 def return_particular ():
-    s = "practice radical self-reliance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $p04"
+    ltc = datetime.datetime.now()                   ## init the times
+    utc = datetime.datetime.now(datetime.UTC)
+    lat = 47.434765                                 ## Port Orchard, Washington, USA, Earth
+    lon = -122.668934
+    tz  = 134                                       ## time zone: north america/los angeles
+    tzo = -700                                      ## offset: PDT = -700, PST = -800
+    c   = coordinate(ltc, utc, lat, lon, tz, tzo)   ## setup the coordinate structure
+    p   = Parser()
+    
+    s = "that event about <e is actually about <e and <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $p04"
     ref = app_strings.get_reference_num(s)      ## find any reference numbers or reference images
     img = app_strings.get_reference_image(s)
+    s = app_markup.process_me(s, c)
     if (img == ""): img = "   "
     sb = "    "
     if (ref > 0): sb = "{0:04}".format(ref)
