@@ -3,7 +3,8 @@
 *** reconcile with https://www.internationaldays.co/
 
 !M=11 (a-1962) heinz stucke began his fifty three year bicycle journey across the world
-
+!M=7,d=30 (a-1960) jane goodall moved to tanzania
+!M=8,d=9 bookstore romance day
 (a-1670) francesco lana de terzi described the first airship
 (a-1699) bartolomeo cristofori invented the piano
 (a-1709) bartolomeu de gusmao built the first airship model
@@ -13,15 +14,28 @@ as we await the once and future king
 be isolated - be ignored/be attacked - be in doubt/be frightened - but do not be silent ~~~ 0698
 be so wildly passionate that they can't decide/if you're crazy or a genius
 civilization is fragile/kindness and empathy require work
+don't expect your life to magically change/while you do the same things/you've always done
 go where you feel the most alive
+long ago humans dumped all their skill points/into community building and cooperation/it's time we started acting like it ~~~ $lnf
 lost in the rhythm/crowned with the light ~~~ $brd
-protect your <?herd|tribe
+no one gets left behind or forgotten ~~~ $brc
+other worlds await us ~~~ $zil
+protect your <?family|herd|tribe|people
 someone is still hearing your words in their head
 someone is still listening to/the music you showed them
 someone is still reading the/authors you introduced them to
+sometimes alcohol is the solution
+sometimes violence is the answer
 the greatest borders aren't on maps/but those we draw in our minds
+the pace that the system wants you to go/is seldom the best pace for you
+the place that the system wants you to be/is seldom the best place for you
+the system doesn't want what is best for you
+the system is not working in your best interest
 there are people who need you here/and it wouldn't be the same if you left
 there are sources of hope all around us/find them and cling to them
+they are still hearing your words in their head
+they are still listening to/the music you showed them
+they are still reading the/authors you introduced them to
 this is precisely the time when artists go to work/there is no time for dispair or self-pity/this is how civilizations heal - Toni Morrison
 this is precisely the time when artists go to work/there is no time for dispair or self-pity
 we all shape reality with the/decisions that we make
