@@ -3,16 +3,21 @@
 *** reconcile with https://www.internationaldays.co/
 
 !M=11 (a-1962) heinz stucke began his fifty three year bicycle journey across the world
+!M=9 (a-1981) the founding of les ux
 !M=7,d=30 (a-1960) jane goodall moved to tanzania
 !M=8,d=9 bookstore romance day
+
 (a-1670) francesco lana de terzi described the first airship
 (a-1699) bartolomeo cristofori invented the piano
 (a-1709) bartolomeu de gusmao built the first airship model
 (a-1852) jules henri giffard built the first powered airship
+<G=+48834,+002332 the crypt of the sepulchral lamp
+<G=+48834,+002333 l'empire de la mort
 
 as we await the once and future king
 be isolated - be ignored/be attacked - be in doubt/be frightened - but do not be silent ~~~ 0698
 be so wildly passionate that they can't decide/if you're crazy or a genius
+be with the ones who make you feel alive
 civilization is fragile/kindness and empathy require work
 don't expect your life to magically change/while you do the same things/you've always done
 go where you feel the most alive
@@ -26,11 +31,10 @@ someone is still listening to/the music you showed them
 someone is still reading the/authors you introduced them to
 sometimes alcohol is the solution
 sometimes violence is the answer
+take a nap in the next fairy ring you find ~~~ $qst
 the greatest borders aren't on maps/but those we draw in our minds
 the pace that the system wants you to go/is seldom the best pace for you
 the place that the system wants you to be/is seldom the best place for you
-the system doesn't want what is best for you
-the system is not working in your best interest
 there are people who need you here/and it wouldn't be the same if you left
 there are sources of hope all around us/find them and cling to them
 they are still hearing your words in their head
