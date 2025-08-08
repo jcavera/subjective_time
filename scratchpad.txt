@@ -3,17 +3,28 @@
 *** reconcile with https://www.internationaldays.co/
 
 !M=3,d=19 (a-2018) the northern white rhinoceros became functionally extinct
+!M=6,d=29 (a-1987) the death of elizabeth cotten
 !M=7,d=29 (a-1954) the publication of the fellowship of the ring ~~~ $one
 !M=8,d=2 (a-2024) bryony page became a dinosaur scientist and won a gold medal in trampoline
 !M=8,d=2 (a-2024) bryony page realized the dreams of every autistic seven year old
 !M=8,d=6 (a-2012) the curiosity rover landed on mars
+(a-1325) the war of the bucket
+(a-1996) the attempted takeover by hellco ~~~ $brc
 (b-685) the time of spring and autumn
+<G=+15166,+048422 the cone city of haid al-jazil
 <G=+28900,+113967 the world's most inconvenient convenience store
 <G=+28912,+113980 a brave man's bridge
+<G=+36459,+036852 the lion of ain dara
+<G=+58985,+006184 preikestolen
+<O=50-500 the nearest <?astral|dimensional <?rift|portal|gate
+<t fight for a better future
+<t pay attention to what is real
+<t rip the band-aid off
 
 <?cake|chocolate|cookies|pizza|tacos likely won't solve all your problems/but it never hurts to check
+as the <?revolution|movement <?loses|gains <?steam|momentum
 be not inhospitable to strangers/lest they be angels in disguise
-before the <?seminar|workshop on <e starts
+before the <?seminar|workshop on <e starts ~~~ $brc
 before we burn it all to the ground
 beneath unfamiliar <?constellations|skies
 break the pattern today or/the loop will repeat tomorrow
@@ -24,24 +35,30 @@ i can compute the movement of the stars/but not the madness of men - Isaac Newto
 if you wouldn't go to them for advice/don't accept their criticism
 in the quiet acts of giving/we weave the threads of humanity/and leave a path for those who follow
 it's going to be okay
-liberty is not doing whatever you want/it's being free to choose what is right - John Locke
+just about time for the <?seminar|workshop on <e to start ~~~ $brc
+just make it exist first/you can make it good after
+liberty is not doing whatever you want/it's being free to choose what is right ~~~ 0919
 make your own good days
 on the <?brink|cusp|edge|verge of something <?amazing|big|important|wonderful|revolutionary
-parents wonder why the streams are bitter/when they are the ones who poisoned the wells - John Locke
+parents wonder why the streams are bitter/when they are the ones who poisoned the wells ~~~ 0919
 sometimes the fear does not subside/and you must do it afraid
 sometimes you're shown the light/in the strangest places
+the law of demeter only applies to software/not people
 the system doesn't panic when people die/it panics when people speak
 the version of you that hid/was doing their best to protect you/forgive them for that
 there are many <?amazing|better|beautiful|good|new days ahead
 underneath the sky
 venture beyond the <?familiar|comfortable|known|confines|boundaries
 venture <?ahead|beyond|forth
-we can forgive a child who is afraid of the dark/the tragedy is when an adult/is afraid of the light - Plato
+we can forgive a child who is afraid of the dark/the tragedy is when an adult/is afraid of the light ~~~ 0894
+we weave the threads of humanity/and leave a path for those who follow
+wear clothes? /every day?? /now that just seems excessive ~~~ $brc
 what make you different is/what makes you priceless
 you are not lost/you are here
 you can't always choose the music/but you can choose how you dance to it
 you didn't go through all that for nothing
 you have a right to be happy too
+you shouldn't have to hide yourself/to make others comfortable
 you're allowed to be better alone/and also miss them
 you're doing the best you can in a rigged game/and you can still find ways to love and laugh/and fight for a better future
 you're going to be <?okay|fine
