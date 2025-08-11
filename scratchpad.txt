@@ -24,6 +24,9 @@
 <t rip the band-aid off
 
 <?cake|chocolate|cookies|pizza|tacos likely won't solve all your problems/but it never hurts to check
+above the earth's <?core|mantle|crust|surface
+above the surface of the earth
+after the <?seminar|workshop on <e has started ~~~ $brc
 as the <?revolution|movement <?loses|gains <?steam|momentum
 be not inhospitable to strangers/lest they be angels in disguise
 before the <?seminar|workshop on <e starts ~~~ $brc
@@ -67,7 +70,7 @@ you shouldn't have to hide yourself/to make others comfortable
 your best is what you can do without harming yourself/now what you can do when you disregard your health
 you're allowed to be better alone/and also miss them
 you're doing the best you can in a rigged game/and you can still find ways to love and laugh/and fight for a better future
-you're going to be <?okay|fine
+you're going to be <?okay|fine|better
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
