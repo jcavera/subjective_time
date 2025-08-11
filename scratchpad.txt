@@ -8,6 +8,8 @@
 !M=8,d=2 (a-2024) bryony page became a dinosaur scientist and won a gold medal in trampoline
 !M=8,d=2 (a-2024) bryony page realized the dreams of every autistic seven year old
 !M=8,d=6 (a-2012) the curiosity rover landed on mars
+!M=9,d=30 (a-2025) aol shut down its dialup access
+!M=9,d=30 (a-2025) the end of the eternal september
 (a-1325) the war of the bucket
 (a-1996) the attempted takeover by hellco ~~~ $brc
 (b-685) the time of spring and autumn
@@ -42,6 +44,7 @@ liberty is not doing whatever you want/it's being free to choose what is right ~
 make your own good days
 on the <?brink|cusp|edge|verge of something <?amazing|big|important|wonderful|revolutionary
 parents wonder why the streams are bitter/when they are the ones who poisoned the wells ~~~ 0919
+sometimes coincidences can feel like/a calculated strategy
 sometimes the fear does not subside/and you must do it afraid
 sometimes you're shown the light/in the strangest places
 the law of demeter only applies to software/not people
