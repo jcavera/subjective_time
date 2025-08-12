@@ -17,6 +17,8 @@
 <G=+28900,+113967 the world's most inconvenient convenience store
 <G=+28912,+113980 a brave man's bridge
 <G=+36459,+036852 the lion of ain dara
+<G=+38061,-105094 bishop castle
+<G=+38806,-117773 the saline valley hot springs
 <G=+58985,+006184 preikestolen
 <O=50-500 the nearest <?astral|dimensional <?rift|portal|gate
 <t fight for a better future
@@ -33,6 +35,7 @@ be not inhospitable to strangers/lest they be angels in disguise
 before the <?seminar|workshop on <e starts ~~~ $brc
 before we burn it all to the ground
 beneath unfamiliar <?constellations|skies
+beyond the pale ~~~ $brc
 break the pattern today or/the loop will repeat tomorrow
 directly above the center of the earth
 don't confuse someone's desire to be with you/with their capacity to love you how you deserve
@@ -52,6 +55,7 @@ liberty is not doing whatever you want/it's being free to choose what is right ~
 make your own good days
 on the <?brink|cusp|edge|verge of something <?amazing|big|important|wonderful|revolutionary
 parents wonder why the streams are bitter/when they are the ones who poisoned the wells ~~~ 0919
+right now/making it through another <?day|night /is good enough
 sometimes coincidences can feel like/a calculated strategy
 sometimes the fear does not subside/and you must do it afraid
 sometimes you're shown the light/in the strangest places
