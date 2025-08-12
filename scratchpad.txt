@@ -8,6 +8,8 @@
 !M=8,d=2 (a-2024) bryony page became a dinosaur scientist and won a gold medal in trampoline
 !M=8,d=2 (a-2024) bryony page realized the dreams of every autistic seven year old
 !M=8,d=6 (a-2012) the curiosity rover landed on mars
+!M=8,d=8 international cat day
+!M=8,d=8,D=7 the most caturday of all possible caturdays
 !M=9,d=30 (a-2025) aol shut down its dialup access
 !M=9,d=30 (a-2025) the end of the eternal september
 (a-1325) the war of the bucket
