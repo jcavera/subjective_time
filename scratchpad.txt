@@ -77,6 +77,8 @@ the greatest art is an act of self immolation/disguised as an act of love ~~~ $b
 the law of demeter only applies to software/not people
 the system doesn't panic when people die/it panics when people speak
 the version of you that hid/was doing their best to protect you/forgive them for that
+there are <?amazing|better|beautiful|good|new days ahead
+there are <?amazing|better|beautiful|good|new days to come
 there are many <?amazing|better|beautiful|good|new days ahead
 there are many <?amazing|better|beautiful|good|new days to come
 this is precisely the time when artists go to work/not when everything is fine/but in times of dread - Toni Morrison
