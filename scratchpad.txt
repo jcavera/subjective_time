@@ -26,8 +26,9 @@
 <G=+58985,+006184 preikestolen
 <G=-18178,-063819 el fuerte de samaipata
 <O=50-500 the nearest <?astral|dimensional <?rift|portal|gate
+<t <?defend|protect <?what|who you value
 <t fight for a better <?future|planet|society|tomorrow|world
-<t pay attention to what is real
+<t pay attention to what is <?good|real|true
 <t rip the band-aid off
 
 <?cake|chocolate|cookies|pizza|tacos likely won't solve all your problems/but it never hurts to check
@@ -77,6 +78,7 @@ the law of demeter only applies to software/not people
 the system doesn't panic when people die/it panics when people speak
 the version of you that hid/was doing their best to protect you/forgive them for that
 there are many <?amazing|better|beautiful|good|new days ahead
+there are many <?amazing|better|beautiful|good|new days to come
 this is precisely the time when artists go to work/not when everything is fine/but in times of dread - Toni Morrison
 underneath the sky
 venture beyond the <?familiar|comfortable|known|confines|boundaries
@@ -85,13 +87,14 @@ we can forgive a child who is afraid of the dark/the tragedy is when an adult/is
 we weave the threads of humanity/and leave a path for those who follow
 wear clothes? /every day?? /now that just seems excessive ~~~ $brc
 what make you different is/what makes you priceless
-where boundaries fade ~~~ $brc
+where <?boundaries|limitations fade ~~~ $brc
+where reality fades ~~~ $brc
 you are not lost/you are here
 you can't always choose the music/but you can choose how you dance to it
 you didn't go through all that for nothing
 you have a right to be happy too
 you shouldn't have to hide yourself/to make others comfortable
-your accomplishments aren't beholden/to anyone else's timeline
+your accomplishments aren't beholden/to anyone else's timetable
 your best is what you can do without harming yourself/now what you can do when you disregard your health
 your progress isn't beholden/to anyone else's timeline
 you're allowed to be better alone/and also miss them
