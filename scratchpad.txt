@@ -21,6 +21,7 @@ when did you last cry happy tears? / ~~~~ $qst
 when did you last feel joy? / ~~~~ $qst
 when did you lose your curiosity? / ~~~~ $qst
 when did you lose your sense of wonder? / ~~~~ $qst
+when did you put aside your dreams? / ~~~ $qst
 when did you stop being enchanted by stories? / ~~~~ $qst
 when did you stop dancing? / ~~~~ $qst
 when did you stop finding comfort in silence? / ~~~~ $qst
