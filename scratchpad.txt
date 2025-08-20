@@ -8,6 +8,7 @@
 
 !M=6,d=24 (a-1864) an unexpected bear
 !M=8,d=20 (a-1882) the premiere of the eighteen twelve overture
+!M=8,d>22 in the shadow of the man ~~~ $brc
 
 don't let the concept of change scare you as much/as the prospect of remaining unhappy
 don't think about what can happen in a year/just focus on what's in front of you/and do what you can to get to your goal
