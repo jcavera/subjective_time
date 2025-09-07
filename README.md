@@ -7,3 +7,5 @@ shelved for a good eight years before being revived, completely re-thought and r
 The python code is rough (this was my 2020, I-need-to-learn-python project) but should be sufficiently documented.  For any future
 implementation, I want to use the same common set of data files.  Do NOT mess with the format of the data files.  They're pretty
 sensitive to modification.
+
+For a better explanation of the project, refer to the /data/attrib.txt file.
