@@ -9,3 +9,5 @@ implementation, I want to use the same common set of data files.  Do NOT mess wi
 sensitive to modification.
 
 For a better explanation of the project, refer to the /data/attrib.txt file.
+
+And if you want to contribute to the code or data, please for the love of all that is holy, make your own fuckin' branch.  Thanks!
