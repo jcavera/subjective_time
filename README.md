@@ -8,6 +8,8 @@ The python code is rough (this was my 2020, I-need-to-learn-python project) but 
 implementation, I want to use the same common set of data files.  Do NOT mess with the format of the data files.  They're pretty
 sensitive to modification.
 
-For a better explanation of the project, refer to the /data/attrib.txt file.
+For a better explanation of the project in general, refer to the /data/attrib.txt file.  This serves as an embedded readme file that
+is to travel with the code and provide an expanation of the references for the called-out lines in the data files.  Individual sub-
+directories may have their own readmes in order to explain the file formats.  Also of course, read the code comments.
 
 And if you want to contribute to the code or data, please for the love of all that is holy, make your own fuckin' branch.  Thanks!
