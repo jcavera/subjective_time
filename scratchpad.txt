@@ -3,7 +3,6 @@
 *** 605 *** western australia day ~~~ 1st monday in june
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
-*** add a playa-go-to case: "the next person you see"
 
 !h>19 say a prayer in the darkness/for the magic to come ~~~ $brd
 <G=+45777,+004846 the centauress and the faun
