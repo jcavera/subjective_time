@@ -9,12 +9,12 @@ as follows:
 
     2029:+0100;01-14;+0000;02-18;+0100;12-30;+0000~~~~~~~~~~~~
 
-Bytes 00..03:  four digit year
-Bytes 05..09:  the offset in <+/->hhmm from GMT at the start of the year
-Bytes 11..15:  the MM-DD of the first changeover, occuring at 0100 local time
-Bytes 17..21:  the offset in <+/->hhmm from GMT after the first changeover
-Bytes 23..27:  the MM-DD of the second changeover, occuring at 0100 local time
-Bytes 29..33:  the offset in <+/->hhmm from GMT after the second changeover
+    Bytes 00..03:  four digit year
+    Bytes 05..09:  the offset in <+/->hhmm from GMT at the start of the year
+    Bytes 11..15:  the MM-DD of the first changeover, occuring at 0100 local time
+    Bytes 17..21:  the offset in <+/->hhmm from GMT after the first changeover
+    Bytes 23..27:  the MM-DD of the second changeover, occuring at 0100 local time
+    Bytes 29..33:  the offset in <+/->hhmm from GMT after the second changeover
 
 Lines are <CR><NL> delimited, and fixed in length.  Each line can support up to four changes from GMT to
 the local time.  To determine the local time, the line corresponding to the current year is retrieved from
