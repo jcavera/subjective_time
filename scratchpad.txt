@@ -4,6 +4,7 @@
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
 
+!M=9,d=9 international sudoku day
 !h>19 say a prayer in the darkness/for the magic to come ~~~ $brd
 <G=+45777,+004846 the centauress and the faun
 
