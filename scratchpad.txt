@@ -5,6 +5,7 @@
 *** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
 *** reconcile with https://www.internationaldays.co/
 
+!M=9,d=10 (a-1509) the lesser judgement day of constantinople
 !M=9,d=9 international sudoku day
 !h>19 say a prayer in the darkness/for the magic to come ~~~ $brd
 <G=+45777,+004846 the centauress and the faun
@@ -16,6 +17,7 @@ don't wait to do it later
 fifty four thousand years since the invention/of the bow and arrow ~~~ $lnf
 find the lesson/break the cycle
 forty one thousand years since the laschamps <?event|excursion|breakdown
+if doing your best is ruining you/do less/your best does not involve self-destruction
 it is within everyone's power to live nobly/and in no one's power to live long ~~~ 0429
 it just be like that sometimes
 it's a dangerous thing to mistake/speaking without thought/for speaking the truth
@@ -36,6 +38,7 @@ there are places like this everywhere/places where you enter as a child/and leav
 those who make peaceful revolution impossible/make violent revolution inevitable ~~~ 0489
 through the forest of forgotten memories/beneath the ancient stars/the self waits patiently
 time to plan your next passion project
+today will never come back
 tomorrow never comes
 we are in constant motion
 we deserve so much more than to/waste our entire lives just/to make a few people rich
