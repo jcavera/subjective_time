@@ -1,8 +1,9 @@
 *** The scratchpad file is used for notes, reminders, ideas, and data file suggestions
 
-*** in r_time.txt: make sure that there is a SPACE after every macro and before every semicolon!!!
-*** 605 *** western australia day ~~~ 1st monday in june
-*** 606 *** the weekend of the deventer op stelten festival ~~~ first weekend in july 
+*** in r_time.txt: make sure that there is a SPACE after every macro and before every semicolon!!!  This is
+    seriously breaking some of the messages!!!
+*** add to r_ files: 605 - western australia day ~~~ 1st Monday in June
+*** add to r_ files: 606 - the weekend of the deventer op stelten festival ~~~ first weekend in July (starting Friday)
 *** reconcile with https://www.internationaldays.co/
 
 !M=9,d=10 (a-1509) the lesser judgement day of constantinople
@@ -18,6 +19,7 @@ don't wait to do it later
 fifty four thousand years since the invention/of the bow and arrow ~~~ $lnf
 find the lesson/break the cycle
 forty one thousand years since the laschamps <?event|excursion|breakdown
+how do you want to design your life/going forward from here? / ~~~ $brc
 if doing your best is ruining you/do less/your best does not involve self-destruction
 if the point of society isn't to/care for each other and make things better/then what the fuck are we even doing? / 
 it is within everyone's power to live nobly/and in no one's power to live long ~~~ 0429
@@ -31,6 +33,7 @@ on the way home
 our fears are more numerous than our dangers/we suffer more in our imagination/than in our reality ~~~ 0429
 our fears are more numerous than our dangers ~~~ 0429
 pain and suffering are a kind of currency/passed hand to hand until they reach/someone who does not pass them on - Simone Weil
+positive things happen/accept them and don't self destruct
 recognition is seldom equal/to achievement
 respice finem (Latin: consider the end)
 right now there is someone your age/who is experiencing their last day on earth/and wishing they had more time
@@ -40,7 +43,7 @@ some people have guardian angels while others/have a drunk raccoon with a crowba
 stop measuring days be degree of productivity/and start experiencing them by/degree of presence ~~~ 0430
 the next revolution is coming
 the path home is not forward/but inward
-there are places like this everywhere/places where you enter as a child/and leave having grown a little
+there are places like this everywhere/places where you enter as a child/and leave having grown a little ~~~ $brc
 those who make peaceful revolution impossible/make violent revolution inevitable ~~~ 0489
 through the forest of forgotten memories/beneath the ancient stars/the self waits patiently
 time to plan your next <?art|creative|self-improvement|passion|personal project
@@ -49,6 +52,8 @@ tomorrow never comes
 we are in constant motion
 we deserve so much more than to/waste our entire lives just/to make a few people rich
 we suffer more in our imagination/than in our reality ~~~ 0429
+what did you learn about yourself? / ~~~ $brc
+what do you want to remember? / ~~~ $brc
 what if you stopped fearing your heart/and followed it instead? / 
 where there is ruin/there is hope for treasure ~~~ 0418
 yesterday will never come back
