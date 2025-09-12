@@ -10,6 +10,7 @@
 !M=9,d=10 (a-2025) kathmandu burned
 !M=9,d=9 international sudoku day
 !h>19 say a prayer in the darkness/for the magic to come ~~~ $brd
+<G=+35710,-114803 the nelson ghost town
 <G=+45777,+004846 the centauress and the faun
 
 all we have is here and now
@@ -46,7 +47,7 @@ the path home is not forward/but inward
 there are places like this everywhere/places where you enter as a child/and leave having grown a little ~~~ $brc
 those who make peaceful revolution impossible/make violent revolution inevitable ~~~ 0489
 through the forest of forgotten memories/beneath the ancient stars/the self waits patiently
-time to plan your next <?art|creative|self-improvement|passion|personal project
+time to plan your next <?art|creative|passion|personal|self-improvement project
 today will never come back
 tomorrow never comes
 we are in constant motion
