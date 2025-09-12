@@ -6,11 +6,12 @@
 *** add to r_ files: 606 - the weekend of the deventer op stelten festival ~~~ first weekend in July (starting Friday)
 *** reconcile with https://www.internationaldays.co/
 
+(a-2012) the discovery of time crystals
 !M=9,d=10 (a-1509) the lesser judgement day of constantinople
 !M=9,d=10 (a-2025) kathmandu burned
 !M=9,d=9 international sudoku day
 !h>19 say a prayer in the darkness/for the magic to come ~~~ $brd
-<G=+35710,-114803 the nelson ghost town
+<G=+35710,-114803 the ghost town of nelson nevada
 <G=+45777,+004846 the centauress and the faun
 
 all we have is here and now
@@ -26,6 +27,7 @@ if the point of society isn't to/care for each other and make things better/then
 it is within everyone's power to live nobly/and in no one's power to live long ~~~ 0429
 it just be like that sometimes
 it's a dangerous thing to mistake/speaking without thought/for speaking the truth
+it's you versus you/and one of you has to die
 later never comes
 let it rain strange magic ~~~ $brc - Cyanide
 never go back to the dark places/that you fought so hard to escape
@@ -35,6 +37,7 @@ our fears are more numerous than our dangers/we suffer more in our imagination/t
 our fears are more numerous than our dangers ~~~ 0429
 pain and suffering are a kind of currency/passed hand to hand until they reach/someone who does not pass them on - Simone Weil
 positive things happen/accept them and don't self destruct
+receiving love is just as much work as giving love/don't beat yourself up if you never/developed those muscles
 recognition is seldom equal/to achievement
 respice finem (Latin: consider the end)
 right now there is someone your age/who is experiencing their last day on earth/and wishing they had more time
@@ -42,7 +45,7 @@ sleeping <?puppy|kitty appreciation day
 some days you may walk/some days you may crawl/just show up and be present
 some people have guardian angels while others/have a drunk raccoon with a crowbar whispering/let's fuck some shit up
 stop measuring days be degree of productivity/and start experiencing them by/degree of presence ~~~ 0430
-the next revolution is coming
+the next revolution is <?coming|immanent|near
 the path home is not forward/but inward
 there are places like this everywhere/places where you enter as a child/and leave having grown a little ~~~ $brc
 those who make peaceful revolution impossible/make violent revolution inevitable ~~~ 0489
