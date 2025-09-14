@@ -1,74 +1,9 @@
 *** The scratchpad file is used for notes, reminders, ideas, and data file suggestions
 
-*** in r_time.txt: make sure that there is a SPACE after every macro and before every semicolon!!!  This is
-    seriously breaking some of the messages!!!
 *** add to r_ files: 605 - western australia day ~~~ 1st Monday in June
 *** add to r_ files: 606 - the weekend of the deventer op stelten festival ~~~ first weekend in July (starting Friday)
 *** reconcile with https://www.internationaldays.co/
 
-(a-2012) the discovery of time crystals
-!M=11,d=26 (a-2003) the final flight of the concorde
-!M=9,d=10 (a-1509) the lesser judgement day of constantinople
-!M=9,d=10 (a-2025) kathmandu burned
-!M=9,d=9 international sudoku day
-!h>19 say a prayer in the darkness/for the magic to come ~~~ $brd
-<G=+35710,-114803 the ghost town of nelson nevada
-<G=+45777,+004846 the centauress and the faun
-
-all we have is here and now
-as we are searching for ourselves in each other
-beware of rich men quoting the bible/to justify punishing the poor
-don't believe in algorithms/belive in honest conversation/believe that people are good
-don't wait to do it later
-fifty four thousand years since the invention/of the bow and arrow ~~~ $lnf
-find the lesson/break the cycle
-forty one thousand years since the laschamps <?event|excursion|breakdown
-how do you want to design your life/going forward from here? / ~~~ $brc
-if doing your best is ruining you/do less/your best does not involve self-destruction
-if the point of society isn't to/care for each other and make things better/then what the fuck are we even doing? / 
-it is within everyone's power to live nobly/and in no one's power to live long ~~~ 0429
-it just be like that sometimes
-it's a dangerous thing to mistake/speaking without thought/for speaking the truth
-it's time to awaken
-it's you versus you/and one of you has to die
-later never comes
-let it rain strange magic ~~~ $brc - Cyanide
-make your own rules/run your own race/keep going
-never go back to the dark places/that you fought so hard to escape
-on a planet that increasingly resembles/a maximum security prison/the intelligent choice is to plan a jail break ~~~ 0431
-on the way home
-our fears are more numerous than our dangers/we suffer more in our imagination/than in our reality ~~~ 0429
-our fears are more numerous than our dangers ~~~ 0429
-pain and suffering are a kind of currency/passed hand to hand until they reach/someone who does not pass them on - Simone Weil
-positive things happen/accept them and don't self destruct
-receiving love is just as much work as giving love/don't beat yourself up if you never/developed those muscles
-recognition is seldom equal/to achievement
-respice finem (Latin: consider the end)
-right now there is someone your age/who is experiencing their last day on earth/and wishing they had more time
-sleeping <?puppy|kitty appreciation day
-some days you may walk/some days you may crawl/just show up and be present
-some people have guardian angels while others/have a drunk raccoon with a crowbar whispering/let's fuck some shit up
-stop measuring days be degree of productivity/and start experiencing them by/degree of presence ~~~ 0430
-the next revolution is <?coming|immanent|near
-the path home is not forward/but inward
-there are places like this everywhere/places where you enter as a child/and leave having grown a little ~~~ $brc
-those who make peaceful revolution impossible/make violent revolution inevitable ~~~ 0489
-through the forest of forgotten memories/beneath the ancient stars/the self waits patiently
-time to plan your next <?art|creative|passion|personal|self-improvement project
-today will never come back
-tomorrow never comes
-we are in constant motion
-we deserve so much more than to/waste our entire lives just/to make a few people rich
-we suffer more in our imagination/than in our reality ~~~ 0429
-what did you learn about yourself? / ~~~ $brc
-what do you want to remember? / ~~~ $brc
-what if you stopped fearing your heart/and followed it instead? / 
-where there is ruin/there is hope for treasure ~~~ 0418
-yesterday will never come back
-you are allowed to reassess the situation
-you are allowed to take a step back
-you can't step into a new life with the same skin
-you owe it to yourself to see/how great things can get
 
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
