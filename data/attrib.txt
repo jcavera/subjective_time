@@ -47,7 +47,7 @@ General thanks and credits:
 Jessica Buenrostro and Sondra Carr for their help with the original (2009) project (and everything else)
 Heather Dessel for a ton of database entries and a healthy dose of inspiration, love, and humor
 Fabiola Bergi for all the right nudges at all the right times, and a lot of love and patience
-Paul Eggert for tirelessly and thanklessly maintaining the timezone databases
+Paul Eggert for tirelessly and thanklessly maintining the timezone databases
 Susan Kaman and Barbara Elliot, for their past (and forever onward) understanding and support
 Jessica Armstrong and Kali Readwin for loving friendship (and occasional therapy)
 Chantell Osejo for support, believing, and not an insignificant bit of coding help
@@ -339,7 +339,7 @@ have a good idea of mine.
 0205  This is Madness, I say!  Madness!!
 0206  Latin: for the time being
 0207  Italian: that without remedy, without regard (what's done is done)
-0208  French: if you don't go forward, you go backward
+0208  French: if you don't go foward, you go backward
 0209  French: time will tell
 0210  Spanish: no risk, no gain
 0211  Latin: what has happened, has happened
@@ -412,7 +412,7 @@ have a good idea of mine.
 0277  Japanese: a once-in-a-lifetime experience
 0278  J.M. Barrie, Peter Pan
 0279  Wild Cherry, Play that Funky Music; lyrics by Robert Parissi
-0280  Parliament, Give Up the Funk; lyrics by George Clinton
+0280  Parliment, Give Up the Funk; lyrics by George Clinton
 0281  Orleans, Still the One; lyrics by John and Johanna Hall
 0282  Groucho Marx
 0283  Queen, Bohemian Rhapsody; lyrics by Freddie Mercury
@@ -526,7 +526,7 @@ have a good idea of mine.
 0389  From the Shaseki-shu (Collection of Stone and Sand) compiled by Muju
 0390  Sting, Desert Rose
 0391  Dio, Rainbow in the Dark
-0392  Enya, Caribbean Blue
+0392  Enya, Carribean Blue
 0393  Enya, Storms in Africa
 0394  Enya, Book of Days
 0395  Robert W. Chambers, The King in Yellow
@@ -551,7 +551,7 @@ have a good idea of mine.
 0413  Madonna, Ray of Light; lyrics by William Orbit, Christine Leach, Dave Curtiss, Clive Maldoon, Madonna Ciccone
 0414  Katy Perry, Firework; lyrics by Esther Dean, Sandy Wilhelm, Tor Erik Hermansen, Mikkel Eriksen, Katheryn Hudson
 0415  Jackson Browne, Running on Empty
-0416  Japanese: Who cares? Alternately, What the hell? (idiomatic)
+0416  Japanese: Who cares? Alternately, What the hell? (idomatic)
 0417  Frank Herbert, Dune novels
 0418  Rumi, various writings
 0419  Sanskrit: to have awoken and understood
@@ -664,13 +664,13 @@ have a good idea of mine.
 0524  Wig Wam, Do Ya Wanna Taste It; lyrics by Aage Sten Nilsen and Trond Holter
 0525  R.E.M, It's the End of the World As We Know It (and I feel fine); lyrics by John Stipe, Michael Mills, et al
 0526  Martin Page, In the House of Stone and Light
-0527  Portuguese: plunge head first
-0528  Portuguese: don't count on it (literal: take the pony away from the rain)
-0529  Portuguese: finish what you started (literal: you kneeled, you have to pray)
-0530  Portuguese: it's about time that happened (literal: fell because it's ripe)
-0531  Portuguese: it's about time that you did that (literal: wash the mare)
-0532  Portuguese: don't worry (literal: kick it to the corner)
-0533  Portuguese: no worries (literal: under the shade of the banana tree)
+0527  Portugese: plunge head first
+0528  Portugese: don't count on it (literal: take the pony away from the rain)
+0529  Portugese: finish what you started (literal: you kneeled, you have to pray)
+0530  Portugese: it's about time that happened (literal: fell because it's ripe)
+0531  Portugese: it's about time that you did that (literal: wash the mare)
+0532  Portugese: don't worry (literal: kick it to the corner)
+0533  Portugese: no worries (literal: under the shade of the bannana tree)
 0534  Beau Taplin, The One Saving Grace and other poems
 0535  Men Without Hats, The Safety Dance; lyrics by Ivan Doroschuk
 0536  Big Country, In a Big Country; lyrics by Bruce Watson, Mark Brzezicki, Stuart Adamson, Tony Butler
@@ -732,11 +732,11 @@ have a good idea of mine.
 0589  Tom Swoon and Paris Blohm, Synchronize
 0590  Carlo Levi, various writings
 0591  Viktor Frankl, various writings
-0592  Latin: sleep in vigilance, live in lucidity
+0592  Latin: sleep in vigilence, live in lucidity
 0593  Buckminster Fuller, various writings
 0594  T.S. Eliot, various writings
 0595  Thoughts of Dog
-0596  Latin: rise up, in order that your anger may be but a brief madness; control it! (also a palindrome)
+0596  Latin: rise up, in order that your anger may be but a brief madness; control it! (also a pallendrome)
 0597  Barak Obama, various writings
 0598  Catherynne Valente, various writings
 0599  From the Hindu Yuga Cycle
@@ -803,7 +803,7 @@ have a good idea of mine.
 0658  Jane Goodall
 0659  Antonio Gramsci
 0660  Haana
-0661  Latin: we enter the circle after dark and are consumed by fire (also a palindrome)
+0661  Latin: we enter the circle after dark and are consumed by fire (also a pallendrome)
 0662  Dolly Parton
 0663  Sinead O'Conner
 0664  Robert M. Drake
@@ -998,7 +998,7 @@ have a good idea of mine.
 0850  Japanese: the moon is beautiful, isn't it? [meaning: I love you]
 
 0851  Japanese: walk together
-0852  Japanese: to meet is the beginning of parting
+0852  Japanese: to meeet is the beginning of parting
 0853  Latin: through difficulties to greatness
 0854  Tennyson, Ulysses
 0855  Latin: God's dice are always loaded
@@ -1074,7 +1074,7 @@ have a good idea of mine.
 0924  Latin: in the act of
 0925  Scottish: long may your chimney smoke
 0926  Latin: shit happens
-0927  Latin: where wanders the flock, the shepherd is with them
+0927  Latin: where wanders the flock, the shepard is with them
 0928  James Hillman
 0929  Japanese: be strong, be gentle, be beautiful
 0930  Edward Abbey
@@ -1104,4 +1104,5 @@ have a good idea of mine.
 0953  Pink Floyd, Time
 0954  William Burroughs
 0955  John Steinbeck
-
+0956  Cyanide (the artist)
+0957  Simone Weil
