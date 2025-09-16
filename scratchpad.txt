@@ -4,7 +4,9 @@
 *** add to r_ files: 606 - the weekend of the deventer op stelten festival ~~~ first weekend in July (starting Friday)
 *** reconcile with https://www.internationaldays.co/
 
+!M=7,d=8 (a-1889) the founding of the wall street journal
 !M=9,d=15 (a-1940) the battle of britain
+!M=9,d=18 (a-1851) the founding of the new york times
 !Y=2026,M=10,d=24 babylonian triplet appreciation day
 !Y=2026,M=10,d=24 pythagorean theorem appreciation day
 !Y=2026,M=3,d=25 heronian triangle appreciation day with area equal to thirty six
@@ -14,6 +16,7 @@
 !Y=2035,M=8,d=29 heronian triangle appreciation day with area equal to eighty four
 
 !h>21 my love i beg of you/sleep well/and walk in the woods
+(a-1999) vinay gupta invented the hexayurt
 <G=+33005,+091649 the tanggula railway station
 <G=+33999,+036200 the stone of the pregnant woman
 <G=-19662,-066234 the condor railway station
@@ -26,13 +29,18 @@ fall in love with some activity and do it/nobody ever figures out what life is a
 if you feel heavy because you care deeply/about the pain and injustice in the world/know that the propaganda isn't working on you
 if you have been fed lies all of your life/the truth tastes like poison
 in some circles you are a legend/in others you are a cautionary tale
+just don't give up k? / 
 meerkat appreciation day
+the experience of sacred space makes possible/the founding of the world - Mircea Eliade
 the world is a little bit more kind/if you are kind in the world
 the world may not be kind so it's/that much more important that you are
 there are no nations - there is only humanity/and if we don't come to understand that/there will be no nations or humanity ~~ 0796
 trapped within a dream made manifest
 trapped within a dream
+we get the future that we deserve
 we only get a few laps around the sun/sip them slowly
+what is your purpose? / 
+where the sacred manifests itself in space/the real unveils itself/the world comes into existence - Mircea Eliade
 where there is life there is hope
 where will your wings take you? / 
 you don't have to destroy yourself in trying/to make people understand you
