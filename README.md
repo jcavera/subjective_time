@@ -6,7 +6,7 @@ shelved for a good eight years before being revived, completely re-thought and r
 
 The python code is rough (this was my 2020, I-need-to-learn-python project) but should be sufficiently documented.  For any future
 implementation, I want to use the same common set of data files.  Do NOT mess with the format of the data files.  They're pretty
-sensitive to modification.
+sensitive to modification, since everything's adderessed by counting bytes.
 
 For a better explanation of the project in general, refer to the /data/attrib.txt file.  This serves as an embedded readme file that
 is to travel with the code and provide an expanation of the references for the called-out lines in the data files.  Individual sub-
