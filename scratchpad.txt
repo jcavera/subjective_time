@@ -5,13 +5,13 @@
 *** reconcile with https://www.internationaldays.co/
 
 !M=9,d=15 (a-1940) the battle of britain
-!Y=2026,M=10,d=24 babylonian triplet day
-!Y=2026,M=10,d=24 pythagorean theorem day
-!Y=2026,M=3,d=25 heronian triangle day with area equal to thirty six
-!Y=2029,M=6,d=25 heronian triangle day with area equal to sixty
-!Y=2030,M=11,d=25 heronian triangle day with area equal to one hundred thirty two
-!Y=2030,M=5,d=29 heronian triangle day with area equal to seventy two
-!Y=2035,M=8,d=29 heronian triangle day with area equal to eighty four
+!Y=2026,M=10,d=24 babylonian triplet appreciation day
+!Y=2026,M=10,d=24 pythagorean theorem appreciation day
+!Y=2026,M=3,d=25 heronian triangle appreciation day with area equal to thirty six
+!Y=2029,M=6,d=25 heronian triangle appreciation day with area equal to sixty
+!Y=2030,M=11,d=25 heronian triangle appreciation day with area equal to one hundred thirty two
+!Y=2030,M=5,d=29 heronian triangle appreciation day with area equal to seventy two
+!Y=2035,M=8,d=29 heronian triangle appreciation day with area equal to eighty four
 
 !h>21 my love i beg of you/sleep well/and walk in the woods
 <G=+33005,+091649 the tanggula railway station
@@ -25,6 +25,8 @@ develop a taste for yourself in the world/in art and stories and music/everythin
 fall in love with some activity and do it/nobody ever figures out what life is about/and it doesn't matter ~~~ 0236
 if you feel heavy because you care deeply/about the pain and injustice in the world/know that the propaganda isn't working on you
 if you have been fed lies all of your life/the truth tastes like poison
+in some circles you are a legend/in others you are a cautionary tale
+meerkat appreciation day
 the world is a little bit more kind/if you are kind in the world
 the world may not be kind so it's/that much more important that you are
 there are no nations - there is only humanity/and if we don't come to understand that/there will be no nations or humanity ~~ 0796
