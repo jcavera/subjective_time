@@ -1,8 +1,20 @@
 *** The scratchpad file is used for notes, reminders, ideas, and data file suggestions
 
-*** add to r_ files: 605 - western australia day ~~~ 1st Monday in June
-*** add to r_ files: 606 - the weekend of the deventer op stelten festival ~~~ first weekend in July (starting Friday)
-*** reconcile with https://www.internationaldays.co/
+TODO:
+    reconcile with https://www.internationaldays.co/
+ADD:
+    Make a daytime/nighttime display mode!
+        - Nighttime display will be the same as it is now - green text on a black background
+        - Daytime display will be black text on a white background
+        - Background images will need to be selected based on the current mode
+        - Change modes at local sunrise/sunset times
+    add to r_ files: 605 - western australia day ~~~ 1st Monday in June
+    add to r_ files: 606 - the weekend of the deventer op stelten festival ~~~ first weekend in July (starting Friday)
+
+DATA FILE SUGGESTIONS:
+
+0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=7,d=8 (a-1889) the founding of the wall street journal
 !M=9,d=15 (a-1940) the battle of britain
