@@ -6,10 +6,12 @@ DATA FILE SUGGESTIONS:
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=3,d=31 (a-2020) water taps in castelvetro dispensed lambrusco by mistake
 !M=9,d=17 constitution and citizenship day
 
 fifty five hundred years since the dark millennium
 just focus on what you can do today/to prepare yourself for tomorrow
+keep going until you're proud of your work
 one day you'll be far past this day/and you'll wonder why you were ever worried
 the best day of your life is the day that/you decide that your life is fully your own/this is the day your life really begins
 
