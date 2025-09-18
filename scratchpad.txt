@@ -5,6 +5,8 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+r_macr line 434: take one more look/hold it in your heart
+
 !M=3,d=4 (a-2020) water taps in castelvetro dispensed lambrusco by mistake
 !M=9,d=17 constitution and citizenship day
 
@@ -12,12 +14,14 @@ fifty five hundred years since the dark millennium
 i'm so happy to see you! / 
 just focus on what you can do today/to prepare yourself for tomorrow
 keep going until you're proud of your work
+life is beautiful
 love always wins in the end
 one day you'll be far past this day/and you'll wonder why you were ever worried
 remember to give a little bit of love/back to yourself
 the best day of your life is the day that/you decide that your life is fully your own/this is the day your life really begins
 to be loved is to be changed forever
 you are allowed to forgive yourself for/doing what you needed to do/in order to survive
+you weren't born to fit the system/you were born to rewrite it
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
