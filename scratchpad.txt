@@ -13,8 +13,9 @@ r_macr line 45-46 : lupercalia
 !M=3,d=4 (a-2020) water taps in castelvetro dispensed lambrusco by mistake
 !M=4,d=18 (a-1965) the death of the red nun of the mayab
 !M=9,d=17 constitution and citizenship day
-
+<G=+41892,+012488 the basilica of maxentius
 <?he|she|they never promised forever/they just showed up every day/and somehow that meant more
+
 as we await a flash of insight
 everyone should be quiet near a little stream/and just listen
 fifty five hundred years since the dark millennium
