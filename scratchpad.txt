@@ -7,9 +7,11 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 r_macr line 434: take one more look/hold it in your heart [brc]
 r_macr line 430: insert a space here... happy new_M
-r_macr line 45 : lupercalia
+r_macr line 45-46 : lupercalia
 
+!M=3,d=1 saint david's day
 !M=3,d=4 (a-2020) water taps in castelvetro dispensed lambrusco by mistake
+!M=4,d=18 (a-1965) the death of the red nun of the mayab
 !M=9,d=17 constitution and citizenship day
 
 <?he|she|they never promised forever/they just showed up every day/and somehow that meant more
@@ -43,6 +45,7 @@ this night will end/pain is not your only friend/stay for the you who made it/th
 to be loved is to be changed forever
 we are here to be human ~~~ $brc
 we didn't come here for easy/we came to be torn apart/to let the difficult shape us/without letting it steal us ~~ $brc
+we don't need to achieve anything to/be valid in our humanity
 what if you let that anger fuel you? / 
 you are allowed to forgive yourself for/doing what you needed to do/in order to survive
 you cannot keep up the fight/by destroying yourself
