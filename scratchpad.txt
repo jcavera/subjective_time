@@ -7,6 +7,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 r_macr line 434: take one more look/hold it in your heart [brc]
 r_macr line 430: insert a space here... happy new_M
+r_macr line 45 : lupercalia
 
 !M=3,d=4 (a-2020) water taps in castelvetro dispensed lambrusco by mistake
 !M=9,d=17 constitution and citizenship day
@@ -23,10 +24,13 @@ one day you'll be far past this day/and you'll wonder why you were ever worried
 remember to give a little bit of love/back to yourself
 the best day of your life is the day that/you decide that your life is fully your own/this is the day your life really begins
 the first speech censored/the first thought forbidden/the first freedom denied/chains us all irrevocably ~~~ 0334
+the kaleidoscopic combinations of the pictured present/are constructed out fo the broken fragments/of antique legend ~~~ 0797
+the world you thought you lived in/is just one draft/there are infinite edits available
 to be loved is to be changed forever
 what if you let that anger fuel you? / 
 you are allowed to forgive yourself for/doing what you needed to do/in order to survive
 you weren't born to fit the system/you were born to rewrite it
+your body was not wired to process/the whole planet's screams/but you can spit them out into art
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
