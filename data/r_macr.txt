@@ -427,7 +427,7 @@ dongzhi;<s=winter|summer solstice;<s=yule|lithia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time to head out to the playa ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10 days before labor day x
 burning man is starting;time to burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 8 days before labor day x
 labor _t weekend;_f the man to burn;the man burns tonight;time to burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2 days before labor day x
-labor _t weekend;_f the temple to burn;pay your respects;happy new_M;the man has burned;the temple burns tonight ~~~ 1 day pre labor x
+labor _t weekend;_f the temple to burn;pay your respects;happy new _M;the man has burned;the temple burns tonight ~~ 1 day pre labor x
 eris is at opposition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 mercury is at aphelion;mercury is at his most distant point from the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 mercury is at perihelion;mercury is at his closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
