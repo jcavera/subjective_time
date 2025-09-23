@@ -47,9 +47,9 @@ follows:
 Condition operators supported are limited to "equal to" (=), "greater than" (>), and "less than" (<).  Some
 examples of a conditional lines are (from the r_cond file):
 
-    !A>62000,A<76000,M<3,h>20 under the aurora borealis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    !M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    !Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    !A>62000,A<76000,M<3,h>20 under the aurora borealis ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    !M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    !Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the first example, the message is only displayed if the clock is currently between +62.000 and +76.000 degrees latitude, if the month
 is less than three (January or February), and if the hour is greater than 20 (8 pm) local time.  In the second example, the message is
@@ -80,4 +80,85 @@ this project, I use the term "macro" a bit inconsistantly.  For this particular 
 That's a different thing entirely.  Rather I mean that a two-character string (an underscore followed by another character) can be
 replaced by a longer string.  Allowed substitutions are as follows:
 
+    _% nativity fast              _& moon                       _* since
+    _, of the                     _. night                      _0 midnight
+    _1 somewhere                  _2 sometime                   _3 getting
+    _4 approaching                _5 in the evening             _6 at night
+    _7 your                       _8 month                      _9 week
+    _: the feast of               _@ festival                   _A the discovery of
+    _B almost                     _C around                     _D nearly
+    _E o'clock                    _F about                      _G approximately
+    _H half past                  _I until                      _J before
+    _K after                      _L last                       _M year
+    _N years                      _O months                     _P days
+    _Q hours                      _R minutes                    _S seconds
+    _T right now                  _U anniversary                _V quarter
+    _W in the morning             _X top of the hour            _Y bottom of the hour
+    _Z in the afternoon           _[ awareness month            _] the invention of
+    _` paces                      _a time to                    _b a.m.
+    _c p.m.                       _d hundred hours              _e noon
+    _f time for                   _g straight up                _h just after
+    _i just before                _j appreciation day           _k awareness day
+    _l at the start of            _m remembrance                _n the end of
+    _o the beginning of           _p the birth of               _q the death of
+    _r the founding of            _s first                      _t day
+    _u international              _v birthday                   _w national
+    _x saint                      _y the publication of         _z chocolate
+    _{ in the                     _} until
+
+As an example of macro use, the lines:
+
+    _B seven _E _5
+    _w llama _j
+    the _@ of _x cedric
+
+Would render as, respectively:
+
+    almost seven o'clock in the evening
+    national llama appreciation day
+    the festival of saint cedric
+
+Number substitution can be used for turning numbers into their text equivalent.  A number is preceeded by the number sign (#),
+and when the message is displayed, that number is rendered as text.  As a case in point, the line:
+
+    _G #5300 _N since _] the lathe
+
+Would render as:
+
+    approximately five thousand three hundred years since the invention of the lathe
+
+Finally, a "less than" symbol (<) denotes a computed substitution.  These are substitutions that require an algorithm to figure
+out, either because they are date/time dependant, they are location dependant, or they are otherwise too complex for a simple
+look-up table to easily handle.  Allowed computed substitutions are as follows:
+
+    <A  latitude-longitude coordinates rendered as the nearest whole number
+    <B  Benedryl Cucumber's birthday (yeah, just look at the associated function)
+    <C  ordinal century
+    <D  day of the week
+    <G  distance and/or direction from the specified GPS coordinates
+    <H  current hour (24 hour format, GMT)
+    <M  current month of the year
+    <N  a random month of the year
+    <O  random distance and/or direction
+    <P  random on-playa location (for Burning Man related messages)
+    <R  random number
+    <S  the current season of the year
+    <Y  the current year
+    <Z  the name of the current timezone
+    <d  the ordinal date of the month
+    <e  on-playa event classification (yeah, this is a weird one too)
+    <h  current hour (24 hour format, local time)
+    <i  the current hour (12 hour format)
+    <m  the current minutes (in local time)
+    <n  the current minutes (in GMT)
+    <p  the current am or pm string
+    <r  random number in ordinal form
+    <s  a substitution for the current hemisphere (south | north)
+    <t  another randomizer: time to | just about time to | a good time to | ...
+    <y  the current ordinal day of the year
+    <?  make a random choice between a list of items delimited by (|)
+
+In all cases, you can look at the associated function in the app_markup file to see how those are handled.  Many of them
+stand alone (e.g.: <D always just gives the current day of the week), but a number of them have required or optional
+parameters after the tag (e.g.: <R=100-1000 gives a random number between 100 and 1000).
 
