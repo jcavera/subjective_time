@@ -21,6 +21,8 @@ end of the line, follwing an image (if that exists).  An example of this is the 
 
     a still more glorious song awaits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $pbd 0307
 
+### Conditional messages
+
 If the line begins with an exclamation point (!), then the line is one that is conditionally displayed,
 with the conditions listed sequentially and comma-delimited, after the exclamation point.  All conditions
 are AND-ed together such that all have to match in order to display the line.  Conditional tags are as
@@ -56,6 +58,8 @@ is less than three (January or February), and if the hour is greater than 20 (8 
 only displayed if the month is one (January) and the date is the 30th.  In the third, the message is only displayed if the year is 2026,
 the month is ten (October) and the date is the 24th.
 
+### Year substitutions
+
 Lines in the resource files may contain year subsitutions.  These are computed based on the current year and the year given in the
 subsitution string, in parentheses.  There are three possible computations for year substitution:
 ```
@@ -74,6 +78,8 @@ Would render as:
     twenty four years since the first wikipedia edit
     two thousand fifty one years since the founding of the roman empire
     the tenth anniversary of when they first met
+
+### Macro substitutions
 
 Lines in the resource files may contain macro substitutions in order to compress the data just a little.  Note that I realize that, in
 this project, I use the term "macro" a bit inconsistantly.  For this particular use, I do not mean "referencing the r_macr.txt file".
@@ -118,6 +124,8 @@ Would render as, respectively:
     national llama appreciation day
     the festival of saint cedric
 
+### Numeric substitution
+
 Number substitution can be used for turning numbers into their text equivalent.  A number is preceeded by the number sign (#),
 and when the message is displayed, that number is rendered as text.  As a case in point, the line:
 
@@ -126,6 +134,8 @@ and when the message is displayed, that number is rendered as text.  As a case i
 Would render as:
 
     approximately five thousand three hundred years since the invention of the lathe
+
+### Computed substitution
 
 Finally, a "less than" symbol (<) denotes a computed substitution.  These are substitutions that require an algorithm to figure
 out, either because they are date/time dependant, they are location dependant, or they are otherwise too complex for a simple
