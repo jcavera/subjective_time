@@ -162,3 +162,36 @@ In all cases, you can look at the associated function in the app_markup file to 
 stand alone (e.g.: <D always just gives the current day of the week), but a number of them have required or optional
 parameters after the tag (e.g.: <R=100-1000 gives a random number between 100 and 1000).
 
+All of these are best seen by example, so here's one of each in turn, and how it might render as a message (note that the
+data for current date, time, and location is just made up):
+
+| the line in the resource file        | could render as 
+| -------                              | -------
+| close to <A                          | close to one hundred seven degrees west by forty seven degrees north
+| happy birthday to <B                 | happy birthday to bandicoot coloringbook
+| in the <C century                    | in the twenty first century
+| just a normal <D                     | just a normal tuesday
+| <G=+45957,+010297 val camonica       | nine thousand two hundred miles west by northwest of val camonica
+| <H hours gmt                         | fifteen hundred hours gmt
+| a day in <M                          | a day in september
+| don't forget her birthday in <N      | don't forget her birthday in december
+| <O=100-1000 a strange portal         | five hundred twenty six kilometers south of a strange portal
+| go to <P and kiss a stranger         | go to five o'clock and esplanade and kiss a stranger
+| <R=20-100 minutes until they realize | forty seven minutes until they realize
+| generally <S                         | generally winter
+| a random day in <Y                   | a random day in two thousand twenty five
+| in the timezone of <Z                | in the timezone of los angeles
+| the <d of the month                  | the twenty second of the month
+| time for the event about <e to start | time for the event about transhumanism to start
+| <h hours local time                  | seven hundred hours local time
+| close to <i o'clock                  | close to three o'clock
+| <h hours <m minutes                  | twenty hundred hours fifty seven minutes
+| <H hours <n minutes gmt              | thirteen hundre hours forty two minutes gmt
+| nearly <i <p                         | nearly two p.m.
+| their <r=5-15 anniversary            | their seventh anniversary
+| happy <s=spring\|fall equinox        | happy fall equinox
+| <t take a chance                     | a good time to take a chance
+| the <y day of the year               | the two hundred thirtieth day of the year
+| call me <?maybe\|later\|now          | call me maybe
+
+## File formats for the r_macr.txt file
