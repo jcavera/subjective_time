@@ -5,6 +5,8 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+(12-24 1600)(12-24 1630)(...) everyone in sweden is watching kalle anka och hans vanner onskar god jul
+
 r_macr line 434: take one more look/hold it in your heart [brc]
 !M=9,d=22 (a-1922) the great fire of smyrna
 <G=+45957,+010297 the rock art of val camonica
@@ -12,6 +14,7 @@ r_macr line 434: take one more look/hold it in your heart [brc]
 fear is the cheapest room in the house/i'd like to see you living in better conditions
 it is love and not outrage that can/push a person to fight until death
 when we think of the past/it's the beautiful things we pick out/we want to believe it was all like that
+you are not for everyone/nor should you be
 you're weird/i like that about you
 your friends love you/your dreams are cool/and you're a really great person
 
