@@ -1,4 +1,4 @@
-## File formats for the resource files
+# File formats for the resource files
 
 Resources are the files: r_anys.txt, r_brc.txt, and r_cond.txt.  The first (r_anys) consists of messages
 that are (in general) always valid to display.  Some conditional statements apply, but those conditions
@@ -185,18 +185,18 @@ data for current date, time, and location is just made up):
 | <H hours gmt                         | fifteen hundred hours gmt
 | a day in <M                          | a day in september
 | don't forget her birthday in <N      | don't forget her birthday in december
-| <O=100-1000 a strange portal         | five hundred twenty six kilometers south of a strange portal
+| <O=100-1000 a strange portal         | five hundred twenty six kilometers southwest of a strange portal
 | go to <P and kiss a stranger         | go to five o'clock and esplanade and kiss a stranger
 | <R=20-100 minutes until they realize | forty seven minutes until they realize
 | generally <S                         | generally winter
 | a random day in <Y                   | a random day in two thousand twenty five
 | in the timezone of <Z                | in the timezone of los angeles
 | the <d of the month                  | the twenty second of the month
-| time for the event about <e to start | time for the event about transhumanism to start
+| time for the event about <e to start | time for the event about martial arts to start
 | <h hours local time                  | seven hundred hours local time
 | close to <i o'clock                  | close to three o'clock
 | <h hours <m minutes                  | twenty hundred hours fifty seven minutes
-| <H hours <n minutes gmt              | thirteen hundre hours forty two minutes gmt
+| <H hours <n minutes gmt              | thirteen hundred hours forty two minutes gmt
 | nearly <i <p                         | nearly two p.m.
 | their <r=5-15 anniversary            | their seventh anniversary
 | happy <s=spring\|fall equinox        | happy fall equinox
@@ -204,4 +204,15 @@ data for current date, time, and location is just made up):
 | the <y day of the year               | the two hundred thirtieth day of the year
 | call me <?maybe\|later\|now          | call me maybe
 
-## File formats for the r_macr.txt file
+# File formats for the r_macr.txt file
+
+The macro resource file consists of line that are referenced from the r_year files.  Each line is fixed length at
+136 characters (134 + cr + nl, the same as the previously mentioned resource files) and the software-read content
+is delimited by tilde characters that pad the line to size (again, the same as the other files).  Anything on a
+line after the tildes is there just to make things easier for humans.
+
+The first 366 lines in the r_macr.txt file are for the 366 days of the (leap day included) year.  The remaining
+lines are for special events, holidays, etc., that are not always tied to a particular date.
+
+Macro resource file lines are semicolon-delimited lists, that are assembed based on the date instructions found
+in the r_year files.  Refer to the r_year readme for information on how this assembly is carried out.
