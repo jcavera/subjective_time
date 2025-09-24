@@ -204,7 +204,7 @@ data for current date, time, and location is just made up):
 | the <y day of the year               | the two hundred thirtieth day of the year
 | call me <?maybe\|later\|now          | call me maybe
 
-# File formats for the r_macr.txt file
+# File format for the r_macr.txt file
 
 The macro resource file consists of line that are referenced from the r_year files.  Each line is fixed length at
 136 characters (134 + cr + nl, the same as the previously mentioned resource files) and the software-read content
