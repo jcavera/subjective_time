@@ -6,9 +6,13 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 r_macr line 434: take one more look/hold it in your heart [brc]
+
 !M=12,d=24,T>1550,T<1635 everyone in sweden is currently watching a donald duck cartoon
 !M=12,d=24,T>1550,T<1635 everyone in sweden is currently watching kalle anka och hans vanner onskar god jul
 !M=9,d=22 (a-1922) the great fire of smyrna
+(a-1837) the end of the regency era
+(a-1853) john martin painted the last judgement triptych
+(a-2007) the development of hatsune miku
 <G=+45957,+010297 the rock art of val camonica
 
 art made with spirit never dies/it just waits for the right audience - the Coltrane Code
