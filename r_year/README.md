@@ -47,4 +47,26 @@ taken:
 - Once the day event string is complete, randomly select a day event from the semicolon-delimited list
 - Process the selected day event for display
 
-This process is handled by the various app_parser functions.
+This process is handled by the various app_parser functions.  In practice, the process looks like this, when using
+the following example line from a handy r_year file:
+
+    24111457;26122035q;23045796;14070300113;03111957;14051752;023;632;923;611 ~~~
+
+First, extract the list of lines in the r_macr.txt file: 023;632;923;611.  This gives us the following lines:
+
+    023: handwriting _t;great fruitcake toss _t /this time we mean it;pie _t /not pi _t /that comes later;(a-1989) _q dali;measure _7 feet ~
+    632: library shelfie _t ~~~
+    923: shattila ekadashi ~~~~
+    611: _w mentoring _8;slavery and human trafficking prevention _8;blood donor _8;_w soup _8;co-dependency _[ ~~
+
+Next, strip off the trailing tilde characters and assemble the result in to a single list:
+
+    handwriting _t;great fruitcake toss _t /this time we mean it;pie _t /not pi _t /that comes later;
+    (a-1989) _q dali;measure _7 feet;library shelfie _t;shattila ekadashi;_w mentoring _8;
+    slavery and human trafficking prevention _8;blood donor _8;_w soup _8;co-dependency _[
+
+Then choose a single entry at random, and process it for display:
+
+    raw:       (a-1989) _q dali
+    displayed: thirty six years since the death of dali
+    
