@@ -231,3 +231,41 @@ In fetching the line, the current local time is used.  The formula for finding t
 
 As with the macro resource file, the end of each line is not used by the program but is included to make it easier
 for humans to read.  In the case of the time file, this is the time in hhmm format.
+
+# File format for the config.ini file
+
+The configuration file is read on program startup.  If no configuration file exists, one is created using the
+default values in the code.  The items in the configuration file, their default values, and an explanation of
+their meaning is as follows:
+
+| Item       | Default Value   | Meaning
+| ---------- | ----------      | ----------
+| lat        | 40.78611        | The last known latitude of the clock.
+| lon        | -119.204595     | The last known longitude of the clock.
+| tz         | 134             | The current timezone of the clock (1-based line number in the all_rgn.txt file).
+| tz_off     | -700            | The time offset from GMT in hhmm.
+| debug      | True            | If true, the message is updated every 10 seconds.  If false, the update time is random.
+| playa      | True            | If true, Burning Man specific messages will be displayed, regardless of the current location.
+| gps        | False           | If true, GPS hardware will be used.  If false, no GPS hardware is installed.
+| img_dir    | image_1920_45/  | The directory to use for normal (night mode) background images.
+| l_chars    | 56              | The number of characters in a single message line (in long line format).
+| l_lines    | 6               | The number of message lines to display (in long line format).
+| l_start    | 222.5           | The degree location of the message arc starting point.
+| l_end      | -47.5           | The degree location of the message arc ending point.
+| l_step     | 65              | The number of pixels in between each message arc.
+| t_font     | Courier New     | The font to use for writing displayed messages.
+| t_size     | 38              | The font size of the outermost message arc.
+| t_sstep    | 5               | The amount (in points) that the font is reduced for each message arc farther in.
+| t_style    | bold            | The font style to use for writing displayed messages.
+| t_color    | #4f4            | The font color to use for writing displayed messages in night mode.
+
+# File format for the attrib.txt file
+
+The attribution file is special in that it is completely unused by the code.  Rather, the attribution file serves as a
+sort of "readme" file for the project as a whole.  It explains the general philosophy behind the project, some of the
+capabilities of the code, a LONG list of people to thank for their assistance, the sources for some of the code used
+in the creation of the project, and the sources of the image files.
+
+Most importantly, there is a very long list of numbers that are tied to the attributions for many of the quotes in
+the various resource files.  This is just to make sure that I'm giving credit where credit is due.  And to be able to
+satisfy the curiosity of people who see a quote displayed and wonder where it comes from.
