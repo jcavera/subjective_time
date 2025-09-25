@@ -153,6 +153,7 @@ look-up table to easily handle.  Allowed computed substitutions are as follows:
     <P  random on-playa location (for Burning Man related messages)
     <R  random number
     <S  the current season of the year
+    <W  a random day of the week
     <Y  the current year
     <Z  the name of the current timezone
     <d  the ordinal date of the month
@@ -189,6 +190,7 @@ data for current date, time, and location is just made up):
 | go to <P and kiss a stranger         | go to five o'clock and esplanade and kiss a stranger
 | <R=20-100 minutes until they realize | forty seven minutes until they realize
 | generally <S                         | generally winter
+| his birthday is next <W              | his birthday is next tuesday
 | a random day in <Y                   | a random day in two thousand twenty five
 | in the timezone of <Z                | in the timezone of los angeles
 | the <d of the month                  | the twenty second of the month
