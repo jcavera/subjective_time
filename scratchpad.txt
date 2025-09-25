@@ -7,7 +7,9 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 r_macr line 434: take one more look/hold it in your heart [brc] (included, but needs tested)
 
-national hug a <?civet|echidna|flamingo|lynx|manatee|mouse|panda|pangolin|platypus|quokka|stoat|squirrel|wombat day
+national hug a <?civet|flamingo|goldfish|lynx|manatee|mouse|panda day
+national hug a <?pangolin|platypus|quokka|stoat|squirrel|wombat day
+national hug an <?antelope|armadillo|echidna|ibis day
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
