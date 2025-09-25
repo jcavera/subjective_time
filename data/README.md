@@ -208,7 +208,7 @@ data for current date, time, and location is just made up):
 
 # File format for the r_macr.txt file
 
-The macro resource file consists of line that are referenced from the r_year files.  Each line is fixed length at
+The macro resource file consists of lines that are referenced from the r_year files.  Each line is fixed length at
 136 characters (134 + cr + nl, the same as the previously mentioned resource files) and the software-read content
 is delimited by tilde characters that pad the line to size (again, the same as the other files).  Anything on a
 line after the tildes is there just to make things easier for humans.
@@ -218,3 +218,16 @@ lines are for special events, holidays, etc., that are not always tied to a part
 
 Macro resource file lines are semicolon-delimited lists, that are assembed based on the date instructions found
 in the r_year files.  Refer to the r_year readme for information on how this assembly is carried out.
+
+# File format for the r_time.txt file
+
+Like the macro resource file, the time file is indexed by line, but based on the current time rather than the
+date as referenced from a separate file.  The format is the same as that of the macro file, with line lengths
+being the same (136 characters) and consisting of a semicolon-delimited list.
+
+In fetching the line, the current local time is used.  The formula for finding the appropriate line is:
+
+    line number = ((hours in 24-hour format) * 12) + (minutes rounded to the nearest 5-minute mark)
+
+As with the macro resource file, the end of each line is not used by the program but is included to make it easier
+for humans to read.  In the case of the time file, this is the time in hhmm format.
