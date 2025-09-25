@@ -20,6 +20,7 @@
 ##                      sub_subproc_P           random on-playa location
 ##                      sub_subproc_Rr          random number
 ##                      sub_subproc_S           season of the year
+##                      sub_subproc_W           random day of the week
 ##                      sub_subproc_Y           year
 ##                      sub_subproc_Z           name of the current timezone
 ##                      sub_subproc_d           ordinal date of the month
@@ -243,7 +244,7 @@ k_macro = [ "nativity fast",    "moon",               "since",            "of th
             "just before",      "appreciation day",   "awareness day",    "at the start of",  "remembrance",        "the end of", 
             "the beginning of", "the birth of",       "the death of",     "the founding of",  "first",              "day",
             "international",    "birthday",           "national",         "saint",            "the publicaiton of", "chocolate",
-            "in the",           "until"  ]
+            "in the",           "meteors"  ]
 
 k_macro_map = [ "_%",           "_&",                 "_*",               "_,",               "_.",                 "_0",
                 "_1",           "_2",                 "_3",               "_4",               "_5",                 "_6",
@@ -297,7 +298,7 @@ def sub_numeric (s):
 
 def sub_computed (s, coord):
     if (s == ""): return ("")                           ## safety check
-    valid = "[<][ABCDGHMNOPRSYZdeghimnprsty?][^ ~/]*"   ## regex to find any valid substitution
+    valid = "[<][ABCDGHMNOPRSWYZdeghimnprsty?][^ ~/]*"  ## regex to find any valid substitution
     subs  = re.findall(valid, s)
     if (len(subs) == 0): return (s)                     ## pop out if nothing found
     for item in subs:                                   ## step through each thing to substitute
@@ -314,6 +315,7 @@ def sub_computed (s, coord):
         elif (t == 'P'): s = sub_subproc_P  (s, coord, item)        ## random playa co-ordinates
         elif (t == 'R'): s = sub_subproc_Rr (s, coord, item)        ## random number ranging from N..M
         elif (t == 'S'): s = sub_subproc_S  (s, coord, item)        ## season (spring | summer | fall;autumn | winter)
+        elif (t == 'W'): s = sub_subproc_W  (s, coord, item)        ## random day of the week
         elif (t == 'Y'): s = sub_subproc_Y  (s, coord, item)        ## year (e.g: two thousand and fifteen)
         elif (t == 'Z'): s = sub_subproc_Z  (s, coord, item)        ## name of the current timezone
         elif (t == 'd'): s = sub_subproc_d  (s, coord, item)        ## ordinal date of the month (1..31; first, second, ...)
@@ -567,6 +569,21 @@ def sub_subproc_S (s, coord, item):
     s = s.replace(item, a)
     return (s)
 
+
+## Process the random day of the week (just a shorthand for this: <?sunday|monday|tuesday...).
+
+def sub_subproc_W (s, coord, item):
+    if (s == ""): return ("")                                           ## safety check
+    r  = app_numeric.arand(1, 1, 700)
+    if   (r < 100): s = s.replace(item, "sunday")
+    elif (r < 200): s = s.replace(item, "monday")
+    elif (r < 300): s = s.replace(item, "tuesday")
+    elif (r < 400): s = s.replace(item, "wednesday")
+    elif (r < 500): s = s.replace(item, "thursday")
+    elif (r < 600): s = s.replace(item, "friday")
+    elif:           s = s.replace(item, "saturday")
+    return (s)    
+    
 
 ## Process the (local time) year (e.g: two thousand and fifteen).  Start/end string data is unused.
 

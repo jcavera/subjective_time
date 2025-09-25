@@ -247,6 +247,7 @@ class Parser:
         
         if (thing == 1): return (s)                                     ## return every option on debug flag
         s = app_strings.choose_between(s, ';')                          ## fetch a random one
+        s = re.sub(r"[\x5b]([a-z0-9]{3})[\x5d]", r"~~ $\g<1>", s)       ## if there is an inline [img] tag, replace it with ~~ $img
         return (s)
     
     
