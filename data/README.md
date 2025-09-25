@@ -110,7 +110,7 @@ replaced by a longer string.  Allowed substitutions are as follows:
     _r the founding of            _s first                      _t day
     _u international              _v birthday                   _w national
     _x saint                      _y the publication of         _z chocolate
-    _{ in the                     _} until
+    _{ in the                     _} meteors
 
 As an example of macro use, the lines:
 
