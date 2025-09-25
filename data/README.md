@@ -240,11 +240,11 @@ their meaning is as follows:
 
 | Item       | Default Value   | Meaning
 | ---------- | ----------      | ----------
-| lat        | 40.78611        | The last known latitude of the clock.
-| lon        | -119.204595     | The last known longitude of the clock.
+| lat        | 40.78611        | The last known latitude of the clock (defaults to Black Rock City)
+| lon        | -119.204595     | The last known longitude of the clock (defaults to Black Rock City)
 | tz         | 134             | The current timezone of the clock (1-based line number in the all_rgn.txt file).
 | tz_off     | -700            | The time offset from GMT in hhmm.
-| debug      | True            | If true, the message is updated every 10 seconds.  If false, the update time is random.
+| debug      | False           | If true, the message is updated every 10 seconds.  If false, the update time is random.
 | playa      | True            | If true, Burning Man specific messages will be displayed, regardless of the current location.
 | gps        | False           | If true, GPS hardware will be used.  If false, no GPS hardware is installed.
 | img_dir    | image_1920_45/  | The directory to use for normal (night mode) background images.
