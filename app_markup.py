@@ -581,7 +581,7 @@ def sub_subproc_W (s, coord, item):
     elif (r < 400): s = s.replace(item, "wednesday")
     elif (r < 500): s = s.replace(item, "thursday")
     elif (r < 600): s = s.replace(item, "friday")
-    elif:           s = s.replace(item, "saturday")
+    else:           s = s.replace(item, "saturday")
     return (s)    
     
 
@@ -743,3 +743,4 @@ def sub_subproc_qq (s, coord, item):
     a = app_strings.choose_between(item[2:], '|')                       ## pick a random thing
     s = s.replace(item, a)
     return (s)
+
