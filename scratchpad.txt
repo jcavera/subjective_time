@@ -14,9 +14,9 @@ chase everything you want/except love and death/they'll find you when it's time
 do a little bit of good where you are/it's those little bits of good put together/that overwhelm the world - Desmond Tutu
 every flicker of light you carry/you forged in darkness
 life looks good on you/but it had to kill you first
-now is the time of monsters
+now is the time of <?monsters|wonders
 openness doesn't mean everyone gets in/it means you trust yourself to/decide who stays ~~~ $p01
-the old world is dying and/the new struggles to be born/now is the time of monsters
+the old world is dying and/the new struggles to be born/now is the time of <?monsters|wonders
 the old world is dying and/the new struggles to be born
 there's no need for you to criticize them/they already know/and they're having a hard enough time already
 what they call your light/are your ashes still glowing
