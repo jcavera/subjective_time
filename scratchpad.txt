@@ -1,11 +1,14 @@
 *** The scratchpad file is used for notes, reminders, ideas, and data file suggestions.  Bugs, issues, and code enhancements
 *** are tracked as Git issues.
 
+NOTES AND TODOs (that don't deserve issues):
+
+r_macr line 434: take one more look/hold it in your heart [brc] (included, but needs tested)
+go through all of the _macros and make sure that they are all used -- unused ones get reassigned
+
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-
-r_macr line 434: take one more look/hold it in your heart [brc] (included, but needs tested)
 
 <G=+31877,+054359 the windcatchers of yadz
 
@@ -15,13 +18,13 @@ do a little bit of good where you are/it's those little bits of good put togethe
 every flicker of light you carry/you forged in darkness
 i am not here to guide you/i am here to love you/and then love will guide you
 life looks good on you/but it had to kill you first
-now is the time of <?monsters|wonders - Antonio Gramsci
+now is the time of <?monsters|wonders ~~~ 0659
 openness doesn't mean everyone gets in/it means you trust yourself to/decide who stays ~~~ $p01
-the old world is dying and/the new world struggles to be born/now is the time of <?monsters|wonders - Antonio Gramsci
-the old world is dying and/the new world struggles to be born - Antonio Gramsci
+the old world is dying and/the new world struggles to be born/now is the time of <?monsters|wonders ~~~ 0659
+the old world is dying and/the new world struggles to be born ~~~ 0659
 there's no need for you to criticize them/they already know/and they're having a hard enough time already
 what they call your light/are your ashes still glowing
-words are sacred and deserve respect/if you get the right ones/in the right order/you can nudge the world a little - Tom Stoppard
+words are sacred and deserve respect/if you get the right ones/in the right order/you can nudge the world a little ~~~ 0616
 you are strongest when your scars teach you love/instead of hate
 you may not be everything you want to be yet/but you're much closer than/you were years ago
 your shine is survival/your glow is from your scars
