@@ -3,6 +3,7 @@
 
 NOTES AND TODOs (that don't deserve issues):
 
+r_macr: october = open source hardware month
 r_macr line 434: take one more look/hold it in your heart [brc] (included, but needs tested)
 go through all of the _macros and make sure that they are all used -- unused ones get reassigned
 
