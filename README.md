@@ -28,7 +28,9 @@ And if you want to contribute to the code or data, please for the love of all th
 
 This is python to this is an easy one.  First you'll need a python 3.10 (or later) environment on whatever machine you use.  I've
 tested this on Windows 10/11 and Ubuntu 24.x.  It should be fine anywhere since there's nothing particularly platform dependant
-in the code.  After you have a python environment installed...
+in the code.  The potential exception to what I just said: I do make use of Tkinter for graphics and that may not be appropriate
+if you're wanting to run this in an embedded system.  All of the graphics calls are isolated to the App class in app_main.  So
+that said, fter you have a python environment installed...
 
 - Download the entire project and uncompress it to wherever you want it.
 - Make sure that the directory structure is just like it appears in this repository.
