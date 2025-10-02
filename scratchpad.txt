@@ -3,7 +3,7 @@
 
 NOTES AND TODOs (that don't deserve issues):
 
-r_macr: october = open source hardware month
+r_macr: october = open source hardware month;dysautonomia awareness month
 r_macr line 434: take one more look/hold it in your heart [brc] (included, but needs tested)
 go through all of the _macros and make sure that they are all used -- unused ones get reassigned
 
@@ -17,6 +17,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <G=+44038,-071784 the cave of lost souls
 <G=+44038,-071784 the lost river gorge
 
+a system that makes you pay to exist/and compete to eat and obey to survive/is not a civilization/it's a prison in a shopping mall
 any moment might be our last/everything is more beautiful because we are doomed/you will never be lovelier than you are now ~ Homer, The Illiad
 any moment might be our last/everything is more beautiful because we are doomed ~~ Homer, The Illiad
 even if it technically could have been worse/you still deserved better
