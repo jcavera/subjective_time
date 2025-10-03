@@ -102,6 +102,8 @@
 !M=1,d=8 (a-1880) the death of joshua abraham norton the first/emperor of the united states and defender of mexico ~~~~~~~~~~~~~~~~~~~
 !M=1,d=9 (a-1918) the battle of bear valley ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=1,d<5 incwala ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=1 (a-2025) the death of jane goodall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=1 (a-2025) the ukranian army successfully completed a mission to rescue prapor the cat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=10,d=1 <Y and three quarters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=10,d=1 international raccoon appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=10,d=1 the end of ice cream season/the beginning of ice cream with warm sauce on it season ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

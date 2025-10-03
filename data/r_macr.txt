@@ -432,7 +432,7 @@ eris is at opposition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 mercury is at aphelion;mercury is at his most distant point from the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 mercury is at perihelion;mercury is at his closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 the temple has burned;labor _t;take one more look/hold it in your heart [brc] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first monday in sep x
-time to head back to the default world;fall cleaning _t;reintegration _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1 day after labor day x
+time to head back to the default world;fall cleaning _t;reintegration _t;we will dance again ~~~~~~~~~~~~~~~~~ 1 day after labor day x
 mercury is at his highest altitude in the evening sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 mercury is at his highest altitude in the morning sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 memorial _t;einherjar _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last monday in may x
