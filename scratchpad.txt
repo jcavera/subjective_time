@@ -3,34 +3,12 @@
 
 NOTES AND TODOs (that don't deserve issues):
 
-r_macr: october = open source hardware month;dysautonomia awareness month
-r_macr line 434: take one more look/hold it in your heart [brc] (included, but needs tested)
 go through all of the _macros and make sure that they are all used -- unused ones get reassigned
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!M=10,d=1 (a-2025) the death of jane goodall
-!M=10,d=1 (a-2025) the ukranian army successfully completed a mission to rescue prapor the cat
-
-(b-525) persia conquered egypt by weaponizing cats
-<G=+44038,-071784 the cave of lost souls
-<G=+44038,-071784 the lost river gorge
-
-a system that makes you pay to exist/and compete to eat and obey to survive/is not a civilization/it's a prison in a shopping mall
-any moment might be our last/everything is more beautiful because we are doomed/you will never be lovelier than you are now ~ Homer, The Illiad
-any moment might be our last/everything is more beautiful because we are doomed ~~ Homer, The Illiad
-disrupt the world with your chaos
-estas pensando en la inmortalidad del cangrejo? / - Spanish: are you pondering the immortality of the crab?
-even if it technically could have been worse/you still deserved better
-fifty one hundred years since narmer united upper and lower egypt
-just because it still hurts/doesn't mean you're not healing
-the hand can never execute anything higher/than the heart can imagine ~~~ 0366
-they cannot dim the lightning/they cannot silence the thunder
-we will dance again
-we will never be here again
-you are constantly changing and so are those around you/let yourself grow and let others do the same
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
