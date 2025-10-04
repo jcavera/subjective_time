@@ -37,8 +37,8 @@ def arand (n, lo, hi):
     return (a)
 
 def cryptorand (n):
-    a = numpy.fromstring(os.urandom(n*4), dtype=numpy.uint32) >> 5
-    b = numpy.fromstring(os.urandom(n*4), dtype=numpy.uint32) >> 6
+    a = numpy.frombuffer(os.urandom(n*4), dtype=numpy.uint32) >> 5
+    b = numpy.frombuffer(os.urandom(n*4), dtype=numpy.uint32) >> 6
     return (a * 67108864.0 + b) / 9007199254740992.0
     
 
@@ -282,3 +282,4 @@ def return_planet_ephem (dt, planet_id):
     c = ephem.constellation(p)
     return ( planet_list[planet_id] + " is in the constellation of " + c[1].lower() )
     
+
