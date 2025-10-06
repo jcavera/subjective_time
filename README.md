@@ -20,7 +20,10 @@ And if you want to contribute to the code or data, please for the love of all th
 - All messages are to be displayed using ONLY lowercase characters (the silly exception: CAPSLOCK DAY).
 - Only the following punctuation is allowed in messages: "?", "!", "-", "'", "..." (3 periods, not a single-character elipsis).
 - Use the forward-slash ("/") to force a line-break in a message.
-- If punctuation is at the end of a line, use a space and force-break (" /") after it.  Even if it's the last thing in the string.
+- If punctuation is at the end of a line, use a space and force-break (" /") after it.  Even if it's the last thing in the string. As an example:
+  
+``` you need an example? /here's an example of this! / ~~~~~~~~ ```
+
 - Note the line length limitations of each file.  Use a tilde ("~") as a null character to pad to that length.
 - Follow all of the rules in the READMEs in each of the data file directories.
 
