@@ -10,6 +10,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=10,d=1 (a-1940) the opening of the pennsylvania turnpike
+!M=10,d=1 (a-1969) the days of rage
 !M=10,d=4 (a-1950) snoopy made his debut in the funny papers
 (a-1516) the war of the holy league of cambrai
 (b-280) the invention of the watermill
@@ -28,6 +29,7 @@ you are allowed to be a different person/than the one they remember
 you are not too much/you are just right/you deserve to be here and do well
 you are not too much/you are just right
 you deserve to be here/and to do well
+you don't need a weatherman to know/which way the wind blows
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
