@@ -79,6 +79,9 @@ Would render as:
     two thousand fifty one years since the founding of the roman empire
     the tenth anniversary of when they first met
 
+In every case, be careful with your conditionals.  There is no error checking for statements that are nonsensical.  A conditional that
+is only valid (for instance) in months greater than 90 will still be checked (and always rejected for obvious reasons).
+
 ### Macro substitutions
 
 Lines in the resource files may contain macro substitutions in order to compress the data just a little.  Note that I realize that, in
@@ -137,9 +140,10 @@ Would render as:
 
 ### Computed substitution
 
-Finally, a "less than" symbol (<) denotes a computed substitution.  These are substitutions that require an algorithm to figure
-out, either because they are date/time dependant, they are location dependant, or they are otherwise too complex for a simple
-look-up table to easily handle.  Allowed computed substitutions are as follows:
+Finally, a "less than" symbol (<) used outside of the context of a conditional statement denotes a computed substitution.  These
+are substitutions that require an algorithm to figure out, either because they are date/time dependant, they are location 
+dependant, or they are otherwise too complex for a simple look-up table to easily handle.  Allowed computed substitutions are 
+as follows:
 
     <A  latitude-longitude coordinates rendered as the nearest whole number
     <B  Benedryl Cucumber's birthday (yeah, just look at the associated function)
@@ -213,8 +217,8 @@ The macro resource file consists of lines that are referenced from the r_year fi
 is delimited by tilde characters that pad the line to size (again, the same as the other files).  Anything on a
 line after the tildes is there just to make things easier for humans.
 
-The first 366 lines in the r_macr.txt file are for the 366 days of the (leap day included) year.  The remaining
-lines are for special events, holidays, etc., that are not always tied to a particular date.
+The first 366 lines in the r_macr.txt file are for the 366 days of the year (leap day included).  The remaining
+lines are for special events, holidays, etc., that are not always tied to a particular (though not fixed) date.
 
 Macro resource file lines are semicolon-delimited lists, that are assembed based on the date instructions found
 in the r_year files.  Refer to the r_year readme for information on how this assembly is carried out.
