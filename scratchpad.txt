@@ -15,6 +15,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=10,d=1 (a-1942) the birth of wojciech siudmak
 !M=10,d=1 (a-1969) the days of rage
 !M=10,d=4 (a-1950) snoopy made his debut in the funny papers
+!M=10,d=9 (a-1806) the death of benjamin banneker
 !M=10,d=9 leif erikson day
 (a-1516) the war of the holy league of cambrai
 (a-1648) the founding of l'academie royale de peinture et de sculpture
