@@ -27,6 +27,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <G=+48857,+002333 les ecole nationale superieure des beaux-arts
 <G=-77564,+161172 don juan pond
 <t bring your weird
+<t join the resistance
 
 a difficult past does not have to stop you/from living a magical life now
 always choose yourself/then choose who chooses you
