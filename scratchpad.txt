@@ -21,6 +21,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-1516) the war of the holy league of cambrai
 (a-1648) the founding of l'academie royale de peinture et de sculpture
 (a-1879) robert gair invented the cardboard box
+(a-1986) gladys west mapped the world
 (a-2011) the norwegian butter crisis
 (b-280) the invention of the watermill
 <G=+31476,+034405 tell es-sakan
