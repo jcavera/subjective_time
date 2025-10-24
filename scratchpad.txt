@@ -1,5 +1,5 @@
-*** The scratchpad file is used for notes, reminders, ideas, and data file suggestions.  Bugs, issues, and code enhancements
-*** are tracked as Git issues.
+*** The scratchpad file is used for notes, reminders, ideas, and data file suggestions.  Bugs, issues, 
+*** and code enhancements are tracked as Git issues.
 
 NOTES AND TODOs (that don't deserve issues):
 
@@ -18,7 +18,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <G=+41008,+028978 the milion tasi
 <G=+41893,+012484 the milliarium aureum
 <G=+50857,+155562 <?araido|atlasov|uyakhuzhach|oyakoba|ainu|alaid island
-<t show the world what your values are
+<t show the world what your <?dreams|values are
 
 all at once/the unyielding tension can break
 as the tides turn
@@ -26,6 +26,9 @@ as they enter their villain arc
 as we take advantage of the law of/increasing functional information
 ask unexpected questions
 be the role model that younger you/would have looked up to
+don't forget what your dreams were
+don't forget your <?dreams|goals|plans
+don't forget
 don't let their actions change your goodness
 don't panic/or do/the universe doesn't care either way
 empathy is not the same as understanding/but sometimes it's as close as we can get
@@ -41,6 +44,7 @@ the simple step of a courageous individual/is not to take part in the lie
 the visible world is just a shadow/cast by the invisible
 the world needs your weirdness
 we missed you at the summoning circle last week! / ~~~~~ $wnv
+what if it works out even better than you expect? / 
 your curse has been lifted/you're welcome
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
