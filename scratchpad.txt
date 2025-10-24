@@ -12,6 +12,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=10,d=20 santi flame day
 !M=8,d=29 (a-1982) bothie the polar dog completed his expedition
 (a-2003) jack szostak described functional information theory
+(a-2024) the discovery of betelbuddy
 (a-2025) mosquitoes made it to iceland
 <G=+29876,+031210 the stepwell of the serapeum of saqqara
 <G=+41008,+028978 the milion tasi
