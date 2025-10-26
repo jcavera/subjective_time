@@ -1,7 +1,7 @@
 happy new _M;new year's _t;_u _t of peace;the _s _t of <Y ;ano nuevo vida nueva;imani;public domain _t;hogmanay;durin's _t ~~~~~ 01-01
 _x basil _t;science fiction _t;_w personal trainer _k;nyinlong;(a-1920) _p isaac asimov;the ninth _t of christmas;buffet _t ~~~~ 01-02
 drinking straw _t;_w _z covered cherry _t;tamaseseri _@;(b-106) _p cicero;fruitcake tossing _t;(a-2009) the genesis block;shogatsu ~~~
-trivia _t;spaghetti _t;_u braille _t;ogoni _t;(a-1643) _p isaac newton;(a-2004) spirit landed on mars;the _. _, quadrantid _} ~~ 01-04
+trivia _t;spaghetti _t;_u braille _t;ogoni _t;(a-1643) _p isaac newton;(a-2004) spirit landed on mars;the _. _, quadrantid _} [zod] ~~
 whipped cream _t;_w bird _t;twelfth _.;shokan;harbin _@;joma shinji;hayao miyazaki's _v;umberto eco's _v;(a-2005) _A eris ~~~~~~ 01-05
 _: the epiphany;bean _t;apple tree _t;befana _t;cuddle up;technology _t;shortbread _t;little christmas;theophany;kings _t ~~~~~~ 01-06
 bobblehead _t;tempura _t;second christmas;orthodox christmas;coptic christmas;nanakusa no sekku;old rock _t;distaff _t;jinjitsu ~~~ 07
@@ -16,7 +16,7 @@ hat _t;strawberry ice cream _t;museum selfie _t;bagel _t;kombucha _t;(a-2001) _r
 religious freedom _t;hot and spicy food _t;fig newton _t;nothing _t;pongal;mattu pongal;dragon _j;the jashan of bahman ~~~~~~~~~ 01-16
 cable car _t;hot buttered rum _t;_w bootleggers _t;pongal;kanum pongal;kanu pongal;_o patras carnival;(a-1893) the fall of hawai'i ~~~
 thesaurus _t;winnie the pooh _t;peking duck _t;michigan _t;robert anton wilson's _v;a a milne's _v;(a-532) _n the nika riots ~~~ 01-18
-popcorn _t;quark _t/charming;timkat;artist as outlaw _t;(a-1920) _r the aclu;the _. _, gamma ursae minorid _} ~~~~~~~~~~~~~~~~~~ 01-19
+popcorn _t;quark _t/charming;timkat;artist as outlaw _t;(a-1920) _r the aclu;the _. _, gamma ursae minorid _} [zod] ~~~~~~~~~~~~ 01-19
 cheese lovers _t;daikan;buttercrunch _t;dj _t;timkat;buzz aldrin's _v;penguin _k;george burns' _v;(a-1942) the wansee conference ~~ 20
 squirrel _j;granola bar _t;sweatpants _t;_w hugging _t;the eve _, black feast of _x argyle;babinden;lincoln alexander _t ~~~~~~~ 01-21
 answer _7 cat's questions;hot sauce _t;blonde brownie _t;_w sanctity of life _t;celebration of life _t;lord byron's _v ~~~~~~~~~ 01-22
@@ -36,7 +36,7 @@ homemade soup _t;risshun;_u cancer _t;hemp _t;thank _7 letter carrier;emperor jo
 nutella _t;work naked;shower with a friend;weatherperson _t;western monarch _t;gaspar schott's _v;(a-1907) _] bakelite;jhudora _t ~ 05
 lame duck _t;lace _t;frozen yogurt _t;bob marley's _v;(a-1976) the arrest of leonard peltier;dump _7 significant jerk;waitangi _t ~ 06
 wave to _7 neighbors;periodic table _t;send a card to a friend;fettuccine alfredo _t;tawakkol karman's _v;_w black hiv _k;ballet _t ~~
-opera _t;boy scouts _t;kite flying _t;jules verne's _v;emily lakdawalla's _v;the _. _, alpha centaurid _};propose _t ~~~~~~~~~~~ 02-08
+opera _t;boy scouts _t;kite flying _t;jules verne's _v;emily lakdawalla's _v;the _. _, alpha centaurid _} [zod];propose _t ~~~~~ 02-08
 pizza _t;read _{ bathtub _t;cut the cord;bagel and lox _t;toothache _t;eyvindr kinnrifi _m;(a-1849) _r the new roman republic ~~ 02-09
 umbrella _t/number #5 approves;samuel plimsoll _t;pulses _t;cream cheese brownie _t;giorno del ricordo;disablot;claude navier's _v ~~~
 extraterrestrial culture _t;_u _t of women in science;get out _7 guitar;inventors _t;kenkoku kinen no hi;happy staying single _t ~~ 11
@@ -71,7 +71,7 @@ _u wig _t;mario _t;harriet tubman _t;_u bagpipe _t;pack _7 lunch;tibetan uprisin
 _u plumbing _t;wash _7 nose;be good to _7 tools;moshoeshoe _t;(a-2011) the fukushima accident;urbain le verrier's _v;wanda gag's _v ~~
 fanny pack _t;baked scallops _t;_u _t against online censorship;girl scout _t;plant a flower;aztec new _M;gemma galgani's _v ~~~ 03-12
 sexy and smart;_t of awesomeness;open an umbrella indoors;earmuff _t;good samaritan _t;mircea eliade's _v;kasuga matsuri;chang thai ~~
-happy pi _t;pi _t;einstein's _v;stephen hawking _t;science education _t;_u mathematics _t;white _t;the _. _, gamma normid _} ~~~ 03-14
+happy pi _t;pi _t;einstein's _v;stephen hawking _t;science education _t;_u mathematics _t;white _t;the _. _, gamma normid _} [zod] ~~~
 true confessions _t;beware the ides of march;idus martiae;_u consumer rights _t;honensai;_u contact _t;meena sankranti ~~~~~~~~~ 03-15
 lips _j;take no selfies _t;artichoke _t;panda _t;freedom of information _t;_x urho's _t;_t _, book smugglers;georg ohm's _v ~~~~ 03-16
 happy _x patricks _t;la fheile padraig sona duit;corned beef and cabbage _t;absolutely incredible kids _t;(a-180) _q marcus aurelius ~
@@ -123,12 +123,12 @@ lei _t;global love _t;may _t;_u workers _t;(a-1753) _y species plantarum;baulder
 astronomy _t;hachiju hachiya;_u tuna _t;truffle _t;life insurance _t;(a-1519) _q leonardo da vinci;harry potter _t;baby _t ~~~~~ 05-02
 sun _t;tuba _t;garden meditation _t;_u freedom _, press _t;kenpo kinenbi;textiles _t;a paranormal _t;poem on _7 pillow _t;dontaku ~ 03
 may the fourth be with you;renewal _t;tado matsuri;midori no hi;firefighters _t;forty fives _t;alesia arkusha's _v;candied orange _t ~
-laugh;cinco de mayo;tado matsuri;midwives _t;kodomo no hi;rikka;tango no sekku;childrens _t;t_. _, eta aquariid _};garden shed _t ~ 05
+laugh;cinco de mayo;tado matsuri;midwives _t;kodomo no hi;rikka;tango no sekku;childrens _t;_. _, eta aquariid _} [zod];garden shed _t
 no homework _t;no diet _t;(a-1527) the _L stand _, swiss guard;beverage _t;drink water;no pants _t;(a-1527) _n the renaissance ~ 05-06
 roast leg of lamb _t;cosmopolitan _t;barrier _k;package design _t;(a-1973) wounded knee's occupation;judith donath's _v;labyrinth _t ~
 donkey _t;no socks _t;red cross _t;_u thalassaemia _t;_t of _m and reconciliation;windmill _t;guoroor of guobrandsdal _m _t;iris _t ~~
 lost sock memorial _t;lemuralia;_t of _m and reconciliation;europe _t;sleepover _t;moscato _t;non-denominational regret _t ~~~~~ 05-09
-mother ocean _t;a _t without shoes;_u lupus _t;clean _7 room;shrimp _t;whacking _t;lipid _t;the _. _, eta lyrid _};_u argania _t ~~ 10
+mother ocean _t;a _t without shoes;_u lupus _t;clean _7 room;shrimp _t;whacking _t;lipid _t;the _. _, eta lyrid _} [zod];_u argania _t
 ego _k;lemuralia;richard feynman _t;eat what you want;_{ twilight zone;(a-868) _y the diamond sutra;foam rolling _t ~~~~~~~~~~~~ 05-11
 _u nurses _t;odometer _t;limerick _t;(a-907) the fall _, tang dynasty;_u _t of plant healt;florence nightingale's _v ~~~~~~~~~~~ 05-12
 leprechaun _t;root canal _t;lemuralia;global engineering _t;hummus _t;frog jumping _t;(a-1917) fatima;abbotsbury garland _t ~~~~ 05-13
@@ -160,7 +160,7 @@ vestalia;vesta apperitur;_u food safety _t;daniel boone _t;(a-1958) _p prince;(a
 gin _t;_u oceans _t;name _7 poison;upsy daisy;best friends _t;(a-2018) _q anthony bourdain;tim berners-lee's _v;_u brain tumor _k ~ 08
 vestalia;donald duck _t;coral triangle _t;_m for sigurd;strawberry rhubarb pie _t;(b-411) the athenian coup;skip james' _v ~~~~~ 06-09
 ballpoint pen _t;iced tea _t;(a-2018) we lost contact with opportunity;herbs and spices _t;farm workers _t;edward o wilson's _v ~~~ 10
-corn on the cob _t;yarn bombing _t;vestalia;nyubai;make life beautiful;king kamehameha _t;_u jaguar _t;the _t _, arietid _} ~~~~ 06-11
+corn on the cob _t;yarn bombing _t;vestalia;nyubai;make life beautiful;king kamehameha _t;_u jaguar _t;the _t _, arietid _} [zod] ~ 11
 loving _t;superman _t;falafel _t;_u _t against child labor;jerky _t;red rose _t;dia dos namorados;oliver lodge's _v;htay kywe's _v ~~~
 sewing machine _t;axe throwing _t;vestalia;weed _7 garden;random acts of light _t;maxwell's _v;_u albinism _k;kitchen klutz _t ~ 06-13
 flip flop _t;_u bath _t;flag _t;_u blood donor _t;(a-1158) _r munich;papa wemba's _v;ruthven todd's _v;steampunk _t;bourbon _t ~ 06-14
@@ -176,7 +176,7 @@ let it go;_u women in engineering _t;_u public service _t;drink water;(a-1839) _
 upcycling _t;praline _t;_u fairy _t;inti raymi;fors fortuna;midsummer;_x john's _t;_t _, caboclo;ernesto sabato's _v ~~~~~~~~~~~ 06-24
 goat cheese _t;seafaring _t;catfish _t /the fish not the internet thing;(a-2011) _q annie easley;color television _t;_u vitiligo _t ~~
 coconut _t;canoe _t;fridge _t;_u _t against drug abuse and trafficking;beautician _j;_u _t in support of victims of torture ~~~~ 06-26
-orange blossom _t;_w ptsd _k;sunglasses _t;pineapple _t;the _. _, bootid _};route #66 _t;hiv testing _t;seven sleepers' _t ~~~~~ 06-27
+orange blossom _t;_w ptsd _k;sunglasses _t;pineapple _t;the _. _, bootid _} [zod];route #66 _t;hiv testing _t;seven sleepers' _t ~~ 27
 logistics _t;paul bunyan _t;tapioca _t;tau _t;(a-1969) the stonewall riot;body piercing _t;(a-1889) _q maria mitchell ~~~~~~~~~~ 06-28
 camera _t;_u mud _t;_u _t _, tropics;mnarja;waffle iron _t;xyla foxlin's _v;(a-1613) the globe theatre was destroyed ~~~~~~~~~~~ 06-29
 asteroid _t;social media _t;mnarja;(a-1908) the tunguska event;meteor watching _t;ellen sheidlin's _v;knit in public;the _L _t of <M ~
@@ -207,10 +207,10 @@ tell an old joke;gion matsuri;thermal engineering _t;amelia earhart _t;alice aug
 unveiling _t;wine and cheese _t;hire a veteran _t;the jashan of amurdad;thread the needle;_w _t of galicia;ibn arabi's _v ~~~~~~ 07-25
 holistic therapy _t;all or nothing;disability independence _t;bagelfest;esperanto _t;aunt and uncle _t;_t of mangrove conservation ~~~
 norfolk _t;walk on stilts;korean war armistice _t;love is kind;chicken finger _t;sleepy head _t;take your houseplant to work ~~~ 07-27
-milk _z _t;hepatitis _t;visit a waterpark;buffalo soldiers _t;the _. _, piscis austrinid _};olavsoka eve;karl popper's _v ~~~~~~ 07-28
+milk _z _t;hepatitis _t;visit a waterpark;buffalo soldiers _t;the _. _, piscis austrinid _} [zod];olavsoka eve;karl popper's _v ~~~ 28
 lipstick _t;_u tiger _t;chicken wing _t;(a-1890) _q vincent van gogh;rain _t;(a-1958) _r nasa;carl cox's _v;olavsoka;lasagna _t ~~~ 29
-cheesecake _t;_u friendship _t;paperback book _t;(a-762) _r baghdad;father in law _t;the _. _, southern delta aquariid _} ~~~~~~ 07-30
-avocado _t;mutt _t;ranger _t;uncommon instrument _t;sysadmins _t;bubblegum _t;ka hae hawai'i _t;_. _, alpha capricornid _} ~~~~~ 07-31
+cheesecake _t;_u friendship _t;paperback book _t;(a-762) _r baghdad;father in law _t;the _. _, southern delta aquariid _} [zod] ~~~ 30
+avocado _t;mutt _t;ranger _t;uncommon instrument _t;sysadmins _t;bubblegum _t;ka hae hawai'i _t;_. _, alpha capricornid _} [zod] ~~ 31
 girl friends _t;_u friendship _t;childfree _t;respect _7 parents;planning _t;pachamama raymi;lammas;freyfaxi;<s=lughnasadh|imbolic ~~~
 _u beer _t;coloring book _t;ice cream sandwich _t;_u _m _t _, roma holocaust;harvest fest;rap _t;elisha gray's _v;nebuta;llamas! ~~ 02
 disc golf _t;watermelon _t;white wine _t;joseph paxton's _v;maggie kuhn's _v;esther _t;cloves syndrome _k;nebuta;kanto ~~~~~~~~~ 08-03
@@ -222,14 +222,14 @@ _u _t _, female orgasm;_u cat _t;universal and _u infinity _t;sleep under the st
 rice pudding _t;melon _t;_u _t of indigenous peoples;coworking _t;book lovers _t;hold hands;_m for radbod king _, frisians ~~~~~ 08-09
 _u lion _t;a lazy _t;biodiesel _t;s'mores _t;duran duran _j;(a-1920) _n the ottoman empire;pueblo uprising _t;william willett's _v ~~~
 play _{ sand;yama no hi;kids _t;(b-3114) _o the mesoamerican long count calendar;marilyn vos savant's _v;raspberry bombe _t ~~~~ 08-11
-elephant _t;vinyl record _t;youth _t;middle child _t;schrodinger's _v;(a-1827) _q william blake;_x crepes _t;the _. _, perseid _} ~ 12
+elephant _t;vinyl record _t;youth _t;middle child _t;schrodinger's _v;(a-1827) _q william blake;_x crepes _t;_. _, perseid _} [zod] ~~
 _u left handers _t;filet mignon _t;prosecco _t;(a-1913) _] stainless steel;_u organ donation _t;(b-29) octavian's triumph;bon ~~ 08-13
 social security _t;tattoo removal _t;_u lizard _t;code talkers _t;creamsicle _t;(a-1552) _p paolo sarpi;breakup _t;falklands _t;bon ~~
 relaxation _t;geocaching _t;assumption of mary;obon;leatherworking _t;(a-1969) woodstock;fukagawa matsuri;chip _7 pet;_o wafaa el-nil 
 rollercoaster _t;airborne _t;tell me a joke;t e lawrence's _v;_u bratwurst _t;bela lugosi is dead;xicolatada;gozan no okuribi;rum _t ~
 thrift shop _t;black cat _j;nonprofit _t;margaret hamilton's _v;vanilla custard _t;love your feet;marcus garvey _t;simha sankranti ~~~
 bad poetry _t;pinot _t;fajita _t;serendipity _t;(a-1227) _q genghis khan;wafaa el-nil;(a-2019) okjokull glacier melted;catalog _t ~ 18
-orangutan _t;_u bow _t;aviation _t;vinalia rustica;_u photography _t;_u humanitarian _t;potato _t;the _. _, kappa cygnid _} ~~~~ 08-19
+orangutan _t;_u bow _t;aviation _t;vinalia rustica;_u photography _t;_u humanitarian _t;potato _t;the _. _, kappa cygnid _} [zod] ~ 19
 _u mosquito _t;radio _t;_u _t of medical transporters;howard phillips lovecraft's _v;_z pecan pie _t;meitei language _t;filseta ~~~ 20
 senior citizens _t;mens grooming _t;_u terrorism victims _t of _m;_u honey bee _t;the jashan of shahrevar;spumoni _t ~~~~~~~~~~~ 08-21
 eat a peach _t;be an angel _t;_u religious violence victims _t of _m;oncologist _t;tooth fairy _t;filseta's end;madras _t;bao _t ~~ 22
@@ -243,7 +243,7 @@ chop suey _t;_u _t against nuclear testing;according to hoyle;(a-1632) _p john l
 slinky _t;amagwinya _t;whale shark _t;beach _t;_w grief _k;_u _t _, disappeared;(a-70) the destruction _, second temple;mai tai _t ~~~
 franchise _j;trail mix _t;matchmaker _t;overdose _k;baloch-pakhtun unity _t;(a-1056) the macedonian dynasty ended;the _L _t of <M ~ 31
 no rhyme/no reason;_u letter writing _t;emma m nutt _t;tofu _t;nihyaku toka;ginger cat _j;random acts of kindness _t;the _s _t of <M ~
-mouthguard _t;sepsis _t;the _. _, aurigid _};(a-1859) the carrington event;tibetan democracy _t;picklemas;blueberry popcicle _t ~~~ 02
+mouthguard _t;sepsis _t;_. _, aurigid _} [zod];(a-1859) the carrington event;tibetan democracy _t;picklemas;blueberry popcicle _t ~ 02
 skyscraper _t;(a-1990) the _s burn on the playa;bowling league _t;welsh rarebit _t;(a-301) _r san marino;tokehega _t ~~~~~~~~~~~ 09-03
 wildlife _t;lazy moms _t;_u talent acquisition _t;newspaper carrier _t;toothfish _t;eat an extra dessert _t ~~~~~~~~~~~~~~~~~~~~ 09-04
 cheese pizza _t;samosa _t;it's okay to be late for something;_u _t of charity;show up late;freddie mercury's _v ~~~~~~~~~~~~~~~~ 09-05
@@ -251,7 +251,7 @@ bring _7 manners to work;a good _t to read a book;pi kogi enavot;coffee ice crea
 acorn squash _t;hakuro;_w salami _t;(a-1860) giuseppe garibaldi entered naples;buy a book;(a-1927) _] television;grandma moses' _v ~~~
 iguana _k;_u physical therapy _t;_u literacy _t;_w ampersand _t;pi kogi enavot;star trek _t;bernie sanders' _v;actors' _t ~~~~~~ 09-08
 wonderful weirdos _t;quiet _t;teddy bear _t;(a-1971) the release of imagine;kiku no sekku;_m for herman the cheruscan;sudoku _t ~~~ 09
-_u suicide prevention _t;tv dinner _t;exchange ideas;pi kogi enavot;_. _, eta perseid _};drive your studebaker _t;gibraltar _w _t ~ 10
+_u suicide prevention _t;tv dinner _t;exchange ideas;pi kogi enavot;_. _, eta perseid _} [zod];drive a studebaker _t;gibraltar _w _t ~
 make _7 bed;no news is good news;patriot _t;nihyaku hatsuka;hug your hound _t;_w _t of service and _m;carl zeiss' _v ~~~~~~~~~~~ 09-11
 _z milkshake _t;video game _t;hojoya _@;#1 human family _t;an encouraging _t;saragarhi _t;(a-1962) we chose to go to the _& ~~~~ 09-12
 fortune cookie _t;_u _z _t;let a kid take over the kitchen;dia de los ninos heroes;roald dahl _t;walter reed's _v;amelie beese's _v ~~
@@ -268,7 +268,7 @@ shubun;aki higan;_u sign language _t;(a-1846) _A neptune;celebrate bisexuality _
 punctuation _t;aki higan;jim henson's _v;save the koala _t;(a-787) the second council of nicaea;bollywood _t;gerolamo cardano's _v ~~~
 dream;one-hit wonder _t;pharmacist _t;dia de la quesadilla;math storytelling _t;tune up;back up _7 photos;danny hillis' _v;river _t ~~
 human resources _t;rabbit _t;aki higan;_u _t for _n nuclear weapons;be aware;dumpling _t;johnny appleseed _t;_u maritime _t ~~~~ 09-26
-tourism _t;scarf _t;(a-1962) _y silent spring;meskel;mata amritanandamayi's _v;the _t _, sextantid _};_u traveler _t;no excuses ~~~ 27
+tourism _t;scarf _t;(a-1962) _y silent spring;meskel;mata amritanandamayi's _v;the _t _, sextantid _} [zod];_u traveler _t;no excuses 
 poke _t;good neighbor _t;_u rabies _t;_u _t for universal access to information;_u freedom from hunger _t;cabrillo _t;confucius' _v ~~
 _u heart _t;biscotti _t;_u inventors _t;_w coffee _t;enrico fermi's _v;hive _t;winter finding;michaelmas;paul maccready's _v ~~~ 09-29
 ask a stupid question;podcast _t;translation _t;rumi's _v;love everyone;phil plait's _v;truth and reconciliation _t;the _L of <M ~~ 30
@@ -276,10 +276,10 @@ fire pup _t;hair _t;older peoples _t /get off their damn lawn;_u ballet _t;pluto
 custodial worker _t;gandhi jayanti;_u farm animals _t;give _7 car a name;groucho marx's _v;oktoberfesterdammerung;change a lightbulb ~
 virus _j;_u temperance _t;_u bullying prevention _t;(a-1967) _q woody guthrie;techie _t;oktoberfest;john perry barlow's _v ~~~~~ 10-03
 vodka _t;ship in a bottle _t;_: _x francis;_u animal _t;cinnamon bun _t;_u space _9;smoot _t;oktoberfest;buster keaton's _v ~~~~ 10-04
-architecture _t;_u teachers _t;get funky;do something nice;robert goddard's _v;_u space _9;the _. _, camelopardalid _} ~~~~~~~~~ 10-05
+architecture _t;_u teachers _t;get funky;do something nice;robert goddard's _v;_u space _9;the _. _, camelopardalid _} [zod] ~~~ 10-05
 badger _t;mad hatter _t;german american _t;_u cerebral palsy _t;coaches _t;_u space _9;noodle _t;david brin's _v;lonnie johnson's _v ~
 bathtub _t;led lighting _t;inner beauty _t;(b-3761) _o the hebrew calendar;_u space _9;black drinking _t;frappe _t;_u cotton _t ~~~ 07
-octopus _j;pierogi _t;kanro;octopoda;fluffernutter _t;the _. _, draconid _};oktoberfest;_u space _9;(a-1784) the kettle war ~~~~ 10-08
+octopus _j;pierogi _t;kanro;octopoda;fluffernutter _t;the _. _, draconid _} [zod];oktoberfest;_u space _9;(a-1784) the kettle war ~ 08
 tag _t;egg _t;leif erikson _t;_u post _t;moldy cheese _t;takayama matsuri;john lennon's _v;oktoberfest;curious events _t;_u space _9 ~
 hug a drummer;_u mental health _t;_u homeless _t;metric _t;space _9;takayama matsuri;squid and cuttlefish _t;porridge _t ~~~~~~~ 10-10
 coming out _t;sausage pizza _t;general pulaski memorial _t;octopoda;old michaelmas _t;newspaper _t;_u _t _, girl ~~~~~~~~~~~~~~~ 10-11
@@ -289,7 +289,7 @@ dessert _t;takengei;_u standards _t;(a-2010) _q benoit b mandelbrot;(a-1947) the
 students _t;wash _7 hands;takengei;white cane safety _t;_u _t of rural women;shawarma _t;(a-1582) _o the gregorian calendar ~~~~ 10-15
 dictionary _t;_u food _t;boss _t;dignity _t;_u cat _t/yep there are a lot of cat holidays;sweetest _t;feral cat _t;look at the _& ~ 16
 spreadsheet _t;_u _t for _n poverty;_u trauma _t;black poetry _t;mulligan _t;tula sankranti;winter nights ~~~~~~~~~~~~~~~~~~~~~~ 10-17
-_z cupcake _t;toy camera _t;exascale _t;_u menopause _t;leggings _t;winter nights;no beard _t;the _. _, eta geminid _} ~~~~~~~~~ 10-18
+_z cupcake _t;toy camera _t;exascale _t;_u menopause _t;leggings _t;winter nights;no beard _t;the _. _, eta geminid _} [zod] ~~~ 10-18
 a good _t to evaluate _7 life;_u gin and tonic _t;(b-202) scipio africanus defeated hannibal barca at zama;seafood bisque _t ~~~ 10-19
 suspenders _t;_u sloth _t;_u crispr _t;_u osteoporosis _t;winter nights;vetrnaetr;(a-1981) _n the weather underground;snoop dog's _v ~
 count _7 buttons;nacho _t;reptile _k;babbling _t;check _7 credit;_: _x apostrophe;(a-1797) the launch _, constitution ~~~~~~~~~~ 10-21
@@ -314,16 +314,16 @@ cook something bold and pungent;tongue twister _t;pianist _t;urban planning _t;s
 chaos never dies;microtia _k;_u freedom _t;carl sagan's _v;_u adoption _t;dia de los natitas;scrapple _t;sigrid's _t ~~~~~~~~~~~ 11-09
 can you tell me how to get to sesame street?;vanilla cupcake _t;_u _t of science for peace and development ~~~~~~~~~~~~~~~~~~~~~ 11-10
 origami _t;armistice _t;_m _t;veterans _t;_: the einherjar;pepero _t;jim and amy's _U;pocky no hi;eleven eleven ~~~~~~~~~~~~~~~~ 11-11
-it's happy hour somewhere;french dip _t;_u pneumonia _t;(a-1817) _p baha'u'llah;fancy rat and mouse _t;_. _, northern taurid _} ~~~ 12
+it's happy hour somewhere;french dip _t;_u pneumonia _t;(a-1817) _p baha'u'llah;fancy rat and mouse _t;_. _, northern taurid _} [zod] 
 _u kindness _t;indian pudding _t;symphonic metal _t;(a-1940) the release of fantasia;robert louis stevenson's _v;hug a musician ~~~ 13
 pickle _t;loosen up/lighten up;_u diabetes _t;pajama _t;spicy guacamole _t;operating room nurse _t;dobruja _t;julie manet's _v ~ 11-14
 clean out _7 fridge;_%;philanthropy _t;america recycles _t;love to write _t;palestinian independence _t;entrepreneur _t;shichi go san 
 clarinet _t;_u _t for tolerance;fast food _t;(a-1973) _q alan watts;cameron sinclair's _v;teddy bear party _t;vrishchika sankranti ~~~
 homemade bread _t;take a hike;_u happy gose _t;john law's _v;butter _t;_u prematurity _t;_u students' _t;(a-1858) julian _t zero ~~ 17
-_%;princess _t;pancreatic cancer _t;(a-1883) time zones were created;(a-2020) _A the utah monolith;the _. _, leonid _} ~~~~~~~~~ 11-18
+_%;princess _t;pancreatic cancer _t;(a-1883) time zones were created;(a-2020) _A the utah monolith;the _. _, leonid _} [zod] ~~~ 11-18
 _u mens _t;_u toilet _t;caffinated carbonated beverage _t;women's entrepreneurship _t;(a-1863) the gettysburg address;nina bari's _v ~
 name _7 computer;absurdity _t;_u childrens _t;ming na wen's _v;peanut butter fudge _t;transgender _t of remembrance;hubble's _v ~~~ 20
-use less stuff;_%;_u television _t;_u philosophy _t;the _. _, alpha monocerotid _};(a-1694) _p voltaire;stuffing _t;_u hello _t ~~~ 21
+use less stuff;_%;_u television _t;_u philosophy _t;the _. _, alpha monocerotid _} [zod];(a-1694) _p voltaire;stuffing _t;_u hello _t 
 go for a ride;cranberry relish _t;shosetsu;mark frauenfelder's _v;_t _, albanian alphabet;(a-1963) _q john f kennedy;larimar _t ~~~ 22
 fibonacci _t;espresso _t;kinro kansha no hi;cashew _t;(a-1963) doctor who _s aired;(a-1974) the massacre _, sixty;wolfenoot ~~~~ 11-23
 celebrate _7 talents;sardines _t;spider robinson's _v;d b cooper _t;evolution _t;put on _7 apron;spinoza's _v;scott joplin's _v ~~~ 24
@@ -337,24 +337,24 @@ a _t without art;_u aids _t;rosa parks _t;eat a red apple;advent;nicholas negrop
 fritter _t;mutt _t;special education _t;advent;_u _t for the abolition of slavery;(a-1942) _p the nuclear age;freak out _t ~~~~~ 12-02
 make a gift;roof over _7 head _t;_u disabled persons _t;_%;thanksmas;(a-1984) the bhopal disaster;(b-311) _q diocletian ~~~~~~~~ 12-03
 cookie _t;socks _t;wear brown shoes;_x barbara _t;advent;_u wildlife conservation _t;_u cheetah _t;cabernet franc _t;_u banks _t ~~ 04
-bathtub party _t;soil _t;_u ninja _t;krampusnacht;_%;_u volunteers _t;walt disney's _v;the _. _, phi cassiopeid _};shelter pet _t ~ 05
-miners _t;_: _x nicholas;advent;gaspacho _t;_t of remembrance and action on violence against women;the _. _, puppid velid _} ~~~ 12-06
+bathtub party _t;soil _t;_u ninja _t;krampusnacht;_%;_u volunteers _t;walt disney's _v;_. _, phi cassiopeid _} [zod];shelter pet _t ~~
+miners _t;_: _x nicholas;advent;gaspacho _t;_t of remembrance and action on violence against women;the _. _, puppid velid _} [zod] ~~~
 cotton candy _t;disney _t;pearl harbor _t;_%;taisetsu;(a-2020) _q chuck yeager;_u civil aviation _t;_t of the little candles ~~~ 12-07
-pretend to be a time traveler;lard _t;bodhi;_: the immaculate conception;advent;(a-1980) _q john lennon;_. _, monocerotid _} ~~~ 12-08
+pretend to be a time traveler;lard _t;bodhi;_: the immaculate conception;advent;(a-1980) _q john lennon;_. _, monocerotid _} [zod] ~~~
 techno _t;_u anti-corruption _t;_%;pastry _t;christmas card _t;grace hopper's _v;llama _t;egill skallagrimsson _m ~~~~~~~~~~~~~~ 12-09
 lager _t;human rights _t;advent;nobel prize _t;_u animal rights _t;ada lovelace's _v;nobeldagen;dewey decimal? /do we ever! ~~~~ 12-10
-_u mountain _t;bagel _t;_%;(a-1198) _q averroes;the _. _, sigma hydrid _};(a-361) julian the apostate entered constantinople ~~~ 12-11
+_u mountain _t;bagel _t;_%;(a-1198) _q averroes;the _. _, sigma hydrid _} [zod];(a-361) julian the apostate entered constantinople ~~~
 poinsettia _t;shareware _t;advent;_u _t of neutrality;build a gingerbread house;(a-1917) _r boys town;frank sinatra's _v;dingaling _t 
 violin _t;hot cocoa _t;_x lucy's _t;salgirah;_%;universal health coverage _t;elizabeth alexander's _v;_t _, horse;bear _t ~~~~~~ 12-13
-monkey _t;bouillabaisse _t;advent;martyred intellectuals _t;(a-1972) apollo #17 left the _&;the _. _, geminid _} ~~~~~~~~~~~~~~~ 12-14
-_u tea _t;cat herders _t;zamenhof _t;_%;bill of rights _t;cupcake _t;lightningmas;the _. _, comae berenicid _} ~~~~~~~~~~~~~~~~~ 12-15
+monkey _t;bouillabaisse _t;advent;martyred intellectuals _t;(a-1972) apollo #17 left the _&;the _. _, geminid _} [zod] ~~~~~~~~~ 12-14
+_u tea _t;cat herders _t;zamenhof _t;_%;bill of rights _t;cupcake _t;lightningmas;the _. _, comae berenicid _} [zod] ~~~~~~~~~~~ 12-15
 _z covered anything _t;las posadas;advent;dhanu sankranti;(a-1947) _] the transistor;margaret mead's _v;wear your pearls ~~~~~~~ 12-16
 maple syrup _t;wright brothers _t;saturnalia;_%;(a-1903) the _s controlled flight;mary cartwright's _v;underdog _t;stupid toy _t ~~ 17
 _u migrants _t;_u arabic language _t;las posadas;saturnalia;advent;twin _t;keith richards' (o-1933) _v;_: the expectation ~~~~~~ 12-18
 oatmeal muffin _t;nikoljdan;saturnalia;_%;hard candy _t;maudy ayunda's _v;(a-1972) apollo #17 returned to earth;holly _t;emo _t ~~~ 19
 games _t;sangria _t;las posadas;saturnalia;advent;(a-1996) _q carl sagan;_u human solidarity _t;david bohm's _v;dongzhi;sacagawea _t ~
 dongzhi;blue christmas;ziemassvetki;sanghamitta;short girl _j;humbug;modraniht;saturnalia;yalda;soyal;flashlight _t;solstice ~~~ 12-21
-forefathers _t;short people _t;las posadas;pancha ganapati;saturnalia;advent;toji;date nut bread _t;the _. _, ursid _} ~~~~~~~~~ 12-22
+forefathers _t;short people _t;las posadas;pancha ganapati;saturnalia;advent;toji;date nut bread _t;the _. _, ursid _} [zod] ~~~ 12-22
 roots _t;festivus;pancha ganapati;saturnalia;human light _t;advent;_%;_. _, radishes;tibb's eve;kisan diwas;tom bawcock's eve ~~ 12-23
 eggnog _t;christmas eve;las posadas;pancha ganapati;hogswatch;decemberween;quviasukvik;_: the #7 fishes;nochebuena;giorno di magro ~~~
 dies natalis solis invicti;christmas _t;merry christmas;feliz navidad;_: anastasia of sirmium;malkh;tulsi pujan diwas;toshi no se ~ 25
@@ -364,77 +364,77 @@ card playing _t;_z candy _t;the third _t of kwanzaa;ujima;holy innocents _t;_w s
 tick tock;pepper pot _t;the fourth _t of kwanzaa;ujamaa;koliada;(a-1890) the wounded knee massacre;still need to do _t;toshi no ichi ~
 baking soda _t;the fifth _t of kwanzaa;nia;koliada;falling needles _t;(a-534) the code of justinian;osman bey's _v;rizal _t ~~~~ 12-30
 champagne _t;make up _7 mind;new years eve;january the zeroth;kuumba;_x sylvester _t;omisoka;hogmanay;_s _.;the _L _t of <Y ~~~~ 12-31
-the _. _, southern taurid _} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-10 x
-the _. _, delta aurigid _} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-11 x
-the _. _, orninid _} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-21 and 11-28 x
-the _. _, pheonicid _} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 12-02 x
-the _. _, leonis minorid _} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-24 and 12-19 x
-the earth is at perihelion;the earth is at her closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 01-04 x
-the earth is at aphelion;the earth is at her most distant point from the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 07-06 x
-chiron is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-chiron is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-chiron is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-ceres is at aphelion;ceres is at her most distant point from the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-ceres is at opposition;the earth is between the sun and ceres ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-ceres is at perihelion;ceres is at her closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-under a new _&;under a black _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-under a full _&;under the wolf _&;under the black smoke _&;under the winter _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon jan x
-under a full _&;under the snow _&;under the hunger _&;under the storm _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon feb x
-under a full _&;under the worm _&;under the crow _&;under the wind _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon mar x
-under a full _&;under the pink _&;under the seed _&;under the spring _&;under the awakening _& ~~~~~~~~~~~~~~~~~~~~~~~ full moon apr x
-under a full _&;under the flower _&;under the milk _&;under the grass _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon may x
-under a full _&;under the strawberry _&;under the mead _&;under the rose _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon jun x
-under a full _&;under the buck _&;under the elk _&;under the summer _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon jul x
-under a full _&;under the sturgeon _&;under the dog _&;under the red _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon aug x
-under a full _&;under the corn _&;under the barley _&;under the red plum _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon sep x
-under the harvest _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon closest to the fall equinox x
-under a full _&;under the hunter's _&;under the autumn _&;under the pumpkin _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon oct x
-under a full _&;under the beaver _&;under the turkey _&;under the frosty _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon nov x
-under a full _&;under the blood _&;under the leaf falling _&;under the dying _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alt full oct x
-under a full _&;under the frost _&;under the dark _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alt full nov x
-under a full _&;under the cold _&;under the oak _&;under the long nights _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon dec x
-under a full _&;under the blue _&;once in a blue _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ second full moon of the month x
-under a waxing _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-under a waning _& ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-mercury is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-mercury is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-mercury is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-venus is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-venus is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-venus is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-mars is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-mars is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-mars is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-jupiter is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-jupiter is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-jupiter is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-saturn is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-saturn is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-saturn is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-uranus is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-uranus is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-uranus is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-neptune is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-neptune is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-neptune is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-pluto is entering retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-pluto is in retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-pluto is leaving retrograde ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+the _. _, southern taurid _} [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-10 x
+the _. _, delta aurigid _} [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-11 x
+the _. _, orninid _} [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-21 and 11-28 x
+the _. _, pheonicid _} [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 12-02 x
+the _. _, leonis minorid _} [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 10-24 and 12-19 x
+the earth is at perihelion [zod];the earth is at her closest point to the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~ from SET: around 01-04 x
+the earth is at aphelion [zod];the earth is at her most distant point from the sun [zod] ~~~~~~~~~~~~~~~~~~~~ from SET: around 07-06 x
+chiron is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+chiron is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+chiron is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+ceres is at aphelion [zod];ceres is at her most distant point from the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+ceres is at opposition [zod];the earth is between the sun and ceres [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+ceres is at perihelion [zod];ceres is at her closest point to the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+under a new _& [mun];under a black _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+under a full _& [mun];under the wolf _& [mun];under the black smoke _& [mun];under the winter _& [mun] ~~~~~~~~~~~~~~~ full moon jan x
+under a full _& [mun];under the snow _& [mun];under the hunger _& [mun];under the storm _& [mun] ~~~~~~~~~~~~~~~~~~~~~ full moon feb x
+under a full _& [mun];under the worm _& [mun];under the crow _& [mun];under the wind _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~ full moon mar x
+under a full _& [mun];under the pink _& [mun];under the seed _& [mun];under the spring _& [mun];under the awakening _& [mun] ~~~ apr x
+under a full _& [mun];under the flower _& [mun];under the milk _& [mun];under the grass _& [mun] ~~~~~~~~~~~~~~~~~~~~~ full moon may x
+under a full _& [mun];under the strawberry _& [mun];under the mead _& [mun];under the rose _& [mun] ~~~~~~~~~~~~~~~~~~ full moon jun x
+under a full _& [mun];under the buck _& [mun];under the elk _& [mun];under the summer _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~ full moon jul x
+under a full _& [mun];under the sturgeon _& [mun];under the dog _& [mun];under the red _& [mun] ~~~~~~~~~~~~~~~~~~~~~~ full moon aug x
+under a full _& [mun];under the corn _& [mun];under the barley _& [mun];under the red plum _& [mun] ~~~~~~~~~~~~~~~~~~ full moon sep x
+under the harvest _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon closest to the fall equinox x
+under a full _& [mun];under the hunter's _& [mun];under the autumn _& [mun];under the pumpkin _& [mun] ~~~~~~~~~~~~~~~ full moon oct x
+under a full _& [mun];under the beaver _& [mun];under the turkey _& [mun];under the frosty _& [mun] ~~~~~~~~~~~~~~~~~~ full moon nov x
+under a full _& [mun];under the blood _& [mun];under the leaf falling _& [mun];under the dying _& [mun] ~~~~~~~~~~~~~~~ alt full oct x
+under a full _& [mun];under the frost _& [mun];under the dark _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alt full nov x
+under a full _& [mun];under the cold _& [mun];under the oak _& [mun];under the long nights _& [mun] ~~~~~~~~~~~~~~~~~~ full moon dec x
+under a full _& [mun];under the blue _& [mun];once in a blue _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ second full moon of the month x
+under a waxing _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+under a waning _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+mercury is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+mercury is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+mercury is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+venus is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+venus is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+venus is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+mars is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+mars is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+mars is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+jupiter is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+jupiter is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+jupiter is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+saturn is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+saturn is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+saturn is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+uranus is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+uranus is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+uranus is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+neptune is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+neptune is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+neptune is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+pluto is entering retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+pluto is in retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
+pluto is leaving retrograde [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 <s=autumnal|spring equinox;<s=fall|vernal equinox;<s=mabon|ostara ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ N fall x
 nawruz;<s=spring|autumnal equinox;<s=vernal|fall equinox;<s=ostara|mabon ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ N spring x
 winoy tripantu;we tripantu;inti raymi;<s=summer|winter solstice;<s=lithia|yule ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ N summer x
 dongzhi;<s=winter|summer solstice;<s=yule|lithia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ N winter x
-time to head out to the playa ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10 days before labor day x
-burning man is starting;time to burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 8 days before labor day x
-labor _t weekend;_f the man to burn;the man burns tonight;time to burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2 days before labor day x
-labor _t weekend;_f the temple to burn;pay your respects;happy new _M;the man has burned;the temple burns tonight ~~ 1 day pre labor x
-eris is at opposition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-mercury is at aphelion;mercury is at his most distant point from the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-mercury is at perihelion;mercury is at his closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-the temple has burned;labor _t;take one more look/hold it in your heart [brc] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first monday in sep x
-time to head back to the default world;fall cleaning _t;reintegration _t;we will dance again ~~~~~~~~~~~~~~~~~ 1 day after labor day x
-mercury is at his highest altitude in the evening sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-mercury is at his highest altitude in the morning sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+time to head out to the playa [brc] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10 days before labor day x
+burning man is starting;time to burn [brc]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 8 days before labor day x
+labor _t weekend;_f the man to burn [brc];the man burns tonight [brc];time to burn [brc] ~~~~~~~~~~~~~~~~~~~ 2 days before labor day x
+labor _t weekend;_f the temple to burn [brc];pay your respects;happy new _M [brc];the man has burned [brc];the temple burns tonight ~~
+eris is at opposition [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+mercury is at aphelion [zod];mercury is at his most distant point from the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+mercury is at perihelion [zod];mercury is at his closest point to the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+the temple has burned [brc];labor _t;take one more look/hold it in your heart [brc] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first monday in sep x
+time to head back to the default world [brc];fall cleaning _t;reintegration _t [brc];we will dance again [brc] ~~~ 1 day after labor x
+mercury is at his highest altitude in the evening sky [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+mercury is at his highest altitude in the morning sky [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 memorial _t;einherjar _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last monday in may x
 memorial _t weekend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1 and 2 days before memorial day x
 thanksgiving _t;_w _t of mourning;wayland the smith's _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4th thurs of nov x
@@ -450,12 +450,12 @@ pentecost;trinity sunday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 presidents _t;no kings _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3rd mon in feb x
 mothers _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2nd sun in may x
 fathers _t;turkey lovers _t;_u surfing _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3rd sun in jun x
-neptune is at opposition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-neptune is at perihelion;neptune is at his closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+neptune is at opposition [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+neptune is at perihelion [zod];neptune is at his closest point to the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 grandparents _t;hug your dog;pet memorial _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 days after labor day x
-jupiter is at aphelion;jupiter is at his most distant point from the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-jupiter is at opposition;the earth is directly between the sun and jupiter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-jupiter is at perihelion;jupiter is at his closest point to the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+jupiter is at aphelion [zod];jupiter is at his most distant point from the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+jupiter is at opposition [zod];the earth is directly between the sun and jupiter [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+jupiter is at perihelion [zod];jupiter is at his closest point to the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 the _s _t of <s=spring|autumn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day after northern spring equinox x
 the _L _t of <s=spring|autumn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before northern summer solstice x
 the _s _t of <s=summer|winter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day after northern summer solstice x
@@ -464,7 +464,7 @@ the _s _t of <s=fall|spring ;innergize _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the _L _t of <s=fall|spring ;innergize _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before north winter solstice x
 the _s _t of <s=winter|summer ;_u sleep _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day after northern winter solstice x
 the _L _t of <s=winter|summer ;_u sleep _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before northern spring equinox x
-pluto is at opposition;the earth lies directly between the sun and pluto ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
+pluto is at opposition [zod];the earth lies directly between the sun and pluto [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 sonam losar;losar;the <?_l|_o the _M _, rat;spring lantern _@;_s full _& _@;yuan xiao jie;gong xi fa chai ~~~~~~~~~~~~~~~~~~~~~~~~~~ x
 sonam losar;losar;the <?_l|_o the _M _, ox;spring lantern _@;_s full _& _@;yuan xiao jie;gong xi fa chai ~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
 sonam losar;losar;the <?_l|_o the _M _, tiger;spring lantern _@;_s full _& _@;yuan xiao jie;gong xi fa chai ~~~~~~~~~~~~~~~~~~~~~~~~ x
