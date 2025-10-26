@@ -9,45 +9,6 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!M=10,d=20 santi flame day
-!M=12,d=2 (a-1995) the death of the sun queen maria telkes
-!M=8,d=29 (a-1982) bothie the polar dog completed his expedition
-(a-2003) jack szostak described functional information theory
-(a-2024) the discovery of betelbuddy
-(a-2025) mosquitoes made it to iceland
-(a-2257) eris is at perihelion
-<G=+29876,+031210 the stepwell of the serapeum of saqqara
-<G=+41008,+028978 the milion tasi
-<G=+41893,+012484 the milliarium aureum
-<G=+50857,+155562 <?araido|atlasov|uyakhuzhach|oyakoba|ainu|alaid island
-<t show the world what your <?dreams|values are
-
-all at once/the unyielding tension can break
-as the tides turn
-as they enter their villain arc
-as we take advantage of the law of/increasing functional information
-ask unexpected questions
-be the role model that younger you/would have looked up to
-don't forget what your dreams were
-don't forget your <?dreams|goals|plans
-don't forget
-don't let their actions change your goodness
-don't panic/or do/the universe doesn't care either way
-empathy is not the same as understanding/but sometimes it's as close as we can get
-if at first you don't shenan/shenanigan! / 
-if you have just a single spoon left/use it to stir some honey in to your tea/take care of yourself first
-if you have just a single spoon left/use it to stir some honey in to your tea
-in the shadow of what we have lost
-prior to the discovery of/physical evidence for panpsychism
-relax/it's only <?life|magic
-stay as close to the edge as you can/without going over/out on the edge is where you see/what you can't see from the center ~~ 0682
-stories change hearts/hearts change culture/culture changes civilization
-the simple step of a courageous individual/is not to take part in the lie
-the visible world is just a shadow/cast by the invisible
-the world needs your weirdness
-we missed you at the summoning circle last week! / ~~~~~ $wnv
-what if it works out even better than you expect? / 
-your curse has been lifted/you're welcome
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
