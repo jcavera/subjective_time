@@ -20,7 +20,7 @@ And if you want to contribute to the code or data, please for the love of all th
 - All messages are to be displayed using ONLY lowercase characters (the silly exception: CAPSLOCK DAY).
 - Only the following punctuation is allowed in messages: "?", "!", "-", "'", "..." (3 periods, not a single-character elipsis).
 - Use the forward-slash ("/") to force a line-break in a message.
-- If punctuation is at the end of a line, use a space and force-break (" /") after it.  Even if it's the last thing in the string. As an example:
+- If punctuation is at the end of a line, use a space and force-break (" /") after it.  As an example:
   
 ``` you need an example? /here's an example of this! / ~~~~~~~~ ```
 
