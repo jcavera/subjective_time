@@ -10,6 +10,8 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 (b-240) aristarchus of samos postulated the heliocentric cosmos
+(b-30) diodorus siculus wrote the bibliotheca historica
+(b-340) ephorus wrote his universal history
 <G=+31337,+035981 qasr bshir
 <G=+39030,-116667 diana's punchbowl
 <G=-44655,+168315 the tahuna glenorchy dark sky sanctuary
@@ -24,6 +26,8 @@ i hope you heal from the things/that no one else knows you went through
 i hope you heal from the things/that no one ever apologized for
 i hope you heal from the things/that you don't want to talk about
 life requires participation/not prediction - Izzie Babea
+most emergencies are memories in disguise/when you move with care/the alarms quiet down - Izzie Babea
+most emergencies are memories in disguise - Izzie Babea
 not everything has to be done right now
 stop arguing with reality and/the world will grow bigger - Izzie Babea
 the shadow shifts with every bearer/and the abyss has never worn your silhouette
