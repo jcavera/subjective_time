@@ -9,20 +9,29 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+(b-240) aristarchus of samos postulated the heliocentric cosmos
 <G=+31337,+035981 qasr bshir
 <G=+39030,-116667 diana's punchbowl
 <G=-44655,+168315 the tahuna glenorchy dark sky sanctuary
 <t ask for help
+<t pause before you promise - Izzie Babea
 
+be brave in the room you are in - Izzie Babea
 dare to look back/into the box that was put away/where neon colored treasures lay sleeping
+don't stalk the future for guarantees - Izzie Babea
 even if it's all been done before/it hasn't been done by you
 i hope you heal from the things/that no one else knows you went through
 i hope you heal from the things/that no one ever apologized for
 i hope you heal from the things/that you don't want to talk about
+life requires participation/not prediction - Izzie Babea
 not everything has to be done right now
+stop arguing with reality and/the world will grow bigger - Izzie Babea
 the shadow shifts with every bearer/and the abyss has never worn your silhouette
+the story still hurts in places but/it's not the only thing happening - Izzie Babea
 the world is a multi-player survival co-op ~~~ $d20
+the world won't always be kind/but you can be
 unless you give up the idea that happiness is a place/it will never be where you are
+you choose what the pain becomes/the scar that closes - the seed that opens/be the reason that your pain grows wings
 you were never supposed to do it all by yourself
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
