@@ -10,6 +10,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 <G=+50577,-003961 wistman's wood
+<G=-02533,-043117 lencois maranhenses
 
 no one is worth destroying yourself over
 they built gods made of code/and then begged them for mercy
