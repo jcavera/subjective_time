@@ -45,7 +45,7 @@ that said, after you have a python environment installed...
   - debug = True (if true, then the message changes ever 10 seconds for debugging)
   - playa = True (if true, then Burning Man messages are displayed)
   - img_dir = image_1920_45/ (pick out the directory that matches your screen)
-- To start the clock, go to a console in the project directory and type "python __init.py__".
+- To start the clock, go to a console in the project directory and type: ```` python __init.py__ ````
 - There will likely be some errors and some missing libraries, so fix those.
 - For Windows, there's an auto-run batch file.  To have this run on startup, put a link to that file in the startup directory.
 
