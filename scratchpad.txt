@@ -9,10 +9,15 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=5,d=20 (a-2024) tsai ing-wen was the president of the republic of taiwan
+!M=9 (a-2020) mikan became the station master of the ciaotou sugar refinery metro line in kaohsiung
 <G=+50577,-003961 wistman's wood
 <G=-02533,-043117 lencois maranhenses
 
 no one is worth destroying yourself over
+once in a while/right in the middle of life/you fall in to a fairy tale
+once in a while
+the future isn't going to save itself
 they built gods made of code/and then begged them for mercy
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
