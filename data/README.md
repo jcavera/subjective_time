@@ -15,164 +15,161 @@ the line message content.  Lines may have two (optional) endings.  If the line e
 message is displayed.  If the line ends with a four-digit (leading zero padded) number, then that number
 indicates a reference in the attribution file (attrib.txt).  An attribution (if it exists) must be at the
 end of the line, follwing an image (if that exists).  An example of this is the line:
-
-    0000000000111111111122222222223333333333444444444455555555556666666666777777777788888888889999999999000000000011111111112222222222333333
-    0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345
-
-    a still more glorious song awaits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $pbd 0307
-
+```
+a still more glorious song awaits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $pbd 0307
+```
 ### Conditional messages
 
 If the line begins with an exclamation point (!), then the line is one that is conditionally displayed,
 with the conditions listed sequentially and comma-delimited, after the exclamation point.  All conditions
 are AND-ed together such that all have to match in order to display the line.  Conditional tags are as
 follows:
-
-    A   Geographic lAtitude in fractional degrees to three decimal places (ex: 33204)
-    D   day of week (1=Sunday..7=Saturday)
-    H   24-hour GMT clock (0..23)
-    I   12-hour GMT clock (1..12)
-    M   month (1..12)
-    O   Geographic lOngitude in fractional degrees to three decimal places (ex: -117418)
-    T   24-hour time in GMT in HHmm format (0000..2359)
-    Y   4-digit year
-    Z   one-based time zone index
-    d   date (1..31)
-    h   24-hour local clock (0..23)
-    i   12-hour local clock (1..12)
-    m   minutes (0..59)
-    s   seconds (0..59)
-    t   24-hour local time in hhmm format (0000..2359)
-    y   day of the year (1..366)
-    z   season (spring = 1, summer = 2, autumn = 3, winter = 4)
-
+```
+A   Geographic lAtitude in fractional degrees to three decimal places (ex: 33204)
+D   day of week (1=Sunday..7=Saturday)
+H   24-hour GMT clock (0..23)
+I   12-hour GMT clock (1..12)
+M   month (1..12)
+O   Geographic lOngitude in fractional degrees to three decimal places (ex: -117418)
+T   24-hour time in GMT in HHmm format (0000..2359)
+Y   4-digit year
+Z   one-based time zone index
+d   date (1..31)
+h   24-hour local clock (0..23)
+i   12-hour local clock (1..12)
+m   minutes (0..59)
+s   seconds (0..59)
+t   24-hour local time in hhmm format (0000..2359)
+y   day of the year (1..366)
+z   season (spring = 1, summer = 2, autumn = 3, winter = 4)
+```
 Condition operators supported are limited to "equal to" (=), "greater than" (>), and "less than" (<).  Some
 examples of a conditional lines are (from the r_cond file):
-
-    !A>62000,A<76000,M<3,h>20 under the aurora borealis ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    !M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    !Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~
-
+```
+!A>62000,A<76000,M<3,h>20 under the aurora borealis ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~
+```
 In the first example, the message is only displayed if the clock is currently between +62.000 and +76.000 degrees latitude, if the month
 is less than three (January or February), and if the hour is greater than 20 (8 pm) local time.  In the second example, the message is
 only displayed if the month is one (January) and the date is the 30th.  In the third, the message is only displayed if the year is 2026,
 the month is ten (October) and the date is the 24th.
+
+In every case, be careful with your conditionals.  There is no error checking for statements that are nonsensical.  A conditional that
+is only valid (for instance) in months greater than 90 will still be checked (and always rejected for obvious reasons).
 
 ### Year substitutions
 
 Lines in the resource files may contain year subsitutions.  These are computed based on the current year and the year given in the
 subsitution string, in parentheses.  There are three possible computations for year substitution:
 ```
-   (a-yyyy) Substitute the number of years since the year "yyyy" C.E.
-   (b-yyyy) Substitute the number of years since the year "yyyy" B.C.E
-   (o-yyyy) Substitute the ordinal number of years since the year "yyyy" C.E.
+(a-yyyy) Substitute the number of years since the year "yyyy" C.E.
+(b-yyyy) Substitute the number of years since the year "yyyy" B.C.E
+(o-yyyy) Substitute the ordinal number of years since the year "yyyy" C.E.
 ```
 As an example of each (assuming that you're reading this in 2025), these messages:
-
-    (a-2001) the first wikipedia edit
-    (b-27) the founding of the roman empire
-    the (o-2015) anniversary of when they first met
-
+```
+(a-2001) the first wikipedia edit
+(b-27) the founding of the roman empire
+the (o-2015) anniversary of when they first met
+```
 Would render as:
-
-    twenty four years since the first wikipedia edit
-    two thousand fifty one years since the founding of the roman empire
-    the tenth anniversary of when they first met
-
-In every case, be careful with your conditionals.  There is no error checking for statements that are nonsensical.  A conditional that
-is only valid (for instance) in months greater than 90 will still be checked (and always rejected for obvious reasons).
-
+```
+twenty four years since the first wikipedia edit
+two thousand fifty one years since the founding of the roman empire
+the tenth anniversary of when they first met
+```
 ### Macro substitutions
 
 Lines in the resource files may contain macro substitutions in order to compress the data just a little.  Note that I realize that, in
 this project, I use the term "macro" a bit inconsistantly.  For this particular use, I do not mean "referencing the r_macr.txt file".
 That's a different thing entirely.  Rather I mean that a two-character string (an underscore followed by another character) can be
 replaced by a longer string.  Allowed substitutions are as follows:
-
-    _% nativity fast              _& moon                       _* since
-    _, of the                     _. night                      _0 midnight
-    _1 somewhere                  _2 sometime                   _3 getting
-    _4 approaching                _5 in the evening             _6 at night
-    _7 your                       _8 month                      _9 week
-    _: the feast of               _@ festival                   _A the discovery of
-    _B almost                     _C around                     _D nearly
-    _E o'clock                    _F about                      _G approximately
-    _H half past                  _I until                      _J before
-    _K after                      _L last                       _M year
-    _N years                      _O months                     _P days
-    _Q hours                      _R minutes                    _S seconds
-    _T right now                  _U anniversary                _V quarter
-    _W in the morning             _X top of the hour            _Y bottom of the hour
-    _Z in the afternoon           _[ awareness month            _] the invention of
-    _` paces                      _a time to                    _b a.m.
-    _c p.m.                       _d hundred hours              _e noon
-    _f time for                   _g straight up                _h just after
-    _i just before                _j appreciation day           _k awareness day
-    _l at the start of            _m remembrance                _n the end of
-    _o the beginning of           _p the birth of               _q the death of
-    _r the founding of            _s first                      _t day
-    _u international              _v birthday                   _w national
-    _x saint                      _y the publication of         _z chocolate
-    _{ in the                     _} meteors
-
+```
+_% nativity fast              _& moon                       _* since
+_, of the                     _. night                      _0 midnight
+_1 somewhere                  _2 sometime                   _3 getting
+_4 approaching                _5 in the evening             _6 at night
+_7 your                       _8 month                      _9 week
+_: the feast of               _@ festival                   _A the discovery of
+_B almost                     _C around                     _D nearly
+_E o'clock                    _F about                      _G approximately
+_H half past                  _I until                      _J before
+_K after                      _L last                       _M year
+_N years                      _O months                     _P days
+_Q hours                      _R minutes                    _S seconds
+_T right now                  _U anniversary                _V quarter
+_W in the morning             _X top of the hour            _Y bottom of the hour
+_Z in the afternoon           _[ awareness month            _] the invention of
+_` paces                      _a time to                    _b a.m.
+_c p.m.                       _d hundred hours              _e noon
+_f time for                   _g straight up                _h just after
+_i just before                _j appreciation day           _k awareness day
+_l at the start of            _m remembrance                _n the end of
+_o the beginning of           _p the birth of               _q the death of
+_r the founding of            _s first                      _t day
+_u international              _v birthday                   _w national
+_x saint                      _y the publication of         _z chocolate
+_{ in the                     _} meteors
+```
 As an example of macro use, the lines:
-
-    _B seven _E _5
-    _w llama _j
-    the _@ of _x cedric
-
+```
+_B seven _E _5
+_w llama _j
+the _@ of _x cedric
+```
 Would render as, respectively:
-
-    almost seven o'clock in the evening
-    national llama appreciation day
-    the festival of saint cedric
-
+```
+almost seven o'clock in the evening
+national llama appreciation day
+the festival of saint cedric
+```
 ### Numeric substitution
 
 Number substitution can be used for turning numbers into their text equivalent.  A number is preceeded by the number sign (#),
 and when the message is displayed, that number is rendered as text.  As a case in point, the line:
-
-    _G #5300 _N since _] the lathe
-
+```
+_G #5300 _N since _] the lathe
+```
 Would render as:
-
-    approximately five thousand three hundred years since the invention of the lathe
-
+```
+approximately five thousand three hundred years since the invention of the lathe
+```
 ### Computed substitution
 
 Finally, a "less than" symbol (<) used outside of the context of a conditional statement denotes a computed substitution.  These
 are substitutions that require an algorithm to figure out, either because they are date/time dependant, they are location 
 dependant, or they are otherwise too complex for a simple look-up table to easily handle.  Allowed computed substitutions are 
 as follows:
-
-    <A  latitude-longitude coordinates rendered as the nearest whole number
-    <B  Benedryl Cucumber's birthday (yeah, just look at the associated function)
-    <C  ordinal century
-    <D  day of the week
-    <G  distance and/or direction from the specified GPS coordinates
-    <H  current hour (24 hour format, GMT)
-    <M  current month of the year
-    <N  a random month of the year
-    <O  random distance and/or direction
-    <P  random on-playa location (for Burning Man related messages)
-    <R  random number
-    <S  the current season of the year
-    <W  a random day of the week
-    <Y  the current year
-    <Z  the name of the current timezone
-    <d  the ordinal date of the month
-    <e  on-playa event classification (yeah, this is a weird one too)
-    <h  current hour (24 hour format, local time)
-    <i  the current hour (12 hour format)
-    <m  the current minutes (in local time)
-    <n  the current minutes (in GMT)
-    <p  the current am or pm string
-    <r  random number in ordinal form
-    <s  a substitution for the current hemisphere (south | north)
-    <t  another randomizer: time to | just about time to | a good time to | ...
-    <y  the current ordinal day of the year
-    <?  make a random choice between a list of items delimited by (|)
-
+```
+<A  latitude-longitude coordinates rendered as the nearest whole number
+<B  Benedryl Cucumber's birthday (yeah, just look at the associated function in app_markup.py)
+<C  ordinal century
+<D  day of the week
+<G  distance and/or direction from the specified GPS coordinates
+<H  current hour (24 hour format, GMT)
+<M  current month of the year
+<N  a random month of the year
+<O  random distance and/or direction
+<P  random on-playa location (for Burning Man related messages)
+<R  random number
+<S  the current season of the year
+<W  a random day of the week
+<Y  the current year
+<Z  the name of the current timezone
+<d  the ordinal date of the month
+<e  on-playa event classification (yeah, this is a weird one too)
+<h  current hour (24 hour format, local time)
+<i  the current hour (12 hour format)
+<m  the current minutes (in local time)
+<n  the current minutes (in GMT)
+<p  the current am or pm string
+<r  random number in ordinal form
+<s  a substitution for the current hemisphere (south | north)
+<t  another randomizer: time to | just about time to | a good time to | ...
+<y  the current ordinal day of the year
+<?  make a random choice between a list of items delimited by (|)
+```
 In all cases, you can look at the associated function in the app_markup file to see how those are handled.  Many of them
 stand alone (e.g.: <D always just gives the current day of the week), but a number of them have required or optional
 parameters after the tag (e.g.: <R=100-1000 gives a random number between 100 and 1000).
@@ -230,9 +227,9 @@ date as referenced from a separate file.  The format is the same as that of the 
 being the same (136 characters) and consisting of a semicolon-delimited list.
 
 In fetching the line, the current local time is used.  The formula for finding the appropriate line is:
-
-    line number = ((hours in 24-hour format) * 12) + (minutes rounded to the nearest 5-minute mark)
-
+```
+line number = ((hours in 24-hour format) * 12) + (minutes rounded to the nearest 5-minute mark)
+```
 As with the macro resource file, the end of each line is not used by the program but is included to make it easier
 for humans to read.  In the case of the time file, this is the time in hhmm format.
 
