@@ -228,7 +228,7 @@ being the same (136 characters) and consisting of a semicolon-delimited list.
 
 In fetching the line, the current local time is used.  The formula for finding the appropriate line is:
 ```
-line number = ((hours in 24-hour format) * 12) + (minutes rounded to the nearest 5-minute mark)
+line number = ((hours in 24-hour format) * 12) + ((minutes rounded to the nearest 5-minute mark) / 12)
 ```
 As with the macro resource file, the end of each line is not used by the program but is included to make it easier
 for humans to read.  In the case of the time file, this is the time in hhmm format.
