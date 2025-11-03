@@ -9,18 +9,26 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=11,d=2 (a-1917) the signing of the balfour declaration
+!M=2,d=13 (a-1967) the death and possible murder of forough farrokhzad
 !M=5,d=20 (a-2024) tsai ing-wen was the president of the republic of taiwan
 !M=9 (a-2020) mikan became the station master of the ciaotou sugar refinery metro line in kaohsiung
+(a-1940) chiune sugihara saved tens of thousands with the stroke of a pen
 (a-825) muhammad ibn musa al-khwarizmi wrote the book of indian computation
+<?rules|laws are made by people/and can be broken by people/and sometimes that is the only moral choice
 <G=+50577,-003961 wistman's wood
 <G=-02533,-043117 lencois maranhenses
 <G=-15721,-070158 the chullpa of sillustani
 
+as children we were fascinated by magic/as adults we fear love/when did you forget that/they are the same thing? / 
 ate o fim do mundo (Portugese: until the end of the world)
+compassion matters more than compliance
+if you're low on hope/spite makes a pretty good substitute
 no one is worth destroying yourself over
 once in a while/right in the middle of life/you fall in to a fairy tale
 once in a while
 someone somewhere is missing the idea of you/they may not know your name/but they're imagining someone just like you
+sometimes the most spiritual thing you can do/is have fun
 the future isn't going to save itself
 they built gods made of code/and then begged them for mercy
 you can either focus on/what's tearing you apart or/what's keeping you together
