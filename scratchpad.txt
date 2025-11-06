@@ -20,7 +20,9 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-825) muhammad ibn musa al-khwarizmi wrote the book of indian computation
 <?rules|laws are made by people/and can be broken by people/and sometimes that is the only moral choice
 <G=+38857,-104932 the manitou incline
+<G=+41810,-114657 monitor valley
 <G=+50577,-003961 wistman's wood
+<G=+50775,+006084 the palatine chapel in aachen
 <G=+61278,-073660 pingualuit crater lake
 <G=-02533,-043117 lencois maranhenses
 <G=-15721,-070158 the chullpa of sillustani
@@ -55,6 +57,7 @@ silence is the language of liars
 some days are just hard/and all you can do is be kind to yourself/as you get through them
 someone somewhere is missing the idea of you/they may not know your name/but they're imagining someone just like you
 sometimes the most spiritual thing you can do/is have fun
+status quo ante (Latin: as things were before)
 the darkness tried to claim you/and yet here you are/forged by every shadow that tried to break you
 the future isn't going to save itself
 there's a space between destruction and rebirth/where nothing makes sense/where even healing feels like hell
