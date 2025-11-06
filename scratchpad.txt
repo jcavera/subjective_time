@@ -12,6 +12,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=11 rabbit dispersal season
 !M=11,d=1 (a-2025) the passing of duane roberts/the inventor of the frozen burrito
 !M=11,d=2 (a-1917) the signing of the balfour declaration
+!M=11,d=6 gustavus adolphus day
 !M=2,d=13 (a-1967) the death and possible murder of forough farrokhzad
 !M=5,d=20 (a-2024) tsai ing-wen was the president of the republic of taiwan
 !M=9 (a-2020) mikan became the station master of the ciaotou sugar refinery metro line in kaohsiung
@@ -23,13 +24,20 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <G=+61278,-073660 pingualuit crater lake
 <G=-02533,-043117 lencois maranhenses
 <G=-15721,-070158 the chullpa of sillustani
+<t seek out what fills you with love
 
 absolutely nothing happened in sector eighty three/by nine by twelve today ~~~ 0028
 as children we were fascinated by magic/as adults we fear love/when did you forget that/they are the same thing? / 
 ate o fim do mundo (Portugese: until the end of the world)
 compassion matters more than compliance
+every defense was once devotion/a sacred attempt to stay alive
 everything changes beyond absolute recognition
+finding ways to keep you inspired/makes everything suck less
 forty nine million years since heart mountain wyoming slid fifteen miles sideways like a giant stone hovercraft ~~~ 0303
+grace lives where the broken/remembered their way home
+grace lives where the ending/found its breath
+grace lives where the fallen/never truly fell
+grace lives where the wound/learned to sing
 i'm not sure i like the feng shui here/can you move me a little to the left? /
 if you're low on hope/spite makes a pretty good substitute
 in the star forming era ~~~ $zil
