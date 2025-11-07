@@ -9,6 +9,16 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!z=1 plant your peas when the daffodils bloom
+(a-1792) the first printing of the old farmer's almanac
+(a-1818) the first printing of the farmer's almanac
+(a-2026) the last printing of the farmer's almanac
+
+life can be a long thread of hurt/now what will you mend with that thread? / ~~~ 0611
+the most dangerous form of blindness is believing/that your perspective is the only reality ~~~~ 0837
+there are chapters still waiting to be told/and they need you to be there
+these things take time
+your story is still unfolding
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
