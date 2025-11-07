@@ -12,12 +12,19 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !z=1 plant your peas when the daffodils bloom
 (a-1792) the first printing of the old farmer's almanac
 (a-1818) the first printing of the farmer's almanac
+(a-1942) albert camus published le mythe de sisyphe
 (a-2026) the last printing of the farmer's almanac
 
+and what rough beast/its hour come round at last/slouches towards bethlehem to be born? / - William Butler Yeats, The Second Coming
 life can be a long thread of hurt/now what will you mend with that thread? / ~~~ 0611
+mere anarchy is loosed upon the world - William Butler Yeats, The Second Coming
+the best lack all conviction while the worst/are full of passionate intensity - William Butler Yeats, The Second Coming
+the blood-dimmed tide is loosed and everywhere/the ceremony of innocence is drowned - William Butler Yeats, The Second Coming
 the most dangerous form of blindness is believing/that your perspective is the only reality ~~~~ 0837
 there are chapters still waiting to be told/and they need you to be there
 these things take time
+things fall apart/the center cannot hold - William Butler Yeats, The Second Coming
+turning and turning in the widening gyre/the falcon cannot hear the falconer - William Butler Yeats, The Second Coming
 your story is still unfolding
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
