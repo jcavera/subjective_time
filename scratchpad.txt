@@ -9,6 +9,8 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=2,d=1 (a-1993) the founding of el sistema de la integracion centroamericana
+!M=8,d=31 el noche de las bolas de fuego
 !M=9,d=12 (a-1683) the winged hussars arrived
 !z=1 plant your peas when the daffodils bloom
 (a-1434) jan van eyck painted the arnolfini portrait
