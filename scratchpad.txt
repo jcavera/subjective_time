@@ -11,8 +11,14 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 !M=9,d=12 (a-1683) the winged hussars arrived
 !z=1 plant your peas when the daffodils bloom
+(a-1434) jan van eyck painted the arnolfini portrait
+(a-1663) vermeer painted the girl with a pearl earring
 (a-1792) the first printing of the old farmer's almanac
+(a-1794) william blake painted the ancient of days
 (a-1818) the first printing of the farmer's almanac
+(a-1871) hugues merle painted the lunatic of etretat
+(a-1890) franz von stuck painted the vision of saint hubert
+(a-1903) frantisek kupka painted the way of silence
 (a-1942) albert camus published le mythe de sisyphe
 (a-2026) the last printing of the farmer's almanac
 <G=-13710,-075875 the serpent mountain
