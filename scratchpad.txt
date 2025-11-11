@@ -9,6 +9,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=9,d=12 (a-1683) the winged hussars arrived
 !z=1 plant your peas when the daffodils bloom
 (a-1792) the first printing of the old farmer's almanac
 (a-1818) the first printing of the farmer's almanac
@@ -18,8 +19,11 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 and what rough beast/its hour come round at last/slouches towards bethlehem to be born? / ~~~ 0447
 are you far come on the path to liberation? /the terror and the beauty are not diminished further on
+in the end it all comes down to this
+in the end it all comes down to/what is true
 life can be a long thread of hurt/now what will you mend with that thread? / ~~~ 0611
 mere anarchy is loosed upon the world ~~~ 0447
+so it all comes down to this
 talent is common - discipline is not/your gifts are nothing without consistency
 the best lack all conviction while the worst/are full of passionate intensity ~~~ 0447
 the blood-dimmed tide is loosed and everywhere/the ceremony of innocence is drowned ~~~ 0447
