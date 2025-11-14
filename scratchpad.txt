@@ -9,6 +9,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 !M=11,d=12 (a-1970) the day of the exploding whale
 !M=11,d=12 (a-2015) the united states minted its last penny
+!M=11,d=14 dobruja day
 !M=2,d=29 (a-1996) the siege of sarajevo
 !M=5,d=17 (a-1805) muhammad ali seized control of egypt
 !M=6,d=29 (a-1861) the death of elizabeth barrett browning
