@@ -13,10 +13,15 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=5,d=17 (a-1805) muhammad ali seized control of egypt
 !M=6,d=29 (a-1861) the death of elizabeth barrett browning
 !Y<2035 in the era of algorithmically generated slop
+(a-1364) giovanni dondi completed his astrarium
 (a-1533) hans holbein painted the ambassadors
+(a-1543) nicolaus copernicus published de revolutionibus orbium coelestium
+(a-1712) john rowley invented the orrery
+(a-1762) john harrison invented the marine chronometer
 (a-1834) the beginning of the nahda
 (a-2025) the rise of the cult of the chatbot
 <G=+37145,+038784 sanliurfa castle
+<G=+53187,+005544 the eise eisinga planetarium
 <G=-32745,+115654 the lake clifton thrombolites
 <t reflect on your limits/not to be constrained by them/but to understand them
 
