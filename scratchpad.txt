@@ -11,6 +11,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=11,d=12 (a-1970) the day of the exploding whale
 !M=11,d=12 (a-2015) the united states minted its last penny
 !M=11,d=14 dobruja day
+!M=11,d=27 (a-1095) the council of clermont
 !M=2,d=29 (a-1996) the siege of sarajevo
 !M=5,d=17 (a-1805) muhammad ali seized control of egypt
 !M=6,d=29 (a-1861) the death of elizabeth barrett browning
@@ -24,6 +25,10 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-1834) the beginning of the nahda
 (a-1966) tony iommi downtuned his guitar and invented heavy metal
 (a-2025) the rise of the cult of the chatbot
+... and then <?his|her <?husband|wife showed up
+... and then all hell broke loose
+... and then the <?cows|horses|sheep escaped
+... and then the rain of <?blood|bullets|frogs began
 <G=+37145,+038784 sanliurfa castle
 <G=+46648,-119599 the hanford site
 <G=+47542,+015056 gruner see
@@ -34,6 +39,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <t reflect on your limits/not to be constrained by them/but to understand them
 
 a sword's worth is measured in lives saved/not lives taken
+and now we <?dance|sing|laugh|play ~~~ $brc
 be delusional enough to see/a future that doesn't exist yet/and be disciplined enough to build it
 even a pure heart must sometimes take up arms/or evil will surely flourish
 everything in the universe is either a potato/or not a potato
