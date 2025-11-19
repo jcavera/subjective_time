@@ -8,6 +8,11 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=7,d=7 (a-1944) the last stand of benjamin lewis salomon
+<G=+17042,+021863 the ennedi plateau
+<G=+59285,+116589 the patomskiy crater
+<G=+61146,+127585 the lena pillars
+<G=+61547,-125589 the valley of the headless men
+<G=+62030,+129730 yakutsk
 
 everyone is going to hurt you/you just have to find the ones/who are worth it ~~~ 0566
 five hundred million years since velvet worms decided/that they had evolved enough and were/kinda done with it
