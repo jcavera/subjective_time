@@ -7,6 +7,8 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=3,d=18 (a-1963) the birth of yoko kanno
+!h>10 i had planned on taking over the world this morning/but i accidentally slept in/sorry about that/i'll try again tomorrow
 (a-1087) the construction of haddon hall
 (a-1878) the madras famine
 (a-1904) the fall of the kingdom of dahomey
@@ -14,7 +16,9 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <G=+43099,-075637 the cross island chapel
 
 all art is quite useless ~~~~ 0444
+flowers will bloom
 sometimes the smallest choice/changes everything
+stay with me/stay safe
 teetering on the ragged edge
 things are quickly getting out of hand
 thirty four hundred years since/the writing of the hurrian hymns
