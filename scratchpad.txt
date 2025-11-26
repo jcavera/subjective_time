@@ -8,6 +8,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=3,d=18 (a-1963) the birth of yoko kanno
+!M=3,d=31 (a-1981) maya lin's architecture professor gave her a b on her memorial design project
 !h>10 i had planned on taking over the world this morning/but i accidentally slept in/sorry about that/i'll try again tomorrow
 (a-1087) the construction of haddon hall
 (a-1878) the madras famine
