@@ -9,6 +9,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 !M=11,d=15 (a-1889) the reign of pedro the magnanimous of the empire of brasil
 !M=11,d=21 (a-2025) the birth of naia readwin
+!M=11,d=28 j-anne's birthday
 
 i'm so glad you came! / ~~~~~~~~ $brc
 it's always midnight somewhere
