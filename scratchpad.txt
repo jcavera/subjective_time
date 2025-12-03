@@ -12,6 +12,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=11,d=21 (a-2025) the birth of naia readwin
 !M=11,d=28 j-anne's birthday
 <G=+34309,+132993 the island of bunny rabbits
+<G=+36230,-112693 supai arizona
 
 i'm so glad you came! / ~~~~~~~~ $brc
 it's always midnight somewhere
