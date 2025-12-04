@@ -204,6 +204,7 @@ data for current date, time, and location is just made up):
 | their <r=5-15 anniversary            | their seventh anniversary
 | happy <s=spring\|fall equinox        | happy fall equinox
 | <t take a chance                     | a good time to take a chance
+| <t' making a move                    | a good time for making a move
 | the <y day of the year               | the two hundred thirtieth day of the year
 | call me <?maybe\|later\|now          | call me maybe
 
