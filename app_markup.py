@@ -232,33 +232,33 @@ def sub_year (s, coord):
 ## that followed by a single space or valid delimiter (~, ;, |, /).  Strings for macro subsititution, indexed by their
 ## related character set in the macro map...
 
-k_macro = [ "nativity fast",    "moon",               "since",            "of the",           "night",              "midnight",         
-            "somewhere",        "sometime",           "getting",          "approaching",      "in the evening",     "at night",      
-            "your",             "month",              "week",             "the feast of",     "festival",           "the discovery of", 
-            "almost",           "around",             "nearly",           """o'clock""",      "about",              "approximately", 
-            "half past",        "until",              "before",           "after",            "last",               "year",     
-            "years",            "months",             "days",             "hours",            "minutes",            "seconds", 
-            "right now",        "anniversary",        "quarter",          "in the morning",   "top of the hour",    "bottom of the hour",
-            "in the afternoon", "awareness month",    "the invention of", "paces",            "time to",            "a.m.",
-            "p.m",              "hundred hours",      "noon",             "time for",         "straight up",        "just after",
-            "just before",      "appreciation day",   "awareness day",    "at the start of",  "remembrance",        "the end of", 
-            "the beginning of", "the birth of",       "the death of",     "the founding of",  "first",              "day",
-            "international",    "birthday",           "national",         "saint",            "the publicaiton of", "chocolate",
-            "in the",           "meteors"  ]
+k_macro = [     "nativity fast",    "moon",               "under",            "of the",           "night",              "midnight",         
+                "somewhere",        "sometime",           "getting",          "approaching",      "in the evening",     "at night",      
+                "your",             "month",              "week",             "the feast of",     "festival",           "the discovery of", 
+                "almost",           "around",             "nearly",           """o'clock""",      "about",              "approximately", 
+                "half past",        "until",              "before",           "after",            "last",               "year",     
+                "happy",            "conjunction",        "days",             "hours",            "minutes",            "heritage", 
+                "right now",        "world",              "quarter",          "in the morning",   "top of the hour",    "bottom of the hour",
+                "in the afternoon", "awareness month",    "the invention of", "retrograde",       "time to",            "a.m.",
+                "p.m",              "hundred hours",      "noon",             "time for",         "straight up",        "just after",
+                "just before",      "appreciation day",   "awareness day",    "at the start of",  "remembrance",        "the end of", 
+                "the beginning of", "the birth of",       "the death of",     "the founding of",  "first",              "day",
+                "international",    "birthday",           "national",         "saint",            "the publicaiton of", "chocolate",
+                "in the",           "meteors"  ]
 
-k_macro_map = [ "_%",           "_&",                 "_*",               "_,",               "_.",                 "_0",
-                "_1",           "_2",                 "_3",               "_4",               "_5",                 "_6",
-                "_7",           "_8",                 "_9",               "_:",               "_@",                 "_A",
-                "_B",           "_C",                 "_D",               "_E",               "_F",                 "_G",
-                "_H",           "_I",                 "_J",               "_K",               "_L",                 "_M",
-                "_N",           "_O",                 "_P",               "_Q",               "_R",                 "_S",
-                "_T",           "_U",                 "_V",               "_W",               "_X",                 "_Y",
-                "_Z",           "_[",                 "_]",               "_`",               "_a",                 "_b",
-                "_c",           "_d",                 "_e",               "_f",               "_g",                 "_h",
-                "_i",           "_j",                 "_k",               "_l",               "_m",                 "_n",
-                "_o",           "_p",                 "_q",               "_r",               "_s",                 "_t",
-                "_u",           "_v",                 "_w",               "_x",               "_y",                 "_z",
-                "_{",           "_}"     ]
+k_macro_map = [ "_%",               "_&",                 "_*",               "_,",               "_.",                 "_0",
+                "_1",               "_2",                 "_3",               "_4",               "_5",                 "_6",
+                "_7",               "_8",                 "_9",               "_:",               "_@",                 "_A",
+                "_B",               "_C",                 "_D",               "_E",               "_F",                 "_G",
+                "_H",               "_I",                 "_J",               "_K",               "_L",                 "_M",
+                "_N",               "_O",                 "_P",               "_Q",               "_R",                 "_S",
+                "_T",               "_U",                 "_V",               "_W",               "_X",                 "_Y",
+                "_Z",               "_[",                 "_]",               "_`",               "_a",                 "_b",
+                "_c",               "_d",                 "_e",               "_f",               "_g",                 "_h",
+                "_i",               "_j",                 "_k",               "_l",               "_m",                 "_n",
+                "_o",               "_p",                 "_q",               "_r",               "_s",                 "_t",
+                "_u",               "_v",                 "_w",               "_x",               "_y",                 "_z",
+                "_{",               "_}"     ]
 
 
 def sub_macro (s):
@@ -709,19 +709,25 @@ def sub_subproc_s (s, coord, item):
 
 
 ## Process a substitution based on the special string randomizer: time to | just about time to | a good time to | ...
-## The "coord" parameter is unused.
+## The "coord" parameter is unused.  Optional ' on the end means to use "for" instead of "to".
 
 def sub_subproc_t (s, coord, item):
     if (s == ""): return ("")                                           ## safety check
     a  = ""                                                             ## init substitution string
-    r  = app_numeric.arand(1, 1, 100)
-    if   (r < 10):  a = "time to"
-    elif (r < 20):  a = "a good time to"
-    elif (r < 30):  a = "just about time to"
-    elif (r < 40):  a = "almost time to"
-    elif (r < 50):  a = "approaching the time to"
-    elif (r < 60):  a = "a time to"
-    elif (r < 70):  a = "nearly time to"
+    b = " to"
+    c = 100
+    if (len(item) == 3):
+        if (item[2] == """'"""):                                        ## we use "for" instead of "to"
+            b = " for"
+            c = 70
+    r  = app_numeric.arand(1, 1, c)
+    if   (r <= 10):  a = "time" + b
+    elif (r <= 20):  a = "a good time" + b
+    elif (r <= 30):  a = "just about time" + b
+    elif (r <= 40):  a = "almost time" + b
+    elif (r <= 50):  a = "approaching the time" + b
+    elif (r <= 60):  a = "a time" + b
+    elif (r <= 70):  a = "nearly time" + b
     s = s.replace(item, a)
     return (s)
 
@@ -743,4 +749,3 @@ def sub_subproc_qq (s, coord, item):
     a = app_strings.choose_between(item[2:], '|')                       ## pick a random thing
     s = s.replace(item, a)
     return (s)
-

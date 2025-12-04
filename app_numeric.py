@@ -282,4 +282,3 @@ def return_planet_ephem (dt, planet_id):
     c = ephem.constellation(p)
     return ( planet_list[planet_id] + " is in the constellation of " + c[1].lower() )
     
-
