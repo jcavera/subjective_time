@@ -86,7 +86,7 @@ this project, I use the term "macro" a bit inconsistantly.  For this particular 
 That's a different thing entirely.  Rather I mean that a two-character string (an underscore followed by another character) can be
 replaced by a longer string.  Allowed substitutions are as follows:
 ```
-_% nativity fast              _& moon                       _* since
+_% nativity fast              _& moon                       _* under
 _, of the                     _. night                      _0 midnight
 _1 somewhere                  _2 sometime                   _3 getting
 _4 approaching                _5 in the evening             _6 at night
@@ -96,12 +96,12 @@ _B almost                     _C around                     _D nearly
 _E o'clock                    _F about                      _G approximately
 _H half past                  _I until                      _J before
 _K after                      _L last                       _M year
-_N years                      _O months                     _P days
-_Q hours                      _R minutes                    _S seconds
+_N happy                      _O conjunction                _P days
+_Q hours                      _R minutes                    _S heritage
 _T right now                  _U world                      _V quarter
 _W in the morning             _X top of the hour            _Y bottom of the hour
 _Z in the afternoon           _[ awareness month            _] the invention of
-_` paces                      _a time to                    _b a.m.
+_` retrograde                 _a time to                    _b a.m.
 _c p.m.                       _d hundred hours              _e noon
 _f time for                   _g straight up                _h just after
 _i just before                _j appreciation day           _k awareness day
