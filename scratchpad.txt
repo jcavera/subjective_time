@@ -8,6 +8,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 (a-1050) the fall of the kingdom of sri ksetra
+!M=1,d=31 (a-1997) the final morse code transmission of the costal radio service
 !M=11,d=7 pancho barnes day
 !M=7,d=7 (a-1730) olivier levasseur threw his cipher to the crowd before his execution
 !d<5 yay! you made it to <M ! / 
