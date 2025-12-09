@@ -12,12 +12,12 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=11,d=7 pancho barnes day
 !M=7,d=7 (a-1730) olivier levasseur threw his cipher to the crowd before his execution
 !d<5 yay! you made it to <M ! / 
+!h>4,h<11 after yestereve
 !h>4,h<11 on the morrowtide
 <G=+52408,-001507 the coventry cathedral
 <t dance
 <t get out of your head and back on your feet
 
-after yestereve
 be a good person even if/you get nothing in return
 everything not saved will be lost - Nintendo quit message
 freedom doesn't cancel responsibility
@@ -25,7 +25,8 @@ i hope you keep choosing you/even if others don't
 it is <?never|not too late
 keep holding it together/even if you feel like you're all alone
 keep holding it together
-let's dance
+let's dance! / 
+no amount of skill can protect you from the/sheer luck of a chronic dumbass ~~~ $d20
 remember who the fuck you are
 some monsters can't be fought
 the world will try to teach you that/fear is a duty and/joy is a crime
