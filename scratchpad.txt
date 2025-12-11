@@ -13,6 +13,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=11,d=28 (a-1600) the founding of the royal society
 !M=11,d=7 pancho barnes day
 !M=7,d=7 (a-1730) olivier levasseur threw his cipher to the crowd before his execution
+!M=8,d=4 (a-1997) the death of jeanne clament at the age of one hundred and twenty two
 !d<5 yay! you made it to <M ! / 
 !h>4,h<11 after yestereve
 !h>4,h<11 on the morrowtide
@@ -20,11 +21,13 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <t dance
 <t get out of your head and back on your feet
 
+bad chapters can be a part of great stories
 be a good person even if/you get nothing in return
 everything not saved will be lost - Nintendo quit message
 freedom doesn't cancel responsibility
 i hope you keep choosing you/even if others don't
 it is <?never|not too late
+jiayou! / - Chinese: keep going, you can do it!
 keep holding it together/even if you feel like you're all alone
 keep holding it together
 let's dance! / 
@@ -32,10 +35,16 @@ no amount of skill can protect you from the/sheer luck of a chronic dumbass ~~~ 
 nullius in verba - Latin: take no one's word for it
 release the poets! / 
 remember who the fuck you are
+sempre avanti - Latin: always forward
 some monsters can't be fought
 the world will try to teach you that/fear is a duty and/joy is a crime
+tiny bravery still counts
+what a world we could make/simply by giving each other/the benefit of the doubt
+wrong paths can still lead to right places
 you are <?never|not too late
 you have walked through shadow and flame/and yet you still doubt yourself? / 
+you're allowed to grieve the life you didn't get
+your tears are chemistry and ceremony/each one carries memory and release
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
