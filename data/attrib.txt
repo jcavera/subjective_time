@@ -1117,3 +1117,7 @@ have a good idea of mine.
 0966  Izzie Babea
 0967  Portugese: until the end of the world
 0968  Latin: as things were before
+0969  The Nintendo quit message
+0970  Chinese: keep going, you can do it!
+0971  French: life goes on
+0972  Latin: always forward
