@@ -7,9 +7,11 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=12,d=29 (a-1888) the first photograph of the andromeda galaxy was taken
 <G=+54183,+007885 heligoland
 <G=+54550,+013650 the white burning stone alatyr
 
+art versus science is a lie propagated by businesses/so that we don't join forces and turn on them
 beneath layers of dust saturated with mineral scents/of petrichor and earthy decay/there lie dormant seeds of verdant life - Naia
 censorship does not remove truth/it erases the ability to describe injustice - Chomsky
 chaque chose en son temps ~~~ French: everything in its own time
