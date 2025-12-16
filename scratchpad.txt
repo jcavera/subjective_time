@@ -9,6 +9,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 !M=12,d=16 a day of reconciliation
 (a-2025) the birth of tilly norwood
+<G=+29900,+031200 zawyet el aryan
 <G=+34675,+033044 limassol
 
 better late than never
@@ -19,6 +20,7 @@ mieux vaut tard que jamais ~~~ French: better late than never
 some memories aren't memories at all/but ghosts with perfect timing
 the world will teach you to survive/to settle - to suffer/but that's not why you're here/don't forget to dream
 there are memories that live inside you/holding on after everything else lets go
+when the forest goes silent/you have seven minutes/no more
 you are not a tame beast
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
