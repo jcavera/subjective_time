@@ -7,6 +7,19 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=12,d=16 a day of reconciliation
+(a-2025) the birth of tilly norwood
+<G=+34675,+033044 limassol
+
+better late than never
+don't blame the fire for burning your house/when you're the one holding the match and gasoline
+forward doesn't always look like forward
+man man lai ~~~ Chinese: one step at a time (take it slow)
+mieux vaut tard que jamais ~~~ French: better late than never
+some memories aren't memories at all/but ghosts with perfect timing
+the world will teach you to survive/to settle - to suffer/but that's not why you're here/don't forget to dream
+there are memories that live inside you/holding on after everything else lets go
+you are not a tame beast
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
