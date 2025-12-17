@@ -13,6 +13,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-1794) the establisment of l'ecole normale superieure
 (a-1835) alphonsine rose plessis was cast away unwanted
 (a-1850) the war of the romantics
+(a-1869) the death of alexandrine tinne
 (a-1936) lucia joyce was first institutionalized
 (a-1949) simone de beauvoir's book was placed on the vatican's index of forbidden texts
 (a-2025) the birth of tilly norwood
