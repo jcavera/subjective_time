@@ -13,6 +13,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-1835) alphonsine rose plessis was cast away unwanted
 (a-1850) the war of the romantics
 (a-1936) lucia joyce was first institutionalized
+(a-1949) simone de beauvoir's book was placed on the vatican's index of forbidden texts
 (a-2025) the birth of tilly norwood
 <G=+28905,+088018 the library of the sakya monastery
 <G=+29900,+031200 zawyet el aryan
@@ -28,6 +29,7 @@ forward doesn't always look like forward
 how beautiful it is to get up/and go out and do something! / 
 man man lai ~~~ Chinese: one step at a time (take it slow)
 mieux vaut tard que jamais ~~~ French: better late than never
+past simple and past perfect tenses are a lie/the past is neither simple nor perfect
 some memories aren't memories at all/but ghosts with perfect timing
 sometimes revenge and recovery look the same
 sometimes your only closure is knowing/that you had good intentions/and a good heart
