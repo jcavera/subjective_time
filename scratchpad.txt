@@ -7,11 +7,17 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+kanamara matsuri ~~ first sunday in april
+
+!M=4,d=26 (a-1970) the death of gypsy rose lee
 <G=+47995,+007850 freiburg im breisgau
 
+art is a salve for an abrasive world
 do difficult things intentionally
+every new discovery is just a reminder/that we are all small and stupid
 fai cio che ami ~~~ Italian: do what you love
 learn to proceed without certainty/most of life is walked in half-light
+qui audet adipiscitur ~~~ Latin: who dares, wins
 you don't learn to swim/by reading about water
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
