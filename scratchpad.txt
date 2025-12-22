@@ -10,6 +10,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 kanamara matsuri ~~ first sunday in april
 
 (a-1928) wanda gag published millions of cats
+(a-1952) jean ritchie sang the traditional songs of her kentucky mountain family
 !M=12,d=14,h>17 jolabokaflod
 !M=4,d=26 (a-1970) the death of gypsy rose lee
 <G=+44075,+010482 barga
@@ -40,6 +41,7 @@ not gonna lie/you humans kinda scare me
 qui audet adipiscitur ~~~ Latin: who dares, wins
 so you've fucked things up/so what - we all have/now get back to work
 ten spears go in to battle - nine break/did the war forge the one that remained? /or did it simply identify it? / 
+we came here to be human/we didn't come here for easy ~~~~ $brc
 we count awe as currency here ~~~~ $brc
 you don't learn to swim/by reading about water
 you only need power to do something harmful/otherwise love is enough to do anything
