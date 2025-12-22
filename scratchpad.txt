@@ -15,6 +15,7 @@ kanamara matsuri ~~ first sunday in april
 <G=+44075,+010482 barga
 <G=+44090,+010430 the garfagnana
 <G=+47995,+007850 freiburg im breisgau
+<G=+55279,-001567 the druridge bay ruins
 <t remain grounded/in what you know is right
 <?love|heal|live like there is no tomorrow/because there might not be
 
