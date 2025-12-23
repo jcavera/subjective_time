@@ -440,7 +440,7 @@ memorial _t weekend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 thanksgiving _t;_w _t of mourning;wayland the smith's _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4th thurs of nov x
 black friday;buy nothing _t;native american _S _t;record store _t;yourwelcomegiving ~~~~~~~~~~~~~~~~~~~~~~~ 1 day after thanksgiving x
 cyber monday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4 days after thanksgiving x
-fat tuesday;mardi gras;carnivale;paczki _t;fastnacht _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 47 days before easter x
+fat tuesday;mardi gras;carnivale;paczki _t;fastnacht _t;shrove tuesday;the festival of the exploding hammers ~ 47 days before easter x
 ash wednesday;hail to the king baby ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 46 days before easter x
 good friday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2 days before easter x
 holy saturday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1 day before easter x
@@ -659,7 +659,7 @@ _w farm rescuer _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 _w american diabetes association alert _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ fourth tuesday in march x
 _w little red wagon _t;manatee _j;oh the huge manatee ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last wednesday in march x
 _u pillow fight _t;_w love our children _t;_w handmade _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first saturday in april x
-geologists _t;_w robotics _9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first sunday in april x
+geologists _t;_w robotics _9;kanamara matsuri ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first sunday in april x
 _w walking _t;child help _t;_w _t of hope;take a walk ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first wednesday in april x
 _w high five _t;high five someone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third thursday in april x
 _w clean out _7 medicine cabinet _t;clean _7 medicine cabinet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third friday in april x

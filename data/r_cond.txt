@@ -311,6 +311,7 @@
 !M=12,d=24,h>17 his cheeks were like roses/his nose like a cherry! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0491
 !M=12,d=24,h>17 his droll little mouth was drawn up like a bow and the beard on his chin was as white as the snow ~~~~~~~~~~~~~~~ 0491
 !M=12,d=24,h>17 his eyes how they twinkled! /his dimples how merry! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0491
+!M=12,d=24,h>17 jolabokaflod ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=12,d=24,h>17 more rapid than eagles his coursers they came and he whistled and shouted and called them by name ~~~~~~~~~~~~~~~ 0491
 !M=12,d=24,h>17 not a creature was stirring ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0491
 !M=12,d=24,h>17 not even a mouse ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0491
@@ -516,6 +517,7 @@
 !M=4,d=26 (a-1902) lord kelvin stated that heavier than air flight is impossible ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=4,d=26 (a-1902) the publication of the story of mary maclane ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=4,d=26 (a-1920) the death of srinivasa ramanujan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=4,d=26 (a-1970) the death of gypsy rose lee ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=4,d=26 international chernobyl disaster remembrance day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=4,d=27 (a-1900) lord kelvin stated that there is nothing new to be discovered in physics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=4,d=27 fabiola bergi's birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
