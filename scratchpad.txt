@@ -7,48 +7,6 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-kanamara matsuri ~~ first sunday in april
-shrove tuesday ~~~ day before ash wednesday
-the festival of the exploding hammers ~~~ day before ash wednesday
-
-(a-1928) wanda gag published millions of cats
-(a-1952) jean ritchie sang the traditional songs of her kentucky mountain family
-!M=12,d=14,h>17 jolabokaflod
-!M=4,d=26 (a-1970) the death of gypsy rose lee
-<G=+44075,+010482 barga
-<G=+44090,+010430 the garfagnana
-<G=+47995,+007850 freiburg im breisgau
-<G=+55279,-001567 the druridge bay ruins
-<t remain grounded/in what you know is right
-<?love|heal|live like there is no tomorrow/because there might not be
-
-a simple apology can't undo/what has already been done
-a society that makes heroes of its rulers/and slaves of its thinkers/is already lost - Simone Weil
-art is a salve for an abrasive world
-as many times as it takes
-at times the path requires failure
-do difficult things intentionally
-don't apologize for your wild
-every new discovery is just a reminder/that we are all small and stupid
-fac si facis ~~~ Latin: if you're going to do it, do it
-fai cio che ami ~~~ Italian: do what you love
-failure is not a flaw/but an essential element of the process
-it has gotten better before/it will get better again
-just before the activation criteria are met
-learn to proceed without certainty/most of life is walked in half-light
-liquor before beer - you're in the clear/beer before liquor... meh whatever/you'll be fine ~~~ $brc
-non desistas/non exieris ~~~ Latin: never give up, never surrender
-not everything is repairable
-not gonna lie/you humans kinda scare me
-qui audet adipiscitur ~~~ Latin: who dares, wins
-so you've fucked things up/so what - we all have/now get back to work
-some days you just have to exist/and that is your only task/getting through the day alive
-ten spears go in to battle - nine break/did the war forge the one that remained? /or did it simply identify it? / 
-we came here to be human/we didn't come here for easy ~~~~ $brc
-we count awe as currency here ~~~~ $brc
-when the winds of change blow/build windmills not walls
-you don't learn to swim/by reading about water
-you only need power to do something harmful/otherwise love is enough to do anything
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
