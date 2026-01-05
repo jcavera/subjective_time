@@ -67,13 +67,13 @@ subsitution string, in parentheses.  There are three possible computations for y
 (b-yyyy) Substitute the number of years since the year "yyyy" B.C.E
 (o-yyyy) Substitute the ordinal number of years since the year "yyyy" C.E.
 ```
-As an example of each (assuming that you're reading this in 2025), these messages:
+As an example of each, these messages:
 ```
 (a-2001) the first wikipedia edit
 (b-27) the founding of the roman empire
 the (o-2015) anniversary of when they first met
 ```
-Would render as:
+Would render as (assuming that you're reading this in 2025):
 ```
 twenty four years since the first wikipedia edit
 two thousand fifty one years since the founding of the roman empire
@@ -124,6 +124,9 @@ almost seven o'clock in the evening
 national llama appreciation day
 the festival of saint cedric
 ```
+Yes, there is a macro substitution for "chocolate" (_z).  It turns out that there are quite a lot of chocolate-related 
+holidays.  Go figure.
+
 ### Numeric substitution
 
 Number substitution can be used for turning numbers into their text equivalent.  A number is preceeded by the number sign (#),
