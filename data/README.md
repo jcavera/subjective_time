@@ -6,7 +6,7 @@ are broad (more than a single day in a year).
 
 The second (r_brc) are meesages that are in some way related to Burning Man and are only shown when the
 on-playa conditions are met.  The third (r_cond) consists entirely of conditional statements that are
-purposefully narrow (e.g.: limited to a single day, a single location, a precice time, etc.).
+purposefully narrow (e.g.: limited to a single day, a single location, a specific time, etc.).
 
 All of the resource files are line-length limited to 134 characters, plus a carriage return and newline
 (totaling 136 bytes per line).  All use a tilde (~) character to fill the length and indicate the end of
@@ -14,16 +14,18 @@ the line message content.  Lines may have two (optional) endings.  If the line e
 ($) followed by three characters, then those characters are to be used as a background image when the
 message is displayed.  If the line ends with a four-digit (leading zero padded) number, then that number
 indicates a reference in the attribution file (attrib.txt).  An attribution (if it exists) must be at the
-end of the line, follwing an image (if that exists).  An example of this is the line:
+end of the line, follwing an image (if that exists).  An example of this:
 ```
+!M=8,d>25,h>19 climb up on the booth hanging from the people on the people ~~~~~~~~~~~~~ 0481
+!h<4 have you ever dreamed a night like this? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brd
 a still more glorious song awaits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $pbd 0307
 ```
 ### Conditional messages
 
 If the line begins with an exclamation point (!), then the line is one that is conditionally displayed,
 with the conditions listed sequentially and comma-delimited, after the exclamation point.  All conditions
-are AND-ed together such that all have to match in order to display the line.  Conditional tags are as
-follows:
+are AND-ed together such that all have to match in order to display the line.  Conditions end at the first
+space character.  Conditional tags are as follows:
 ```
 A   Geographic lAtitude in fractional degrees to three decimal places (ex: 33204)
 D   day of week (1=Sunday..7=Saturday)
@@ -46,9 +48,9 @@ z   season (spring = 1, summer = 2, autumn = 3, winter = 4)
 Condition operators supported are limited to "equal to" (=), "greater than" (>), and "less than" (<).  Some
 examples of a conditional lines are (from the r_cond file):
 ```
-!A>62000,A<76000,M<3,h>20 under the aurora borealis ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~
+!A>62000,A<76000,M<3,h>20 under the aurora borealis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 In the first example, the message is only displayed if the clock is currently between +62.000 and +76.000 degrees latitude, if the month
 is less than three (January or February), and if the hour is greater than 20 (8 pm) local time.  In the second example, the message is
@@ -175,7 +177,8 @@ as follows:
 ```
 In all cases, you can look at the associated function in the app_markup file to see how those are handled.  Many of them
 stand alone (e.g.: <D always just gives the current day of the week), but a number of them have required or optional
-parameters after the tag (e.g.: <R=100-1000 gives a random number between 100 and 1000).
+parameters after the tag (e.g.: <R=100-1000 gives a random number between 100 and 1000).  Tags end at the first space
+character that follows.
 
 All of these are best seen by example, so here's one of each in turn, and how it might render as a message (note that the
 data for current date, time, and location is just made up):
@@ -219,7 +222,7 @@ is delimited by tilde characters that pad the line to size (again, the same as t
 line after the tildes is there just to make things easier for humans.
 
 The first 366 lines in the r_macr.txt file are for the 366 days of the year (leap day included).  The remaining
-lines are for special events, holidays, etc., that are not always tied to a particular (though not fixed) date.
+lines are for special events, holidays, etc., that are not always tied to a particular (i.e.: not fixed) date.
 
 Macro resource file lines are semicolon-delimited lists, that are assembed based on the date instructions found
 in the r_year files.  Refer to the r_year readme for information on how this assembly is carried out.
@@ -232,7 +235,7 @@ being the same (136 characters) and consisting of a semicolon-delimited list.
 
 In fetching the line, the current local time is used.  The formula for finding the appropriate line is:
 ```
-line number = ((hours in 24-hour format) * 12) + ((minutes rounded to the nearest 5-minute mark) / 12)
+line number = ((hours in 24-hour format) * 12) + ((minutes rounded to the nearest 5-minute mark) / 12) + 1
 ```
 As with the macro resource file, the end of each line is not used by the program but is included to make it easier
 for humans to read.  In the case of the time file, this is the time in hhmm format.
