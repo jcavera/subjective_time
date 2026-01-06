@@ -7,12 +7,14 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=1,d=5 national bird day
 !M=12,d=8 (a-2013) the metallica concert at the carlini antarctic research station
 <t step up your game
 <t trust your intuition more than your fear
 
 how we spend our days is/how we spend our lives
 it's okay if you don't know how to go forward/you can start with something easier/like not going back
+the fears you don't face/become your limits
 we build complex philosophies to hide/from the terrifying silence of a universe/that has no script for us ~~~ 0909
 you are waiting for permission to live/from an authority that doesn't even know/that you exist ~~~ 0811
 
