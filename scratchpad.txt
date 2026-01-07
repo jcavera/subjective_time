@@ -11,6 +11,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=1,d=7 (a-1610) galileo discovered the moons of jupiter
 !M=12,d=8 (a-2013) the metallica concert at the carlini antarctic research station
 !M=5,d=16 (a-1718) the birth of maria gaetana agnesi
+(a-1971) the founding of the residents
 (a-550) the classical world ended in darkness and famine and plague
 <t step up your game
 <t trust your intuition more than your fear
@@ -21,6 +22,7 @@ how we spend our days is/how we spend our lives
 it's okay if you don't know how to go forward/you can start with something easier/like not going back
 nunca te rindas ~~~ Spanish: never give up
 the fears you don't face/become your limits
+the first rule of dunning-kruger club is/you don't know that you're in/the dunning-kruger club
 vivre - aimer - esperer ~~~ French: live, love, hope
 we build complex philosophies to hide/from the terrifying silence of a universe/that has no script for us ~~~ 0909
 you are waiting for permission to live/from an authority that doesn't even know/that you exist ~~~ 0811
