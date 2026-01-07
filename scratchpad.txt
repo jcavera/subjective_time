@@ -8,11 +8,13 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=1,d=3 (a-1496) leonardo da venci attempted to fly with his ornithopter/it did not work out so well
+!M=1,d=7 (a-1610) galileo discovered the moons of jupiter
 !M=12,d=8 (a-2013) the metallica concert at the carlini antarctic research station
 !M=5,d=16 (a-1718) the birth of maria gaetana agnesi
 <t step up your game
 <t trust your intuition more than your fear
 
+gardez la foi ~~~ French: keep the faith
 how we spend our days is/how we spend our lives
 it's okay if you don't know how to go forward/you can start with something easier/like not going back
 the fears you don't face/become your limits
