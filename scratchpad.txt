@@ -16,6 +16,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-1903) a little girl gave teddy roosevelt a badger named josh
 (a-1971) the founding of the residents
 (a-550) the classical world ended in darkness and famine and plague
+(a-822) abbot adalhard decided to try adding hops to the monastery's batch of beer
 <t step up your game
 <t trust your intuition more than your fear
 
