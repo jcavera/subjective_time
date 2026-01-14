@@ -8,6 +8,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !h>18 and _6 we dance ~~~~ possibly add to _time file?
+<G=-13870,-071303 a rainbow mountain
 <G=-19593,+017934 the hoba meteorite
 
 alis grave nil ~~~ Latin: nothing is heavy to those with wings
