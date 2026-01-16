@@ -243,12 +243,12 @@ a little _K #8 _6 ;some time _K #8 _E;just this side of #8 _c;nearing a _V _K;a 
 going on a _V _K;_C #8 #15 or so;a bit _J #8 #15 ;_B a _V _K #8 ;#8 #15 ish;a night in <S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2010
 _F a _V _K #8 ;#15 _K the hour;nearing #8 #30 ;_2 _C #8 #15 ;_V _K the hour;a <D night;<i <m <p ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2015
 _h #8 #15 ;a bit past a _V _K;going toward #8 #30 ;#8 #20 or so;nearing a _H;<S ;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2020
-_H #8 _5 ;_C #8 #30 or so;#8 _E _6 or so;#8 #30 ish;_2 between #8 and #9 _c;<M ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2025
+_H #8 _5 ;_C #8 #30 or so;#8 _E _6 or so;#8 #30 ish;_2 between #8 and #9 _c;<M;and _6 we dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2025
 _H #8 or so;_2 _C #8 #30 ;just past #8 #30 ;a bit _K _H #8 ;_Y;an evening in <M ;_6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2030
 going on a _V to;nearing #9 _E _6 ;a bit _J a _V of #9 ;nearing #8 #45 ;_B a _V of #9 ;night;<i <m <p ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2035
 _F a _V of #9 ;_4 #9 _c;#8 #45 or so;_F a _V of;_V to #9 ;post meridiem;a night in <M ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2040
 _B #9 ;_C #8 #45 _6 ;just past a _V to;rapidly _4 #9 ;_3 on #9 _5 ;an evening in <S ;compline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2045
-a few _R to #9 _E;_B #9 _c;_D #9 _5 ;_C #9 or so;just _F #9 _c;<D night;soutoro;<Y ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2050
+a few _R to #9 _E;_B #9 _c;_D #9 _5 ;_C #9 or so;just _F #9 _c;<D night;soutoro;<Y;and _6 we dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2050
 #9 _E _6 ;#9 _c give or take;a couple of _R to #9 ;_2 _C #9 ;#9 _6 ;a <D night;suba-a;<i <m <p on <D the <d of <M <Y ~~~~~~~~~~~~ 2055
 a bit _K #9 _5 ;#9 _E or so;_C #9 _c;just past #9 _E;#9 ish;#21 _d;_g #9 _E;compline;_X;<h _d ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2100
 a few _R _K #9 ;a bit _K #9 _6 ;going on a _V past;_C #9 _E or so;just past #9 _c;suba-a;<H _d <?gmt|utc|zulu ~~~~~~~~~~~~~~~~~~~ 2105
@@ -257,7 +257,7 @@ _F a _V _K #9 ;_2 _C #9 ;#9 _6 or thereabouts;just _F a _V past #9 ;_3 on #9 #15
 going on #9 #30 ;a little _K #9 #15 _c;a bit _J _H #9 ;_3 on #9 #30 _5 ;nearing #9 #30 ;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2120
 #9 #30 or so;_F a _H #9 ;#9 #30 ish;a few _R to #9 #30 ;_Y;an evening in <M ;<A ;<S ;_6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2125
 _h a _H #9 ;a little bit _K #9 #30 ;a few _R past #9 #30 _c;just past #9 #30 _6 ;between #9 and ten _c ~~~~~~~~~~~~~~~~~~~~~~~~~~ 2130
-a little _K #9 #30 ;#9 #30 _6 ;_F #9 #40 or so;_3 on ten _c;_f a late dinner;night;<M ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2135
+a little _K #9 #30 ;#9 #30 _6 ;_F #9 #40 or so;_3 on ten _c;_f a late dinner;night;<M;and _6 we dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2135
 going on a _V to;nearing a _V of ten;_i #9 #45 _c;_C a _V of ten;nearing ten;<D night;sleepy kitty time ~~~~~~~~~~~~~~~~~~~~~~~~~ 2140
 _F a _V of ten _c;_3 on ten _c;_C a _V of ten;_4 ten _6 ;_F a _V til;an evening in <S ;dark ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2145
 a few _R to ten;_B ten _c;just _F ten _5 ;a bit _J ten;_D ten _c;an evening in <M ;nighttime ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2150
@@ -270,14 +270,14 @@ going on ten #30 ;_3 toward _H ten;_D _H ten;a few past a _V past;ten #20 #2 giv
 _F _H ten;ten #30 _5 or so;_3 toward _H ten;nearing ten #30 _6 ;_Y;a <D night;<S ;dark _E;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2225
 _F ten #30 ;_2 _C ten #30 ;just past ten #30 ;_H ten or so;ten #30 ish;a night in <M ;dark;cat scampering time ~~~~~~~~~~~~~~~~~~ 2230
 just past the _Y;_1 between ten and #11 ;_3 on a _V of #11 ;ten #40 give or take;_D a _V of ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2235
-_F a _V to #11 ;coming up on #11 _c;_D a _V til;ten #45 or so;_V of;an evening in <M ;_6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2240
+_F a _V to #11 ;coming up on #11 _c;_D a _V til;ten #45 or so;_V of;an evening in <M ;_6;and _6 we dance ~~~~~~~~~~~~~~~~~~~~~~~~ 2240
 #15 _R to #11 give or take;ten #45 ish;_F a _V to #11 _6 ;_4 #11 _5 ;_D #11 ;night;<D ;late _5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2245
 a few _R to #11 _c;_i #11 ;_3 on #11 _E;_B #11 _6 ;_i #11 _c;_f night lunch;a night in <S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2250
 _C #11 _6 ;just _F #11 _E;_F an hour to _0 ;#11 _5 ;the eleventh hour;<D night;<A ;dark;tonight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2255
 a couple of _R past #11 ;_F #11 _6 ;just by #11 _E;#11 ish;#23 _d;_g #11 ;a night in <M ;<H _d <?gmt|utc|zulu ;_X;<h _d ~~~~~~~~~ 2300
 a bit past #11 _5 ;going on #11 #15 ;a few _R _K #11 ;still _C #11 _E;a few past #11 ;nighttime ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2305
 going on a _V _K;just _F #11 #15 ;_4 a _V past #11 ;_F a _V past #11 _c;#11 #11 or thereabouts;<i <m <p on <D the <d of <M <Y ~~~ 2310
-#11 #15 or so;_h #11 #15 ;_1 _K #11 _E;_V _K #11 or so;nearing #11 #30 ;a <D night;<M ;_6 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2315
+#11 #15 or so;_h #11 #15 ;_1 _K #11 _E;_V _K #11 or so;nearing #11 #30 ;a <D night;<M ;_6;and _6 we dance ~~~~~~~~~~~~~~~~~~~~~~~ 2315
 going on #11 #30 ;_3 on a _H #11 ;#11 #20 #2 give or take;_F a _H #11 _c;_4 the _Y;night;late _5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2320
 #11 #30 give or take;_F a _H #11 ;#11 #30 ish;_1 _C #11 #30 ;_H;an evening in <S ;<Y ;sleepytime;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~ 2325
 just past #11 #30 ;_H #11 _5 ;_Y;just by #11 #30 ;_F a half hour to _0 ;fourthmeal? ;<S ;_6 ;dark _E ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2330
