@@ -7,18 +7,6 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!h>18 and _6 we dance ~~~~ possibly add to _time file?
-<G=-13870,-071303 a rainbow mountain
-<G=-19593,+017934 the hoba meteorite
-
-alis grave nil ~~~ Latin: nothing is heavy to those with wings
-ashes can make for fertile ground
-if it's not worth you fighting for/then it's not really love ~~~ 0904
-in false worlds and illusions authenticity hurts/you are not malfunctioning/you are misplaced ~~~~ $brc
-new beginnings are scary/no one knows what's happening/it's okay that you don't either/but don't be afraid of doing a new thing
-this world is numb enough/don't you dare shrink your softness
-where you recognize evil/call it evil/and give no peace to it ~~~ The Havamal Saga
-you are a terribly real thing in a terribly false world/and i believe that is why you are in so much pain ~~~ $brc
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
