@@ -7,6 +7,24 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=1,d=23 (a-1930) the watsonville riots
+<G=+36979,-113463 glitter mountain
+<G=+40092,-008226 talasnal
+<G=+42409,+009481 talasani
+<t be weird
+<t be colorful
+
+be weird/be colorful/help random people
+don't feel guilty for doing what's best for you
+every strange thing you've ever been into/will serve you when you need it
+go forward in flames
+learn as you go
+most of life is lived in the in-between
+no love/however brief/is wasted
+time is the currency of life
+waiting for motivation will keep you stuck
+we live surrounded by ghosts of our own making
+you don't need to have everything figured out/to be doing okay
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
