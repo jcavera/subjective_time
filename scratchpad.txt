@@ -8,6 +8,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=1,d=23 (a-1930) the watsonville riots
+<G=+22009,-159336 lihue
 <G=+35950,-090578 goobertown arkansas
 <G=+36979,-113463 glitter mountain
 <G=+40092,-008226 talasnal
