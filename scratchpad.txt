@@ -8,6 +8,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=1,d=23 (a-1930) the watsonville riots
+<G=+35950,-090578 goobertown arkansas
 <G=+36979,-113463 glitter mountain
 <G=+40092,-008226 talasnal
 <G=+42409,+009481 talasani
@@ -21,6 +22,7 @@ go forward in flames
 learn as you go
 most of life is lived in the in-between
 no love/however brief/is wasted
+the peace that you have without them/is worth being the villain in their story
 time is the currency of life
 waiting for motivation will keep you stuck
 we live surrounded by ghosts of our own making
