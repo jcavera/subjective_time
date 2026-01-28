@@ -91,7 +91,8 @@ void setup() {
             src_y = round(aa * sy);
             if (src.getPixel(src_x, src_y)) dest.drawPixel(x, y, 0xF);  // if non-zero, draw pixel to the destination
 skip:
-            // point was invalid so we skip to the next one
+            // Point was invalid so we skip to the next one.  And yes, I used "goto's".  It was expedient and
+            // I thought I might need to do something here, so I didn't use "break".  I know.  Shut up.
         }
     }
     // downsampling to 1/2 size
@@ -106,12 +107,17 @@ skip:
     for (x=0; x<dx; x=x+2) {                                    // step through all x,y in the dest area by twos
         for (y=0; y<yend+2; y=y+2) {
             pix = 0x0000;                                               // re-init pix value
-            if (dest.getPixel(x, y))      pix = pix + 0x0300;           // sum up the four adjacent pixels
-            if (dest.getPixel(x+1, y))    pix = pix + 0x0300;
-            if (dest.getPixel(x, y+1))    pix = pix + 0x0300;
-            if (dest.getPixel(x+1, y+1))  pix = pix + 0x0300;
-            if (pix > 0x0700) pix = 0x0B00;                             // up the brightness if three are filled
-            if (pix > 0x0B00) pix = 0x0F00;                             // max out the brightness if all are filled
+            if (dest.getPixel(x, y))      pix++;                        // sum up the four adjacent pixels
+            if (dest.getPixel(x+1, y))    pix++;
+            if (dest.getPixel(x, y+1))    pix++;
+            if (dest.getPixel(x+1, y+1))  pix++;
+            switch (pix) {                                              // set the color based on the number
+                case 1:   pix = 0x0200; break;                          // of filled pixels allowing us to be
+                case 2:   pix = 0x0600; break;                          // a little bit non-linear - just play
+                case 3:   pix = 0x0B00; break;                          // with this until it looks good
+                case 4:   pix = 0x0F00; break;
+                default:  pix = 0x0000; break;
+            }
             if (pix > 0) rend.drawPixel((x/2), (y/2), pix);             // on non-zero, draw the downsampled pixel
         }
     }
