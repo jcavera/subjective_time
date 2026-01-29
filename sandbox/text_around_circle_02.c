@@ -25,8 +25,31 @@
 #define as      (2.356194)      /* starting angle = 135 deg                 */
 #define ae      (0.785398)      /* ending angle   =  45 deg                 */
 
-#define TFT_DC 2
-#define TFT_CS 15
+#define TFT_DC  2
+#define TFT_CS  15
+
+// Normally these are computed based on the above constants, but we're defining them
+// here, since they're used by multiple functions.  In practice, we'll want to do this
+// anyways, in order to get the best look on whatever screen we're using.
+
+#define dx     (468)             /* destination canvas size (square based on the smallest screen: (min(scr_w, scr_h) - 6) * 2    */
+#define dy     (468)             /*   dimension and then doubled for oversampling)                                               */
+#define ddx    (234)             /* downsampled canvas size                                                                      */
+#define ddy    (234)
+#define cx     (234)             /* destination center co-ordinates: dx / 2, dy / 2                                              */
+#define cy     (234)
+#define ro     (233)             /* outer radius based on the canvas size: floor(((float) dx - 1) * 0.50)                        */
+#define ri     (116)             /* inner radius based on the outer: floor(ro * 0.50)                                            */
+#define xstart (1)               /* starting x = center - outer radius                                                           */
+#define xend   (467)             /* ending   x = center + outer radius                                                           */
+#define ystart (1)               /* starting y = center - outer radius                                                           */
+#define yend   (399)             /* ending   y = center - outer exclusion radius: cy + int(0.7071 * ro) + 1                      */
+#define exrad  (82)              /* exclusion radius (inner): int(0.7071 * ri)                                                   */
+#define xex_s  (153)             /* x location of the inner exclusion zone starting point: cx - exrad + 1                        */
+#define xex_e  (315)             /* x location of the inner exclusion zone ending point: cx + exrad - 1                          */
+#define yex_s  (153)             /* y location of the inner exclusion zone starting point: cy - exrad + 1                        */
+#define rrange (117)             /* radial range: ro - ri                                                                        */
+#define arange (4.71238898)      /* full angular range (3/4ths of a circle, or 3pi/2)                                            */
 
 char sometext[5][60] = { "00000000011111111112222222222333333333344444444445555555555",
                          "12345678901234567890123456789012345678901234567890123456789",
@@ -40,45 +63,25 @@ GFXcanvas16 rend;      // 16b RGB rendering drawing area
 
 void init_draw_areas (void) {
     src = GFXcanvas1(sx, sy);                                  // set up the source un-warped text drawing canvas
-    uint16_t dx     = (min(scr_w, scr_h) - 6) * 2;             // destination canvas size (square based on the smallest screen
-    float    ro     = floor(((float) dx - 1) * 0.50);          // outer radius based on the canvas size
-    uint16_t yend   = (dx / 2) + int(0.7071 * ro) + 1;         // ending   y = center - outer exclusion radius
     dest = GFXcanvas1(dx, yend);                               // set up destination 1b drawing area, oversampled to 2x screen
-    GFXcanvas16 rend(dx / 2, dx / 2);                          // set up 16b RGB rendering drawing area
+    rend = GFXcanvas16(dx / 2, dy / 2);                        // set up 16b RGB rendering drawing area
 }
 
 void draw_text (void) {
     src.fillScreen(0);
     src.setCursor(10, 30);
     src.setFont(&FreeMono18pt7b);
-    for (x=0; x<5; x++) src.println(sometext[x]);
+    for (int x=0; x<5; x++) src.println(sometext[x]);
 }
 
 void draw_warp (void) {
     uint16_t x, y;
-    uint16_t dx     = (min(scr_w, scr_h) - 6) * 2;             // destination canvas size (square based on the smallest screen
-    uint16_t dy     = dx;                                      //   dimension and then doubled for oversampling)
-    uint16_t cx     = dx / 2;                                  // destination center co-ordinates
-    uint16_t cy     = dy / 2;
-    float    ro     = floor(((float) dx - 1) * 0.50);          // outer radius based on the canvas size
-    float    ri     = floor(ro * 0.50);
-    uint16_t xstart = cx - ro;                                 // starting x = center - outer radius
-    uint16_t xend   = cx + ro;                                 // ending   x = center + outer radius
-    uint16_t ystart = cy - ro;                                 // starting y = center - outer radius
-    uint16_t yend   = cy + int(0.7071 * ro) + 1;               // ending   y = center - outer exclusion radius
-    uint16_t exrad  = int(0.7071 * ri);                        // exclusion radius (inner)
-    uint16_t xex_s  = cx - exrad + 1;                          // x location of the inner exclusion zone starting point
-    uint16_t xex_e  = cx + exrad - 1;                          // x location of the inner exclusion zone ending point
-    uint16_t yex_s  = cy - exrad + 1;                          // y location of the inner exclusion zone starting point
-    float    rrange = ro - ri;                                 // radial range
-    float    arange = (mpi * 1.5);                             // full angular range (3/4ths of a circle)
-
-    dest.fillScreen(0);                                        // erase the destination canvas
     uint16_t src_x, src_y;                                      // derived <x,y> location in the source bitmap
     float    r      = 0.00;                                     // radius of point <x,y> from <cx,cy>
     float    theta  = 0.00;                                     // angle of point <x,y> from <cx,cy>
     float    a, b, aa, bb;
 
+    dest.fillScreen(0);                                        // erase the destination canvas
     for (x=xstart; x<xend; x++) {                               // step through all x,y in the destination area
         for (y=ystart; y<yend; y++) {
             if ((y > yex_s) && (x > xex_s) && (x < xex_e)) goto skip;   // break out of this iteration if in the exclusion zone
@@ -107,9 +110,6 @@ skip:
 
 void draw_final (void) {
     uint16_t x, y;
-    uint16_t dx     = (min(scr_w, scr_h) - 6) * 2;              // destination canvas size (square based on the smallest screen
-    uint16_t ddx    = dx / 2;                                   // downsampled canvas size
-    uint16_t ddy    = ddx;
     uint16_t pix    = 0x0000;                                   // single pixel color of rendering canvas
     rend.fillScreen(0x0000);                                    // erase the drawing area
     // <--- draw the background image here (if there is one)
@@ -146,9 +146,7 @@ void setup() {
     draw_warp();        // draw the warped text
     tft.println("downsampling...");
     draw_final();
-    uint16_t dx     = (min(scr_w, scr_h) - 6) * 2;              // destination canvas size (square based on the smallest screen
-    uint16_t ddx    = dx / 2;                                   // downsampled canvas size
-    tft.drawRGBBitmap((scr_w - ddx) / 2, (scr_h - ddx) / 2, rend.getBuffer(), ddx, ddx);
+    tft.drawRGBBitmap((scr_w - ddx) / 2, (scr_h - ddy) / 2, rend.getBuffer(), ddx, ddy);
     tft.setCursor(((scr_w / 2) - 10), (scr_h - 20));            // set the cursor for the attribution text
     tft.setTextColor(0x07E0, 0x0000);                           // set text color to med. green (black background)
     tft.print(millis() - t0);                                   // draw the sample attribution text
