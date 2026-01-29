@@ -57,15 +57,9 @@ char sometext[5][60] = { "000000000111111111122222222223333333333444444444455555
                          "it, rendered using a mono-spaced font at 18 point size then",
                          "wrapped around a circle with the test algorithm given below"  };
 
-GFXcanvas1  src;       // 1b source drawing area for the un-warped text lines
-GFXcanvas1  dest;      // 1b destination drawing area for the warped text
-GFXcanvas16 rend;      // 16b RGB rendering drawing area
-
-void init_draw_areas (void) {
-    src = GFXcanvas1(sx, sy);                                  // set up the source un-warped text drawing canvas
-    dest = GFXcanvas1(dx, yend);                               // set up destination 1b drawing area, oversampled to 2x screen
-    rend = GFXcanvas16(dx / 2, dy / 2);                        // set up 16b RGB rendering drawing area
-}
+GFXcanvas1  src(sx, sy);         // 1b source drawing area for the un-warped text lines
+GFXcanvas1  dest(dx, yend);      // 1b destination drawing area for the warped text
+GFXcanvas16 rend(ddx, ddy);      // 16b RGB rendering drawing area
 
 void draw_text (void) {
     src.fillScreen(0);
@@ -138,14 +132,10 @@ void setup() {
     tft.begin();
     tft.setRotation(1);
     tft.fillScreen(0x0000);
-    tft.println("rendering text...");
 
-    init_draw_areas();  // create and initialize the canvases
     draw_text();        // draw text to the 1b port
-    tft.println("warping...");
     draw_warp();        // draw the warped text
-    tft.println("downsampling...");
-    draw_final();
+    draw_final();       // downsample
     tft.drawRGBBitmap((scr_w - ddx) / 2, (scr_h - ddy) / 2, rend.getBuffer(), ddx, ddy);
     tft.setCursor(((scr_w / 2) - 10), (scr_h - 20));            // set the cursor for the attribution text
     tft.setTextColor(0x07E0, 0x0000);                           // set text color to med. green (black background)
