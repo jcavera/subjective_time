@@ -50,7 +50,7 @@ void setup() {
     uint16_t dy     = dx;                                       //   dimension and then doubled for oversampling)
     uint16_t cx     = dx / 2;                                   // destination center co-ordinates
     uint16_t cy     = dy / 2;
-    float    ro     = floor(((float) dx - 1) / 2);              // outer radius based on the canvas size
+    float    ro     = floor(((float) dx - 1) * 0.50);           // outer radius based on the canvas size
     float    ri     = floor(ro * 0.50);
     uint16_t xstart = cx - ro;                                  // starting x = center - outer radius
     uint16_t xend   = cx + ro;                                  // ending   x = center + outer radius
@@ -61,7 +61,7 @@ void setup() {
     uint16_t xex_e  = cx + exrad - 1;                           // x location of the inner exclusion zone ending point
     uint16_t yex_s  = cy - exrad + 1;                           // y location of the inner exclusion zone starting point
     float    rrange = ro - ri;                                  // radial range
-    float    arange = (mpi * 3.0) / 2.0;                        // full angular range (3/4ths of a circle)
+    float    arange = (mpi * 1.5);                              // full angular range (3/4ths of a circle)
     
     uint16_t src_x, src_y;                                      // derived <x,y> location in the source bitmap
     float    r      = 0.00;                                     // radius of point <x,y> from <cx,cy>
