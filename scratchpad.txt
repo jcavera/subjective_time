@@ -7,39 +7,6 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!M=1,d=23 (a-1930) the watsonville riots
-<G=+22009,-159336 lihue
-<G=+35950,-090578 goobertown arkansas
-<G=+36979,-113463 glitter mountain
-<G=+40092,-008226 talasnal
-<G=+42409,+009481 talasani
-<t be weird
-<t be colorful
-
-be weird/be colorful/help random people
-don't feel guilty for doing what's best for you
-every strange thing you've ever been into/will serve you when you need it
-go forward in flames ~~~ $brc
-it's go time
-learn as you go
-most of life is lived in the in-between
-no love/however brief/is wasted
-resist cruel systems/with a fiercely hopeful heart
-the peace that you have without them/is worth being the villain in their story
-the world won't always slow down for you/so you must learn that for yourself
-this is not the time to be dismayed/this is punk rock time/this is what the ramones trained you for ~~~ 0581
-this is not the time to be dismayed
-this is what you were training for
-time is the currency of life
-waiting for motivation will keep you stuck
-we live surrounded by ghosts of our own making
-what is darkness but a chance to show/how brightly we can burn? / ~~~ Beat Kitty
-when <?he|she|they finally said/enough
-when pain becomes your identity/healing feels like dying
-you are here to exist beyond your wounds/and discover who you can become
-you are not here to endlessly prove/what you have survived/you are here to exist beyond your wounds/and discover who you can become
-you are not here to endlessly prove/what you have survived
-you don't need to have everything figured out/to be doing okay
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
