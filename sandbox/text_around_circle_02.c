@@ -64,6 +64,8 @@ static GFXcanvas16 *rend;       // rendering drawing area
 
 // Initialize the offscreen canvases, allowing for reuse and multiple calls to the drawing functions
 void draw_init (void) {
+    tft.begin();                             // initilize and set-up the TFT display
+    tft.setRotation(1);
     src  = new GFXcanvas1(sx, sy);           // set up 1b source drawing area and print the strings
     dest = new GFXcanvas1(dx, yend);         // set up destination 1b drawing area, oversampled to 2x screen
     rend = new GFXcanvas16(ddx, ddy);        // set up rendering drawing area
@@ -154,8 +156,6 @@ void draw_delete (void) {
 
 void setup() {
     uint32_t t0 = millis();                             // starting time
-    tft.begin();                                        // initilize and blank out the TFT display
-    tft.setRotation(1);
     draw_init();                                        // initialize the off-screen canvases
     tft.println("rendering text...");   draw_text();    // draw the text to the first canvas
     tft.println("warping...");          draw_warp();    // warp the text from the first to the second canvas
@@ -167,3 +167,4 @@ void setup() {
 void loop() {
   delay(100);
 }
+
