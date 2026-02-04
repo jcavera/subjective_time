@@ -7,18 +7,20 @@
 // least readable) on an 800x800 pix screen.
 //
 // Version 02: This is modularized so that we can (in theory) call the drawing routines more
-// than once.  Just so long as we only init and de-init once, of course.
+//             than once.  Just so long as we only init and de-init once, of course.  Also I
+//             edited the display string to be a bit more representational of characters and
+//             symbols that the final system will use.
 
 #include <math.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_ILI9341.h>   // 320x240 pixel screen from Wokwi
 #include <Fonts/FreeMono18pt7b.h>
 
-char sometext[5][60] = { "00000000011111111112222222222333333333344444444445555555555",
-                         "12345678901234567890123456789012345678901234567890123456789",
-                         "this is a line of sample text with fifty nine characters in",
-                         "it, rendered using a mono-spaced font at 18 point size then",
-                         "wrapped around a circle with the test algorithm given below"  };
+char sometext[5][60] = { "the quick brown fox jumped over the lazy dog sir! sphynx of",
+                         "black quartz judge my vow? the quick brown fox jumped over ",
+                         "the lazy dog sir? sphynx of black quartz judge my vow!! the",
+                         "quick brown fox jumped over the lazy dog again -- sphynx of",
+                         "black quartz judge my vow! the quick brown fox jumped over?"  };
 
 #define mpi     (3.14159265359) /* pi                                       */
 #define r_to_d  (57.2957795131) /* convert radians to degrees (180 / pi)    */
@@ -167,4 +169,5 @@ void setup() {
 void loop() {
   delay(100);
 }
+
 
