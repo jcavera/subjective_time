@@ -164,6 +164,7 @@ as follows:
 <Z  the name of the current timezone
 <d  the ordinal date of the month
 <e  on-playa event classification (yeah, this is a weird one too)
+<g  geomagnetic orientation (currently unsupported, but reserved for future use)
 <h  current hour (24 hour format, local time)
 <i  the current hour (12 hour format)
 <m  the current minutes (in local time)
@@ -202,6 +203,7 @@ data for current date, time, and location is just made up):
 | in the timezone of <Z                | in the timezone of los angeles
 | the <d of the month                  | the twenty second of the month
 | time for the event about <e to start | time for the event about martial arts to start
+| facing approximately <g              | facing approximately north by northwest (not currently supported)
 | <h hours local time                  | seven hundred hours local time
 | close to <i o'clock                  | close to three o'clock
 | <h hours <m minutes                  | twenty hundred hours fifty seven minutes
