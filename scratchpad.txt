@@ -20,6 +20,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 (a-1967) lynn margulis showed that evolution is cooperative
 (a-2008) rebecca solnit invented the term mansplaining/here's what that means... / 
+!M=1,d=9 (a-2023) the death of adolfo kaminsky/the humanitarian forger
 !M=10,d=28 (a-1857) margaret knight invented the paper bag
 !M=2,d=2 (a-1665) new amsterdam was renamed to new york
 !M=9,d=5 (a-2001) a church in halberstadt started playing john cage's organ-aslsp/it will finish in about six hundred years
