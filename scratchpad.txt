@@ -3,12 +3,16 @@
 
 NOTES AND TODOs (that don't deserve issues):
 
+Add the timetable for John Cage's, As Slow As Possible
+
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=10,d=28 (a-1857) margaret knight invented the paper bag
 !M=2,d=2 (a-1665) new amsterdam was renamed to new york
+!M=9,d=5 (a-2001) a church in halberstadt started playing john cage's organ-aslsp/it will finish in about six hundred years
+<G=+51896,+011047 an organ in saint burchardi church playing a song for six hundred years
 <G=+75431,-089823 the flashline mars arctic research station
 <G=+75667,-084583 the devon island research station
 
