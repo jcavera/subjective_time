@@ -9,6 +9,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+(a-1967) lynn margulis showed that evolution is cooperative
 (a-2008) rebecca solnit invented the term mansplaining/here's what that means... / 
 !M=10,d=28 (a-1857) margaret knight invented the paper bag
 !M=2,d=2 (a-1665) new amsterdam was renamed to new york
@@ -22,6 +23,8 @@ ad delerium (Latin: until it drives you crazy)
 ad nauseum (Latin: until you're sick of it)
 do not conform
 don't even go there
+in the third millennium anno domani
+in the third millennium of the common era
 shit happens/but sometimes you get lucky
 the worst is almost over/but the world will be a bit different/once it's all said and done
 we are all flawed mangos
