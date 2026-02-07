@@ -611,13 +611,13 @@ the weekend of the deventer op stelten _@ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 _w mentoring _8;slavery and human trafficking prevention _8;blood donor _8;_w soup _8;co-dependency _[ ~~~~~~~~~~~~~~~~~~~~ fill jan x
 black history _8;american heart _8;_w birdfeeding _8;fasting _8;free and open source software _8 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ feb x
 womens history _8;irish _S _8;moustache march;youth art _8;red cross _8;craft _8;nutrition _8;brain injury _[ ~~~~~~~~~~~~~~~~~~ mar x
-arab _S _8;autism _[;jazz appreciation _8;poetry _8;garden _8;a _8 of hope;hanami;citizen science _8;parkinson's _[ ~~~~~~~~~~~~ apr x
+<?arab|scottish|russian _S _8;autism _[;jazz appreciation _8;poetry _8;garden _8;a _8 of hope;hanami;citizen science _8;parkinson's _[
 asian pacific _S _8;eds _[;als _[;celiac _[;bike _8;pet _8;jewish _S _8;fibromyalgia _[;hearing impairment _[ ~~~~~~~~~~~~~~~~~~ may x
-pride _8;_w safety _8;brain _[ /no clue how you cannot be aware of that;dj _8;camping _8;alzheimer's _[;ptsd _[ ~~~~~~~~~~~~~~~~ jun x
-_w ice cream _8;hemp _8;grilling _8;watercolor _8;independant retailer _8;cell phone courtesy _8;picnic _8 ~~~~~~~~~~~~~~~~~~~~~ jul x
-no federal holidays this _8;_w eye exam _8;sandwich _8;wellness _8;_u peace _8;happiness _8;spinal muscular atrophy _[ ~~~~~~~~~ aug x
-_w preparedness _8;_w yoga _8;gospel music _8;bourbon _S _8;honey _8;suicide prevention _8;pain _[ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ sep x
-<?italian|filipino|polish _S _8;arts and humanities _8;pizza _8;lgbqt history _8;_u diversity _8;pedestrian safety _8;momijigari ~~~ x
+pride _8;_w safety _8;brain _[ /no clue how you cannot be aware of that;dj _8;camping _8;alzheimer's _[;ptsd _[;nordic _S _8 ~~~ jun x
+_w ice cream _8;hemp _8;grilling _8;watercolor _8;independant retailer _8;cell phone courtesy _8;picnic _8;french _S _8 ~~~~~~~~ jul x
+no federal holidays this _8;_w eye exam _8;sandwich _8;wellness _8;_u peace _8;happiness _8;spinal muscular atrophy _[;swiss _S _8 ~~~
+_w preparedness _8;_w yoga _8;gospel music _8;bourbon _S _8;honey _8;suicide prevention _8;pain _[;ukranian _S _8 ~~~~~~~~~~~~~~ sep x
+<?italian|filipino|polish|german _S _8;arts and humanities _8;pizza _8;lgbqt _S _8;_u diversity _8;pedestrian safety _8;momijigari ~ x
 _w <?academic|novel writing _8;movember;family caregivers _8;inspirational role models _8;family story _8;epilepsy _[;diabetes _[ ~~ x
 impaired driving prevention _8;human rights _8;workplace disability _[ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ dec x
 holika dahan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
