@@ -237,7 +237,7 @@ k_macro = [     "nativity fast",    "moon",               "under",            "o
                 "your",             "month",              "week",             "the feast of",     "festival",           "the discovery of", 
                 "almost",           "around",             "nearly",           """o'clock""",      "about",              "approximately", 
                 "half past",        "until",              "before",           "after",            "last",               "year",     
-                "happy",            "conjunction",        "days",             "hours",            "minutes",            "heritage", 
+                "happy",            "conjunction",        "days",             "hours",            "minutes",            "<?heritage|history", 
                 "right now",        "world",              "quarter",          "in the morning",   "top of the hour",    "bottom of the hour",
                 "in the afternoon", "awareness month",    "the invention of", "retrograde",       "time to",            "a.m.",
                 "p.m",              "hundred hours",      "noon",             "time for",         "straight up",        "just after",
@@ -749,3 +749,4 @@ def sub_subproc_qq (s, coord, item):
     a = app_strings.choose_between(item[2:], '|')                       ## pick a random thing
     s = s.replace(item, a)
     return (s)
+
