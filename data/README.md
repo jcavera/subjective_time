@@ -99,7 +99,7 @@ _E o'clock                    _F about                      _G approximately
 _H half past                  _I until                      _J before
 _K after                      _L last                       _M year
 _N happy                      _O conjunction                _P days
-_Q hours                      _R minutes                    _S heritage
+_Q hours                      _R minutes                    _S <?heritage|history
 _T right now                  _U world                      _V quarter
 _W in the morning             _X top of the hour            _Y bottom of the hour
 _Z in the afternoon           _[ awareness month            _] the invention of
