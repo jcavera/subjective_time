@@ -10,6 +10,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=1,d=20 (a-2026) amy and jim hitchhiked their way around kauai
 !M=4,d=13 (a-1973) henry darger joing the realms of the unreal
 <G=+31313,+030129 the sunken kingdom of thonis-herecleion
 
@@ -26,7 +27,8 @@ the broken can love harder than most/once you have been in the darkness/you appr
 the future idealized version of yourself/cannot exist without current you
 there is no final form without current form
 this is your life/did you forget that you live here? / 
-what a beautiful thing it is to look back one day/and realize you were brave enough to chase/the life you dreamt of
+viva la revolucion
+what a beautiful thing it is to look back one day/and realize you were brave enough to chase/the life that you dreamt of
 whatever is currently happening to humanity/is happening to us all ~~~~ 0946
 you can never be the same and still be you/you can never be the same/and still... /be you ~~~ 0446
 
