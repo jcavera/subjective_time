@@ -16,10 +16,10 @@
 #include <Adafruit_ILI9341.h>   // 320x240 pixel screen from Wokwi
 #include <Fonts/FreeMono18pt7b.h>
 
-char sometext[5][60] = { "the quick brown fox jumped over the lazy dog sir! sphynx of",
+char sometext[5][60] = { "the quick brown fox jumped over the lazy dog sir! sphinx of",
                          "black quartz judge my vow? the quick brown fox jumped over ",
-                         "the lazy dog sir? sphynx of black quartz judge my vow!! the",
-                         "quick brown fox jumped over the lazy dog again -- sphynx of",
+                         "the lazy dog sir? sphinx of black quartz judge my vow!! the",
+                         "quick brown fox jumped over the lazy dog again -- sphinx of",
                          "black quartz judge my vow! the quick brown fox jumped over?"  };
 
 #define mpi     (3.14159265359) /* pi                                       */
@@ -169,5 +169,6 @@ void setup() {
 void loop() {
   delay(100);
 }
+
 
 
