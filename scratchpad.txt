@@ -4,35 +4,11 @@
 NOTES AND TODOs (that don't deserve issues):
 
 Add the timetable for John Cage's, As Slow As Possible
-In macr.txt:  621: dutch _S _8
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!M=1,d=20 (a-2026) amy and jim hitchhiked their way around kauai
-!M=4,d=13 (a-1973) henry darger joing the realms of the unreal
-<G=+31313,+030129 the sunken kingdom of thonis-herecleion
-
-be the reminder that there is still a way back/to the place of dreams ~~~ 0446
-do not kneel for wounding love/nor beg where shame is served/drink with those who toast your name
-drink with those who toast your name/give your heart to hands that kiss it clean
-everyone is holding their breath here/waiting for the chance to exhale/forgetting that to laugh is to live/that dance is liberation
-let go or be dragged
-life has a way of clicking into place/after you've lived through enough of it
-maybe working on the little things/as dutifully and honestly as we can/is how we stay sane in a crazy world
-no matter how hidden the cruelty/no matter how far off the screams/we live in one world ~~~~ 0946
-skip with your friends while holding hands/like you're the only fools left in the room/with any shred of hope ~~~ 0446
-sometimes you have to go far away to find your dreams/and that's okay/you can come back but you'll never be the same
-the broken can love harder than most/once you have been in the darkness/you appreciate everything that shines
-the future idealized version of yourself/cannot exist without current you
-there is no final form without current form
-this is your life/did you forget that you live here? / 
-viva la revolucion
-what a beautiful thing it is to look back one day/and realize you were brave enough to chase/the life that you dreamt of
-whatever is currently happening to humanity/is happening to us all ~~~~ 0946
-you can never be the same and still be you/you can never be the same/and still... /be you ~~~ 0446
-you're going to figure it out/maybe not today - maybe not how you want to/but you'll figure it out
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
