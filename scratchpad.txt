@@ -10,6 +10,7 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 !M=11,d=15 (a-1920) six year old nancy bentley enlisted in the royal australian navy
+!M=5,d=21 (a-1934) the battle of deputies run
 
 find things beautiful as much as you can ~~~ 0666
 love is built/not found
