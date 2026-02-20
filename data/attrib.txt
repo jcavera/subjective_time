@@ -984,7 +984,7 @@ have a good idea of mine.
 0836  Bell Hooks
 0837  Friedrich Nietzsche
 0838  Wendell Berry
-0839  Jackie DeShannon, Put A Little Love in Your Heart
+0839  Latin: until you're sick of it
 0840  Welsh: good health to you now and forever
 0841  Latin: the picts defeated, the enemy destroyed, play safely
 0842  Latin: use happily and live well
@@ -1150,4 +1150,4 @@ have a good idea of mine.
 0999  Beat Kitty
 1000  Latin: until it drives you crazy
 
-1001  Latin: until you're sick of it
+1001  
