@@ -129,9 +129,9 @@ void draw_down (void) {
             if (dest->getPixel(x, y+1))    pix++;
             if (dest->getPixel(x+1, y+1))  pix++;
             switch (pix) {                                      // set the color based on the number
-                case 1:   pix = 0x0200; break;                  // of filled pixels allowing us to be
-                case 2:   pix = 0x0600; break;                  // a little bit non-linear - just play
-                case 3:   pix = 0x0B00; break;                  // with this until it looks good
+                case 1:   pix = 0x0400; break;                  // of filled pixels allowing us to be
+                case 2:   pix = 0x0B00; break;                  // a little bit non-linear - just play
+                case 3:   pix = 0x0D00; break;                  // with this until it looks good
                 case 4:   pix = 0x0F00; break;
                 default:  pix = 0x0000; break;
             }
@@ -169,6 +169,7 @@ void setup() {
 void loop() {
   delay(100);
 }
+
 
 
 
