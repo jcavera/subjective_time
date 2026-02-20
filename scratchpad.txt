@@ -14,6 +14,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=2,d=10 (a-1355) the battle of saint scholastica day at oxford
 !M=2,d=17 (a-2026) the death of jesse jackson
 !M=2,d=20 (a-1931) the taking of encarnacion
+!M=5,d=25 (a-2011) the death of leonora carrington
 !M=9,d=30 (a-2018) the death of david gelbaum
 
 (a-1640) georges de la tour painted the penitent magdalene
