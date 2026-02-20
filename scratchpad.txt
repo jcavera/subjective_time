@@ -11,6 +11,9 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 !M=1,d=22 (a-1961) the birth of daniel dale johnson
 !M=1,d=22 hi how are you day
+!M=2,d=17 (a-2026) the death of jesse jackson
+!M=2,d=20 (a-1931) the taking of encarnacion
+!M=9,d=30 (a-2018) the death of david gelbaum
 
 life is short and other people's expectations are dumb
 true love will find you in the end
