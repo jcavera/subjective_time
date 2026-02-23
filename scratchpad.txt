@@ -5,6 +5,9 @@ NOTES AND TODOs (that don't deserve issues):
 
 Add the timetable for John Cage's, As Slow As Possible
 macro.txt: for 02-28: the _L _t of <M ?? / ~~~ 02-28
+Fix in anys...
+    (a-2078) leleakuhonua is at perihelion
+    (a-2257) eris is at perihelion
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
