@@ -25,6 +25,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 <G=-20452,+057328 an underwater waterfall
 <t take responsibility for your actions
 
+another beautiful day in the <?neighborhood/galaxy/...
 life is one damned thing after another/is a gross understatement/sometimes the damned things overlap
 never be too busy to let a loved one/teach you about something they love
 signs point to no ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $m8b
