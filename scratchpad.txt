@@ -4,33 +4,14 @@
 NOTES AND TODOs (that don't deserve issues):
 
 Add the timetable for John Cage's, As Slow As Possible
-macro.txt: for 02-28: the _L _t of <M ?? / ~~~ 02-28
 Fix in anys...
     (a-2078) leleakuhonua is at perihelion
     (a-2257) eris is at perihelion
-    improper line break at "another meaningless data point" ?
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!A>29500,A<33000,O>-109000,O<-095500,h>20 the stars at night are big and bright/deep in the heart of texas
-!A>29500,A<33000,O>-109000,O<-095500,h<4 the stars at night are big and bright/deep in the heart of texas
-!A>29500,A<33000,O>-109000,O<-095500 deep in the heart of texas
-
-!M=2 (a-1924) alexandra david-neel entered the forbidden city of lhasa
-!M=2,d=16 elizabeth peratrovich day
-
-<G=+36239,-121818 the purple sands of pfeiffer beach
-<G=+38596,-090804 the sunflower murals
-<G=-20452,+057328 an underwater waterfall
-<t take responsibility for your actions
-
-another beautiful day in the <?neighborhood/galaxy/...
-life is one damned thing after another/is a gross understatement/sometimes the damned things overlap
-never be too busy to let a loved one/teach you about something they love
-signs point to no ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $m8b
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
- 
