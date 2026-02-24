@@ -11,8 +11,13 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+!M=11,d=11 (a-1918) the fall of the house of hapsburg-lorraine
+!M=3,d=2 (a-1835) the death of francis the second and the dissolution of the holy roman empire
 <G=+36660,-115995 ground zero
 
+it is actually possible that a priest of ancient egypt/could've been working on his novel by gaslight/at his neighborhood coffeshop
+it is actually possible that a samurai/and a retired roman centurion/could've sent a fax to abraham lincoln/from their airship
+it is actually possible that doctor livingston/could've worn jeans and sunglasses/while drinking a coke in africa
 just before disaster strikes
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
