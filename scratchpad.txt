@@ -14,6 +14,8 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=11,d=11 (a-1918) the fall of the house of hapsburg-lorraine
 !M=3,d=10 (a-1891) the first sci-fi fan convention
 !M=3,d=2 (a-1835) the death of francis the second and the dissolution of the holy roman empire
+<G=+31525,+035111 the cave of machpelah
+<G=+31525,+035111 the cave of the patriarchs
 <G=+36660,-115995 ground zero
 
 as crabs and sharks wage a war against each other/a war that was secretly instigated/by the cephalopods
