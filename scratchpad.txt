@@ -5,46 +5,11 @@ NOTES AND TODOs (that don't deserve issues):
 
 Add the timetable for John Cage's, As Slow As Possible
 Fix in anys: (a-2078) leleakuhonua is at perihelion
-Possibly replace "farther" with "<?farther|further" ??
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!M=11,d=11 (a-1918) the fall of the house of hapsburg-lorraine
-!M=12,d=4 (a-1969) the execution of fred hampton
-!M=3,d=10 (a-1891) the first sci-fi fan convention
-!M=3,d=2 (a-1835) the death of francis the second and the dissolution of the holy roman empire
-!M=8,d=17 (a-1549) the prayer book rebellion
-<G=+31525,+035111 the cave of machpelah
-<G=+31525,+035111 the cave of the patriarchs
-<G=+36660,-115995 ground zero
-
-as crabs and sharks wage a war against each other/a war that was secretly instigated/by the cephalopods
-as we melt into each other ~~~ $brc
-believe
-caution/entering a region of space-time/in which the fine structure constant is exactly/one over one hundred thirty seven
-do you not see you strong you are? /all those times the world forced you to kneel/and yet you still stand ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-don't let a bad day make you think/that you have a bad life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-don't look back in anger/it was a lesson learned and not/a thing to hold on to
-if you are seeing this message/you are in the <?correct|wrong timeline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-it is <?actually|entirely possible that a crusading knight/could've paid for his to-go latte in venice/with a traveler's check
-it is <?actually|entirely possible that jules verne/could've played nintendo/with the daughter of the last/roman emporer
-it is <?actually|entirely possible that pablo picasso/could've played atari with al gore/while rocking out to david bowie
-it is <?actually|entirely possible that ulysses s grant/could've driven his benz/to macy's for his christmas shopping
-it is actually possible that a priest of ancient egypt/could've been working on his novel by gaslight/at his neighborhood coffeshop
-it is actually possible that a samurai/and a retired roman imperial guard/could've sent a fax to abraham lincoln/from their airship
-it is actually possible that an aztec astronomer/could've guest lectured at oxford/and gone out with newton for a pint of guiness
-it is actually possible that the last/united states civil war widow/could've cast an early vote/for barak obama's first term
-it is entirely possible that sigmund freud/could've cosplayed flash gordon/at a science fiction convention/and met arthur c clarke
-it is entirely possible that sir edmund hillary/could've listened to daft punk on his ipod/while on his way home from burning man
-it is entirely possible that sir henry stanley/could've worn blue jeans and sunglasses/while drinking a coke in the congo
-judge your light by the darkness that pushes back
-just before disaster strikes
-shared movement binds us ~~~ $brc
-there is a future version of you/absolutely begging you to enjoy/where you are right now
-you can never truly know what impact/you have on another person/so try to make it a good one
-you can never truly know what impact/you have on another person
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
