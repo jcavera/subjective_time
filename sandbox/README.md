@@ -6,5 +6,6 @@ watch.  To that end, I'm going to be making a lot of bits of test code in order 
 files often represent iterations on a theme with the naming scheme being _01 for the first iteration, _02 for
 the second, etc.  The current bits in here are:
 
-- generate_tz_files: create the timezone database files from scratch given the timezone shape files as input
+- gen_tz_all_rgn:     create the all_rgn.txt files from scratch given the timezone shape files as input
+- generate_tz_files:  create the timezone database files from scratch given the timezone shape files as input
 - text_around_circle: like it says on the tin, this test routine draws up to five lines of text around a circle
