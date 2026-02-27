@@ -9,6 +9,22 @@ import shapefile
 import pytz
 from datetime import datetime, timedelta
 
+output_dir  = "C:/Users/eg494f/Downloads/output/"
+output_file = "C:/Users/eg494f/Downloads/output/all_rgn.txt"
+
+### Format offset seconds as <+/->hh<div>mm
+
+def format_offset (off_sec, div = ""):
+    astr = ""
+    if (off_sec < 0):   astr = "-"
+    else:               astr = "+"
+    a = abs(off_sec)
+    hh = a // (60*60)
+    a %= (60*60)
+    mm = a // 60
+    return astr + "%02i%s%02i" % (hh, div, mm)
+
+
 ### Build a file for the particular timezone.  File is of the form:
 ###    000000000011111111112222222222333333333344444444445555555555
 ###    012345678901234567890123456789012345678901234567890123456789
@@ -29,8 +45,27 @@ from datetime import datetime, timedelta
 ###    Timezone lines always start at 2023 and run through 2099
 
 def build_zone_file (tz_name, zfile_name):
-    for y in range(2023, 2100):             ### produce a single line for the year (y)
-        return
+    tz = pytz.timezone(tz_name)                 ## set the timezone to the incoming zone
+    zfile = output_dir + zfile_name + "txt"     ### create the target file
+    f = open(zfile, "x")
+    adate = datetime(2023, 1, 1, 12, 0, 0)      ## init the date to 2023-01-01
+    for y in range(2023, 2100):                 ### produce a single line for the year (y)
+        astr = str(y) + ":"
+        utc_off_sr = int(tz.utcoffset(adate).total_seconds())   ## init the offset shift register
+        astr = astr + format_offset(utc_off_sr)
+        for d in range(0, 367):
+            adate = adate + timedelta(days=1)                   ## go to the next day
+            utc_off = int(tz.utcoffset(adate).total_seconds())  ## get the offset for this date
+            if (adate.year == y) and (utc_off_sr != utc_off):   ## if we're still in the target year and the offsets change
+                astr = astr + ";" + "%02i" % adate.month + "-" + "%02i" % adate.day
+                astr = astr + ";" + format_offset(utc_off) 
+                utc_off_sr = utc_off
+
+        numtildes = 58 - len(astr)
+        for j in range(numtildes): astr = astr + "~"
+        f.write(astr + '\r')
+
+    f.close()
 
 ### Build the offset portion of the string equal to...
 ###    ~~~~~~~  if the time zone offset from UTC is 00:00 and DST is not observed
@@ -40,8 +75,8 @@ def build_zone_file (tz_name, zfile_name):
 
 def supports_dst (tz_name, tz_idx):
     astr = ""
-    tz = pytz.timezone(tz_name)                 ## set the timezone to the incoming zone
-    adate = datetime(2025, 1, 1, 12, 0, 0)      ## init the date to 2025-01-01
+    tz = pytz.timezone(tz_name)                     ## set the timezone to the incoming zone
+    adate = datetime(2025, 1, 1, 12, 0, 0)          ## init the date to 2025-01-01
     utc_off_sr = int(tz.utcoffset(adate).total_seconds())   ## init the offset shift register
     for i in range(0, 364):
         adate = adate + timedelta(days=1)                   ## go to the next day
@@ -51,15 +86,9 @@ def supports_dst (tz_name, tz_idx):
             build_zone_file(tz_name, astr)                  ## build a new time zone file
             return astr                                     ## return zone file name if offset changes
         utc_off_sr = utc_off                                ## update the shift register
-    if (utc_off_sr == 0):  return "~~~~~~~"     ## return null if no offset from GMT
-    if (utc_off_sr < 0):   astr = " -"          ## otherwise format to: <+/->hh:mm
-    else:                  astr = " +"
-    utc_off_sr = abs(utc_off_sr)
-    hours = utc_off_sr // (60*60)
-    utc_off_sr %= (60*60)
-    minutes = utc_off_sr // 60
-    astr = astr + "%02i:%02i" % (hours, minutes)
-    return astr
+    if (utc_off_sr == 0):  return "~~~~~~~"         ## return null if no offset from GMT
+    return " " + format_offset(utc_off_sr, ":")     ## otherwise format the offset and return
+
 
 p = "C:/Users/eg494f/Downloads/timezones-with-oceans.shapefile.zip"  ## point this to the location of the timezone .zip file
 print ("reading file: " + p)
@@ -85,6 +114,5 @@ for i in range(0, numshapes):
     res = slat + "," + slon + ";" + bstr + " "      ## assemble the line as: <+/->xxxxx,<+/->yyyyyy;timezone/name ~~~~~~~~
     numtildes = 47 - len(res)
     for j in range(numtildes): res = res + "~"
-    res = res + supports_dst(astr, i + 1)           ## and add the offset string
+    print(res + supports_dst(astr, i + 1))          ## and add the offset string
     
-    print (res)
