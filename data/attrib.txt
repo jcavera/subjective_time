@@ -1151,3 +1151,5 @@ have a good idea of mine.
 1000  Latin: until it drives you crazy
 
 1001  Leonard Nimoy
+1002  Dwight D. Eisenhower
+1003  Margaret Mead
