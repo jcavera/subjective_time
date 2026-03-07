@@ -5,77 +5,12 @@ NOTES AND TODOs (that don't deserve issues):
 
 Add the timetable for John Cage's, As Slow As Possible
 Fix in anys: (a-2078) leleakuhonua is at perihelion
-Remove in anys:  (a-1959) the dawn of the space age ~~~~~~~~~
 Add to macr: the fast of esther ~~~ day before purim (line 519)
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-!M=2,d=11 (a-2026) the death of dan simmons of the hyperion cantos ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=2,d=16 (a-1990) the death of keith haring ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=2,d=19 (a-1709) the death of tokugawa tsunayoshi the dog shogun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=3,d=2 (a-1836) the establishment of the republic of texas ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=3,d=2 adwa victory day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=7,d=15 (a-1963) the birth of leng jun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-1810) john martin painted the ruins of an ancient city ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-2000) the twentieth century ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-911) rollo the walker became the duke of normandy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<?after|before <?he|she|they <?began|finished|started|stopped ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+45124,+012264 the bosco nordio preserve ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+46481,-096282 the world's largest prairie chicken ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+48649,-002026 the walled city of saint malo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+51754,-001257 another time two ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=-10883,-165850 danger island ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<t stop <?coasting|sleeping through life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-all generalizations are inaccurate/including this one ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-all the things that are - are ours/but we must care - for if we do not/we do not exist ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0521
-and you may ask yourself/how do i work this? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0256
-believe that there is good in the world/and if you're not seeing it/then you need to be it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-children must be taught how to think/not what to think ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Mead
-do not confuse honest dissent with disloyal subversion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-don't let hopelessness live rent-free in your head ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-establishing boundaries won't drive away/the people who are good for you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-even though the ship may go down/the journey goes on ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Mead
-every gun made - every rocket fired/signifies a theft from those who hunger/and are not fed/those who are cold and not clothed ~~ DDE
-for the very first time/the young are seeing history being made/before it is censored by their elders ~~~~~~~~~~~~~~~~~~~~~~~~~~~ Mead
-force can protect in emergency/but only justice consideration and cooperation/can finally lead us to the dawn/of eternal peace ~~ DDE
-freedom is just an opportunity for self discipline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-history does not long entrust the care of freedom/to the weak or timid ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-if the future is to remain open and free/we need people who can tolerate the unknown ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Mead
-it is false and arbitrary to put all/the play and learning into childhood/the work into middle age/and the regrets into old age ~ Mead
-it may be necessary temporarily/to accept a lesser evil/but one must never label/a necessary evil as good ~~~~~~~~~~~~~~~~~~~~~~~ Mead
-look around you/appreciate what you have/nothing will be the same in a year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-never depend on governments to solve major problems/all social change comes from/the passion of individuals ~~~~~~~~~~~~~~~~~~~~~ Mead
-never doubt that a small group of thoughtful and/committed people can change the world/it's the only thing that ever has ~~~~~~~~ Margaret Mead
-never waste a minute thinking about people you don't like ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-no one else matters/the important thing is how you feel about yourself/and how keanu reeves would feel about you if he met you ~~~~~~~
-not everything released to the public/is meant to inform you/some of it is meant to corrupt you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-one day the people of the world will want peace/so much that the governments will have to/get out of their way ~~~~~~~~~~~~~~~~~~ DDE
-one of the oldest human needs is/having someone to wonder where you are/when you don't come home at night ~~~~~~~~~~~~~~~~~~~~~~~ Mead
-plans are worthless/but planning is everything ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-red shirt appreciation day/the federation thanks you for your service ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-right now in the namib desert/a welwitschia is growing a leaf/for the first and last time/in its two thousand year life ~~~~~~~~~~~~~~
-sometimes it's just about refusing to quit/especially when quitting would be easier ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-stay close to people who/want to see you win ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the system wants your complacency/do not oblige it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the world is more like it is now/than it ever has before ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-the world is not spending money alone/it is spending the sweat of its labors/genius of its scientists/the hope of its children ~~ DDE
-there are more people alive/and working for a better world/than in all of human history combined/don't let hopelessness win ~~~~~~~~~~
-there is no greater insight into the future/than recognizing when we save our children/we save ourselves ~~~~~~~~~~~~~~~~~~~~~~~~ Mead
-under the cloud of war/humanity hangs from a cross of iron ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-we must make haste! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-what is important is seldom urgent and/what is urgent is seldom important ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DDE
-when you're running from the guns and the tear gas/you grab the hand of the person next to you/and you take them with you ~~~~~~~~~~~~
-why not be your own hero? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you are allowed to outgrow people/without villainizing them or yourself/distance doesn't always mean conflict ~~~~~~~~~~~~~~~~~~~~~~~~
-you are going to have to completely/restart your life at some point ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you build a life out of second chances ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you can easily return to the past/but no one is there anymore ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you humans are so fragile/it's important to give flowers while you can/never admire quietly ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you may be a product of your past/but you don't have to be a prisoner of it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you're here to build something that lasts/and that means going slow when you need to ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
