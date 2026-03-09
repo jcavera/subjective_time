@@ -11,9 +11,11 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
 Byte Number: 456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+<G=+43337,+017815 the stari most old bridge
 <G=-20712,-051660 the sucuriu river head
 <G=-33861,+121892 esperance
 
+a tip for fitting in... /don't
 because of you people have gotten themselves/through some of their hardest times
 because of you people have healed/they have let go of the hurt/and pain that they carried
 because of you people have smiled/people have laughed when they didn't think/that they could
