@@ -10,11 +10,15 @@ purposefully narrow (e.g.: limited to a single day, a single location, a specifi
 
 All of the resource files are line-length limited to 134 characters, plus a carriage return and newline
 (totaling 136 bytes per line).  All use a tilde (~) character to fill the length and indicate the end of
-the line message content.  Lines may have two (optional) endings.  If the line end contains a dollar sign
-($) followed by three characters, then those characters are to be used as a background image when the
-message is displayed.  If the line ends with a four-digit (leading zero padded) number, then that number
-indicates a reference in the attribution file (attrib.txt).  An attribution (if it exists) must be at the
-end of the line, follwing an image (if that exists).  An example of this:
+the line message content.  Lines MUST be padded to the appropriate length as the code randomly accesses
+lines in files by counting bytes.  If a single line is too long or too short, it throws everything off
+for the lines that follow and those won't be read correctly.
+
+Lines may have two (optional) endings.  If the line end contains a dollar sign ($) followed by three 
+characters, then those characters are to be used as a background image when the message is displayed.  If 
+the line ends with a four-digit (leading zero padded) number, then that number indicates a reference in 
+the attribution file (attrib.txt).  An attribution (if it exists) must be at the end of the line, 
+follwing an image (if that exists).  An example of this:
 ```
 !M=8,d>25,h>19 climb up on the booth hanging from the people on the people ~~~~~~~~~~~~~ 0481
 !h<4 have you ever dreamed a night like this? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brd
@@ -52,18 +56,21 @@ examples of a conditional lines are (from the r_cond file):
 !M=1,d=30 happy yodel at your neighbor day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !Y=2026,M=10,d=24 pythagorean theorem appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
-In the first example, the message is only displayed if the clock is currently between +62.000 and +76.000 degrees latitude, if the month
-is less than three (January or February), and if the hour is greater than 20 (8 pm) local time.  In the second example, the message is
-only displayed if the month is one (January) and the date is the 30th.  In the third, the message is only displayed if the year is 2026,
-the month is ten (October) and the date is the 24th.
+In the first example, the message is only displayed if the clock is currently between +62.000 and +76.000 
+degrees latitude, if the month is less than three (January or February), and if the hour is greater than 20 
+(8 pm) local time.  In the second example, the message is only displayed if the month is one (January) and 
+the date is the 30th.  In the third, the message is only displayed if the year is 2026, the month is ten 
+(October) and the date is the 24th.
 
-In every case, be careful with your conditionals.  There is no error checking for statements that are nonsensical.  A conditional that
-is only valid (for instance) in months greater than 90 will still be checked (and always rejected for obvious reasons).
+In every case, be careful with your conditionals.  There is no error checking for statements that are
+nonsensical.  A conditional that is only valid (for instance) in months greater than 90 will still be 
+checked (and always rejected for obvious reasons).
 
 ### Year substitutions
 
-Lines in the resource files may contain year subsitutions.  These are computed based on the current year and the year given in the
-subsitution string, in parentheses.  There are three possible computations for year substitution:
+Lines in the resource files may contain year subsitutions.  These are computed based on the current year 
+and the year given in the subsitution string, in parentheses.  There are three possible computations for
+year substitution:
 ```
 (a-yyyy) Substitute the number of years since the year "yyyy" C.E.
 (b-yyyy) Substitute the number of years since the year "yyyy" B.C.E
@@ -83,10 +90,11 @@ the tenth anniversary of when they first met
 ```
 ### Macro substitutions
 
-Lines in the resource files may contain macro substitutions in order to compress the data just a little.  Note that I realize that, in
-this project, I use the term "macro" a bit inconsistantly.  For this particular use, I do not mean "referencing the r_macr.txt file".
-That's a different thing entirely.  Rather I mean that a two-character string (an underscore followed by another character) can be
-replaced by a longer string.  Allowed substitutions are as follows:
+Lines in the resource files may contain macro substitutions in order to compress the data just a little.
+Note that I realize that, in this project, I use the term "macro" a bit inconsistantly.  For this particular 
+use, I do not mean "referencing the r_macr.txt file".  That's a different thing entirely.  Rather I mean 
+that a two-character string (an underscore followed by another character) can be replaced by a longer string.
+Allowed substitutions are as follows:
 ```
 _% nativity fast              _& moon                       _* under
 _, of the                     _. night                      _0 midnight
@@ -126,13 +134,14 @@ almost seven o'clock in the evening
 national llama appreciation day
 the festival of saint cedric
 ```
-Yes, there is a macro substitution for "chocolate" (_z).  It turns out that there are quite a lot of chocolate-related 
-holidays.  Go figure.
+Yes, there is a macro substitution for "chocolate" (_z).  It turns out that there are quite a lot of 
+chocolate-related holidays.  Go figure.
 
 ### Numeric substitution
 
-Number substitution can be used for turning numbers into their text equivalent.  A number is preceeded by the number sign (#),
-and when the message is displayed, that number is rendered as text.  As a case in point, the line:
+Number substitution can be used for turning numbers into their text equivalent.  A number is preceeded 
+by the number sign (#), and when the message is displayed, that number is rendered as text.  As a case 
+in point, the line:
 ```
 _G #5300 _N since _] the lathe
 ```
@@ -142,10 +151,10 @@ approximately five thousand three hundred years since the invention of the lathe
 ```
 ### Computed substitution
 
-Finally, a "less than" symbol (<) used outside of the context of a conditional statement denotes a computed substitution.  These
-are substitutions that require an algorithm to figure out, either because they are date/time dependant, they are location 
-dependant, or they are otherwise too complex for a simple look-up table to easily handle.  Allowed computed substitutions are 
-as follows:
+Finally, a "less than" symbol (<) used outside of the context of a conditional statement denotes a 
+computed substitution.  These are substitutions that require an algorithm to figure out, either because 
+they are date/time dependant, they are location dependant, or they are otherwise too complex for a simple 
+look-up table to easily handle.  Allowed computed substitutions are as follows:
 ```
 <A  latitude-longitude coordinates rendered as the nearest whole number
 <B  Benedryl Cucumber's birthday (yeah, just look at the associated function in app_markup.py)
@@ -176,13 +185,13 @@ as follows:
 <y  the current ordinal day of the year
 <?  make a random choice between a list of items delimited by (|)
 ```
-In all cases, you can look at the associated function in the app_markup file to see how those are handled.  Many of them
-stand alone (e.g.: <D always just gives the current day of the week), but a number of them have required or optional
-parameters after the tag (e.g.: <R=100-1000 gives a random number between 100 and 1000).  Tags end at the first space
-character that follows.
+In all cases, you can look at the associated function in the app_markup file to see how those are 
+handled.  Many of them stand alone (e.g.: <D always just gives the current day of the week), but a 
+number of them have required or optional parameters after the tag (e.g.: <R=100-1000 gives a random 
+number between 100 and 1000).  Tags end at the first space character that follows.
 
-All of these are best seen by example, so here's one of each in turn, and how it might render as a message (note that the
-data for current date, time, and location is just made up):
+All of these are best seen by example, so here's one of each in turn, and how it might render as a 
+message (note that the data for current date, time, and location is just made up):
 
 | the line in the resource file        | could render as 
 | -------                              | -------
@@ -218,35 +227,37 @@ data for current date, time, and location is just made up):
 
 # File format for the r_macr.txt file
 
-The macro resource file consists of lines that are referenced from the r_year files.  Each line is fixed length at
-136 characters (134 + cr + nl, the same as the previously mentioned resource files) and the software-read content
-is delimited by tilde characters that pad the line to size (again, the same as the other files).  Anything on a
-line after the tildes is there just to make things easier for humans.
+The macro resource file consists of lines that are referenced from the r_year files.  Each line is 
+fixed length at 136 characters (134 + cr + nl, the same as the previously mentioned resource files) 
+and the software-read content is delimited by tilde characters that pad the line to size (again, the 
+same as the other files).  Anything on a line after the tildes is there just to make things easier 
+for humans.
 
-The first 366 lines in the r_macr.txt file are for the 366 days of the year (leap day included).  The remaining
-lines are for special events, holidays, etc., that are not always tied to a particular (i.e.: not fixed) date.
+The first 366 lines in the r_macr.txt file are for the 366 days of the year (leap day included).  The 
+remaining lines are for special events, holidays, etc., that are not always tied to a particular (i.e.: 
+not fixed) date.
 
-Macro resource file lines are semicolon-delimited lists, that are assembed based on the date instructions found
-in the r_year files.  Refer to the r_year readme for information on how this assembly is carried out.
+Macro resource file lines are semicolon-delimited lists, that are assembed based on the date instructions
+found in the r_year files.  Refer to the r_year readme for information on how this assembly is carried out.
 
 # File format for the r_time.txt file
 
-Like the macro resource file, the time file is indexed by line, but based on the current time rather than the
-date as referenced from a separate file.  The format is the same as that of the macro file, with line lengths
-being the same (136 characters) and consisting of a semicolon-delimited list.
+Like the macro resource file, the time file is indexed by line, but based on the current time rather 
+than the date as referenced from a separate file.  The format is the same as that of the macro file, 
+with line lengths being the same (136 characters) and consisting of a semicolon-delimited list.
 
 In fetching the line, the current local time is used.  The formula for finding the appropriate line is:
 ```
 line number = ((hours in 24-hour format) * 12) + ((minutes rounded to the nearest 5-minute mark) / 12) + 1
 ```
-As with the macro resource file, the end of each line is not used by the program but is included to make it easier
-for humans to read.  In the case of the time file, this is the time in hhmm format.
+As with the macro resource file, the end of each line is not used by the program but is included to make 
+it easier for humans to read.  In the case of the time file, this is the time in hhmm format.
 
 # File format for the config.ini file
 
-The configuration file is read on program startup.  If no configuration file exists, one is created using the
-default values in the code.  The items in the configuration file, their default values, and an explanation of
-their meaning is as follows:
+The configuration file is read on program startup.  If no configuration file exists, one is created using
+the default values in the code.  The items in the configuration file, their default values, and an 
+explanation of their meaning is as follows:
 
 | Item       | Default Value   | Meaning
 | ---------- | ----------      | ----------
@@ -271,11 +282,11 @@ their meaning is as follows:
 
 # File format for the attrib.txt file
 
-The attribution file is special in that it is completely unused by the code.  Rather, the attribution file serves as a
-sort of "readme" file for the project as a whole.  It explains the general philosophy behind the project, some of the
-capabilities of the code, a LONG list of people to thank for their assistance, the sources for some of the code used
-in the creation of the project, and the sources of the image files.
+The attribution file is special in that it is completely unused by the code.  Rather, the attribution file 
+serves as a sort of "readme" file for the project as a whole.  It explains the general philosophy behind 
+the project, some of the capabilities of the code, a LONG list of people to thank for their assistance, the 
+sources for some of the code used in the creation of the project, and the sources of the image files.
 
-Most importantly, there is a very long list of numbers that are tied to the attributions for many of the quotes in
-the various resource files.  This is just to make sure that I'm giving credit where credit is due.  And to be able to
-satisfy the curiosity of people who see a quote displayed and wonder where it comes from.
+Most importantly, there is a very long list of numbers that are tied to the attributions for many of the 
+quotes in the various resource files.  This is just to make sure that I'm giving credit where credit is due.
+And to be able to satisfy the curiosity of people who see a quote displayed and wonder where it comes from.
