@@ -1,18 +1,21 @@
 # Subjective Time
 
-This is the code for the Subjective Time art project.  Originally brought to the playa in 2009, then ported to Pebble in 2012.  Then
-shelved for a good eight years before being revived, completely re-thought and re-written, and then brought BACK to Burning Man in
-2025.  The goal for this project (as of 2025-09) is to come up with an implementation for ESP32-based open-source smart watches.
+This is the code for the Subjective Time art project.  Originally brought to the playa in 2009, then ported to 
+Pebble in 2012.  Then shelved for a good eight years before being revived, completely re-thought and re-written, 
+and then brought BACK to Burning Man in 2025.  The goal for this project (as of 2025-09) is to come up with an 
+implementation for ESP32-based open-source smart watches.
 
-The python code is rough (this was my 2020, I-need-to-learn-python project) but should be sufficiently documented.  For any future
-implementation, I want to use the same common set of data files.  Do NOT mess with the format of the data files.  They're pretty
-sensitive to modification, since everything's adderessed by counting bytes.
+The python code is rough (this was my 2020, I-need-to-learn-python project) but should be sufficiently documented.  
+For any future implementation, I want to use the same common set of data files.  Do NOT mess with the format of 
+the data files.  They're pretty sensitive to modification, since everything's adderessed by counting bytes.
 
-For a better explanation of the project in general, refer to the /data/attrib.txt file.  This serves as an embedded readme file that
-is to travel with the code and provide an expanation of the references for the called-out lines in the data files.  Individual sub-
-directories may have their own readmes in order to explain the file formats.  Also of course, read the code comments.
+For a better explanation of the project in general, refer to the /data/attrib.txt file.  This serves as an embedded 
+readme file that is to travel with the code and provide an expanation of the references for the called-out lines in 
+the data files.  Individual sub-directories may have their own readmes in order to explain the file formats.  Also 
+of course, read the code comments.
 
-And if you want to contribute to the code or data, please for the love of all that is holy, make your own fuckin' branch.  Thanks!
+And if you want to contribute to the code or data, please for the love of all that is holy, make your own fuckin' 
+branch.  Thanks!
 
 ## General rules for all data files
 
@@ -29,11 +32,11 @@ And if you want to contribute to the code or data, please for the love of all th
 
 ## Python code construction and use
 
-This is python so this is an easy one.  First you'll need a python 3.10 (or later) environment on whatever machine you use.  I've
-tested this on Windows 10/11 and Ubuntu 24.x.  It should be fine anywhere since there's nothing particularly platform dependant
-in the code.  The potential exception to what I just said: I do make use of Tkinter for graphics and that may not be appropriate
-if you're wanting to run this in an embedded system.  All of the graphics calls are isolated to the App class in app_main.  So
-that said, after you have a python environment installed...
+This is python so this is an easy one.  First you'll need a python 3.10 (or later) environment on whatever machine 
+you use.  I've tested this on Windows 10/11 and Ubuntu 24.x.  It should be fine anywhere since there's nothing 
+particularly platform dependant in the code.  The potential exception to what I just said: I do make use of Tkinter 
+for graphics and that may not be appropriate if you're wanting to run this in an embedded system.  All of the graphics 
+calls are isolated to the App class in app_main.  So that said, after you have a python environment installed...
 
 - Download the entire project and uncompress it to wherever you want it.
 - Make sure that the directory structure is just like it appears in this repository.
@@ -58,5 +61,11 @@ Oh, and python libraries you'll need (just do a pip install and you'll be fine):
 - suntime
 - ephem
 
+Finally, for debugging purposes, there are two useful functions in the app_parser.py file: return_everything()
+and return_particular().  The first returns everything possible for the given date/time (the first few variables
+defined in the function).  The second returns the results of parsing a particular string.  Just go to the end of 
+the file and uncomment one or the other and then call app_parser.py directly from your python environment.  But
+be sure to re-comment them before using the clock as a clock (it makes a mess otherwise).
 
-That's about it.  If you are passingly familiar with python, it should be straightforward.  If not... then do that first I guess?
+That's about it.  If you are passingly familiar with python, it should be straightforward.  If not... then do 
+that first I guess?
