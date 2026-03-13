@@ -840,6 +840,30 @@ class Parser:
 
 ## As a test, return absolutely everything possible for the current date/time and default location
 
+def print_conditional_entries (file_desig, c):
+    print ("")
+    print ("conditional entries from: " + file_desig)
+    if (file_desig == "r_anys"):        flen = app_files.file_get_lines(app_files.file_any, app_files.k_LEN_R_ANYS)
+    elif (file_desig == "r_brc"):       flen = app_files.file_get_lines(app_files.file_brc, app_files.k_LEN_R_ANYS)
+    elif (file_desig == "r_cond"):      flen = app_files.file_get_lines(app_files.file_cond, app_files.k_LEN_R_ANYS)
+    else:
+        print ("--- file designator not found")
+        return
+    
+    for i in range(1, flen):
+        if (file_desig == "r_anys"):    s = app_files.file_read_line(app_files.file_any, i, app_files.k_LEN_R_ANYS)
+        elif (file_desig == "r_brc"):   s = app_files.file_read_line(app_files.file_brc, i, app_files.k_LEN_R_ANYS)
+        elif (file_desig == "r_cond"):  s = app_files.file_read_line(app_files.file_cond, i, app_files.k_LEN_R_ANYS)
+        if (s[0] == '!'):
+            try:                        ## get rid of any eol flags
+                eos = s.index('~')
+                s   = s[:(eos-1)]
+            except:
+                s   = s.strip()
+            s = app_markup.process_me(s, c)
+            if (s != ""): print("  " + s)
+    return
+
 def return_everything ():
     ltc = datetime.datetime.now()                   ## init the times
     utc = datetime.datetime.now(datetime.UTC)
@@ -906,18 +930,9 @@ def return_everything ():
     for ss in daylist:
         if (ss != ""): print("  " + app_markup.process_me(ss, c) )
     
-    print ("")
-    print ("conditional entries for right now:")
-    flen = app_files.file_get_lines(app_files.file_cond, app_files.k_LEN_R_ANYS)
-    for i in range(1, flen):
-        s = app_files.file_read_line(app_files.file_cond, i, app_files.k_LEN_R_ANYS)
-        try:                        ## get rid of any eol flags
-            eos = s.index('~')
-            s   = s[:(eos-1)]
-        except:
-            s   = s.strip()
-        s = app_markup.process_me(s, c)
-        if (s != ""): print("  " + s)
+    print_conditional_entries("r_anys", c)
+    print_conditional_entries("r_brc", c)
+    print_conditional_entries("r_cond", c)
     
     print ("")
     for i in range(10):
@@ -955,6 +970,7 @@ def return_everything ():
         sb = "    "
         if (p.data.attrib > 0): sb = "{0:04}".format(p.data.attrib)
         if (s != ""): print ("random any " + str(i + 20) + ": [" + sb + "][" + sa + "] " + s)
+    print ("\n --- done ---")
         
 
 def return_particular ():
@@ -963,11 +979,11 @@ def return_particular ():
     lat = 47.434765                                 ## Port Orchard, Washington, USA, Earth
     lon = -122.668934
     tz  = 134                                       ## time zone: north america/los angeles
-    tzo = -700                                      ## offset: PDT = -700, PST = -800
+    tzo = -800                                      ## offset: PDT = -700, PST = -800
     c   = coordinate(ltc, utc, lat, lon, tz, tzo)   ## setup the coordinate structure
     p   = Parser()
     
-    s = "that event about <e is actually about <e and <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $p04"
+    s = "!t>1845,t<1915 te lucis ante terminum ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0437"
     ref = app_strings.get_reference_num(s)      ## find any reference numbers or reference images
     img = app_strings.get_reference_image(s)
     s = app_markup.process_me(s, c)
