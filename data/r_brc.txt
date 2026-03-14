@@ -682,12 +682,15 @@ i have dust in curious places ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i have licked the fire and danced in the ashes of every bridge that i have ever burned ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe 0694
 i have no one to meet/and the ancient empty street/is too dead for dreaming ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 i hope your day is as nice as your ass ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+i impart to you these things/i've felt and seen with star struck eyes/this world of twisted visions/i can't comprehend alive ~~~~ 1007
 i know that the world can be scary/but in this moment you are safe/we got you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i lift the cup to invite the shining moon/along with my shadow we become party of three ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 i like some animals more than some people/and some people more than some animals ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i make the moon and the shadow my company/to enjoy the springtime before too late ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
+i promise you'll have a home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i see a man in the back as a matter of fact/his eyes was as red as the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0554
 i see the girl in the corner that no one ignores/ 'cause she thinks she's the passionate one ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0554
+i share with you the words i have engraved into my skin/in hopes we find our lost pages buried within ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 i think bacchus may have been onto something ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 i'm afraid that some times you'll play lonely games too/games you can't win 'cause you'll play against you ~~~~~~~~~~~~~~~~~~~~~~ 0351
 i'm here and i'm just as strange as you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -960,6 +963,7 @@ not everyone who comes here is happy/some are healing or hiding or lonely/or sca
 nothing is more important than this moment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 nothing is permanent except for a moment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0497
 offer to pray on someone else's behalf/ask them what to pray for and who to pray to ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+oh lover you'll find your home/i'll write to you from dreamland/whose gates are never closed/we'll keep waiting till you come ~~~ 1007
 oh the places you'll go! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
 oh the places you'll go! /there is fun to be done! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
 on a path set through time/tread upon by instinct/knowing souls ever climb/further from the extinct ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
@@ -1086,6 +1090,7 @@ see you in the dust ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 shared joy is multiplied/shared grief is diminished ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0350
 shared movement binds us ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 shared pain is lessened/shared joy is increased/thus do we refute entropy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0350
+shattered lantern with a little burnt out flame/lost in a hysterical quest for a cure they can't create ~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 she closes her eyes and listens where primeval redwoods grow ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 she told a story on her body/each tattoo a lesson learned/each scar a rite of passage ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 show them the magic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -1096,6 +1101,7 @@ sit and enjoy/sit and listen/but above all/sit together forever ~~~~~~~~~~~~~~~~
 sit quietly and forgive them all/realize that no one has done anything to you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 snuggle like you mean it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 so be sure when you step/step with care and great tact/and remember that life's a great balancing act ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
+so here you are now/there's light after the dark/and you had to walk through fire/to get where you are ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 some people talk to animals/not many listen though ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 somehow you'll escape all that waiting and staying/you'll find the bright places/where boom bands are playing ~~~~~~~~~~~~~~~~~~~ 0351
 sometimes a kind stranger is/exactly what someone needs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1238,6 +1244,7 @@ the moment when everything around us/ceases to be what it's been ~~~~~~~~~~~~~~~
 the moon lingers while i am singing/the shadow scatters while i am dancing/we cheer in delight when being awake ~~~~~~~~~~~~~~~~~ $tfe
 the music was soothing/and they all started grooving ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0554
 the only home we've ever known ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $pbd 0248
+the past is forever rooted in your veins/and maybe there's someone who needs to hear your name ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 the playa has a pulse ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
 the playa may not be giving you what you want/but it just might give you what you need ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the playa provides ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1278,6 +1285,7 @@ this may not be what you wanted/but it could be what you needed ~~~~~~~~~~~~~~~~
 this was never supposed to scale/it was just supposed to matter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 though often represented as a simple point/the moment is inherently complex ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 through the forest of forgotten memories/beneath the ancient stars/the self waits patiently ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+time and time again i've hated what is broken/as though shattered souls don't deserve/to feel the light ~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 time for that <?event|lecture|seminar on <e and <e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time is on the side of change ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time spent with cats is never wasted ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1427,6 +1435,7 @@ with the gentle thrum of trance/we arrive at the edge of the universe ~~~~~~~~~~
 with the right one you won't have to work/to feel seen and heard and loved ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 with your head full of brains/and your shoes full of feet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
 with your head full of brains/and your shoes full of feet/you're too smart to go down/any not-so-good street ~~~~~~~~~~~~~~~~~~~~ 0351
+wounded lover/scattered voids hold stories of fragile souls/to all my mangled creatures - welcome home ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 woven into the fabric of tarab ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 yay! new friends! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 yay! trauma bonding! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1494,6 +1503,7 @@ you've tried being your own worst enemy/now try being your own best friend ~~~~~
 you've tried to find the love you'd die for/and looked for the love you'd kill for/now try to find the one you'd live for ~~~~~~~ $qst
 your antagonist has to be every bit/as formidable as your hero ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your entire existence is a love letter/you decide what it's to ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+your heart is worth more/than the blood that it's shedding ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 your light doesn't need to be perfect/it just needs to be seen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your mind will paint a new world/where all people are angels/you will touch them without thinking/and without fear ~~~~~~~~~~~~~~ 0492
 your mountain is waiting/so get on your way! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0351
