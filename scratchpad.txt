@@ -11,6 +11,8 @@ lines in anys that are too short:
  * ~~~~~~~~~~~~ 1008
  with the truth so dull and depressing/the only working alternative is/wild bursts of madness and filigree ~~~~~~~~~~~~~~~~~~~~~~ 0684
 
+attrib: 1011  One Piece
+        1012  Becky Chambers, the Monk and Robot series
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 0000000001111111111222222222233333333334444444444555555555566666666667777777777888888888899999999990000000000111111111122222222223
@@ -18,23 +20,31 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 
 !M=1,d=13 (a-1864) the death of stephen foster ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=17 (a-1861) the unification of italy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=3,d=17 the feast of saint gertrude of nivelles/the patron saint of housecats ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 achievement unlocked! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20
 as long as you live/you have infinite chances ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 do not give reasons to love that you receive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+do you not find consciousness alone/to be the most exhilarating thing? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 don't gaslight me uzi jesus! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 don't shy away from what you've become/force them to look upon you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+everybody thinks they're the exception to the rule/and that's where the trouble starts/one person can do a lot of damage ~~~~~~~~ 1012
 everyone has things that they can do/and thing that they can't/do what you can do/your friends can do what you cannot ~~~~~~~~~~~ 1011
+everything eventually breaks down/and is made into other things ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 flowers can bloom/even in hell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 goal one is to survive/everything else is secondary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 history may repeat itself/but you still can't go back in time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 hiiiiiii zev!!! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 ideas can only be spoken by/those powerful enough to carry them out ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 if a government is afraid of what it's people say/then maybe there's a reason for it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+if someone comes to your table you feed them/even if it means you're a little hungrier ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 if we get to the point where/we don't help each other anymore/that's when we stop being human ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 if we lose credibility by admitting fault/we didn't have any in the first place ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+if we want change or good fortune or solace/we have to create it for ourselves ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 if you don't take risks/you can't create a future ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+if you're focused on moving from sign to sign/there's no opportunity for happy accidents ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 if you're gonna die you might as well/do it in the pursuit of a worthy cause ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+it is enough to exist in the world and marvel at it/you don't need to justify that or earn it/you are allowed to just live ~~~~~~ 1012
 it may be filled with smoke/but we can still see the sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 it takes a certain amount of desperation before/people stop caring about their immediate futures/and start thinking long term ~~~ 0903
 it's better to face the enemy you know/than the one you don't ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20 0903
@@ -47,21 +57,33 @@ new achievement! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 no matter how deep the night/it turns to day eventually ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 no one is born into this world to be alone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 not everything will be social commentary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+nothing has a purpose/the world simply is/and that's okay ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 once trust is broken it can never be replaced ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+repeating history that has left living memory/is an all-too-human tendency ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
+sometimes a person reaches a point in their life/when it becomes absolutely essential to/get the fuck out of the city ~~~~~~~~~~~ 1012
 sometimes it takes more courage not to fight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 sometimes there are no surprises and despite that/it still hits you like a kick to the stomach ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+sometimes you just want to have a moment/between yourself and a turtle/and no one else ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 the act of not doubting - that is strength ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+the more you distance yourself from/what it means to be an animal in this world/the more you risk your connection to it ~~~~~~~~~ 1012
 the ghost of steve irwin smiles down upon you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 the pattern of the universe is written in/the smallest seed and the largest galaxy/step inside and become part of the infinite ~~~~~~~
+the thing every being fears most/is the only thing that's certain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 there are moments that we can't take back/but does that truly mean that there is/nothing we can do to change our fate? / ~~~~~~~~ 0903
 there are things that cannot be stopped/one's will - a dream - an era's change/as long as we long for freedom/none can stop it ~~ 1011
 there are times when one has no choice but to act ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 there are times when one must stay and fight/instead of running/like when a friend's true dream is laughed at ~~~~~~~~~~~~~~~~~~~ 1011
 there can be no happiness in a world/where people are thrown away ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 there's a difference between giving aid/and sacrificing yourself for people/you don't even know ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+there's just some things in the universe/that are better left un-fucked-with ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
+there's something beautiful about being/lucky enough to witness a thing/on its natural way out ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 trauma can make you blind and/it can open your eyes wider than they've ever been/all at the same time ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 viva la revolucion carl ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
+we don't have to fall into the same category/to be of equal value ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 we may be the last generation to have fireflies ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we're all just trying to be comfortable/and well fed and unafraid ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
+we're just atoms that arranged themselves the right way/and we can understand that about ourselves/is that not amazing? / ~~~~~~~ 1012
+welcome some comfort/without it you cannot stay strong ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 welcome to the party pals! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 what you do is your choice/but there's no right or wrong in who you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 when big things happen on a large scale/it's easy to forget that a million little things/are continuing to happen in the world ~~ 0903
@@ -69,9 +91,11 @@ when someone is afraid you need to listen to them/whether their fear is real or 
 when they value coin above life/target the coin/it hurts them more ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 when you decide to follow your dream/you discard your old life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 you can't go back to what you've lost/what is important is what you still have ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+you don't have to earn rest or comfort/you're allowed to just be ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 you don't need to live a thousand years/just living today is good enough ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 you humans are all the same/this is the seventh or eighth human-seeded world/and you always want to know why ~~~~~~~~~~~~~~~~~~~~ 0903
 you still have something left in this world to treasure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+you wouldn't be doing a very good job/of pursuing your quest/if you only welcome the parts that are fun ~~~~~~~~~~~~~~~~~~~~~~~~~ 1012
 you're existence is not a <?crime|sin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
 your pain may be great but it mustn't devour you/there is joy beyond sorrow/what's gone is gone but there's still treasure left ~ 1011
 
