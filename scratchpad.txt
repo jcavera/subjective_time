@@ -5,8 +5,10 @@ NOTES AND TODOs (that don't deserve issues):
 
 Add the timetable for John Cage's, As Slow As Possible
 Fix in anys: (a-2078) leleakuhonua is at perihelion
-Add to macr: the fast of esther ~~~ day before purim (line 519)
-             scarlet wednesday;chaharshanbe suri ~~~ last wednesday of the persian year
+Remove from macr: _u sleep _t references
+Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
+             scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
+             world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
@@ -15,12 +17,19 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 (a-815) padmasambhava wrote the bardo thodol ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 in the time of revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in times of <?great|massive <?change|conflict ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in times of revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in times of usurpation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 maybe we trust each other/because we all do whatever we can/the best that we can ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1011
+no one else matters/the important thing is how you feel about yourself/and how bob ross would feel about you/if he met you ~~~~~~~~~~~
+no one else matters/the important thing is how you feel about yourself/and how steve irwin would feel about you/if he met you ~~~~~~~~
+no one else matters/the important thing is how you feel about yourself/and how mister rogers would feel about you/if he met you ~~~~~~
 no one is <?disposable|expendable|useless ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 seven thousand years since the death of the shaman of bad durrenberg ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there is no such thing as a <?disposable|expendable|useless person ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there will come a time when holding on/will not be the only option you have/struggle is not your identity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+this message intentionally left blank ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+two hundred thousand years since humans/created antiseptics by carefully distilling/birch tar ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
