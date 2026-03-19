@@ -34,13 +34,16 @@ find a book with a <?blue|red|green|yellow|black cover/go to page <R=10-100 and 
 find an old scrap of paper with something scribbled on it/read it like its a message sent from your past self ~~~~~~~~~~~~~~ $qst 1010
 find something old you once created/examine it with curiosity instead of judgement/an alien created that ~~~~~~~~~~~~~~~~~~~ $qst 1010
 for birds there are no borders ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
+freaking out is also/a part of the process ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if a <?frog|possum|crow|racoon|cat sits next to your door/don't ask it why/just say hello and carry on ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
 if a place feels off/thank it for its honesty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
 in the time of revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in times of <?great|massive <?change|conflict ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in times of revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in times of usurpation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+it was a good enough ending/you don't need a grand finale every time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 leave one cupboard a little messy/that's where the house fairies play ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
+let this random message transform your life/into something <?new|unexpected|wonderful ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 light a candle and let it speak in flickers/you don't have to listen to anything else for a while ~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 light two candles and sit between them/one candle is where you're going/the other is where you've been ~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 love can be calm and slow/love can be safe/hollywood romcoms shouldn't be taken literally ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,6 +53,7 @@ no one else matters/the important thing is how you feel about yourself/and how b
 no one else matters/the important thing is how you feel about yourself/and how steve irwin would feel about you/if he met you ~~~~~~~~
 no one else matters/the important thing is how you feel about yourself/and how mister rogers would feel about you/if he met you ~~~~~~
 no one is <?disposable|expendable|useless ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+pick a new hobby/first thing that comes to mind/somthing you never thought you'd do/make it weird ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 pick one object and imagine that/it is fiercely on your side/let it guard you in silence ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 plot twist - it all goes well/and keeps getting better ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 plot twist - you get to have/a happily ever after ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,6 +63,8 @@ some days are for doing/some days are for observing/decide which one today is ~~
 stop for a moment before turning on the light/ask to see what you need to see ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 spend ten minutes walking barefoot on fresh grass ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 talk to your home when you return/it remembers your footsteps/and waits for your keys ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
+the sad part is that there will be sad parts/there will also be other parts entirely ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the truth is that you are <?amazing|wonderful /and you must keep going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there is no such thing as a <?disposable|expendable|useless person ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there will come a time when holding on/will not be the only option you have/struggle is not your identity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 this is not a disaster/this is for the plot ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
@@ -68,8 +74,10 @@ toss a coin and make both outcomes absurd/heads and you can speak to owls/tails 
 treat your pet like a visting noble/from a distant realm ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 two hundred thousand years since humans/created antiseptics by carefully distilling/birch tar ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
 we're all starstuff and cosmic soup/so whatever/just do your thing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+whatever you do just try to keep/that magical inner circus of you alive/okay? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 write a love letter to a moment/hide the letter some where/or read it to your plants ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 you are allowed to ask for more/it's not like the universe is on a budget ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you need to look at a work of art/for at least four hours to understand it/this doesn't just apply to art ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your goal for the day is to collect fragments/fragments are how good things begin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 your spark will come back/trust me on this ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
