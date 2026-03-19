@@ -12,6 +12,10 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
 
+fix in anys:
+  - from: o be a time traveller is to know that/you are eternity disguised ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1008
+  - to:   to be a time traveller is to know that/you are eternity disguised ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1008
+
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
