@@ -14,7 +14,7 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
 
 fix in anys:
   - from: o be a time traveller is to know that/you are eternity disguised ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1008
-  - to:   to be a time traveller is to know that/you are eternity disguised ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1008
+  - to:   to be a time traveller is to know/that you are eternity disguised ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1008
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
@@ -33,9 +33,12 @@ carry a stone in your pocket when you feel unsteady/sometimes you just need a bi
 choose one specific hour/of one specific day/and make it sacred/that hour loves you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 choose one random person that you pass today/silently wish something simple for them/like peace or rest or warmth ~~~~~~~~~~ $qst 1010
 collect three small stones into a triangle/sit near them when you need grounding/they are very good listeners ~~~~~~~~~~~~~~ $qst 1010
+control does not mean safety/the future is inherently unknowable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+do these diodes make my cache look big? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 don't let toxic productivity kill your whimsy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 draw a door on a piece of paper/above it write - elsewhere/if you need to you can go through ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 get a key that you no longer use and hold it/think of something you've been afraid to start/the key can help unlock it ~~~~~ $qst 1010
+get hopelessly lost on your way home/find a new world and roads/that don't exist on any map ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 get up for the sunrise tomorrow/open all of the windows and let the new day in ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 go for a short walk and notice three things/that you've never really looked at before/the world is wider than you knew ~~~~~ $qst 1010
 find a book with a <?blue|red|green|yellow|black cover/go to page <R=10-100 and read the third sentence/it's for you ~~~~~~~ $qst 1010
@@ -45,6 +48,7 @@ for birds there are no borders ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 freaking out is also/a part of the process ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if a <?frog|possum|crow|racoon|cat sits next to your door/don't ask it why/just say hello and carry on ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
 if a place feels off/thank it for its honesty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
+if you can't muster hope then try for/stubbornness and rage and a very clear/picture of what the world should be/that works too ~~~~~~
 in the time of revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in times of <?great|massive <?change|conflict ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in times of revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,11 +57,12 @@ isn't it wild that after tens of billions of years/a bunch of stardust gained se
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?chocolate|art ? / ~~~~
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?gods|monsters ? / ~~~~
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?hentai|lemons ? / ~~~~
-isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?magic|airplanes ? / ~~
+isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?magic|dancing ? / ~~~~
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?music|comedy ? / ~~~~~
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?pizza|puppies ? / ~~~~
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?raves|kittens ? / ~~~~
 isn't it wild that after tens of billions of years/a bunch of stardust gained sentience/and decided to invent <?tacos|rockets ? / ~~~~
+it is not what you see but how you see it/it is not what you hear but how you hear it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it was a good enough ending/you don't need a grand finale every time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 leave one cupboard a little messy/that's where the house fairies play ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 let this random message transform your life/into something <?new|unexpected|wonderful ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,12 +85,14 @@ some days are for doing/some days are for observing/decide which one today is ~~
 stop for a moment before turning on the light/ask to see what you need to see ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 spend ten minutes walking barefoot on fresh grass ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 talk to your home when you return/it remembers your footsteps/and waits for your keys ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
+the adult may turn away/but the child still reaches ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
 the sad part is that there will be sad parts/there will also be other parts entirely ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the truth is that you are <?amazing|wonderful /and you must keep going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there is no such thing as a <?disposable|expendable|useless person ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there will come a time when holding on/will not be the only option you have/struggle is not your identity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 this is not a disaster/this is for the plot ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
 this message intentionally left blank ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+though you don't know what's going to happen/you're going to be okay/after all - you made it this far ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 to unpathed waters and undreamed shores ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0637
 toss a coin and make both outcomes absurd/heads and you can speak to owls/tails and all moss is your friend ~~~~~~~~~~~~~~~~ $qst 1010
 treat your pet like a visting noble/from a distant realm ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
@@ -94,7 +101,10 @@ we're all starstuff and cosmic soup/so whatever/just do your thing ~~~~~~~~~~~~~
 whatever you do just try to keep/that magical inner circus of you alive/okay? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 write a love letter to a moment/hide the letter some where/or read it to your plants ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 you are allowed to ask for more/it's not like the universe is on a budget ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you are allowed to start over ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you are going to fucking die so/you might as well give it your all/chase dreams - do hard things - find freedom/fuck your fears ~~~~~~
 you don't have to win every fight/to change the battlefield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you know you don't have to stand there/and just stare at me/right? ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you need to look at a work of art/for at least four hours to understand it/this doesn't just apply to art ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your goal for the day is to collect fragments/fragments are how good things begin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 your spark will come back/trust me on this ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
