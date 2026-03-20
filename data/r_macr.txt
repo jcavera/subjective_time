@@ -76,7 +76,7 @@ true confessions _t;beware the ides of march;idus martiae;_u consumer rights _t;
 lips _j;take no selfies _t;artichoke _t;panda _t;freedom of information _t;_x urho's _t;_t _, book smugglers;georg ohm's _v ~~~~ 03-16
 _N _x patricks _t;la fheile padraig sona duit;corned beef and cabbage _t;absolutely incredible kids _t;(a-180) _q marcus aurelius ~ 17
 biodiesel _t /thanks heather;an awkward _t;_u recycling _t;haru higan;(a-1980) _q erich fromm;sheelah's _t;forgive _7 parents ~~ 03-18
-read to me _t;_u sleep _t;_w _t of honor;haru higan;laugh together;poultry _t;backyard _t;(a-1918) congress established timezones ~~~~
+read to me _t;_w _t of honor;haru higan;laugh together;poultry _t;backyard _t;(a-1918) congress established timezones ~~~~~~~~~~ 03-17
 _u _t of happiness;_u frog _t;shunbun;haru higan;_u flour _t;oral health _t;proposal _t;sweater _t;bloodletting _t;kiss _7 fiance ~~~~
 corn dog _t;_u _t of forests;nowruz;_u down syndrome _t;haru higan;poetry _t;puppetry _t;haru shanichi;_u storytelling _t;nowruz ~~ 21
 a good _t to goof off;you are as young as you feel;equinox;_u water _t;haru higan;_u seal _t;shatner's _v;(a-106) _o the bostran era ~
@@ -462,8 +462,8 @@ the _s _t of <s=summer|winter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the _L _t of <s=summer|winter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before northern fall equinox x
 the _s _t of <s=fall|spring ;innergize _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day after north fall x
 the _L _t of <s=fall|spring ;innergize _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before north winter solstice x
-the _s _t of <s=winter|summer ;_u sleep _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day after northern winter solstice x
-the _L _t of <s=winter|summer ;_u sleep _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before northern spring equinox x
+the _s _t of <s=winter|summer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day after northern winter solstice x
+the _L _t of <s=winter|summer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before northern spring equinox x
 pluto is at opposition [zod];the earth lies directly between the sun and pluto [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 sonam losar;losar;the <?_l|_o the _M _, rat;spring lantern _@;_s full _& _@;yuan xiao jie;gong xi fa chai ~~~~~~~~~~~~~~~~~~~~~~~~~~ x
 sonam losar;losar;the <?_l|_o the _M _, ox;spring lantern _@;_s full _& _@;yuan xiao jie;gong xi fa chai ~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
