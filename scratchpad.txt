@@ -10,9 +10,8 @@ Fix in anys: (a-2078) leleakuhonua is at perihelion
 Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
-Add to attrib: 1014  From the fourteenth Dali Lama
+Add to attrib: 1014  From Tenzin Gyatso, the fourteenth Dalai Lama
                1015  Tara Brach
-
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
@@ -33,22 +32,36 @@ fuck what they say/watch what they do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 go off into the forest and get very quiet/you will come to understand that/you're connected to everything ~~~~~~~~~~~~~~~~~~ $qst 0430
 healing kills you first/because the version of you that got you here/can't survive where you're going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 hope is a strange thing/it doesn't fix anything/it just keeps us going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if someone is trying to kill you with a gun/it would be reasonable to shoot back/maybe not their head though/try for a leg ~~~~~~ 1014
 if you slow down a little - you notice a little/if you slow down completely/you will see things as they are ~~~~~~~~~~~~~~~~~~~~~~~~~~
+if you think that you're too small to make a difference/try sleeping with a mosquito ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 if you understand everything/you're completely misinformed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if your compassion does not include yourself/it is incomplete ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
+it is under the greatest adversity that/there exists the greatest potential for good/for for oneself and for others ~~~~~~~~~~~~~ 1014
+it won't remain like this ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it's not about feeling good all the time/just get better at feeling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it's okay to go back to your older art/and tweak it a bit if you see parts/that could've been better ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+learn to obey the rules very well/so that you know how to/break them properly ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 life is incredibly short/a few decades pass and suddenly/an entire lifetime is gone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 life is more fun with shenanigans ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 life was never meant to be carried like a burden/it was meant to be experienced like a dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 life was never meant to be taken seriously ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+love and compassion are necessities/not luxuries/we cannot survive without them ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 most people are always worried about the next thing/as if life were a problem that has to be solved ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+no matter what sort of difficulties/how painful our experience is/if we lose our hope we've lost everything ~~~~~~~~~~~~~~~~~~~~~ 1014
+no need for temples/no need for theology/your own heart is a temple/kindness is your religeon ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 no one else can see the universe as you do/so no one else can tell the same stories/that you have to tell ~~~~~~~~~~~~~~~~~~~~~~~ 0921
 no valid plans for the future can be made/by those who have no capacity for living now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0430
 nothing needs to happen right now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+once a year go someplace you've never been before ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1014
+one day kindness will replace resentment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+one day the spell will finally break/and evil will leave this world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+one day the world will/bloom into a garden ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 one day you'll wish you could feel this lost/and this alive and this becoming/all over again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+open your arms to change/it is the only constant/but don't let go of your values ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 our problem starts with a question/which side are you on? /like that's enough to understand a person/people don't fit in boxes ~~~~~~~
 peace begins when you stop negotiating/with the present moment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+people take different roads to find their life/just because they're not on your road/it doesn't mean they're lost ~~~~~~~~~~~~~~~ 1014
 redemptive suffering is bad theology/seldom is suffering redemptive/and if it we're surely we'd all/be saved by now ~~~~~~~~~~~~~~~~~~
 risk it before it's too late ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 risk it for the eighty year old you/that will be glad that you did ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,6 +69,11 @@ risk it for the plot ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 risk it for the stories that you'll have ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 risk it for the younger you who/didn't think you'd make it this far ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 some places hold the story/long after humans let it go ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+someone else's actions should not/determine your response ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
+sometimes healing just means/forgetting faster ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sometimes not getting what you want/is a wonderful stroke of luck ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
+sometimes the best answer is silence ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
+sometimes you have to go through isolation/to come out whole on the other side ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sometimes your next halting step/is more powerful than the grandest vision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 spending time in constant seriousness/is a strange choice/almost like forgetting that you are alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 stay human - feel it all the way through/you don't have to stop being you/to survive this ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,16 +82,21 @@ the art of living is neither careless drifting/nor fearful clinging to the past/
 the higher the fence - the deeper the fear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the long way home is harder/but the harder the journey/the better the view ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the meaning of life is just to be alive/that's all/and yet people rush around in panic as if/it were necessary to go beyond themselves
+the more you are motivated by love/the more fearless and free you will be ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1015
 the only way to life is by accepting each minute/as an unrepeatable miracle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1015
 the problem is that we're waiting to feel whole/and we don't realize that we already are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the same people who hurt you/aren't the people to heal you/time to stop going back ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the shape of a story depends/on where it ends ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the world won't stay like this forever ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 this isn't who they are/it's who they had to become/just to make it through ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 this isn't who you are/it's who you had to become/just to make it through ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time doesn't ask if you're ready ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+time passes unhindered/we cannot turn back the clock and try again/all we can do is use the present well ~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 we're only here for a hundred years or so ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 what you can't see is shaping/how you see everything ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 when seriousness fades something beautiful appears/playfulness and laughter/a quiet joy in simply being here ~~~~~~~~~~~~~~~~~~~~~~~~~
+wherever there is pain/one day it will be healed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+wherever you have friends/that is your country/wherever you receive love/that is your home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
 you are <?fabulous|powerful|capable|talented|special|important|valued ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are <?intelligent|empowered|respected|deserving|brave|loved ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
