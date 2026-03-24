@@ -10,26 +10,45 @@ Fix in anys: (a-2078) leleakuhonua is at perihelion
 Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
+Add to attrib: 1014  From the fourteenth Dali Lama
+               1015  Tara Brach
+
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+(a-1928) konstanty laszczka carved the cat princess ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+49420,+020421 pieniny castle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+all that a leaf knows about building a tree/is how to turn toward the light ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+be completely engaged in what you're doing/right here and now/and instead of calling it work/realize that it is play ~~~~~~~~~~~~ 0430
+choose to be optimistic/it just feels better ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
+don't believe every thought that you think ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 don't ruin what is good/just to prove that it/wouldn't have lasted anyway ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 everything bagel? /no everything not bagel/in fact most things not bagel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $wnv
 everything can flip in an instant ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 feelings stay longer/than words ever do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 fuck what they say/watch what they do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+go off into the forest and get very quiet/you will come to understand that/you're connected to everything ~~~~~~~~~~~~~~~~~~ $qst 0430
 healing kills you first/because the version of you that got you here/can't survive where you're going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 hope is a strange thing/it doesn't fix anything/it just keeps us going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if you slow down a little - you notice a little/if you slow down completely/you will see things as they are ~~~~~~~~~~~~~~~~~~~~~~~~~~
 if you understand everything/you're completely misinformed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if your compassion does not include yourself/it is incomplete ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1014
+it's not about feeling good all the time/just get better at feeling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it's okay to go back to your older art/and tweak it a bit if you see parts/that could've been better ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+life is incredibly short/a few decades pass and suddenly/an entire lifetime is gone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 life is more fun with shenanigans ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+life was never meant to be carried like a burden/it was meant to be experienced like a dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+life was never meant to be taken seriously ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+most people are always worried about the next thing/as if life were a problem that has to be solved ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 no one else can see the universe as you do/so no one else can tell the same stories/that you have to tell ~~~~~~~~~~~~~~~~~~~~~~~ 0921
+no valid plans for the future can be made/by those who have no capacity for living now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0430
+nothing needs to happen right now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 one day you'll wish you could feel this lost/and this alive and this becoming/all over again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 our problem starts with a question/which side are you on? /like that's enough to understand a person/people don't fit in boxes ~~~~~~~
+peace begins when you stop negotiating/with the present moment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 redemptive suffering is bad theology/seldom is suffering redemptive/and if it we're surely we'd all/be saved by now ~~~~~~~~~~~~~~~~~~
 risk it before it's too late ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 risk it for the eighty year old you/that will be glad that you did ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -37,10 +56,15 @@ risk it for the plot ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 risk it for the stories that you'll have ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 risk it for the younger you who/didn't think you'd make it this far ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 some places hold the story/long after humans let it go ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sometimes your next halting step/is more powerful than the grandest vision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+spending time in constant seriousness/is a strange choice/almost like forgetting that you are alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 stay human - feel it all the way through/you don't have to stop being you/to survive this ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 take up space/let each small rebellion bring you back/you are allowed to exist as you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the art of living is neither careless drifting/nor fearful clinging to the past/just be sensitive to each moment/as new and unique ~~~
 the higher the fence - the deeper the fear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the long way home is harder/but the harder the journey/the better the view ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the meaning of life is just to be alive/that's all/and yet people rush around in panic as if/it were necessary to go beyond themselves
+the only way to life is by accepting each minute/as an unrepeatable miracle ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1015
 the problem is that we're waiting to feel whole/and we don't realize that we already are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the same people who hurt you/aren't the people to heal you/time to stop going back ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 this isn't who they are/it's who they had to become/just to make it through ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,6 +72,7 @@ this isn't who you are/it's who you had to become/just to make it through ~~~~~~
 time doesn't ask if you're ready ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 we're only here for a hundred years or so ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 what you can't see is shaping/how you see everything ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+when seriousness fades something beautiful appears/playfulness and laughter/a quiet joy in simply being here ~~~~~~~~~~~~~~~~~~~~~~~~~
 you are <?fabulous|powerful|capable|talented|special|important|valued ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are <?intelligent|empowered|respected|deserving|brave|loved ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
