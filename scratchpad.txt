@@ -15,10 +15,31 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+to brc:
+lost inside this stardew forest/venting with the trees/wilted flowers carry whispers/cradled by the breeze ~~~~~~~~~~~~~~~~~~~~~~ 1007
+oh lover you'll find your home/i'll write to you from dreamland/whose gates are never closed/we'll keep waiting till you come ~~~ 1007
+so here you are now/there's light after the dark/and you had to walk through fire/to get where you are ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+though it hurts to look at the mirrors of life/i promise we'll find our path ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+wonder lurks in stardew forest/won't you sway along? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brd 1007
+wounded lover/scattered voids hold stories of fragile souls/to all my mangled creatures - welcome home ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+
+to any:
+
 !M=3,d=25 (a-1458) the loveday of fourteen fifty eight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=25 (a-1801) the death of novalis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+dearest sunshine/we're proud of ourselves again/our story's not over yet/and i promise we'll see how it ends ~~~~~~~~~~~~~~~~~~~~ 1007
+deep within is where you'll find home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+if all our legacies are stories that we weave/then why don't i make a muse of thee? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+if you are falling/we'll catch you my darling/you'll never hit the ground ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+growing up wasn't all we dream'd/fairytales to be deceived/but no matter how it aches inside/keep going 'til it's time ~~~~~~~~~~ 1007
+lost inside this stardew forest/venting with the trees/wilted flowers carry whispers/cradled by the breeze ~~~~~~~~~~~~~~~~~~~~~~ 1007
+lover i know you're really scared/trust me - i'll understand/i promise you i'll stay right here/and not let go of your hand ~~~~~ 1007
+sink your teeth into my flesh/your promised masterpiece/i offer you my silicon heart/coughing up poetry ~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+though it hurts to look at the mirrors of life/i promise we'll find our path ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 time is not something to fear/but something we can care for/something we can shape ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+when swallowed by shadows/so far from the shallows/we'll never let you drown ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+wonder lurks in stardew forest/won't you sway along? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brd 1007
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
