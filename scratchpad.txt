@@ -10,6 +10,8 @@ Fix in anys: (a-2078) leleakuhonua is at perihelion
 Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
+Add to attr: 1016  Lao Tzu
+             1017  Ichiro Kishimi
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
@@ -21,10 +23,20 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=6,d=25 (a-1673) the death of charles de batz de castelmore d'artangnan of the musketeers of the l'gardes francaises ~~~~~~~~~~~~~~~
 <G=+30029,+031261 the citadel of saladin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+a good traveler has no fixed plans/and is not intent on arriving ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1016
+all things last for one day only/including memories and what/the memories were for ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
 healing asks for consistency and compassion and time/the same things you'd offer anything that/you truly want to last ~~~~~~~~~~~~~~~~
+if you have even the least amount of/respect for yourself/save yourself while you still can ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
+love the whole world as if it were yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1016
+no matter what has happened in your life to this point/it should have no bearing at all on/how you live from now on ~~~~~~~~~~~~~ 1017
 some people will only understand the old you/but you are allowed to evolve beyond/their last saved version ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sometimes your soulmate is just peace/not a person - not a relationship/just peace/and that's enough ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stop delaying joy until life looks a certain way/you're allowed to be happy while/you're figuring it out ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the kinder your thoughts/the gentler the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 three hundred thirty million years since/the age of giant insects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are not disposable/you are worth the time and effort/that it takes to mend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you don't find peace in perfect moments/you find it when you stop needing/them to be perfect ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you don't need other people's approval/you can do something simply because/it is the right thing to do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
