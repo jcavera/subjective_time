@@ -19,6 +19,7 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=3,d=26 national science appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=10 (a-1933) the night of the burning library ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=6,d=25 (a-1673) the death of charles de batz de castelmore d'artangnan of the musketeers of the l'gardes francaises ~~~~~~~~~~~~~~~
+<G=+30029,+031261 the citadel of saladin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 three hundred thirty million years since/the age of giant insects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
