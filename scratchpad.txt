@@ -21,11 +21,27 @@ Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890
 !M=3,d=26 national science appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=10 (a-1933) the night of the burning library ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=6,d=25 (a-1673) the death of charles de batz de castelmore d'artangnan of the musketeers of the l'gardes francaises ~~~~~~~~~~~~~~~
+!h>19 beneath a starry sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!h<4 beneath a starry sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+30029,+031261 the citadel of saladin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 a good traveler has no fixed plans/and is not intent on arriving ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1016
+an amazing <?day|moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 all things last for one day only/including memories and what/the memories were for ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
+as reality is <?realigning|rebuilding|reconstructing|reinventing itself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+as we embark on our <?journey|path|quest|voyage ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at a <?critical|defining|pivotal <?junction|juncture|moment|place|point|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the start of something <?big|fantastic|grand|great|impossible|incredible|new|revolutionary|wild ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+do you know the warm progress under the stars? /do you know we exist? /have you been born yet and are you alive? / ~~~~~~~~~~~~~~ 0406
+do you know the warm progress under the stars? /do you know we exist? /have you forgotten the keys to the kingdom? / ~~~~~~~~~~~~ 0406
+do you know the warm progress under the stars? /do you know we exist? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0406
+have you forgotten the keys to the kingdom? /have you been born yet and are you alive? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0406
 healing asks for consistency and compassion and time/the same things you'd offer anything that/you truly want to last ~~~~~~~~~~~~~~~~
+here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of bliss/for the first time in their life ~~~~~~~~~~~~~~~~~
+here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of connection/for the first time in their life ~~~~~~~~~~~~
+here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of euphoria/for the first time in their life ~~~~~~~~~~~~~~
+here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of satori/for the first time in their life ~~~~~~~~~~~~~~~~
+here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of sonder/for the first time in their life ~~~~~~~~~~~~~~~~
 if you have even the least amount of/respect for yourself/save yourself while you still can ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
 love the whole world as if it were yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1016
 no matter what has happened in your life to this point/it should have no bearing at all on/how you live from now on ~~~~~~~~~~~~~ 1017
