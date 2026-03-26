@@ -483,7 +483,9 @@
 !M=3,d=23 (a-2178) one pluto-year since its discovery ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=23 rachel macintosh's birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=24 the international day for the right to the truth concerning gross human rights violations and for the dignity of victims ~~~
+!M=3,d=25 (a-1458) the loveday of fourteen fifty eight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=25 (a-1611) the birth of evliya celebi the traveler ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=3,d=25 (a-1801) the death of novalis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=25 (a-1916) the death of ishi/the last of the yahi people ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=25 the international day of remembrance of the victims of slavery and the transatlantic slave trade ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=25 the international day of solidarity with detained and missing staff members ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
