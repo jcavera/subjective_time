@@ -12,16 +12,23 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
 Add to attr: 1016  Lao Tzu
              1017  Ichiro Kishimi
+             1018  Latin: dare to know
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+(a-1417) three different popes tried to excommunicate each other at the same time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1740) the prussian emperor kidnapped tall people in order to have the tallest army ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1866) the liechtenstein army went off to war with eighty men and came back with eighty one because they made a friend ~~~~~~~~~~~~~
+(a-1949) the gathering of the inklings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1964) robert indiana created love ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1995) helge meyer became the ghost to deliver aid to a war zone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=26 national science appreciation day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=3,d=27 the day of the union of romania and bessarabia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=10 (a-1933) the night of the burning library ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=6,d=25 (a-1673) the death of charles de batz de castelmore d'artangnan of the musketeers of the l'gardes francaises ~~~~~~~~~~~~~~~
+!M=9,d=13 (a-1944) the death of princess noor inayat khan by nazi firing squad ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !h>19 beneath a starry sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !h<4 beneath a starry sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+30029,+031261 the citadel of saladin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,12 +40,14 @@ as reality is <?realigning|rebuilding|reconstructing|reinventing itself ~~~~~~~~
 as we embark on our <?journey|path|quest|voyage ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 at a <?critical|defining|pivotal <?junction|juncture|moment|place|point|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 at the start of something <?big|fantastic|grand|great|impossible|incredible|new|revolutionary|wild ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+be careful what you carry with you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 but in the end it's only a passing thing/this shadow/even darkness must pass ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one
 deeds will not be less valiant/because they are unpraised ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one
 do you know the warm progress under the stars? /do you know we exist? /have you been born yet and are you alive? / ~~~~~~~~~~~~~~ 0406
 do you know the warm progress under the stars? /do you know we exist? /have you forgotten the keys to the kingdom? / ~~~~~~~~~~~~ 0406
 do you know the warm progress under the stars? /do you know we exist? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0406
 every path before you has risk/as does no path at all/pick your destination ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+go back to a place that you once abandoned/take a friend with you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 goodness dies in silence/so i think you should speak ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 have you forgotten the keys to the kingdom? /have you been born yet and are you alive? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0406
 healing asks for consistency and compassion and time/the same things you'd offer anything that/you truly want to last ~~~~~~~~~~~~~~~~
@@ -48,23 +57,31 @@ here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of eu
 here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of satori/for the first time in their life ~~~~~~~~~~~~~~~~
 here on this date in <R=11-19 <R=11-99 /<?he|she|they experienced a moment of sonder/for the first time in their life ~~~~~~~~~~~~~~~~
 i might be just beginning/i might be near the end ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0035
+if it can be lost to you/it was never yours to begin with ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if more of us valued food and cheer and song/above hoarded gold/it would be a better world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one
 if not here then where? /if not now then when? /if not you then who? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if you have even the least amount of/respect for yourself/save yourself while you still can ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
+it is <?actually|entirely possible that/one of the wright brothers' mechanics/could've worked on the apollo program ~~~~~~~~~~~~~~~~~~
 learn a language spoken by fewer than a million people ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+learn to use your neglected senses/smell all the new smells/find north with your eyes closed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 love the whole world as if it were yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1016
 make up your own holiday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 may you ever appear where you are most needed/and least expected ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one
 no matter what has happened in your life to this point/it should have no bearing at all on/how you live from now on ~~~~~~~~~~~~~ 1017
 read a nonfiction text about something/completely and totally new to you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+sapere aude ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1018
 so comes snow after fire/and even dragons have their endings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one
 some people will only understand the old you/but you are allowed to evolve beyond/their last saved version ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sometimes your soulmate is just peace/not a person - not a relationship/just peace/and that's enough ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 stop delaying joy until life looks a certain way/you're allowed to be happy while/you're figuring it out ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stop procrastinating/go work on your <?art|health|project|studies|writing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 stop explaining yourself to people who/have already decided who you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the future belongs to the curious ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the kinder your thoughts/the gentler the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there's no such thing as a safe choice/so go after your dreams with/everything you have ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 three hundred thirty million years since/the age of giant insects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tormented by the pressure to mend it back together/but the pieces all break in their grasp ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+travel only <?north|northeast|east|southeast|south|southwest|west|northwest until you get to something interesting ~~~~~~~~~~~~~~ $qst
 you are not disposable/you are worth the time and effort/that it takes to mend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you don't find peace in perfect moments/you find it when you stop needing/them to be perfect ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you don't need other people's approval/you can do something simply because/it is the right thing to do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
