@@ -10,6 +10,8 @@ Fix in anys: (a-2078) leleakuhonua is at perihelion
 Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
+remove (duplicate):
+the most dangerous form of blindness is believing/that your perspective is the only reality ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0837
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
@@ -29,6 +31,7 @@ everything after this/will be different ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 not everything is meant to be solved/some things are meant to be felt/and feeling is its own kind of knowing ~~~~~~~~~~~~~~~~~~~~~~~~~
 some days it storms/some days it shines/this is how flowers grow ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 stop measuring your worth by/how much you can carry ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the person with a why to live/can almost always find a how ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0837
 this is the last time that you will be/this version of yourself/everything after this is different ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 everyone can be brave/you just need to find someone to be brave for ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your body is fighting for you every single day/you should love it back ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
