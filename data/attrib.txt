@@ -1121,7 +1121,7 @@ have a good idea of mine.
 0970  Chinese: keep going, you can do it!
 0971  French: life goes on
 0972  Latin: always forward
-0973  Naia
+0973  Naia Evergreen
 0974  French: everything in its own time
 0975  Latin: work conquers all
 0976  Japanese: endure, be patient
@@ -1165,3 +1165,7 @@ have a good idea of mine.
 1013  John Green, Turtles all the way down
 1014  From Tenzin Gyatso, the fourteenth Dalai Lama
 1015  Tara Brach
+1016  Lao Tzu
+1017  Ichiro Kishimi
+1018  Latin: dare to know
+1019  Latin: find a way or make your own
