@@ -16,6 +16,7 @@ the most dangerous form of blindness is believing/that your perspective is the o
 attrib:
 1020  The official motto of the Adventurers' Club
 1021  Emily Dickinson, various writings
+1022  Max Fractal (nee Kim Boekbinder), various writings
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
@@ -46,6 +47,7 @@ everything after this/will be different ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 go into the forest and/let the flowers remind you/that nothing lasts forever ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 go into the forest and/let the trees remind you/that growth takes time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 go into the forest and/let the wind show you/how to change your direction ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+go into the forest and/listen to a live stream/the kind with water ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 0819
 help someone to climb a mountain/and you too will reach the summit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it is unreasonable to assume that/a character know what genre they're in ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it was the fuck aroundest of times/it was the find outest of times ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,6 +55,7 @@ it's okay that it didn't work out/you would've hated it anyway ~~~~~~~~~~~~~~~~~
 life does not wait for you to be okay ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 life is too short and/happiness is too rare ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 making the right decision can still cost you/sadness doesn't mean that you chose wrong ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+maybe the email won't find you/if you just stay really still ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 not everything is meant to be solved/some things are meant to be felt/and feeling is its own kind of knowing ~~~~~~~~~~~~~~~~~~~~~~~~~
 not knowing when the dawn will come/open every door ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1021
 paths are formed by walking forward ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,10 +71,12 @@ the difficult times you are going through now/are teaching you what you'll need 
 the difference between a kiss and a bite/is how deep the teeth go/but both can kill ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the person with a why to live/can almost always find a how ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0837
 the world might be burning but/we have rivers running through/our hearts ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+there is a child in you who is five but/who hasn't learned a thing in/thirty thousand years ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there is a future version of you/begging you to enjoy where you are now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 this is the last time that you will be/this version of yourself/everything after this is different ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time for the fire inside of you/to burn brighter than/the fire around you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
 to not dance when you had the ability/and could hear the music might be/the biggest regret of your life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we win by continuing to exist/as we always have/those of us who love each other/who want the best for each other ~~~~~~~~~~~ $kim 1022
 what a blessing it is to be exhausted/in the pursuit of a challenge/of your own choosing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 when you are caught between/a rock and a hard place/become the water ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you aren't where you want to be because/you are not yet the person/who would be there ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
