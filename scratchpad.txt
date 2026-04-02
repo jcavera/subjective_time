@@ -21,7 +21,10 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
 !M=12,d=10 (a-1975) the first appearance of il perna cabeluda/viva a revolucao! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=4,d=1 (a-2026) four-chan wrote a new and better bill of rights for the united kingdom/seriously - you can't make this stuff up ~~~~
 !M=4,d=1 (a-2026) the launch of the artemis two mission to the moon ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=9 (a-2005) the first xkcd comic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2014) planting began on the great green wall of africa ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (b-1100) the discovery of magnetism in lodestone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
 <G=-00883,+033938 migingo island ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t defend your <?community|tribe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $p06
@@ -30,9 +33,14 @@ above the clouds/the sky is still blue ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 because you are alive/everything is possible ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1023
 don't give up on yourself/you're closer to the blue sky than you think ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i know that things feel heavy right now/like everything is darker than it should be/but above the clouds/the sky is still blue ~~~~~~~
+if our desire to burn down a corrupt system is/greater than our desire to build a better one/then we have lost our way ~~~~~~~~~~~~~~~
+isn't it magical how seemingly random people/can cross paths one day and/start to mean everything to each other? / ~~~~~~~~~~~~~~~~~~~
 just because life feels dark right now/doesn't mean that the future is dark too ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 some seasons are just clouds/they pass/even if it doesn't feel like it yet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere in a distant forest/a bee is meeting a drone/both do the work but only one/tastes the flowers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere schrodinger's cat still walks the earth/caught between life and death/and yet living it to it's fullest ~~~~~~~~~~~~~~~~~~~~
 ungai soten ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1024
+we must embrace false dichotomies/because the alternative is cannibalism! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0303
 welcome back! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
