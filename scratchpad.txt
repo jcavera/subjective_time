@@ -12,6 +12,7 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
 Mod:
       lines containing "community" or "tribe", tag with image $p06 (maybe)
+      macro: 448 easter monday;smigus dyngus ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
