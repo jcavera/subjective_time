@@ -10,13 +10,61 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
 
+fix in r_cond: ... henry darger joined the realms of the unreal
+
+fix in r_anys:
+in our obscurity - in all this vastness/there is no hint that help will come from elsewhere/to save us from ourselves ~~~~~~ $pbd 0248
+much of human history has been a test/to see how bad legalized evil has to get/before people rise up against it ~~~~~~~~~~~~~~~~~~~~~~
+redemptive suffering is bad theology/seldom is suffering redemptive/and if it were surely we'd all/be saved by now ~~~~~~~~~~~~~~~~~~~
+the blood-dimmed tide is loosed and everywhere/the ceremony of innocence is drowned ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0447
+we must seek a non-computable physical theory/that reaches every level of computation/and perhaps beyond ~~~~~~~~~~~~~~~~~~~~~~~~ 0614
+where others say that it is too late/the traveler knows that/there is always a fold to be found/always a gate to be opened ~~~~~~ 1008
+
 DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
-00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
-Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
+brc:
+go ahead and kiss her/just ask first ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+go ahead and kiss him/just ask first ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+go ahead and kiss them/just ask first ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 
+any:
+!M=4,d=12 (a-1975) keith hearne verified lucid dreaming in the lab ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=4,d=13 neil banging out the tunes day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=4,d=14 (a-2026) the death of maire ni bhraonain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=4,d=15 national anime day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+45928,+001041 the remains of oradour-sur-glane ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+58200,+038441 the sunken city of mologa ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+before you give up/remember why you started in the first place ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+do no harm but also/take no shit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+do they come from a can? /were they put there by a man? /in a factory downtown? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0791
+doing it imperfectly beats planning it to death ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+don't search for love/search for life and love will come ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+every place holds a story ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+half of life is lost in charming others/the other half is lost to anxiety/leave it be - you have played enough ~~~~~~~~~~~~~~~~~~ 0418
+how lucky you are to be alive/at the same time as the people you love! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if we don't change what we're conditioned to accept/we will keep rebuilding the same systems/that we say we want to dismantle ~~~~~~~~
+if you think that <?family|happiness|health|rest|sleep is the price of success/then you need to redefine success ~~~~~~~~~~~~~~~~~~~~~
+it could be worse/but we won't know until it is ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+it's okay to be disliked/don't trade your authenticity for approval ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+just because they are quiet it doesn't mean/that they are at peace ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+life is found in the in between moments ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+never mistake personal epiphanies/for universal truths ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+orange you glad i didn't say banana? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+reality is a do-it-yourself project ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+remember to pause before you/take on someone else's pain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+some mistakes take you to the right place ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the abyss is for staring into/the void is for screaming into/please stop screaming into the abyss/we're not insured for that ~~~~~~~~~
+the heaviest thing you carry/is the idea of who you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yes you are a strong person/but life gave you no other option ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you deserve someone who loves you/with their whole entire heart ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you don't find peace by escaping life/you create it by refusing to let life/steal it from you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you tell those mean voices in your head/to fuck right the hell off ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+your anxiety is a lying bitch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+your worth isn't the pain you endure for others/nor how well you can fall in line/allow yourself freedom to/create your destiny ~ 1007
+your wounds hold stories/that's nothing to be ashamed of/allow yourself tenderness too/everyone deserves some softness ~~~~~~~~~~ 1007
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
