@@ -35,8 +35,9 @@ This device knows many things but may only choose to tell you a few of them.  It
 
 This is the code for the Subjective Time art project.  Originally brought to the playa in 2009, then ported to 
 Pebble in 2012.  Then shelved for a good eight years before being revived, completely re-thought and re-written, 
-and then brought BACK to Burning Man in 2025.  The goal for this project (as of 2025-09) is to come up with an 
-implementation for ESP32-based open-source smart watches.
+and then brought BACK to Burning Man in 2025.  The goal for this project (as of 02026-04) is to come up with an 
+implementation for ESP32-based open-source smart watches.  And there are code snippets in the sandbox to support
+that.
 
 The python code is rough (this was my 2020, I-need-to-learn-python project) but should be sufficiently documented.  
 For any future implementation, I want to use the same common set of data files.  Do NOT mess with the format of 
