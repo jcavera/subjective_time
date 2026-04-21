@@ -31,6 +31,17 @@ This device knows many things but may only choose to tell you a few of them.  It
 - It may give you instructions or give you a quest to go on
 - It also knows tens of thousands of book and movie quotes and song lyrics and random sayings
 
+## Thanks to...
+
+This didn't happen in a vacuum and it certainly draws on the work of others.  Rather a lot of others, particularly
+for the content of the databases.  Maybe I referenced you?  To find a particular author, musician, artist, or other
+quotable individual, go to the [attribution file](https://github.com/jcavera/subjective_time/blob/main/data/attrib.txt)
+and search for a name (or just scroll down to something interesting).  The four digit number that precedes it is an
+attribution reference in one or more of the data files.  For instance, to find something that John Muir said, search
+for "John Muir" in the attrib.txt file and find his number (0570, in case you're lazy).  Then go to the r_anys.txt
+file and find all instances of " 0570".  And those are his quotes that I used (possibly not an exact quote, due to
+formatting limitations).
+
 # Subjective Time
 
 This is the code for the Subjective Time art project.  Originally brought to the playa in 2009, then ported to 
@@ -44,7 +55,7 @@ For any future implementation, I want to use the same common set of data files. 
 the data files.  They're pretty sensitive to modification, since everything's adderessed by counting bytes.
 
 For a better explanation of the project in general, refer to the /data/attrib.txt file.  This serves as an embedded 
-readme file that is to travel with the code and provide an expanation of the references for the called-out lines in 
+readme file that must travel with the code and provides an expanation of the references for the called-out lines in 
 the data files.  Individual sub-directories may have their own readmes in order to explain the file formats.  Also 
 of course, read the code comments.
 
