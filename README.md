@@ -92,7 +92,7 @@ calls are isolated to the App class in app_main.  So that said, after you have a
   - lon = -119.204595 (and this one to your current longitude)
   - tz = 134 (the one-based line number of your current timezone in the /data/all_rgn.txt file)
   - tz_off = -700 (the current time offset from GMT in <+/->HHMM format)
-  - debug = True (if true, then the message changes ever 10 seconds for debugging)
+  - debug = True (if true, then the message changes every 10-ish seconds for debugging)
   - playa = True (if true, then Burning Man messages are displayed)
   - img_dir = image_1920_45/ (pick out the directory that matches your screen)
 - To start the clock, go to a console in the project directory and type: ```` python __init.py__ ````
