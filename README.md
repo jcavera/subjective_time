@@ -20,7 +20,8 @@ There's nothing wrong with your mind.  That's just how time is.  And this clock 
 
 First, please note that it's impossible to keep accurate time with this device.  Look to your normal clock for that.
 Not only is this device inherently (and often shockingly) inaccurate from a linear time perspective, but even the
-interval at which it updates itself is more-or-less random.  And it will sometimes lie to you.
+interval at which it updates itself is more-or-less random.  Sometimes the messages are nonsensical.  Sometimes they
+are shockingly prescient.  And sometimes this clock will lie to you.
 
 This device knows many things but may only choose to tell you a few of them.  It understands and tracks... 
 
