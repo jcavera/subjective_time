@@ -1,3 +1,5 @@
+<p align="center"><img src="./sandbox/stpic_3.png" alt="Clock on the Playa"></p>
+
 # Introduction
 
 It's about time...
@@ -35,7 +37,7 @@ This device knows many things but may only choose to tell you a few of them.  It
 
 This didn't happen in a vacuum and it certainly draws on the work of others.  Rather a lot of others, particularly
 for the content of the databases.  Maybe I referenced you?  To find a particular author, musician, artist, or other
-quotable individual, go to the [attribution file](https://github.com/jcavera/subjective_time/blob/main/data/attrib.txt)
+quotable individual, go to the [attribution file](./data/attrib.txt)
 and search for a name (or just scroll down to something interesting).  The four digit number that precedes it is an
 attribution reference in one or more of the data files.  For instance, to find something that John Muir said, search
 for "John Muir" in the attrib.txt file and find his number (0570, in case you're lazy).  Then go to the r_anys.txt
