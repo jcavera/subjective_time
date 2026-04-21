@@ -1,3 +1,36 @@
+# Introduction
+
+It's about time...
+
+"Time is not what you think it is.  People assume that time is a strict progression of cause to effect, but actually
+ from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly wobbly time-y wimey... stuff."
+
+And that's the problem.  Any clock will tell you what time it is from a strictly Newtonian perspective.  But... time 
+and space and information are intimately twisted about.  Events can occasionally precede their causes and the past can
+be edited. In a sense, the future and past don't exist, and yet we live as though they do.  And in yet another sense, the
+future and past have already existed and always will in a strange realm of potential.  The terms "elsewhere" and "elsewhen"
+take on different meanings according to our lives, our paths, and even our moods.  There are people in your life whom you
+may have just met and yet know them as though you've known them all their lives.  You remember events that you could not
+possibly have attended with perfect clarity as though they just happened.  People who have long passed or who are yet to
+be are still with you in every moment.
+
+There's nothing wrong with your mind.  That's just how time is.  And this clock will help you make sense of it.
+
+First, please note that it's impossible to keep accurate time with this device.  Look to your normal clock for that.
+Not only is this device inherently (and often shockingly) inaccurate from a linear time perspective, but even the
+interval at which it updates itself is more-or-less random.  And it will sometimes lie to you.
+
+This device knows many things but may only choose to tell you a few of them.  It understands and tracks... 
+
+- the positions and motions of the sun and moon and planets and stars
+- the workings of many different calendars including: Gregorian, Hebrew, Chinese, Martian, Indian National, Arabic, and many others
+- It may decide to cast an I-Ching reading, draw a card from a divination deck, shake a magic 8-ball, or throw runestones
+- It may give you positional references to any one of many thousands of different places, real and imagined
+- Or temporal references to many thousands of different past or future events
+- Its database contains many many thousands of holidays, anniversaries, and important times
+- It may give you instructions or give you a quest to go on
+- It also knows tens of thousands of book and movie quotes and song lyrics and random sayings
+
 # Subjective Time
 
 This is the code for the Subjective Time art project.  Originally brought to the playa in 2009, then ported to 
