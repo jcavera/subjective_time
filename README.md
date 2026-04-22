@@ -65,6 +65,11 @@ of course, read the code comments.
 And if you want to contribute to the code or data, please for the love of all that is holy, make your own fuckin' 
 branch.  Thanks!
 
+## Want to add something?
+
+Do you have a suggestion for the code?  Or something to add to the database?  If "yes" make sure that you've read
+through the code and database files first.  And then go to "Discussions" (link at the top) and add your suggestion!
+
 ## General rules for all data files
 
 - Only ASCII encoding is allowed.  The system cannot render UTF-anything characters.  Sorry/not-sorry.
