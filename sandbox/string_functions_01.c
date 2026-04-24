@@ -101,6 +101,51 @@ uint16_t choose_between (char* s, char delim, char* out)
     return (j);
 }
 
+// Append a string (b) to an input string (a) with a character (c) in between them.  If the
+// in-between character is null, it is ignored.  On exit, return the length of the complete
+// string.
+
+uint16_t append_wo_eos (char *a, char *b, char c)
+{
+    uint16_t alen = strlen(a);
+    uint16_t blen = strlen(b);
+    uint16_t i = 0, j = 0, isr = 0;
+    
+    if (blen == 0) return (alen);
+    if (c > 0) {
+        a[alen] = c;
+        alen++;
+    }
+    for (i=alen, j=0; j<blen; i++, j++) {
+        if (b[j] == '~') break;
+        a[i] = b[j];
+    }
+    return (i++);
+}
+
+// Find the position of a substring (t) within an input string (s).  If the substring is not found
+// within the input string, return a -1.   The position is the index in (s) of the first character
+// in the test string (t) of the first match.  Only that first valid match is returned - searching 
+// stops when it is found.
+
+int16_t find_str_in_str (char *s, char *t)
+{
+    uint16_t slen = strlen(s);
+    uint16_t tlen = strlen(t);
+    uint16_t i = 0, j = 0, isr = 0;
+    
+    if (slen < tlen) return (-1);
+    for (i=0; i<slen; i++) {
+        isr = i;
+        for (i,j=0; j<tlen; j++,i++) {
+            if (s[i] != t[j]) break;
+            if (j == tlen - 1) return (isr);
+        }
+        i = isr;
+    }
+    return (-1);
+}
+
 
 int main()
 {
