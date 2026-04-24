@@ -280,6 +280,12 @@ explanation of their meaning is as follows:
 | t_style    | bold            | The font style to use for writing displayed messages.
 | t_color    | #4f4            | The font color to use for writing displayed messages in night mode.
 
+# File format for the strings.txt file
+
+This is unused by the python code but used in the (future) C code.  It's simply a list of 64 byte (62 characters
+plus cr and nl) strings that can be grabbed by line number rather than having to reside in a header file or be
+embedded in the code and take up space in main memory.
+
 # File format for the attrib.txt file
 
 The attribution file is special in that it is completely unused by the code.  Rather, the attribution file 
