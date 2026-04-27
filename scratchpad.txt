@@ -17,6 +17,22 @@ DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the pe
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+cond:
+!M=4,d=27 koningsdag ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+any:
+(a-1939) j.r.r. tolkien delivered his lecture on the inherent magic of faerie tales ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+at the start of the age of re-enchantment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in a disenchanted world/waiting for your magic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+re-enchant the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+re-enchant your life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sixty seven hundred years since the/invention of metal casting ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
+the stars lost their divinity as astronomy developed/and the dying god has no place/in commercial agriculture ~~~~~~~~~~~~~~~~~~~ 0584
+there is still magic in the world/what will you do with it? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+magic can happen <?anytime|anywhere ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we do not look at trees either as dryads/or as beautiful objects/when we cut them into beams ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0584
+you don't have to connect a lot of dots/you just need a few critical points/and the cultural mythology you absorbed/will shift ~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
