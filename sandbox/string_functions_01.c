@@ -1,9 +1,11 @@
 // Functions Included:
-//  str_get_ref_pic     Return an embedded or appended image and a reference number, if either exists.
-//  choose_between      Return a randomly selected sub-string from a string containing a delimited list.
-//  append_wo_eos       Append a string (b) to an input string (b) with an optional character in between.
-//  find_in_str         Return the position of a sub-string (if found) in the input string.
-//  replace_in_str      Replace the first instance of a sub-string (if found) with a new string.
+//      str_get_ref_pic     Return an embedded or appended image and a reference number, if either exists.
+//      choose_between      Return a randomly selected sub-string from a string containing a delimited list.
+//      append_wo_eos       Append a string (b) to an input string (b) with an optional character in between.
+//      find_in_str         Return the position of a sub-string (if found) in the input string.
+//      replace_in_str      Replace the first instance of a sub-string (if found) with a new string.
+//      word_len            Return the length of the first word in the string.
+//      strip_eol           Strip off everything at the end of a line that is not displayed.
 
 #include <stdio.h>      // used in main() only for printf calls
 #include <stdint.h>
@@ -111,7 +113,9 @@ uint16_t choose_between (char* s, char* out, char delim)
 
 // Append a string (b) to an input string (a) with a character (c) in between them.  If the
 // in-between character is null, it is ignored.  On exit, return the length of the complete
-// string.
+// string.   The original and appended string is contained in the (a) input, and so it must
+// have sufficient allocated space to contain both strings a and b; an in-between character
+// and an ending null character (i.e.: alen + blen + 2).
 
 uint16_t append_wo_eos (char *a, char *b, char c)
 {
@@ -125,6 +129,7 @@ uint16_t append_wo_eos (char *a, char *b, char c)
         if (b[j] == '~') break;
         a[i] = b[j];
     }
+    if (a[i] == 0x20) {  a[i] = 0;  i--;  }     // remove a trailing space if there is one
     return (i++);
 }
 
@@ -140,7 +145,8 @@ int16_t find_in_str (char *s, char *t, uint16_t startat)
     uint16_t tlen = strlen(t);
     uint16_t i = 0, j = 0, isr = 0;
     
-    if (slen < tlen) return (-1);
+    if ((slen == 0) || (tlen == 0)) return (-1);    // return if s or t is null
+    if (slen < tlen) return (-1);                   // return if t is larger than s
     for (i=startat; i<slen; i++) {
         isr = i;
         for (i,j=0; j<tlen; j++,i++) {
@@ -156,7 +162,8 @@ int16_t find_in_str (char *s, char *t, uint16_t startat)
 // (repl).  If any of the input strings have a length of zero, then return error. If the find
 // string is not found, then return zero. The output string (out) must be pre-allocated to be
 // large enough to store the result of the replace operation. The output string is cleared to
-// null on entry to the function.  
+// null on entry to the function.   This is not an in-place operation and the output must not
+// be the same string as any of the inputs.
 // 
 // Test strings:
 //        00000000001111111111222222222233333333334444444444555
@@ -175,7 +182,7 @@ int16_t replace_in_str (char *in, char *find, char *repl, char *out, uint16_t ou
     uint16_t i = 0, j = 0, k = 0;
     
     if ((in_len == 0) || (find_len == 0) || (repl_len == 0)) return (-1);   // return error if any input is null
-    result = find_str_in_str(in, find, 0);                                  // find the first instance of (find) in (in)
+    result = find_in_str(in, find, 0);                                      // find the first instance of (find) in (in)
     if (result == -1) return (0);                                           // return zero if (find) is not found
     for (i=0; i<out_len; i++) out[i] = 0;                                   // clear the output string
     
@@ -184,6 +191,31 @@ int16_t replace_in_str (char *in, char *find, char *repl, char *out, uint16_t ou
     for (i,j=0; j<repl_len; i++,j++) out[i] = repl[j];                      // copy over the replacement part
     while (in[k]) {  out[i] = in[k];  i++;  k++;  }                         // copy over the last part of (in)
     return (i);                                                             // return length of output string
+}
+
+// Determine the length of a word given that word delimiters can be a space character,
+// a newline character, a carriage return character, a forward slash, or a tilde. This
+// starts at the start of the input and continues until the end-of-word conditions are
+// met.   If there are multiple words in the input string, it finds the length of only
+// the first one, starting at position (i).
+
+uint16_t word_len (char *a, uint16_t i)
+{
+    while ((a[i] != 0x20) && (a[i] != '\n') && (a[i] != '\r') && (a[i] != '/') && (a[i] != '~')) i++;
+    return (i);
+}
+
+
+// Strip off everything at the end of a line that is not displayed.  This inlcudes trailing
+// spaces, carriage returns, newlines, and tilde characters.  This is an in-place operation
+// and the new string length is returned.
+
+uint16_t strip_eol (char *a)
+{
+    uint16_t i = 0;
+    while (a[i]) i++;                                                   // advance to the end of the string
+    while ((a[i] <= 0x20) || (a[i] == '~')) {  a[i] = 0;  i--;  }       // reverse through it and delete bad chars
+    return (i++);
 }
 
 
