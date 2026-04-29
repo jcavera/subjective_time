@@ -13,7 +13,9 @@
 #include <string.h>     // used for strlen
 #include <time.h>       // used for random number seeding
 
-#define k_MAX_LEN 256
+#define sNAN        ((float)  0x8fc00000)
+#define dNAN        ((double) 0x7ff8000000000000)
+#define k_MAX_LEN   256
 
 // Extract the reference number from the end of the string; return 0 if not found. Extract
 // the image string from the end of the string if found.  String is truncated to the first
@@ -68,6 +70,7 @@ uint16_t str_get_ref_pic (char *s, char *p)
     return r;
 }
 
+
 // Return a random sub-string given that the input string is a list of strings separated
 // by a delimiting character.   If the input string has no delimiters then a zero result
 // is returned and the output string is empty.  Otherwise, the randomly selected item in
@@ -110,6 +113,7 @@ uint16_t choose_between (char* s, char* out, char delim)
     }
     return (j);
 }
+
 
 // Append a string (b) to an input string (a) with a character (c) in between them.  If the
 // in-between character is null, it is ignored.  On exit, return the length of the complete
@@ -158,6 +162,7 @@ int16_t find_in_str (char *s, char *t, uint16_t startat)
     return (-1);
 }
 
+
 // In the input string (in) eplace the first instance of a substring (find) with a new string
 // (repl).  If any of the input strings have a length of zero, then return error. If the find
 // string is not found, then return zero. The output string (out) must be pre-allocated to be
@@ -193,6 +198,7 @@ int16_t replace_in_str (char *in, char *find, char *repl, char *out, uint16_t ou
     return (i);                                                             // return length of output string
 }
 
+
 // Determine the length of a word given that word delimiters can be a space character,
 // a newline character, a carriage return character, a forward slash, or a tilde. This
 // starts at the start of the input and continues until the end-of-word conditions are
@@ -216,6 +222,58 @@ uint16_t strip_eol (char *a)
     while (a[i]) i++;                                                   // advance to the end of the string
     while ((a[i] <= 0x20) || (a[i] == '~')) {  a[i] = 0;  i--;  }       // reverse through it and delete bad chars
     return (i++);
+}
+
+
+// Read and return a floating point number. The index (i) is on the LAST digit of the number
+// and the number must be of the form: (+|-)nnn.nnnnnn.   On an invalid number, the function
+// returns a NaN. Note that, because this is a single precision float, the smallest three or
+// so digits of the result are not guaranteed to be an exact match to the string.  The other
+// function returns a double, which likely will match everything in the input string. You'll
+// want to use whichever makes more sense for the processor and application.
+
+float return_single (char *s, uint16_t i)
+{
+    float r = 0.000000;
+    float d = 0.000001;
+    if ((s[i] < '0') || (s[i] > '9')) return sNAN;
+    while ((((s[i] >= '0') && (s[i] <= '9')) || (s[i] == '.') || (s[i] == '+') || (s[i] == '-')) && (i > 0)) {
+        if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * ((float) (s[i] - '0')));  d = d * 10.0;  }
+        if (s[i] == '-') r = r * -1.00;
+    }
+    return (r);
+}
+
+double return_double (char *s, uint16_t i)
+{
+    double r = 0.000000;
+    double d = 0.000001;
+    if ((s[i] < '0') || (s[i] > '9')) return dNAN;
+    while ((((s[i] >= '0') && (s[i] <= '9')) || (s[i] == '.') || (s[i] == '+') || (s[i] == '-')) && (i > 0)) {
+        if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * ((double) (s[i] - '0')));  d = d * 10.0;  }
+        if (s[i] == '-') r = r * -1.00;
+    }
+    return (r);
+}
+
+
+// Read and return an unsigned integer (16b) represented as a hexadecimal number. The index (i)
+// is on the LAST digit of the number and the number must be of the form: (#|x)nn(..)n  with an
+// up-to-4 character restriction on the length.   The processing stops when anything outside of
+// the valid hex range (0..9aA..fF) is reached.  If the number is invalid, return zero.
+
+uint16_t return_hex (char *s, uint16_t i)
+{
+    uint16_t r = 0x0;
+    uint16_t d = 0x00000001;
+    uint16_t j = 1;
+    while ( ((s[i] >= '0') && (s[i] <= '9')) || ((s[i] >= 'a') && (s[i] <= 'f')) || ((s[i] >= 'A') && (s[i] <= 'F')) ) {
+        if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * (s[i] - '0'));  d = d * 16;  }
+        if ((s[i] >= 'a') && (s[i] <= 'f')) {  r = r + (d * (s[i] - 'a' + 10));  d = d * 16;  }
+        if ((s[i] >= 'A') && (s[i] <= 'F')) {  r = r + (d * (s[i] - 'A' + 10));  d = d * 16;  }
+        j++; if (j > 4) break;
+    }
+    return (r);
 }
 
 
