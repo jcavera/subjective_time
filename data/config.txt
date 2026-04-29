@@ -1,0 +1,39 @@
+00000000001111111111222222222233333333334444444444555555555566666666667777777
+01234567890123456789012345678901234567890123456789012345678901234567890123456
+file/dir ~~~~~~~~ len ~ f/d - description ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+image_1920_45/ ~~ 000 ~ dir - default for image files ~~~~~~~~~~~~~~~~~~~~~~~
+data/ ~~~~~~~~~~~ 000 ~ dir - data files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+h_year/ ~~~~~~~~~ 103 ~ dir - high-priority daily event files by year ~~~~~~~
+r_year/ ~~~~~~~~~ 112 ~ dir - normal daily event files by year ~~~~~~~~~~~~~~
+z_timezone/ ~~~~~ 060 ~ dir - time zone data by region id ~~~~~~~~~~~~~~~~~~~
+attrib.txt ~~~~~~ 000 ~ file - system readme and attributions ~~~~~~~~~~~~~~~
+config.txt ~~~~~~ 080 ~ file - configuration ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+all_rgn.txt ~~~~~ 056 ~ file - time zone region information ~~~~~~~~~~~~~~~~~
+all_tz.idx ~~~~~~ 000 ~ file - time zone index to the map ~~~~~~~~~~~~~~~~~~~
+all_tz.map ~~~~~~ 000 ~ file - time zone compressed map ~~~~~~~~~~~~~~~~~~~~~
+r_macr.txt ~~~~~~ 136 ~ file - macro definitions for daily events ~~~~~~~~~~~
+r_time.txt ~~~~~~ 136 ~ file - lines for specific times of day ~~~~~~~~~~~~~~
+r_brc.txt ~~~~~~~ 136 ~ file - lines for use on the playa ~~~~~~~~~~~~~~~~~~~
+r_cond.txt ~~~~~~ 136 ~ file - lines with only conditional statements ~~~~~~~
+r_anys.txt ~~~~~~ 136 ~ file - lines that are valid for any time ~~~~~~~~~~~~
+strings.txt ~~~~~ 048 ~ file - string constants and macros indexed by line ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+param name ~~~~~ type ~~ description ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ value ~
+lat ~~~~~~~~~~~~~ f ~~~~ last known latitude ~~~~~~~~~~~~~~~~~~~~ +040.786110
+lon ~~~~~~~~~~~~~ f ~~~~ last known longitude ~~~~~~~~~~~~~~~~~~~ -119.204595
+tz ~~~~~~~~~~~~~~ u ~~~~ last known timezone index ~~~~~~~~~~~~~~~~~~~~ +0134
+tz_off ~~~~~~~~~~ i ~~~~ last known timezone offset (hhmm) ~~~~~~~~~~~~ -0700
+debug ~~~~~~~~~~~ b ~~~~ flag - start in debug mode (update 10 sec) ~~~~~~~ T
+playa ~~~~~~~~~~~ b ~~~~ flag - show on-playa messages ~~~~~~~~~~~~~~~~~~~~ T
+gps ~~~~~~~~~~~~~ b ~~~~ flag - use gps timing/position ~~~~~~~~~~~~~~~~~~~ F
+l_chars ~~~~~~~~~ u ~~~~ number of chars in a single line ~~~~~~~~~~~~~ +0056
+l_lines ~~~~~~~~~ u ~~~~ number of message lines to display ~~~~~~~~~~~ +0006
+l_start ~~~~~~~~~ f ~~~~ degree location of message arc start ~~~ +222.500000
+l_end ~~~~~~~~~~~ f ~~~~ degree location of message arc end ~~~~~ -047.500000
+l_step ~~~~~~~~~~ u ~~~~ number of pixels between message arcs ~~~~~~~~ +0065
+t_font ~~~~~~~~~~ t ~~~~ displayed message font ~~~~~~~~~~~~~~~~~ Courier New
+t_size ~~~~~~~~~~ u ~~~~ font size of outermost message arc ~~~~~~~~~~~ +0038
+t_sstep ~~~~~~~~~ u ~~~~ points that font is reduced for arc ~~~~~~~~~~ +0005
+t_style ~~~~~~~~~ u ~~~~ displayed message font style ~~~~~~~~~~~~~~~~~~ 0001
+t_color ~~~~~~~~~ x ~~~~ displayed message font color (night) ~~~~~~~~~~ #4f4
