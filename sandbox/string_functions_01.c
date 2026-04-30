@@ -6,16 +6,42 @@
 //      replace_in_str      Replace the first instance of a sub-string (if found) with a new string.
 //      word_len            Return the length of the first word in the string.
 //      strip_eol           Strip off everything at the end of a line that is not displayed.
+//      trim_string         Trim any leading and/or trailing spaces from the input string.
+//
+//      return_single_end   From the end of a string, return the first single-precision float found.
+//      return_double_end   From the end of a string, return the first double-precision float found.
+//      return_hex_end      From the end of a string, return the first unsigned 16b hex integer found.
+//      return_int_end      From the end of a string, return the first signed 16b integer found.
+//      return_uint_end     From the end of a string, return the first unsigned 16b integer found.
+//      return_str_end      From the end of a string, return a string parameter.
 
-#include <stdio.h>      // used in main() only for printf calls
+#include <stdio.h>  // used in main() only for printf calls
 #include <stdint.h>
 #include <stdlib.h>
-#include <string.h>     // used for strlen
-#include <time.h>       // used for random number seeding
+#include <string.h> // used for strlen
+#include <time.h>   // used for random number seeding
 
 #define sNAN        ((float)  0x8fc00000)
 #define dNAN        ((double) 0x7ff8000000000000)
 #define k_MAX_LEN   256
+
+uint16_t    str_get_ref_pic     (char *s, char *p);
+uint16_t    rand_0toN           (uint16_t N);
+uint16_t    choose_between      (char* s, char* out, char delim);
+uint16_t    append_wo_eos       (char *a, char *b, char c);
+int16_t     find_in_str         (char *s, char *t, uint16_t startat);
+int16_t     replace_in_str      (char *in, char *find, char *repl, char *out, uint16_t out_len);
+uint16_t    word_len            (char *a, uint16_t i);
+uint16_t    strip_eol           (char *a);
+uint16_t    trim_string         (char *s);
+
+float       return_single_end   (char *s, uint16_t i);
+double      return_double_end   (char *s, uint16_t i);
+uint16_t    return_hex_end      (char *s, uint16_t i);
+int16_t     return_int_end      (char *s, uint16_t i);
+uint16_t    return_uint_end     (char *s, uint16_t i);
+uint16_t    return_str_end      (char *s, uint16_t i, char *p);
+
 
 // Extract the reference number from the end of the string; return 0 if not found. Extract
 // the image string from the end of the string if found.  String is truncated to the first
@@ -187,8 +213,10 @@ int16_t replace_in_str (char *in, char *find, char *repl, char *out, uint16_t ou
     uint16_t i = 0, j = 0, k = 0;
     
     if ((in_len == 0) || (find_len == 0) || (repl_len == 0)) return (-1);   // return error if any input is null
+    if (find_len > in_len) return (-1);                                     // return error if find string is bigger than input
     result = find_in_str(in, find, 0);                                      // find the first instance of (find) in (in)
     if (result == -1) return (0);                                           // return zero if (find) is not found
+    if ((in_len - find_len + repl_len) >= out_len) return (-1);             // return error if not enough space in output
     for (i=0; i<out_len; i++) out[i] = 0;                                   // clear the output string
     
     k = result + find_len;
@@ -225,6 +253,21 @@ uint16_t strip_eol (char *a)
 }
 
 
+// Remove both the leading and trailing spaces of a string along with trailing carriage returns
+// and newlines (or any other unprintable at the end).  This is an in-place operation such that
+// the original string is modified without making a copy.   This function returns the length of
+// the modified string.
+
+uint16_t trim_string (char *s)
+{
+    uint16_t i = 0, j = 0;
+    while (s[i] == 0x20)  i++;
+    while (s[i] >= 0x20) { s[j] = s[i]; i++; j++; }
+    while (s[i] <= 0x20) { s[i] = 0; i--; }
+    return (i++);
+}
+
+
 // Read and return a floating point number. The index (i) is on the LAST digit of the number
 // and the number must be of the form: (+|-)nnn.nnnnnn.   On an invalid number, the function
 // returns a NaN. Note that, because this is a single precision float, the smallest three or
@@ -232,7 +275,7 @@ uint16_t strip_eol (char *a)
 // function returns a double, which likely will match everything in the input string. You'll
 // want to use whichever makes more sense for the processor and application.
 
-float return_single (char *s, uint16_t i)
+float return_single_end (char *s, uint16_t i)
 {
     float r = 0.000000;
     float d = 0.000001;
@@ -240,11 +283,12 @@ float return_single (char *s, uint16_t i)
     while ((((s[i] >= '0') && (s[i] <= '9')) || (s[i] == '.') || (s[i] == '+') || (s[i] == '-')) && (i > 0)) {
         if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * ((float) (s[i] - '0')));  d = d * 10.0;  }
         if (s[i] == '-') r = r * -1.00;
+        i--;
     }
     return (r);
 }
 
-double return_double (char *s, uint16_t i)
+double return_double_end (char *s, uint16_t i)
 {
     double r = 0.000000;
     double d = 0.000001;
@@ -252,6 +296,7 @@ double return_double (char *s, uint16_t i)
     while ((((s[i] >= '0') && (s[i] <= '9')) || (s[i] == '.') || (s[i] == '+') || (s[i] == '-')) && (i > 0)) {
         if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * ((double) (s[i] - '0')));  d = d * 10.0;  }
         if (s[i] == '-') r = r * -1.00;
+        i--;
     }
     return (r);
 }
@@ -262,7 +307,7 @@ double return_double (char *s, uint16_t i)
 // up-to-4 character restriction on the length.   The processing stops when anything outside of
 // the valid hex range (0..9aA..fF) is reached.  If the number is invalid, return zero.
 
-uint16_t return_hex (char *s, uint16_t i)
+uint16_t return_hex_end (char *s, uint16_t i)
 {
     uint16_t r = 0x0;
     uint16_t d = 0x00000001;
@@ -272,39 +317,120 @@ uint16_t return_hex (char *s, uint16_t i)
         if ((s[i] >= 'a') && (s[i] <= 'f')) {  r = r + (d * (s[i] - 'a' + 10));  d = d * 16;  }
         if ((s[i] >= 'A') && (s[i] <= 'F')) {  r = r + (d * (s[i] - 'A' + 10));  d = d * 16;  }
         j++; if (j > 4) break;
+        i--;
     }
     return (r);
 }
 
 
-int main()
-{
-    char     aline[k_MAX_LEN] = "this is a test with a reference ~~~~~~~~~~~~ 9012\r\n";
-    char     bline[k_MAX_LEN] = "this is a test without a reference or picture ~~~\r\n";
-    char     cline[k_MAX_LEN] = "this is a test with ref and pic ~~~~~~~ $qst 4567\r\n";
-    char     dline[k_MAX_LEN] = "this is a test with pic only ~~~~~~~~~~~~~~~ $q01\r\n";
-    char     eline[k_MAX_LEN] = "this one goes all the way to the end with no spce\r\n";
-    char     fline[k_MAX_LEN] = "and this one goes all the way to the end w space \r\n";
-    char     gline[k_MAX_LEN] = "this is what it looks like for an embed pic [p03]\r\n";
-    char     pic[4] = "";
-    uint16_t r = 0, i = 0;
-                                                                                     // expected output:
-    r = str_get_ref_pic(aline, pic);  printf("[%s][%04d] %s. \n", pic, r, aline); // [   ][9012] this is a test with a reference.
-    r = str_get_ref_pic(bline, pic);  printf("[%s][%04d] %s. \n", pic, r, bline); // [   ][0000] this is a test without a reference or picture.
-    r = str_get_ref_pic(cline, pic);  printf("[%s][%04d] %s. \n", pic, r, cline); // [qst][4567] this is a test with ref and pic.
-    r = str_get_ref_pic(dline, pic);  printf("[%s][%04d] %s. \n", pic, r, dline); // [q01][0000] this is a test with pic only.
-    r = str_get_ref_pic(eline, pic);  printf("[%s][%04d] %s. \n", pic, r, eline); // [   ][0000] this one goes all the way to the end with no spce.
-    r = str_get_ref_pic(fline, pic);  printf("[%s][%04d] %s. \n", pic, r, fline); // [   ][0000] and this one goes all the way to the end w space.
-    r = str_get_ref_pic(gline, pic);  printf("[%s][%04d] %s. \n", pic, r, gline); // [p03][0000] this is what it looks like for an embed pic.
+// Read and return an integer (16b signed or unsigned) represented as a decimal number.   The
+// index (i) is on the LAST digit of the number and the number is variable length and must be
+// of the form: (+/-)nn(...)n with an up-to-4 character restriction on the length. Processing
+// stops when anything outside of the valid character range (0..9+-) is reached.   If reading
+// gives an invalid number, return zero.
 
-    char astr[k_MAX_LEN] = "part 1;part 2;part 3;part 4;part 5;part 6;part 7\r\n";
-    char ostr[k_MAX_LEN] = "";
-    srand(time(NULL));
-    for (i=0; i<20; i++) {
-        for (r=0; r<k_MAX_LEN; r++) ostr[r] = 0;
-        r = choose_between(astr, ostr, ';');
-        printf("[%3d] %d: %s \n", i, r, ostr);
+int16_t return_int_end (char *s, uint16_t i)
+{
+    int16_t  r = 0;
+    int16_t  d = 1;
+    uint16_t j = 1;
+    if ((s[i] < '0') || (s[i] > '9')) return 0;
+    while ((((s[i] >= '0') && (s[i] <= '9')) || (s[i] == '+') || (s[i] == '-')) && (i > 0)) {
+        if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * (s[i] - '0'));  d = d * 10;  }
+        if (s[i] == '-') r = r * -1;
+        j++; if (j > 4) break;
+        i--;        
     }
-    return 0;
 }
+
+uint16_t return_uint_end (char *s, uint16_t i)
+{
+    uint16_t r = 0;
+    uint16_t d = 1;
+    uint16_t j = 1;
+    if ((s[i] < '0') || (s[i] > '9')) return 0;
+    while ((((s[i] >= '0') && (s[i] <= '9'))) && (i > 0)) {
+        if ((s[i] >= '0') && (s[i] <= '9')) {  r = r + (d * (s[i] - '0'));  d = d * 10;  }
+        j++; if (j > 4) break;
+        i--;        
+    }
+}
+
+
+// Read and return a string from the end of the string to the first "filler" character (i.e. a
+// tilde and possibly a space after that.  Do this by finding the last instance of a tilde and
+// then advancing to the next non-space character and capturing everything to the (i) position
+// in the initial string.  On success, return the length of the found string parameter.  If it
+// fails, return zero.
+
+uint16_t return_str_end (char *s, uint16_t i, char *p)
+{
+    uint16_t r = 0;
+    uint16_t j = i;
+    while ((s[i] != '~') && (i >= 0)) i--;      // jump to the last tilde character
+    i++;  while (s[i] && (s[i] <= 0x20)) i++;   // the to the next non-space character after
+    while (s[i] && (s[i] >= 0x20) && (i <= j))  {  p[r] = s[i];  i++;  r++;  }
+    if (p[0] == 0) return (0);
+    return (r);
+}
+
+
+// Find the first instance in the input string of the pattern (<abo>-n<n<n<n>>>).  If no match
+// is found, return zero.  On a match of (a-nnnn), return the number 1nnnn.  On a match of the
+// pattern (b-nnnn) return the number 2nnnn.  On a match of (o-nnnn) return the number 3nnnn.
+
+uint16_t find_pattern_yearsub (char *s)
+{
+    uint16_t t = 0, r = 0, d = 1;
+    uint16_t i = 0;
+    while ((s[i] >= 0x20) && (s[i] != '(')) i++;    // find the first instance of (
+    if (s[i] < 0x20) return (0);                    // return null if none found
+    i++;  switch (s[i]) {                           // parse by the type character <abo>
+        case 'a':   t = 10000;  break;              //      sub = (a...
+        case 'b':   t = 20000;  break;              //      sub = (b...
+        case 'o':   t = 30000;  break;              //      sub = (o...
+        default:    return (0);                     //      sub = (<not valid>
+    }
+    i++;  if (s[i] != '-') return (0);              // error if next character is not a dash
+    while ((s[i] != ')') && (s[i] > 0x20)) i++;     // advance to the ) character
+    do {
+        i--;
+        if ((s[i] < '0') || (s[i] > '9')) break;    // a non-number was found - return 0
+        r = r + ((s[i] - '0') * d);  d = d * 10;    // add the number to the result
+    } while (s[i] != '-');
+    return (t + r);
+}
+
+
+// Test function:
+//  int main()
+//  {
+//      char     aline[k_MAX_LEN] = "this is a test with a reference ~~~~~~~~~~~~ 9012\r\n";
+//      char     bline[k_MAX_LEN] = "this is a test without a reference or picture ~~~\r\n";
+//      char     cline[k_MAX_LEN] = "this is a test with ref and pic ~~~~~~~ $qst 4567\r\n";
+//      char     dline[k_MAX_LEN] = "this is a test with pic only ~~~~~~~~~~~~~~~ $q01\r\n";
+//      char     eline[k_MAX_LEN] = "this one goes all the way to the end with no spce\r\n";
+//      char     fline[k_MAX_LEN] = "and this one goes all the way to the end w space \r\n";
+//      char     gline[k_MAX_LEN] = "this is what it looks like for an embed pic [p03]\r\n";
+//      char     pic[4] = "";
+//      uint16_t r = 0, i = 0;
+//                                                                                       // expected output:
+//      r = str_get_ref_pic(aline, pic);  printf("[%s][%04d] %s. \n", pic, r, aline); // [   ][9012] this is a test with a reference.
+//      r = str_get_ref_pic(bline, pic);  printf("[%s][%04d] %s. \n", pic, r, bline); // [   ][0000] this is a test without a reference or picture.
+//      r = str_get_ref_pic(cline, pic);  printf("[%s][%04d] %s. \n", pic, r, cline); // [qst][4567] this is a test with ref and pic.
+//      r = str_get_ref_pic(dline, pic);  printf("[%s][%04d] %s. \n", pic, r, dline); // [q01][0000] this is a test with pic only.
+//      r = str_get_ref_pic(eline, pic);  printf("[%s][%04d] %s. \n", pic, r, eline); // [   ][0000] this one goes all the way to the end with no spce.
+//      r = str_get_ref_pic(fline, pic);  printf("[%s][%04d] %s. \n", pic, r, fline); // [   ][0000] and this one goes all the way to the end w space.
+//      r = str_get_ref_pic(gline, pic);  printf("[%s][%04d] %s. \n", pic, r, gline); // [p03][0000] this is what it looks like for an embed pic.
+//  
+//      char astr[k_MAX_LEN] = "part 1;part 2;part 3;part 4;part 5;part 6;part 7\r\n";
+//      char ostr[k_MAX_LEN] = "";
+//      srand(time(NULL));
+//      for (i=0; i<20; i++) {
+//          for (r=0; r<k_MAX_LEN; r++) ostr[r] = 0;
+//          r = choose_between(astr, ostr, ';');
+//          printf("[%3d] %d: %s \n", i, r, ostr);
+//      }
+//      return 0;
+//  }
 

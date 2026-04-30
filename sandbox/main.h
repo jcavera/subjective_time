@@ -5,7 +5,7 @@
 
 // specification for a single file (size = 21 B)
 
-typedef struct file_spec {
+typedef struct {
     uint8_t     isDir;      // 1 if directory, 0 if file
     uint16_t    line_s;     // size of a single line (number of characters)
     uint16_t    file_s;     // number of lines in the file
@@ -14,7 +14,7 @@ typedef struct file_spec {
 
 // specifications for all files and directories used (size = 336 B)
 
-typedef struct file_list {
+typedef struct {
     file_spec   d_image;    // 00 dir  - default for image files
     file_spec   d_data;     // 01 dir  - data files
     file_spec   d_hyear;    // 02 dir  - high-priority daily event files by year
@@ -35,7 +35,7 @@ typedef struct file_list {
 
 // configuration as stored in the config file (size = 48 B)
 
-typedef struct config {
+typedef struct {
     float       lat;        // f: last known latitude
     float       lon;        // f: last known longitude
     uint16_t    tz;         // u: last known timezone index
@@ -55,19 +55,21 @@ typedef struct config {
     uint16_t    f_color;    // x: displayed message font color (night)
 } config, *config_ptr;
 
-// all globals in the system (size = 774 B)
 
-typedef struct globals {
+// all globals in the system (size = 775 B)
+
+typedef struct {
     file_list   f;          // list of all files used (size = 336 B)
     config      c;          // configuration from config file (size = 48 B)
     char        msg[6][64]; // last message created (size = 384 B)
     char        img[4];     // backround image file name (size = 4 B)
     uint16_t    ref;        // attribution reference number (size = 2 B)
+    uint8_t      update;    // periodic update counter (size = 1 B)
 } globals, *globals_ptr;
 
 // placeholder strings (size = 1024 B)
 
-typedef struct placeholders {
+typedef struct {
     char        a[k_MAX_LEN];
     char        b[k_MAX_LEN];
     char        c[k_MAX_LEN];
