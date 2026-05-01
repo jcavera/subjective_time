@@ -22,8 +22,6 @@
 //
 //      get_info_timezone       Return the timezone information from a formatted line in the all_rgn.txt file
 
-#include <stdint.h>
-#include <stdlib.h>
 #include "string_functions.h"
 
 // Extract the reference number from the end of the string; return 0 if not found. Extract
