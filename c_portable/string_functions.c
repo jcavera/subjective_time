@@ -42,15 +42,15 @@
 // the test strings below for valid examples.
 // 
 // Test strings (\\ at the end are actually \r\n):
-//      00000000001111111111222222222233333333334444444444555
-//      01234567890123456789012345678901234567890123456789012
-//      this is a test with a reference ~~~~~~~~~~~~ 9012\\
-//      this is a test without a reference or picture ~~~\\
-//      this is a test with ref and pic ~~~~~~~ $qst 4567\\
-//      this is a test with pic only ~~~~~~~~~~~~~~~ $q01\\
-//      this one goes all the way to the end with no spce\\
-//      and this one goes all the way to the end w space \\
-//      this is what it looks like for an embed pic [p03]\\
+//      0000000000111111111122222222223333333333444444444455   ref#  image  resulting string
+//      0123456789012345678901234567890123456789012345678901  ------ ----- --------------------------
+//      this is a test with a reference ~~~~~~~~~~~~ 9012\\    9012         this is a test with a reference
+//      this is a test without a reference or picture ~~~\\    0000         this is a test without a reference or picture
+//      this is a test with ref and pic ~~~~~~~ $qst 4567\\    4567   qst   this is a test with ref and pic
+//      this is a test with pic only ~~~~~~~~~~~~~~~ $q01\\    0000   q01   this is a test with pic only
+//      this one goes all the way to the end with no spce\\    0000         this one goes all the way to the end with no spce
+//      and this one goes all the way to the end w space \\    0000         and this one goes all the way to the end w space
+//      this is what it looks like for an embed pic [p03]\\    0000   p03   this is what it looks like for an embed pic
 
 uint16_t str_get_ref_pic (char *s, char *p)
 {
@@ -103,19 +103,13 @@ uint16_t rand_0toN (uint16_t N)     // random number generator from 0..N
 
 uint16_t choose_between (char* s, char* out, char delim)
 {
-    if ((delim <= 0x20) || (delim > 0x7e)) return (0);
+    if ((delim <= 0x20) || (delim > 0x7e)) return (0);          // delimiter must be a displayable char
     uint16_t r = 0, i = 0, j = 0;
-    while ((s[i] >= 0x20) && (i < k_MAX_LEN)) { // count number of delimiters
-        if (s[i] == delim) r++;
-        i++;
-    }
-    if (r == 0) return (0);                     // return if no delimiters found
-    r = rand_0toN(r);                           // select a random item (0..<# of delims>)
+    while (s[i] >= 0x20) {  if (s[i] == delim) r++;  i++;  }    // count delimiters
+    if (r == 0) return (0);                                     // return if no delimiters found
+    r = rand_0toN(r);                                           // select a random item (0..<# of delims>)
     j = r + 1; i = 0;
-    while ((s[i] >= 0x20) && (r > 0)) {         // go to the rth delimiter
-        if (s[i] == delim) r--;                 //  decrement r on hitting a delimiter
-        i++;
-    }
+    while ((s[i] >= 0x20) && (r > 0)) {  if (s[i] == delim) r--;  i++;  }    // jump to rth delimiter
     while ((s[i] >= 0x20) && (s[i] != delim)) { // copy everything from the delimiter to
         out[r] = s[i];                          //  the next one or to the end of the string
         r++; i++;                               //  whichever comes first
@@ -138,10 +132,7 @@ uint16_t append_wo_eos (char *a, char *b, char c)
     
     if (blen == 0) return (alen);
     if (c >= 0x20) {  a[alen] = c;  alen++;  }  // append the in-between character if there is one
-    for (i=alen, j=0; j<blen; i++, j++) {
-        if (b[j] == '~') break;
-        a[i] = b[j];
-    }
+    for (i=alen, j=0; j<blen; i++, j++) {  if (b[j] == '~') break;  a[i] = b[j];  }
     if (a[i] == 0x20) {  a[i] = 0;  i--;  }     // remove a trailing space if there is one
     return (i++);
 }
@@ -280,6 +271,9 @@ uint16_t trim_string (char *s)
 }
 
 
+// ============ The following functions read and return a parameter from the END of a string.  Used in reading
+// ============ data from the configuration file, or stuff formatted similarly.
+
 // Read and return a floating point number. The index (i) is on the LAST digit of the number
 // and the number must be of the form: (+|-)nnn.nnnnnn.   On an invalid number, the function
 // returns a NaN. Note that, because this is a single precision float, the smallest three or
@@ -386,6 +380,9 @@ uint16_t return_str_end (char *s, uint16_t i, char *p)
     return (r);
 }
 
+// ============ The following functions are used in pattern matching and exist because regex's in C are a
+// ============ complete pain in the ass and take up way too much memory anyway.  These are used in the
+// ============ various markup functions to do things like year- and macro-substitution.
 
 // Find the first instance in the input string of the pattern (<abo>-n<n<n<n>>>).  If no match
 // is found, return zero.  On a match of (a-nnnn), return the number 1nnnn.  On a match of the
