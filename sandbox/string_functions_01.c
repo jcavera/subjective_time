@@ -1,19 +1,26 @@
 // Functions Included:
-//      str_get_ref_pic     Return an embedded or appended image and a reference number, if either exists.
-//      choose_between      Return a randomly selected sub-string from a string containing a delimited list.
-//      append_wo_eos       Append a string (b) to an input string (b) with an optional character in between.
-//      find_in_str         Return the position of a sub-string (if found) in the input string.
-//      replace_in_str      Replace the first instance of a sub-string (if found) with a new string.
-//      word_len            Return the length of the first word in the string.
-//      strip_eol           Strip off everything at the end of a line that is not displayed.
-//      trim_string         Trim any leading and/or trailing spaces from the input string.
+//      str_get_ref_pic         Return an embedded or appended image and a reference number, if either exists.
+//      choose_between          Return a randomly selected sub-string from a string containing a delimited list.
+//      append_wo_eos           Append a string (b) to an input string (b) with an optional character in between.
+//      find_in_str             Return the position of a sub-string (if found) in the input string.
+//      replace_in_str          Replace the first instance of a sub-string (if found) with a new string.
+//      replace_c_in_str        Replace the first instance of a character (if found) with a new string.
+//      word_len                Return the length of the first word in the string.
+//      strip_eol               Strip off everything at the end of a line that is not displayed.
+//      trim_string             Trim any leading and/or trailing spaces from the input string.
 //
-//      return_single_end   From the end of a string, return the first single-precision float found.
-//      return_double_end   From the end of a string, return the first double-precision float found.
-//      return_hex_end      From the end of a string, return the first unsigned 16b hex integer found.
-//      return_int_end      From the end of a string, return the first signed 16b integer found.
-//      return_uint_end     From the end of a string, return the first unsigned 16b integer found.
-//      return_str_end      From the end of a string, return a string parameter.
+//      return_single_end       From the end of a string, return the first single-precision float found.
+//      return_double_end       From the end of a string, return the first double-precision float found.
+//      return_hex_end          From the end of a string, return the first unsigned 16b hex integer found.
+//      return_int_end          From the end of a string, return the first signed 16b integer found.
+//      return_uint_end         From the end of a string, return the first unsigned 16b integer found.
+//      return_str_end          From the end of a string, return a string parameter.
+//
+//      find_pattern_yearsub    Find the first instance of the pattern (<abo>-n(...))
+//      find_pattern_numsub     Find the first instance of the pattern #n(...)
+//      find_pattern_macrosub   Find the first instance of the pattern _<m>
+//
+//      get_info_timezone       Return the timezone information from a formatted line in the all_rgn.txt file
 
 #include <stdio.h>  // used in main() only for printf calls
 #include <stdint.h>
@@ -25,23 +32,29 @@
 #define dNAN        ((double) 0x7ff8000000000000)
 #define k_MAX_LEN   256
 
-uint16_t    str_get_ref_pic     (char *s, char *p);
-uint16_t    rand_0toN           (uint16_t N);
-uint16_t    choose_between      (char* s, char* out, char delim);
-uint16_t    append_wo_eos       (char *a, char *b, char c);
-int16_t     find_in_str         (char *s, char *t, uint16_t startat);
-int16_t     replace_in_str      (char *in, char *find, char *repl, char *out, uint16_t out_len);
-uint16_t    word_len            (char *a, uint16_t i);
-uint16_t    strip_eol           (char *a);
-uint16_t    trim_string         (char *s);
+uint16_t    str_get_ref_pic         (char *s, char *p);
+uint16_t    rand_0toN               (uint16_t N);
+uint16_t    choose_between          (char* s, char* out, char delim);
+uint16_t    append_wo_eos           (char *a, char *b, char c);
+int16_t     find_in_str             (char *s, char *t, uint16_t startat);
+int16_t     replace_in_str          (char *in, char *find, char *repl, char *out, uint16_t out_len);
+int16_t     replace_c_in_str        (char *in, char find, char *repl, char *out, uint16_t out_len);
+uint16_t    word_len                (char *a, uint16_t i);
+uint16_t    strip_eol               (char *a);
+uint16_t    trim_string             (char *s);
 
-float       return_single_end   (char *s, uint16_t i);
-double      return_double_end   (char *s, uint16_t i);
-uint16_t    return_hex_end      (char *s, uint16_t i);
-int16_t     return_int_end      (char *s, uint16_t i);
-uint16_t    return_uint_end     (char *s, uint16_t i);
-uint16_t    return_str_end      (char *s, uint16_t i, char *p);
+float       return_single_end       (char *s, uint16_t i);
+double      return_double_end       (char *s, uint16_t i);
+uint16_t    return_hex_end          (char *s, uint16_t i);
+int16_t     return_int_end          (char *s, uint16_t i);
+uint16_t    return_uint_end         (char *s, uint16_t i);
+uint16_t    return_str_end          (char *s, uint16_t i, char *p);
 
+uint16_t    find_pattern_yearsub    (char *s);
+int32_t     find_pattern_numsub     (char *s);
+int16_t     find_pattern_macrosub   (char *s);
+
+int32_t     get_info_timezone       (char *s, char *z);
 
 // Extract the reference number from the end of the string; return 0 if not found. Extract
 // the image string from the end of the string if found.  String is truncated to the first
@@ -189,12 +202,13 @@ int16_t find_in_str (char *s, char *t, uint16_t startat)
 }
 
 
-// In the input string (in) eplace the first instance of a substring (find) with a new string
-// (repl).  If any of the input strings have a length of zero, then return error. If the find
-// string is not found, then return zero. The output string (out) must be pre-allocated to be
-// large enough to store the result of the replace operation. The output string is cleared to
-// null on entry to the function.   This is not an in-place operation and the output must not
-// be the same string as any of the inputs.
+// In the input string (in) replace the first instance of a substring (find) with a new string
+// (repl).  If any of the input strings have a length of zero, then return error.  If the find
+// string is not found, then return zero.  The output string (out) must be pre-allocated to be
+// large enough to store the result of the replace operation.  The output string is cleared to
+// null on entry to the function.   Note that this is NOT an in-place operation and the output
+// must not be the same string as any of the inputs. The related function, replace_c_in_str is
+// optimized for the use case of a single character being searched for.
 // 
 // Test strings:
 //        00000000001111111111222222222233333333334444444444555
@@ -221,6 +235,33 @@ int16_t replace_in_str (char *in, char *find, char *repl, char *out, uint16_t ou
     
     k = result + find_len;
     for (i=0; i<result; i++) out[i] = in[i];                                // copy over the first part of (in)
+    for (i,j=0; j<repl_len; i++,j++) out[i] = repl[j];                      // copy over the replacement part
+    while (in[k]) {  out[i] = in[k];  i++;  k++;  }                         // copy over the last part of (in)
+    return (i);                                                             // return length of output string
+}
+
+// Test strings:
+//        00000000001111111111222222222233333333334444444444555
+//        01234567890123456789012345678901234567890123456789012
+// in:    replace a _ in this
+// find:  _
+// repl:  macro substitution
+// out:   replace a macro substitution in this
+
+int16_t replace_c_in_str (char *in, char find, char *repl, char *out, uint16_t out_len)
+{
+    uint16_t in_len     = strlen(in);                                       // lengths of incoming strings
+    uint16_t repl_len   = strlen(repl);
+    uint16_t i = 0, j = 0, k = 0, r = 0;
+    
+    if ((in_len == 0) || (find == 0) || (repl_len == 0)) return (-1);       // return error if any input is null
+    while ((in[r] >= 0x20) && (in[r] != find)) r++;                         // jump to the first instance of find char
+    if (in[r] < 0x20) return (-1);                                          // return error on character not found
+    if ((in_len + repl_len - 1) >= out_len) return (-1);                    // return error if not enough space in output
+    for (i=0; i<out_len; i++) out[i] = 0;                                   // clear the output string
+    
+    k = r + 1;
+    for (i=0; i<r; i++) out[i] = in[i];                                     // copy over the first part of (in)
     for (i,j=0; j<repl_len; i++,j++) out[i] = repl[j];                      // copy over the replacement part
     while (in[k]) {  out[i] = in[k];  i++;  k++;  }                         // copy over the last part of (in)
     return (i);                                                             // return length of output string
@@ -256,14 +297,15 @@ uint16_t strip_eol (char *a)
 // Remove both the leading and trailing spaces of a string along with trailing carriage returns
 // and newlines (or any other unprintable at the end).  This is an in-place operation such that
 // the original string is modified without making a copy.   This function returns the length of
-// the modified string.
+// the modified string. Note that this also includes unprintables (cr, lf, etc.) as well as the
+// tilde character (used as line length filler) from the end of the string.
 
 uint16_t trim_string (char *s)
 {
     uint16_t i = 0, j = 0;
     while (s[i] == 0x20)  i++;
     while (s[i] >= 0x20) { s[j] = s[i]; i++; j++; }
-    while (s[i] <= 0x20) { s[i] = 0; i--; }
+    while ((s[i] <= 0x20) || (s[i] == '~')) { s[i] = 0; i--; }
     return (i++);
 }
 
@@ -399,6 +441,89 @@ uint16_t find_pattern_yearsub (char *s)
         r = r + ((s[i] - '0') * d);  d = d * 10;    // add the number to the result
     } while (s[i] != '-');
     return (t + r);
+}
+
+
+// Find the first instance of the number substitution pattern in the input string: #n(..).
+// If there is no such pattern found, return -1.  If a number is found, return that number
+// and delete the number representation from the string except for the # character.   That
+// remaining # character may be used to make a text substitution later on.
+//
+// Test string:         this has a #123456 in it
+// Return number:       123456
+// Remaining string:    this has a # in it
+
+int32_t find_pattern_numsub (char *s)
+{
+    int32_t  r = 0;
+    uint16_t i = 0, isr = 0;
+    while ((s[i] >= 0x20) && (s[i] != '#')) i++;    // find the first # character
+    if (s[i] < 0x20) return (-1);                   // return -1: nothing found
+    isr = i; i++;
+    while ((s[i] >= '0') && (s[i] <= '9')) {        // get the number
+        r = (10 * r) + (s[i] - '0');
+        i++;
+    }
+    while (s[i])    { s[isr] = s[i]; isr++; i++; }  // remove (in-place) the number
+    while (isr < i) { s[isr] = 0; isr++; }
+    return (r);
+}
+
+
+// Find the first instance of the macro substitution pattern in the input string: _<m>. If
+// there is no such pattern, return -1.  If a macro is found, return the character <m> and
+// delete the character from the string leaving only the _ character. That _ character may
+// be used to make a text substitution later on.
+//
+// Test string:         this has a _m in it
+// Return number:       int('m') = 109
+// Remaining string:    this has a _ in it
+
+int16_t find_pattern_macrosub (char *s)
+{
+    int32_t  r = 0;
+    uint16_t i = 0;
+    while ((s[i] >= 0x20) && (s[i] != '_')) i++;    // find the first _ character
+    if (s[i] < 0x20) return (-1);                   // return -1: nothing found
+    i++; r = (int16_t) s[i];                        // fetch the macro character
+    while (s[i]) { s[i] = s[i+1]; i++; }            // remove the macro character
+    return (r);
+}
+
+
+// From the incoming timezone string (see examples below) return the timezone name and the
+// offset indicator.  For a static offset, the return type is signed four digits: (-)hhmm.
+// For a zone file reference, the offset is the zone file number + 10000.  If an error has
+// occured, the function returns -1.  Example lines (and the returned offset and name) are
+// as follows:
+//
+//    00000000001111111111222222222233333333334444444444555555  offset  name
+//    01234567890123456789012345678901234567890123456789012345  ------ ----------------
+//    +04050,+009700;africa/douala ~~~~~~~~~~~~~~~~~~ +01:00     0100   douala
+//    +27154,-013203;africa/el aaiun ~~~~~~~~~~~~~~~~ z_021.    10021   el aaiun
+//    +08484,-013234;africa/freetown ~~~~~~~~~~~~~~~~~~~~~~~     0000   freetown
+//
+// The timezone name is returned in the parameter: z.  This must be pre-allocated in order
+// to be used with a minimum string size of 32 characters.
+
+int16_t get_info_timezone (char *s, char *z)
+{
+    int16_t i = 15, isr = 0, j = 0;                 // starting location at char 15
+    while ((s[i] >= 0x20) && (s[i] != '~')) i++;    // find the first ~ character
+    if (s[i] < 0x20) return (-1);                   // return error if not found
+    isr = i - 1;
+    while ((i > 15) && (s[i] != '/')) i--;          // then back up to the last '/' character
+    if (i <= 15) return (-1);                       // return error if not found
+    for (i; i<isr; i++, j++) z[j] = s[i];           // copy over the zone name
+    
+    switch (s[48]) {
+        case '+': j =       ((s[49] - '0') * 1000) + ((s[50] - '0') * 100) + ((s[52] - '0') * 10) + (s[53] - '0');  break; 
+        case '-': j = -1 * (((s[49] - '0') * 1000) + ((s[50] - '0') * 100) + ((s[52] - '0') * 10) + (s[53] - '0')); break;
+        case 'z': j =                        10000 + ((s[50] - '0') * 100) + ((s[51] - '0') * 10) + (s[52] - '0');  break;
+        case '~': j = 0;  break;
+        default:  j = -1; break;
+    }
+    return (j);
 }
 
 
