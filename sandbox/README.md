@@ -8,5 +8,4 @@ the second, etc.  The current bits in here are:
 
 - gen_tz_all_rgn:     create the all_rgn.txt files from scratch given the timezone shape files as input
 - generate_tz_files:  create the timezone database files from scratch given the timezone shape files as input
-- string_functions:   c language string functions needed in order to duplicate the python functionality
 - text_around_circle: like it says on the tin, this test routine draws up to five lines of text around a circle
