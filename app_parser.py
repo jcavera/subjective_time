@@ -311,10 +311,9 @@ class Parser:
     def rules_image_display (self, s):
         if (s == ""): return                                            ## safety check -- pop out if nothing there
         if (self.data.bg_img != ""): return                             ## pop out if there already is an image
-        p = app_numeric.arand(1, 1, 100)                                ## roll percentile dice
         
-        if (("<G=" in s) and (p < 40)):     self.data.bg_img = "map"    ## map display conditions
-        if (("<O=" in s) and (p < 40)):     self.data.bg_img = "map"
+        if ("<G=" in s):                    self.data.bg_img = "map"    ## map display conditions
+        if ("<O=" in s):                    self.data.bg_img = "map"
         if ("_&" in s):                     self.data.bg_img = "mun"    ## markup for "moon"
         if ("lunar eclipse" in s):          self.data.bg_img = "mun"
         if ("retrograde" in s):             self.data.bg_img = "zod"    ## zodiac related
