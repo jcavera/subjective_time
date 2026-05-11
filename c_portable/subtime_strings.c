@@ -22,7 +22,7 @@
 //
 //      get_info_timezone       Return the timezone information from a formatted line in the all_rgn.txt file
 
-#include "string_functions.h"
+#include "subtime_strings.h"
 
 // Extract the reference number from the end of the string; return 0 if not found. Extract
 // the image string from the end of the string if found.  String is truncated to the first
