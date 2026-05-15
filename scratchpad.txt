@@ -13,8 +13,8 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
 
 attrib:
 1029  Bjork
+1030  Latin: he conquers, who conquers himself
 
-DATA FILE SUGGESTIONS (with a byte number guide so that you don't go over the per-line limit):
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
@@ -30,7 +30,9 @@ cond:
 !M=11,d=7,Y>2078,Y<2085 (a-2085) the next transit of mercury ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=11,d=8,Y>2049,Y<2052 (a-2052) the next transit of mercury ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=12,d=10 (a-2117) the next transit of venus ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=2,d=22 (a-1943) sophie scholl died for the manifesto of munich ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=10,Y>2052,Y<2062 (a-2062) the next transit of mercury ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=5,d=15 nakba day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=7,Y>2039,Y<2049 (a-2049) the next transit of mercury ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=8,Y>2085,Y<2095 (a-2095) the next transit of mercury ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -39,7 +41,9 @@ any:
 (a-1956) chien-shiung wu demonstrated that the universe is right handed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (b-209) liu bang fucked up his job so bad that he had to start the han dynasty to get out of trouble ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+<G=+35870,+014507 the hypogeum of hal saflieni ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+37091,-003382 the mohon del trigo observatory ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+55907,-003423 the ghost girls of the jupiter artland forest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t have the hard conversation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t make the hard choice ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -51,7 +55,16 @@ do not honor the sword for its sharpness/but for what it defends ~~~~~~~~~~~~~~~
 find a comfortable place near a window/light a candle and listen to the flickers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 four billion years since the hadean eon ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 hope a litte bit more today/make plans that make no sense/allow yourself to be more silly ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+how are you? is such a small question/but asking honestly/and answering honestly/can change the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 imagination is dangerous to those/who profit from the status quo/it shows that the status quo is/not permanent or necessary ~~~~~ 0611
+in case you forgot we live in a world where/bees can read human emotions/so don't ever say that magic isn't real ~~~~~~~~~~~~~~~~~~~~~
+in case you forgot we live in a world where/cephalopods build cities and give each other names/so don't ever say that magic isn't real
+in case you forgot we live in a world where/lightning creates glass in the sand/so don't ever say that magic isn't real ~~~~~~~~~~~~~~
+in case you forgot we live in a world where/rain has a smell before it even arrives/so don't ever say that magic isn't real ~~~~~~~~~~
+in case you forgot we live in a world where/the ocean can glow in the dark/so don't ever say that magic isn't real ~~~~~~~~~~~~~~~~~~~
+in case you forgot we live in a world where/trees recognize their own children/so don't ever say that magic isn't real ~~~~~~~~~~~~~~~
+in case you forgot we live in a world where/whales sing songs that travel for hundreds of miles/so don't say that magic isn't real ~~~
+in the early stages of a collective awakening ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 in the end i too am only a poem/wanting to be held/wanting to be understood ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it can be lonely to chase a dream/this is by design ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 it only takes one person dreaming somewhere/to keep the rest of us alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +95,9 @@ the heart doesn't know the way back/only forward to the dream/and once you've ta
 the peace - the chaos/the weeds - the wildflowers/a life explained in four directions/none of them wrong - just different seasons ~~~~
 the true weight of a man is the gap between/who he is and who he knows he should be ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
 time will only get faster/stop thinking that you have the time/you don't ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+vicit qui se vincit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1030
 who could you be in the absence of your concerns? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+yes there are easier dreams/but the heart doesn't do easy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are made of star dust/and poop/don't get too full of yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you don't have to be extreme/just consistent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you pity the moth for confusing the lamp with the moon/but here you are confusing a screen for the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +106,6 @@ you were never meant to do this alone/community is hardwired into our dna ~~~~~~
 you will get there/but right now you are here/and that's pretty wonderful too ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your health isn't negotiable/what you do matters/and your body keeps score ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your heart is a garden/not a farm ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
