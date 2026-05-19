@@ -10,41 +10,10 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
              world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
              cyrus the great day ~~~~~~~~~~~~~~~~~~~ seventh day of aban (arabic calendar)
-attrib:
-1031  Portugese: until the end of the world
-1032  Latin: the light shines in darkness and the darkness did not understand it
-1033  Sappho, fragment 147
 
 00000000011111111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 Byte Number: 4567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
-brc:
-!h>4,h<10 awaken ye harlots! 'tis time to sin! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-any:
-(a-1961) arnold toynbee published the last volume of his universal history ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-<G=+28500,+041000 the nafud ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+28500,+041000 the half-buried remains of a forgotten civilization deep within an unnamed desert of red sand ~~~~~~~~~~~~~~~~~~~~~~
-<G=+55725,+037554 a place of silent rest/held infinitely/and played with thunderous intensity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<O=200-8000 a passage to dreamland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-a cup of tea counts as a reasonable response ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-ate o fim do mundo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1031
-et lux in tenebris lucet/et tenebrae eam non comprehenderunt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1032
-even the darkest nights are punctuated by stars ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-if everyone in the world wrote down their problems/and put them in a hat to trade/would you grab one or keep yours? / ~~~~~~~~~~~ $qst
-it is actually possible that the last/united states civil war widow/could've cast a vote/for both of barak obama's terms ~~~~~~~~~~~~~
-leave a little room for side quests ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
-none of the other living things on this planet/know that today is a <D ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-open the door and mean it/that's the whole thing/that's everything ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-prior to the creation of the toynbee convector ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-remember that raccoons often survive/entirely on confidence and spite ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-someone will remember us/i say/even in another time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1033
-somewhere along the way we were taught/that creativity is optional ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-take a long whiff of that burning bridge/that you dared to ignite/that's the scent of survival you smell/awesome isn't it? / ~~~~~~~~~
-tangled in memory/waterlogged and wordless/beneath a sky that can't decide/whether to break or clear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the privilege of a lifetime is/to become who you truly are/but first you must unbecome/who they told you to be ~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
