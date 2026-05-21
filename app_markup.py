@@ -420,11 +420,11 @@ def sub_subproc_G (s, coord, item):
     heading  = app_numeric.gps_dir_deg_rhumb(coord.lat, coord.lon, la, lo)  ## compute distance and direction from target (lat, lon)
     distance = app_numeric.gps_dist_km_rhumb(coord.lat, coord.lon, la, lo)
     if (distance < 25): return ("")                                         ## if too close to call, return null
-    if (la < -87.000): heading = "north"
-    if (la >  87.000): heading = "south"
-    
-    dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)       ## convert direction to string
+   
+    dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)           ## convert direction to string
     dir_str = k_directions[dir_idx] + " of"
+    if (la < -87.000): dir_str = "north of"
+    if (la >  87.000): dir_str = "south of"
     
     r = app_numeric.arand(1, 1, 100)                                    ## 30% chance of converting km to miles
     dis_units = " kilometers"                                           ## convert distance to string
