@@ -8,7 +8,7 @@
 // ------------------------------------------------------------------------------------------------------- FUNCTION PROTOTYPES
 
 uint16_t    str_get_ref_pic     (char *s, char *p);                                                 // Return an embedded or appended image and a reference number, if either exists.
-uint16_t    choose_between      (char* s, char* out, char delim);                                   // Return a randomly selected sub-string from a string containing a delimited list.
+uint16_t    choose_between      (char *s, char *out, char delim);                                   // Return a randomly selected sub-string from a string containing a delimited list.
 uint16_t    append_wo_eos       (char *a, char *b, char c);                                         // Append a string (b) to an input string (b) with an optional character in between.
 int16_t     find_in_str         (char *s, char *t, uint16_t startat);                               // Return the position of a sub-string (if found) in the input string.
 int16_t     replace_in_str      (char *in, char *find, char *repl, char *out, uint16_t out_len);    // Replace the first instance of a sub-string (if found) with a new string.
