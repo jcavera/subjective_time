@@ -2,13 +2,13 @@
 012345678901234567890123456789012345678901234567890123456789012345678901234567
 ## file/dir ~~~~~~~ len ~ f/d - description ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-05 image_1920_45 ~~ 000 ~ dir - default for image files ~~~~~~~~~~~~~~~~~~~~~~
-06 data ~~~~~~~~~~~ 000 ~ dir - data files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-07 h_year ~~~~~~~~~ 103 ~ dir - high-priority daily event files by year ~~~~~~
-08 r_year ~~~~~~~~~ 112 ~ dir - normal daily event files by year ~~~~~~~~~~~~~
-09 z_timezone ~~~~~ 060 ~ dir - time zone data by region id ~~~~~~~~~~~~~~~~~~
-10 attrib.txt ~~~~~ 000 ~ file - system readme and attributions ~~~~~~~~~~~~~~
-11 config.txt ~~~~~ 080 ~ file - configuration ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+05 config.txt ~~~~~ 080 ~ file - configuration - do not modify ~~~~~~~~~~~~~~~
+06 image_1920_45 ~~ 000 ~ dir  - default for image files ~~~~~~~~~~~~~~~~~~~~~
+07 data ~~~~~~~~~~~ 000 ~ dir  - data files ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+08 h_year ~~~~~~~~~ 103 ~ dir  - high-priority daily event files by year ~~~~~
+09 r_year ~~~~~~~~~ 112 ~ dir  - normal daily event files by year ~~~~~~~~~~~~
+10 z_timezone ~~~~~ 060 ~ dir  - time zone data by region id ~~~~~~~~~~~~~~~~~
+11 attrib.txt ~~~~~ 000 ~ file - system readme and attributions ~~~~~~~~~~~~~~
 12 all_rgn.txt ~~~~ 056 ~ file - time zone region information ~~~~~~~~~~~~~~~~
 13 all_tz.idx ~~~~~ 000 ~ file - time zone index to the map ~~~~~~~~~~~~~~~~~~
 14 all_tz.map ~~~~~ 000 ~ file - time zone compressed map ~~~~~~~~~~~~~~~~~~~~
