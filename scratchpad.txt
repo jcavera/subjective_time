@@ -40,6 +40,8 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 !h=22 good night chesty puller/wherever you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+34164,-115845 the end of the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+55690,+012552 the grave of andreas morgenrodt the time traveler ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<O=200-500 someone who society has discarded ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<O=200-500 someone who society has forgotten ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <O=200-500 someone who the world has discarded ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <O=200-500 someone who the world has forgotten ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <R=50-500 years prior to the construction of the first space elevator ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +49,7 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 
 a bad decision and a good story/are often separated by surprisingly little ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 an essay can change a government/a song can ignite a population/in a very real sense/we owe our freedom to art ~~~~~~~~~~~~~~~~~~~~~~~
-everyone deserves to be heard/but not everyone's voice/carries the same weight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+everyone deserves to be heard/but not everyone's voice/carries the same weight for the same things ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 everyone is living a version of themselves/that you'll never truly see ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 evil cannot create anything new/it can only corrupt and ruin/what good forces have invented or made ~~~~~~~~~~~~~~~~~~~~~~~~ $one 0029
 fear is a strange soil/it grows obedience like corn in straight lines/but sometimes it grows the potatoes of defiance ~~~~~~~~~~~ 0521
