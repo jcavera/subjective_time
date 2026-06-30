@@ -28,8 +28,12 @@ Add new pictures for:
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=1,d=1 (a-1980) the thirty second of december ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=10,d=5 (a-1951) the first of the mediterranian games ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=11,d=15 (a-1244) rumi met shams-i tabrizi ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=3,d=11 (a-1712) the thirtieth of february ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=6,d=30 national aerobatics day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=6,d=4 (a-1985) the thirty fifth of may ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=8,d=25 (a-1835) the great moon hoax ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (a-1153) the davidian revolution in scotland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,17 +43,20 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 (a-1971) the sierra sounds were recorded ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-224) the fall of the parthian empire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <?he|she who jumps into the void/owes no explanation to those/who stand and watch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+20215,-087429 the tulum cenotes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+27492,+089363 paro taktsang ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+35697,-000633 the port of oran ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+38638,+015067 the aeolian island of panarea ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+38645,+034821 paraiso de roca de goreme ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+41755,+061117 koi krylgan kala ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+55944,-003162 arthur's seat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+56150,+047233 the republic of chuvashia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+83665,-030629 randall the stoat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+83677,-031200 stray dog west ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=-16376,+123961 the horizontal waterfall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=-45183,+169317 the town of clyde new zeland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+a person becomes honorable when/life gives them every excuse to fall/and yet they still stand ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0429
 a person's worth is hidden behind their tongue/look at how they speak/to the broken and the small and the silent ~~~~~~~~~~~~~~~~ 0418
 all art is surface and symbol/those who go below the surface/do so at their own peril ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0444
 be calm enough to avoid war/be prepared enough to finish it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,9 +69,11 @@ from this moment on ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 go forth the tellers of tales and/size whatever prey the heart longs for/the heart is only a lttle dust under our feet ~~~~~~~~~~ 0447
 humanity is a stream/whose source remains hidden ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0366
 if you have been brutally broken but/still have the courage to be gentle/then you are a badass with/the heart of an angel ~~~~~~~ 0904
+ignorance is bliss/until someone with knowledge/has the power to control you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 just because you could be doing more/doesn't mean that you're not doing enough ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 keep a cup reserved for/special occasions that never arrive/and then use it on a random <W /because that can be special ~~~~ $qst 1010
 love like icarus/the sea only remembers his fall/but icarus remembered the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+making things easier is not the same/as making life meaningful ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 memorize where the moon rises/as seen from your favorite location/it is another piece of secret knowledge ~~~~~~~~~~~~~~~~~~ $qst 1010
 now is the time to be serious/about living your ideals/how long can you afford to put off/who you really want to be? / ~~~~~~~~~~ 0917
 pursue solitary pathways through/the pale twilit meadows/with only this one dream/they come too ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1036
@@ -72,17 +81,22 @@ read old stories/they contain magic maps/disguised as entertainment ~~~~~~~~~~~~
 revolution is inevitable but/we get to decide what kind it is ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 slip quietly away from the noisy crowd/when you see the pale stars rising/blooming over the oaks ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1036
 some days it's good enough/just to be here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+some things only make sense in retrospect ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 spend enough time with a single wild <?cat|crow|squirrel|pigeon /and you'll get an invitation to a magical realm ~~~~~~~~~~~ $qst 1010
+the plum that you will eat next summer/doesn't exist yet/it's potential is still in the tree/growing just for you ~~~~~~~~~~~~~~~~~~~~
 the strongest fortress is not built from stone/but from that which fate cannot confiscate ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 the things you cannot lose reveal your wealth/the things you cannot live without/reveal your slavery ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 the world may feel heavy/but kindness is still out there/quiet and real and human ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 there are two traps to avoid/caring what they think/and thinking that they care ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 those who jump into the void/owe no explanation to those/who stand and watch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+trust the mystery/some things only make sense in retrospect ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 we have to create/it's the only thing louder than destruction ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 whatever it is don't be afraid of its plenty/joy is not made to be a crumb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0108
 when life itself seems lunatic/who knows where madness lies/maddest of all is to see life as it is/and not as it should be ~~~~~~ 0290
 when you wake up from a beautiful dream/write down one detail before it escapes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 you claim to value freedom/then ask yourself... /how many decisions have you made/without fear as their master? / ~~~~~~~~~~~~~~~ 0539
+you were born to work with others/not to resent them for their flaws/or ignorance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
+your body will leave nothing behind/but somewhere someone will hear a song/or read a book that you showed them/and you will live again
 your nobler self cannot wait any longer/put your principles into practice ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
