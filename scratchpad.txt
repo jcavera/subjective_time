@@ -31,6 +31,7 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 !M=1,d=1 (a-1980) the thirty second of december ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=10,d=5 (a-1951) the first of the mediterranian games ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=11,d=15 (a-1244) rumi met shams-i tabrizi ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=11,d=19 (a-1888) the great oxfordshire sheep panic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=3,d=11 (a-1712) the thirtieth of february ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=6,d=30 national aerobatics day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=6,d=4 (a-1985) the thirty fifth of may ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,6 +52,7 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 <G=+35697,-000633 the port of oran ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+38638,+015067 the aeolian island of panarea ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+38645,+034821 paraiso de roca de goreme ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+40556,+014227 the capri bird observatory ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+41755,+061117 koi krylgan kala ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+55944,-003162 arthur's seat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+56150,+047233 the republic of chuvashia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,10 +65,12 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 a person becomes honorable when/life gives them every excuse to fall/and yet they still stand ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0429
 a person's worth is hidden behind their tongue/look at how they speak/to the broken and the small and the silent ~~~~~~~~~~~~~~~~ 0418
 all art is surface and symbol/those who go below the surface/do so at their own peril ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0444
+almost all of history is unknown/and so is all of the future/get used to living with uncertainty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 be calm enough to avoid war/be prepared enough to finish it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 begin at once to live/and count each separate day/as a separate life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0429
 between moonlight and memory ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 decide to be extraordinary/and do what you need to do now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
+even if it could've been worse/you still deserved better/please don't forget that ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 fall if you must/the one that you are becoming/will catch you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 forgive yourself for something small/that's how you unlock your resistance/to some kinds of darkness ~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 from this moment on/vow to stop disappointing yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
@@ -82,6 +86,7 @@ loss can strip everything away/but it cannot end you ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 love like icarus/the sea only remembers his fall/but icarus remembered the sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 making things easier is not the same/as making life meaningful ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 memorize where the moon rises/as seen from your favorite location/it is another piece of secret knowledge ~~~~~~~~~~~~~~~~~~ $qst 1010
+not everything we love can come with us/not everyone needs the same things we do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 now is the time to be serious/about living your ideals/how long can you afford to put off/who you really want to be? / ~~~~~~~~~~ 0917
 pursue solitary pathways through/the pale twilit meadows/with only this one dream/they come too ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1036
 read old stories/they contain magic maps/disguised as entertainment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
@@ -90,6 +95,7 @@ slip quietly away from the noisy crowd/when you see the pale stars rising/bloomi
 some days it's good enough/just to be here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 some things only make sense in retrospect ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 spend enough time with a single wild <?cat|crow|squirrel|pigeon /and you'll get an invitation to a magical realm ~~~~~~~~~~~ $qst 1010
+the future is a foreign land/and so is the past/we are only citizens of the here and now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the plum that you will eat next summer/doesn't exist yet/it's potential is still in the tree/growing just for you ~~~~~~~~~~~~~~~~~~~~
 the strongest fortress is not built from stone/but from that which fate cannot confiscate ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 the things you cannot lose reveal your wealth/the things you cannot live without/reveal your slavery ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
@@ -102,6 +108,7 @@ we have to create/it's the only thing louder than destruction ~~~~~~~~~~~~~~~~~~
 whatever it is don't be afraid of its plenty/joy is not made to be a crumb ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0108
 when life itself seems lunatic/who knows where madness lies/maddest of all is to see life as it is/and not as it should be ~~~~~~ 0290
 when you wake up from a beautiful dream/write down one detail before it escapes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
+you can be shattered and still refuse/to sharpen your tongue into a sword ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you claim to value freedom/then ask yourself... /how many decisions have you made/without fear as their master? / ~~~~~~~~~~~~~~~ 0539
 you were born to work with others/not to resent them for their flaws/or ignorance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
 your body will leave nothing behind/but somewhere someone will hear a song/or read a book that you showed them/and you will live again
