@@ -12,6 +12,16 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              cyrus the great day ~~~~~~~~~~~~~~~~~~~ seventh day of aban (arabic calendar)
              First full week of oct: Albuquerque International Balloon Fiesta
 
+Attrib lang by count:
+    Latin       199     Mandarin    9       Scottish    3       Thai        1
+    Greek       88      Portugese   8       Welsh       2       Zulu        1
+    French      30      Arabic      3       Hebrew      1
+    Japanese    26      German      3       Maori       1
+    Spanish     20      Norwegian   3       Polish      1
+    Italian     17      Sanskrit    3       Shona       1
+
+Fix in macr: national be a dork day should be on 07-15, not 07-16
+
 Add new pictures for:
 - Doctor Who (regex: ~ 0159|~ 0260)
 - Star Trek (~ 0334)
@@ -32,24 +42,34 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 !M=4,d=26 (a-1278) the first written use of the word/fuck ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (a-1907) the north atlantic sea changed color ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1947) the invention of the drive-through restaurant ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1967) enver hoxha decided to cover albania with nearly a million concrete bunkers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2007) yuja wang stepped in when the boston symphony orchestra needed her most ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-2011) marcell jankovics released the tragedy of man ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2013) the formation of the trinity of tedium when dull scotland and bland australia joined with boring oregon as sister cities ~~~~
 <G=+34245,+036048 the forest of the cedars of god ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+45879,+006887 aiguille di midi ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=-02519,+029684 the coffee plantations of maraba ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t' a side quest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 
+a true thing said out loud stops belonging to time/it belongs to whoever needs it next ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+all of human wisdom is contained in these two words/wait and hope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 approximately eighteen hundred miles/above the gutenberg discontinuity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 approximately forty kilometers above/the mohorovicic discontinuity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 approximately twenty five miles above/the mohorovicic discontinuity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 approximately two thousand nine hundred kilometers/above the gutenberg discontinuity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 be impossible to domesticate ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 be soft when you feel soft/be wild when you feel wild ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+between the tides of grief and grace/pulled toward the depths in one moment/and lifted by light in the next ~~~~~~~~~~~~~~~~~~~~~~~~~~
+don't ask yourself/why should i be kind to them? /ask rather what sort of person you'll become/if you are not kind to them ~~~~~~~~~~~
 face every challenge/with unwavering confidence/and questionable judgement ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-good behavior is overrated/a good story is forever ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 go alone instead of waiting for someone to go with you/life doesn't wait and neither should you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+good behavior is overrated/a good story is forever ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+good men must know violence/so that evil men do not become/fluent in it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0547
 half of life is lost in charming others/the other half is lost through anxieties/leave this play - you have played enough ~~~~~~~ 0418
+i'm not going to tell you to seize anything/days do not hold still for seizing/just look at things twice/because it's free to do so ~~
 if they want to paint you as a villain/pose ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if you are feeling disheartened/and that you are somehow not enough/set your heart ablaze ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
 if you feel like you are holding on for dear life/dear life may be waiting for you/to let go ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if you only focus on what's wrong/the world becomes nothing but darkness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 keep a part of your life completely unexplained/mystery is good for the complexion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -58,14 +78,21 @@ leave when you're bored/stay when you're enchanted/and disappear when the energy
 music is what feelings sound like/dancing is what feelings look like ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 never overexplain a fabulous disappearance/messed up hair and no useful information/is good enough ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 never stop dancing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+no matter how obsessed you've been/with your own vanishing/there will always be someone/who wants you whole ~~~~~~~~~~~~~~~~~~~~~~~~~~
+nobody tells you which night/you will spend the rest of your life in ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+nothing can save us from death/but at least love can save us from life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 practice any art/no matter how well or badly/not to earn money or fame/but to find out what's inside of you ~~~~~~~~~~~~~~~~~~~~~ 0682
 quit auditioning for rooms you already outgrew/you're not begging for a chair/you're taking the whole damn table ~~~~~~~~~~~~~~~~~~~~~
 say yes to the story/the itinerary can go fuck itself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
 stop making every decision look reasonable/some choices are made because your soul said/oh fuck yeah! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the land has buried everyone/who ever called it theirs/and it does not argue about it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the prophecy never said that you had to be reasonable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+there is no peace for the person/who has seen what they could become ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0917
 thirteen point one billion years since/little red dots started to appear/in the universe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
 wear something slightly inappropriate/people have become far too comfortable/with the ordinary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 we need you in the fight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+what a privilege it is to be overwhelmed/by a life you once dreamt of ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+what a privilege it is to hold peace in your hands/that used to tremble in fear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your words create your world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
