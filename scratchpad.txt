@@ -22,21 +22,41 @@ Attrib lang by count:
     Italian     17      Sanskrit    3       Shona       1
 
 Add new pictures for:
-- Doctor Who (regex: ~ 0159|~ 0260)
-- Star Trek (~ 0334)
-- Alisha Liston (~ 1007)
-- Futurama (~ 0259)
+- One Piece (~ 1011)                     - Doctor Who (regex: ~ 0159|~ 0260)
+- Lida Pavlova (~ 1010)                  - Star Trek (~ 0334)
+- Discworld (~ 0521)                     - Alisha Liston (~ 1007)
+- Marcus Aurelius (~ 0539)               - Futurama (~ 0259)
+- Kevin Kelly (~ 0557)                   - Monument Valley (~ 0466)
+- Doctor Seuss (~ 0351|~ 0575)           - Dungeon Crawler Carl (~ 0903)
+- The Imaginary Foundation (~ 0543)
+- Beat Kitty (~ 0999)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
-- Monument Valley (~ 0466)
-- Dungeon Crawler Carl (~ 0903)
-- One Piece (~ 1011)
-- Lida Pavlova (~ 1010)
-- Discworld (~ 0521)
-- Marcus Aurelius (~ 0539)
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=10,d=15 (a-1991) the oh-my-god particle randomly struck a detector in utah ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(a-2000) the founding of the all species foundation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2011) the askaryan radio array first went online ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+37972,+023725 the temple of athena and nike ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+53620,-132208 the resting place of the kiidk'yaas of the haida gwaii ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+always read the card next to the art ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at some point integrity asks you to walk away/even when it's inconvenient and will slow you down ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0999
+don't just prepare to do/actually do ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+guard your attention/for it quietly becomes your character/the soul is shaped by/what it repeatedly welcomes ~~~~~~~~~~~~~~~~~~~~ 0917
+preparation is not the same as progress ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+red shirt remembrance day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0334
+sometimes slowing down is what you need/in order to find your way ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0999
+somewhere someone is being forced to choose between/certain death and tearing down their old life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere someone is being forced to choose between/themselves and their family ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere someone is preparing for a <?beginning|ending /that they know is fast approaching ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere someone is preparing for a <?birth|death /that they know is fast approaching ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere someone just found out that/they only have <R=2-9 more <?weeks|months to live ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+somewhere someone just found out that/they will be a parent in just <R=2-9 <?weeks|months ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we need acts of restoration/not only for our waters and lands/but also for our relationship to the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+when society fails them/people strike bargains with monsters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
