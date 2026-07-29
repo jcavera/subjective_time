@@ -14,7 +14,7 @@ Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
              Last full week of july: EAA AirVenture Oshkosh
              First full week of oct: Albuquerque International Balloon Fiesta
 
-Attrib lang by count:
+Attrib lang by count (possible background pics for these):
     Latin       199     Mandarin    9       Scottish    3       Thai        1
     Greek       88      Portugese   8       Welsh       2       Zulu        1
     French      30      Arabic      3       Hebrew      1
@@ -36,6 +36,29 @@ Add new pictures for:
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=8,d=2 national couch cleaning day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=9,d=26 (a-1976) the founding of the micronation of freetown christiania ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(a-1244) the fall of montsegur/the last cathar stronghold ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1244) the last of the cathars walked into the fire ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1916) the death of cocky bennett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1933) a british pickle maker was crowned king of islamestan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1948) james thomas mangan founded the nation of celestial space ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2023) the hedgehog temple ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
+
+<G=+43207,+002364 the cite de carcassonne ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+55674,+012600 freetown christiania ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+58288,-007588 the eilean mor lighthouse ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+a lovely day above ground ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a lovely day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+dreams change all the time/and that's okay ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+love until the whole world can feel it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+now get out there and kill kill kill!! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20 0903
+set your alarm for three in the morning/wake up and write down the first thing/that comes to mind ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+sorry but the universe is not computable/the only way to simulate the universe/is to build the universe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+this is toast/it refills your mana/that's it - nothing more/fuck you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20 0903
+you are not starting over/you are starting from experience ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
