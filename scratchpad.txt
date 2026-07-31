@@ -33,10 +33,14 @@ Add new pictures for:
 - Beat Kitty (~ 0999)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
 
+1039  Karl Popper
+1040  Benjamin Alire Saenz
+
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
 !M=11,d=18 (a-1916) the battle of somme ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=11,d=21 (a-1902) the birth of phoebe omlie ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=24 (a-1933) the funsten nut strike ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=7,d=2 (a-1778) the death of jean-jacques rousseau ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=8,d=2 national couch cleaning day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,24 +61,49 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 a lovely day above ground ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 a lovely day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 bake a berry pie with a wish folded into the crust/cut it on a moonlit night and/give the first slice to the wind ~~~~~~~~~~ $qst 1010
+don't ever underestimate the people who love you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
 dreams change all the time/and that's okay ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+even at the end of the world/hope dies last ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 how can you be behind in life/when you are moving on a path/that only you can take? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+i bet you could sometimes find/all the mysteries of the universe/in someone's hand ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
 i know this life is hard now and/i know your days are precious on this earth/but what are you trying to be free of? / ~~~~~~~~~~~~~~~~
 i know your days are precious on this earth/but what are you trying to be free of? /the living? /love is for those who love the work ~
+if you can't say it simply and clearly/keep quiet and keep working on it till you can ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
+ignorance is not the absence of knowledge/but the refusal to acquire it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
 keep your problems smaller than your life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 light a candle at dusk and/speak aloud one thing you've worked hard on/let the flame agree with you/accept its praise ~~~~~~ $qst 1010
 love until the whole world can feel it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+maybe all we were meant to do on this earth/was to keep on telling good stories/ours and those of the people/who we loved ~~~~~~~ 1040
+maybe everyone loves differently/maybe that's all that matters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+maybe we just live between hurting and healing? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+momentum is not the same as progress ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 momentum over fear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 no amount of anxiety is going to make any difference/to anything that is going to happen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 now get out there and kill kill kill!! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20 0903
+one of the secrets of the universe is that/our instincts are sometimes stronger/than our minds ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
 set your alarm for three in the morning/wake up and write down the first thing/that comes to mind ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+sometimes all you have to do/is tell people the truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+sometimes pain is like a storm that comes out of nowhere/the clearest summer could end in a downpour ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
 sometimes what didn't take place/was the most important thing that happened ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sorry but the universe is not computable/the only way to simulate the universe/is to build the universe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+take your beautiful heart and/go light up the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
 this is toast/it refills your mana/that's it - nothing more/fuck you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20 0903
+the aim of discussion/should not be victory/but progress ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
+the future depends on ourselves and/we do not depend on any historical necessity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
+the heart can get really cold/if all you've known is winter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+the simple truth is that truth is hard to come by/and that once found may easily be lost again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
+the way of science is paved with discarded theories/which were once declared self-evident ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
+the wise man belongs to all countries/the home of a great soul is the whole world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $map 1039
 walk along the edge of a field/and whisper your thanks to the stalks/leave three strands braided behind you ~~~~~~~~~~~~~~~~ $qst 1010
+we are excited for what is about to come for humanity/so get in to a place of expectation/because we want you to enjoy the ride ~~~~~~
 what are you trying to be free of? the living? /the miraculous task of it? /love is for the ones who love the work ~~~~~~~~~~~~~~~~~~~
 what did you bring home this year? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
+when is the right time for anything? /who knows? /living is an art not a science ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+while differing widely/in the various little bits we know/in our infinite ignorance we are all equal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
 you are not starting over/you are starting from experience ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you belong everywhere you go/that's just how you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+you don't always have to understand/the people you love ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
+you matter more to the universe/than you will ever know ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
