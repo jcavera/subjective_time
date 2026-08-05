@@ -33,63 +33,9 @@ Add new pictures for:
 - Beat Kitty (~ 0999)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
 
-1042  Clover the Wanderer from the Kingdom of Elswyth
-
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
-!M=11,d=11 (a-1620) the signing of the mayflower compact ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=8,d=3 (a-1924) the birth of connie converse ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-<G=+39502,-088679 the tower of baa-goat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+54324,-002737 the parr throne in fletcher park ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-after years of research and study ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-all that is great was in the past ridiculed/and condemned and combated and suppressed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0368 -fix
-all that is sweet was paid for once upon a time/by principled people who risked everything/to change the world for the better ~~~ 0604 -fix
-as our <?civilization|planet|society|world undergoes a <?fundamental|massive|seismic|state change ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-at the start of their epic <?bro-mance|friendship|romance|squish-mance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-before he marries his best friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-before she marries her best friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-before they marry their best friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-bring your <?aardvark|cat|chinchilla|llama|meerkat|possum to work day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-choose a <?better|brighter <?future|path|tomorrow|way ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-choose your own <?adventure|future|meaning|path|tomorrow|way ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-even as the world is ending/we can still sing and dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-four hundred thousand years since someone thought/to tie a rock to the end of a stick ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
-I AM YELLING CARL!! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
-i impart to you these things i've felt/and seen with star struck eyes/this world of twisted visions/i can't comprehend alive ~~~~ 1007 -fix
-i've journeyed beyond the borders/and my kingdom's lethal blight/my heart resonates with surreal lands/wandering by candlelight ~ 1007 -fix
-somewhere right now someone is baking a pie/that smells exactly like your future nostalgia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
-stay frosty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903 -fix
-that sounds like a future-me problem ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the future depends on ourselves and/we do not depend on any historical necessity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
-the heart can get really cold/if all you've known is winter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
-the simple truth is that truth is hard to come by/and that once found may easily be lost again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
-the way of science is paved with discarded theories/which were once declared self-evident ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
-the wise man belongs to all countries/the home of a great soul is the whole world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $map 1039
-there will come soft rains ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0654
-think of all the beauty still left around you/and be happy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1041
-this is toast/it refills your mana/that's it - nothing more/fuck you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20 0903
-time and time again we've hated what is broken/as though shattered souls don't deserve/to feel the light ~~~~~~~~~~~~~~~~~~~~~~~~ 1007
-twenty five hundred years since/the invention of the construction crane ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
-twenty seven hundred years since/the invention of the pin tumbler lock ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
-twenty three hundred years since/the invention of the elevator ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
-walk along the edge of a field/and whisper your thanks to the stalks/leave three strands braided behind you ~~~~~~~~~~~~~~~~ $qst 1010
-we are excited for what is about to come for humanity/so get in to a place of expectation/because we want you to enjoy the ride ~~~~~~
-well that's only mildly terrifying ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-what are you trying to be free of? the living? /the miraculous task of it? /love is for the ones who love the work ~~~~~~~~~~~~~~~~~~~
-what did you bring home this year? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
-when in doubt drink water/find shade/and stay weird ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
-when is the right time for anything? /who knows? /living is an art not a science ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
-while differing widely/in the various little bits we know/in our infinite ignorance we are all equal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1039
-you are not starting over/you are starting from experience ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you belong everywhere you go/that's just how you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
-you breathe the same air that once made up the dead/every bit of matter in you existed/had a life and died/probably many times ~~ 1042
-you don't always have to understand/the people you love ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1040
-you matter more to the universe/than you will ever know ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
-your worth isn't the pain you endure for others/allow yourself freedom to/create your destiny ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
