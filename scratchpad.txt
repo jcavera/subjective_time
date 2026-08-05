@@ -33,9 +33,39 @@ Add new pictures for:
 - Beat Kitty (~ 0999)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
 
+1044  Primus, Tommy the Cat; lyrics by Les Claypool, Tim Alexander. Todd Huth, Reid Lalonde
+
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=10,d=16 (a-2017) daphne caruana galizia was killed for showing the world that billionaires are sociopathic bastards ~~~~~~~~~~~~~~~
+!M=7,d=18 (a-1866) the completion of the first transatlantic telegraph line ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(a-1816) francis ronalds invented the first practical telegraph ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2026) the year of eight thousand frogs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+35912,+014504 the sliema front ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+belief without evidence is faith/belief in spite of evidence is stupidity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+but not even a muscle in her neck did twitch/as she sauntered straight to behind the alleyway ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1044
+create a better <?reality|tomorrow|world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+create your own <?legend|myth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+i remember it as though it were a meal ago... / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1044
+if the system isn't doing its job/destroy the system ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0508 -fix
+in a forgotten <?age|place|realm|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in a moment of <?absurdity|clarity|impulse|oneness|weakness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in a moment of <?revelation|strength|transformation|transition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in a most <?interesting|remarkable|unusual|wonderful <?place|moment|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in a strange <?geometry|land|loop|moment|place|realm|time|world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+promise me you won't be nice/be kind weird boundaried sincere angry/be horny vulerable scared playful cringe/but don't be nice ~~ 0819
+she came sliding on down the alleyway/like butter drippin' off a hot biscuit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1044
+such a multitude of masculinity/could only be found in one place/and that was o'malley's alley ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1044
+tommy the cat had many a story to tell/but it was a rare occasion such as this that he did ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1044
+wanted - someone to go back in time with me/this is not a joke/must bring your own weapons/safety not guaranteed ~~~~~~~~~~~~~~~~~~~~~
+when we gather to dance/we awaken ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
+when you make your mark in the world/watch out for people with erasers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you are an epic fucking disco ball/of light and wonder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
+you deserve slow days ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you don't have to be just one thing/in this lifetime ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
