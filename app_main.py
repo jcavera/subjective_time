@@ -29,11 +29,11 @@ import app_files
 ## ------------------------------------------------------------------------------------------------- CONSTANT DEFINITIONS
 ## Global valid image set.  Any image names not in this set will not be used.
 
-imgs = set( [ 'brc', 'brd', 'car', 'chn', 'cop', 'cyb', 'd20', 'gfb', 'heb', 'hrg',  
-              'ich', 'ind', 'isl', 'key', 'kim', 'lnf', 'm8b', 'map', 'mar', 'max', 
-              'mrs', 'mun', 'myn', 'one', 'p01', 'p02', 'p03', 'p04', 'p05', 'p06', 
-              'p07', 'p08', 'p09', 'p10', 'p11', 'pbd', 'qst', 'run', 'scp', 'tfe', 
-              'wnv', 'zil', 'zod'  ] )
+imgs = set( [ 'brc', 'brd', 'car', 'chn', 'cop', 'cyb', 'd20', 'els', 'gfb', 'heb',  
+              'hrg', 'ich', 'ind', 'isl', 'key', 'kim', 'lnf', 'm8b', 'map', 'mar', 
+              'max', 'mrs', 'mun', 'myn', 'one', 'p01', 'p02', 'p03', 'p04', 'p05', 
+              'p06', 'p07', 'p08', 'p09', 'p10', 'p11', 'pbd', 'qst', 'run', 'scp', 
+              'tfe', 'wnv', 'zil', 'zod'  ] )
 
 ## ------------------------------------------------------------------------------------------------- GLOBAL VARIABLES
 
