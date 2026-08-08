@@ -9236,7 +9236,7 @@ de nobis fabula narratur ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 de novo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0105
 deal with it kitty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deal with it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-dearest sunshine/we're proud of ourselves again/our story's not over yet/and i promise we'll see how it ends ~~~~~~~~~~~~~~~~~~~~ 1007
+dearest sunshine/we're proud of ourselves again/our story's not over yet/and i promise we'll see how it ends ~~~~~~~~~~~~~~~ $els 1007
 dearly beloved/we are gathered here today/to get through this thing called life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0340
 death cannot stop true love/all it can do is delay it for a while ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0655
 death is nature's change agent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -9254,14 +9254,14 @@ deep down/you always knew ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deep in the human unconscious is a pervasive need for a logical universe that makes sense ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0417
 deep in the ocean of time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deep roots are not reached by the frost ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one 0029
-deep within is where you'll find home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+deep within is where you'll find home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 deep within the long now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
 definitely not ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $m8b
 definitely ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $m8b
 deja reve ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 deja vu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 delay is as dangerous as the wrong answer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0417
-delicate darling take a page from me/the softer the soul the more ferocious the beast ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+delicate darling take a page from me/the softer the soul the more ferocious the beast ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 demons run when a good man goes to war ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0159
 depart from the path which fate has you assigned ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 descensus in cuniculi cavum ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0106
@@ -10904,7 +10904,7 @@ got a revolution behind my eyes/we got to get up and organize ~~~~~~~~~~~~~~~~~~
 got fire? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc
 gotta go hit that ride to the setting sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0524
 gotta leave you all behind and face the truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0283
-gouged my eyes - pretend delusions could keep me alive/eyeless children somehow find/worlds more than lullabies ~~~~~~~~~~~~~~~~~ 1007
+gouged my eyes - pretend delusions could keep me alive/eyeless children somehow find/worlds more than lullabies ~~~~~~~~~~~~ $els 1007
 grab your things/i've come to take you home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0059
 grace lives where the broken/remembered their way home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 grace lives where the ending/found its breath ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -10932,7 +10932,7 @@ ground ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 grouping ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $ich
 growing old should take as long as possible ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 growing pains hurt sometimes/but don't last forever ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0446
-growing up wasn't all we dream'd/fairytales to be deceived/but no matter how it aches inside/keep going 'til it's time ~~~~~~~~~~ 1007
+growing up wasn't all we dream'd/fairytales to be deceived/but no matter how it aches inside/keep going 'til it's time ~~~~~ $els 1007
 growth begins with acknowledgment/change starts when we see ourselves honestly ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 growth comes with stretch marks ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 growth is a dance/not a light switch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -11463,7 +11463,7 @@ i hope you're not afraid wherever you are/you don't need to be ~~~~~~~~~~~~~~~~~
 i hope you're not waiting on me ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i hope you're ready ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i hope you're ready/amazing things are coming ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-i impart to you these things i've felt/and seen with star struck eyes/this world of twisted visions/i can't comprehend alive ~~~~ 1007
+i impart to you these things i've felt/and seen with star struck eyes/a world of twisted visions/i can't comprehend alive ~~ $els 1007
 i just don't see how a world that makes such/wonderful things could be bad ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0403
 i just had one of those/what the hell are we doing/moments ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0484
 i just live a fast life/forget about the past time/numb out to escape my feels ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0054
@@ -11527,7 +11527,7 @@ i saw the decade in/when it seemed the world could change/at the blink of an eye
 i see a shadow of reality/please hold me closely and take me away ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0144
 i see you trying/please keep going ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i seek to cure what's deep inside/frightened of this thing that i've become ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0007
-i share with you the words i have engraved into my skin/in hopes we find our lost pages buried within ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+i share with you the words i have engraved into my skin/in hopes we find our lost pages buried within ~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 i should be more lucid now and apologize/for my earlier ramblings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $mar 0299
 i showed my magic to a civilian once and it got ugly ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0699
 i solemnly swear that i am up to no good ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0341
@@ -11664,7 +11664,7 @@ i've got a dream that when the darkness is over/we'll be lying in the rings of t
 i've got a good feeling about this ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 i've got a theory/it could be bunnies ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0457
 i've heard it too many times to ignore it/it's something that i'm supposed to be ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0523
-i've journey'd beyond the borders/and my kingdom's lethal blight/my heart resonates with surreal lands/wandering by candlelight ~ 1007
+i've journey'd beyond the borders/and my kingdom's lethal blight/my heart resonates with surreal lands/wandering by candlelight ~ $els
 i've known rivers ancient as the world/and older than the flow of human blood/in human veins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0619
 i've never seen you look like this without a reason ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0536
 i've often tried to hold the sea ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0151
@@ -11685,7 +11685,7 @@ if a person has dreams then/nothing can limit their freedom ~~~~~~~~~~~~~~~~~~~~
 if a place feels off/thank it for its honesty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
 if a society loses its storytellers/it loses its childhood ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if all of your choices are dictated to you/you don't really have choices ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-if all our legacies are stories that we weave/then why don't i make a muse of thee? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+if all our legacies are stories that we weave/then why don't i make a muse of thee? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 if all the days come to pass/are behind these walls/i'll be left at the end of things/in a world kept small ~~~~~~~~~~~~~~~~~~~~~ 0147
 if all time is eternally present/all time is unredeemable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0594
 if all you told was turned to gold/if all you dreamed was new/imagine sky high above/in caribbean blue ~~~~~~~~~~~~~~~~~~~~~~~~~~ 0392
@@ -11718,7 +11718,7 @@ if i had any dignity that would have been humiliating ~~~~~~~~~~~~~~~~~~~~~~~~~~
 if i knew the way i would take you home ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if i'm not back again this time tomorrow/carry on/carry on as if nothing really matters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0283
 if i'm wrong i promise that i'll be wrong/in a well-informed and interesting way ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0604
-if all ends empty are we all blindly chasing/this beautiful pipe dream? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+if all ends empty are we all blindly chasing/this beautiful pipe dream? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 if it can be lost to you/it was never yours to begin with ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if it costs your peace it has to go ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if it doesn't feel right to you/it probably isn't right for you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -11818,7 +11818,7 @@ if you aim at nothing/you'll always hit it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if you are a pirate tomcat or wright/if you swear by the moon and you fight the hard fight/come stand by me ~~~~~~~~~~~~~~~~~~~~~ 0598
 if you are always trying to be normal/you'll never know how amazing you can be ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0916
 if you are brave enough to say goodbye/you will be rewarded with a new hello ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-if you are falling/we'll catch you my darling/you'll never hit the ground ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+if you are falling/we'll catch you my darling/you'll never hit the ground ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 if you are feeling disheartened/and that you are somehow not enough/set your heart ablaze ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0539
 if you are lost and cannot find your way/look to the rising sun ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $cyb 0304
 if you are not falling down occasionally/you are just coasting ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0557
@@ -14166,7 +14166,7 @@ lost in the moment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 lost in the pattern ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 lost in the rhythm ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 lost in time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-lost inside this stardew forest/venting with the trees/wilted flowers carry whispers/cradled by the breeze ~~~~~~~~~~~~~~~~~~~~~~ 1007
+lost inside this stardew forest/venting with the trees/wilted flowers carry whispers/cradled by the breeze ~~~~~~~~~~~~~~~~~ $els 1007
 lost my heart in texas/northern lights affect us/i keep it underneath my hat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0549
 lost time is never found again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 lost time isn't really lost/it live inside a small house on a hill/where i will find you at the end of all days ~~~~~~~~~~~~~~~~~ 0631
@@ -14226,7 +14226,7 @@ love until the whole world can feel it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 love what you have and where your are/loving what is missing is time wasted ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 love will find you in the end ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0480
 love ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-lover i know you're really scared/trust me - i'll understand/i promise you i'll stay right here/and not let go your hand ~~~~~~~~ 1007
+lover i know you're really scared/trust me - i'll understand/i promise you i'll stay right here/and not let go your hand ~~~ $els 1007
 lovers/keep on loving ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0038
 loving every minute 'cause you make me feel so alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0642
 luck can be spent like money/and lost like a memory/and wasted like a life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0598
@@ -14787,7 +14787,7 @@ no matter how ridiculous the odds may seem/within us resides the power to overco
 no matter how sharp your teeth are/you cannot bite the water ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 no matter how slow or how small or how wobbly/forward is forward and every step matters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 no matter what has happened in your life to this point/it should have no bearing at all on/how you live from now on ~~~~~~~~~~~~~ 1017
-no matter what magic potions you may swallow/many nothings still remain/sweet flowers though beautiful/won't make you immune ~~~~ 1007
+no matter what magic potions you may swallow/many nothings do remain/sweet flowers though beautiful/won't make you immune ~~ $els 1007
 no matter what sort of difficulties/how painful our experience is/if we lose our hope we've lost everything ~~~~~~~~~~~~~~~~~~~~~ 1014
 no matter what you do it can't be legendary/unless you have friends to share it with ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 no matter where you are you can always be here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $tfe
@@ -16429,7 +16429,7 @@ shame dies when stories are told in the light ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 shared joy is multiplied/shared grief is diminished ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0350
 shared movement binds us ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 shared pain is lessened/shared joy is increased/thus do we refute entropy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0350
-shattered lantern with a little burnt out flame/lost in a hysterical quest for a cure they can't create ~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+shattered lantern with a little burnt out flame/lost in a hysterical quest for a cure they can't create ~~~~~~~~~~~~~~~~~~~~ $els 1007
 she asked <?her|him|them gently/do you love me? /and in the long silence/she found closure ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 she came sliding on down the alleyway/like butter drippin' off a hot biscuit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1044
 she carefully placed it in the silver box/and then soldered it shut ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $key
@@ -16501,7 +16501,7 @@ sine loco/sine anno/sine nomine ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sing anyway ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sing like the birds sing/not caring who hears/or what they think ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0418
 sing praises to the highest/with your feet on the ground/and reach for your brother/with the words that you sound ~~~~~~~~~~~~~~~ 0587
-sink your teeth into my flesh/your promised masterpiece/i offer you my silicon heart/coughing up poetry ~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+sink your teeth into my flesh/your promised masterpiece/i offer you my silicon heart/coughing up poetry ~~~~~~~~~~~~~~~~~~~~ $els 1007
 sipping a latte in the cafe of lost time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 sit and enjoy/sit and listen/but above all/sit together forever ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brc 0542
 sit deus propitius huic potatori ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0936
@@ -16567,7 +16567,7 @@ so close now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 so comes snow after fire/and even dragons have their endings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one
 so darn glad he let me try it again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0038
 so far/so good ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-so here you are now/there's light after the dark/and you had to walk through fire/to get where you are ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+so here you are now/there's light after the dark/and you had to walk through fire/to get where you are ~~~~~~~~~~~~~~~~~~~~~ $els 1007
 so here's the thing... / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 so it all comes down to this... / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 so it goes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -18392,7 +18392,7 @@ the past does not define you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the past has its own terrible inevitability/but it is never too late to change the future ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the past is a faraway land ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the past is a part of you/but only a part ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the past is forever rooted in your veins/and maybe there's someone who needs to hear your name ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+the past is forever rooted in your veins/and maybe there's someone who needs to hear your name ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 the past is gone and cannot harm you anymore ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $wnv 0265
 the past is gone and cannot harm you anymore/and while the future is fast coming for you/it always flinches first ~~~~~~~~~~ $wnv 0265
 the past is gone/the future may never see existence/only the present is certain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0676
@@ -18691,7 +18691,7 @@ the time of the rebuilding ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the time of the reckoning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the time of the whispering ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the time of your life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the timekeeper's work will never ever stop/repairing the fractures of the past ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+the timekeeper's work will never ever stop/repairing the fractures of the past ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 the timeless in you is aware of life's timelessness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0574
 the timelines we create for ourselves/are mostly just arbitrary nonsense ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the times they are a-changin' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19561,7 +19561,7 @@ though everyone is beautiful/not everyone is your cup of tea/and that's okay ~~~
 though free to think and act we are held together/like the stars in the firmament with ties inseparable ~~~~~~~~~~~~~~~~~~~~~~~~~ 0368
 though i'm not paid/i play this game/and i won't stop until i'm done ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0262
 though in all lands love is now mingled with grief/it still grows perhaps the greater ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $one 0029
-though it hurts to look at the mirrors of life/i promise we'll find our path ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+though it hurts to look at the mirrors of life/i promise we'll find our path ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 though it may feel like it at times/not everyone is against you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 though lovers be lost/love shall not/and death shall have no dominion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0460
 though my soul may set in darkness/it will rise in perfect light/i have loved the stars too fondly to be fearful of the night ~~~~~~~~
@@ -19614,8 +19614,8 @@ time and place are arbitrary constructs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time and space are never going to/make any kind of sense ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0159
 time and tide wait for gnome ann ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0289
 time and tide wait for no man ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-time and time again i've hated what is broken/as though shattered souls don't deserve/to feel the light ~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
-time and time again we've hated what is broken/as though shattered souls don't deserve/to feel the light ~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+time and time again i've hated what is broken/as though shattered souls don't deserve/to feel the light ~~~~~~~~~~~~~~~~~~~~ $els 1007
+time and time again we've hated what is broken/as though shattered souls don't deserve/to feel the light ~~~~~~~~~~~~~~~~~~~ $els 1007
 time and time again ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time bends more easily in rooms with wallpaper/that's why grandmothers always know what's coming ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1010
 time brings you everything that belongs to you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19950,7 +19950,7 @@ too soon ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 took a little nap where the roots all twist/squished a rotten peach in my fist/and dreamed about you/woman ~~~~~~~~~~~~~~~~~~~~~~ 0791
 took a taxi out under those city lights/chasin' dreams on a dime/there's no time to be wastin' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0561
 top <R=6-20 things that will happen next year/you won't belive number five! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-tormented by the pressure to mend it back together/but the pieces all break in their grasp ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+tormented by the pressure to mend it back together/but the pieces all break in their grasp ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 torn from tomorrow's headlines ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0259
 toss a coin and make both outcomes absurd/heads and you can speak to owls/tails and all moss is your friend ~~~~~~~~~~~~~~~~ $qst 1010
 totally dependent on your relative motion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -21148,7 +21148,7 @@ when society fails them/people strike bargains with monsters ~~~~~~~~~~~~~~~~~~~
 when someone is afraid you need to listen to them/whether their fear is real or imagined ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0903
 when streams get a little bit wider and/it's hard to swim across the water ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0628
 when stupidity is considered patriotism/it is unsafe to be intelligent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0796
-when swallowed by shadows/so far from the shallows/we'll never let you drown ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+when swallowed by shadows/so far from the shallows/we'll never let you drown ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 when the artists and writers and healers are in pain/there is something dangerously wrong/with that society ~~~~~~~~~~~~~~~~~~~~~~~~~~
 when the basket is full someone will appear/to whom you can present it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0585
 when the candle was lit did it know that in the end it was going to burn down to nothing and disappear into the air? / ~~~~~ $mar 0299
@@ -21505,7 +21505,7 @@ wonder awaits you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 wonder doesn't have to be childlike/it can also be ancient ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 wonder is the beginning of wisdom ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 wonder lies at the intersection/of art and science ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-wonder lurks in stardew forest/won't you sway along? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $brd 1007
+wonder lurks in stardew forest/won't you sway along? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 wonder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 words and their meanings have weight/in the world of matter/shaping and reshaping realities/through a most ancient alchemy ~~~~~~ 0632
 words are inadequate to the burdens of the heart ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0028
@@ -21535,7 +21535,7 @@ would you like to know more? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 would you trust the journey/if you weren't in control? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 wouldn't this be a great time for/a piece of rhubarb pie? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0494
 wouldn't you like to know ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-wounded lover/scattered voids hold stories of fragile souls/to all my mangled creatures - welcome home ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+wounded lover/scattered voids hold stories of fragile souls/to all my mangled creatures - welcome home ~~~~~~~~~~~~~~~~~~~~~ $els 1007
 wrap yourself in light then give yourself away ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0576
 write a compliment to yourself/hide the paper in your drawer/only let the cat read it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 write a letter that begins - dear unknown/fill it with made up words and drawings/seal it and leave it in a library book ~~~ $qst 1010
@@ -22587,7 +22587,7 @@ your health isn't negotiable/what you do matters/and your body keeps score ~~~~~
 your heart is a garden/not a farm ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your heart is a muscle the size of your fist/keep loving - keep fighting ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your heart is limitless/your body is not/this is a gift ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-your heart is worth more/than the blood that it's shedding ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
+your heart is worth more/than the blood that it's shedding ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
 your heart knows the way/run in that direction ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0418
 your heart's gotta go there/through the darkest nights/see the lights shine bright ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0832
 your image in the dictionary/this life is more than ordinary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0026
@@ -22685,10 +22685,10 @@ your whole life cannot be stress and responsibility/the world feels heavy/but yo
 your words create your world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your words today are tomorrow's proof/that even in times of shadow/we dared to imagine brilliance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 your worth isn't decided by who shows up/but by how you show up for yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-your worth isn't the pain you endure for others/allow yourself freedom to/create your destiny ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1007
-your worth isn't the pain you endure for others/nor how well you can fall in line/allow yourself freedom to/create your destiny ~ 1007
+your worth isn't the pain you endure for others/allow yourself freedom to/create your destiny ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
+your worth isn't the pain you endure for others/nor how well you can fall in line/allow yourself freedom to/create your destiny ~ $els
 your worth isn't tied to your production/you are enough even in stillness/even in the messy middle of becoming ~~~~~~~~~~~~~~~~~~~~~~~
-your wounds hold stories/that's nothing to be ashamed of/allow yourself tenderness too/everyone deserves some softness ~~~~~~~~~~ 1007
+your wounds hold stories/that's nothing to be ashamed of/allow yourself tenderness too/everyone deserves some softness ~~~~~ $els 1007
 your younger self still believes in you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 zen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 zephyr in the sky at night i wonder/do my tears of mourning sink beneath the sun? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0413
