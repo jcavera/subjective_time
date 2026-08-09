@@ -76,30 +76,31 @@ Attributions and credits for image files (made by me, unless specified):
     cyb     Cyborg pride (inspired by Dresden Codak)
     d20     d20 for gaming references
 
+    els     relating to the Elswyth Archives, Dreamland, and Alisha Liston
     gfb     Bill Cypher journal page from Gravity Falls
     heb     Hebrew calendar (Volvelle: Offenbach, Germany, 1722, image via Library of Congress)
     hrg     Hourglass background image (source via Gemini image generator)
     ich     Hexagrams from the I Ching (Nuclear Hexagram Chart by Qian Chengzhi, Qing dynasty)
     ind     Indian national calendar (via wikimedia)
     isl     Islamic calendar (via cleanpng.com)
-    key     Background related to the Key story (source via Adobe Firefly image generator)
 
+    key     Background related to the Key story (source via Adobe Firefly image generator)
     kim     The personal glyph for Max Fractal (nee Kim Boekbinder)
     lnf     Clock of the Long Now (via the Long Now Foundation)
     m8b     Magic 8-ball (tm) (source via Craion image generator)
     map     Stylized world map
     mar     From the Marathon series of games (via Marathon source code)
     max     One of the Delphic maxims (image via Wikimedia)
-    mrs     Martian calendar (NASA image)
 
+    mrs     Martian calendar (NASA image)
     mun     Moon phases by Roberto Atzeni (via vecteezy.com)
     myn     Mayan calendar (from wikimedia)
     one     One ring text from the Lord of the Rings
     p##     Creative Commons "10 principles" images courtesy of James Wickham and adapted by Kelly Craig
     pbd     The famous "pale blue dot" photo from NASA
     qst     You are now on a quest (image by William Brown and Sondra Carr)
-    run     casting runes (source via Adobe Firefly image generator)
 
+    run     casting runes (source via Adobe Firefly image generator)
     scp     The SCP Foundation (image from https://scp-wiki.wikidot.com/)
     tfe     The fire elf (source via Adobe Firefly image generator)
     wnv     Welcome to Night Vale (image from https://wallpapercave.com/)
