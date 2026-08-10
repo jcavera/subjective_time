@@ -34,6 +34,7 @@ Add new pictures for:
 
 change file type: els.bmp -> els.jpg
 
+1043 -> $els
 1046  Lada Gaga, The Edge of Glory
 1047  Lady Gaga, Stupid Love
 
