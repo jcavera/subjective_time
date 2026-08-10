@@ -25,17 +25,101 @@ Attrib lang by count (possible background pics for these):
 Add new pictures for:
 - One Piece (~ 1011)                     - Doctor Who (regex: ~ 0159|~ 0260)
 - Lida Pavlova (~ 1010)                  - Star Trek (~ 0334)
-- Discworld (~ 0521)                     - Alisha Liston (~ 1007)
 - Marcus Aurelius (~ 0539)               - Futurama (~ 0259)
 - Kevin Kelly (~ 0557)                   - Monument Valley (~ 0466)
 - Doctor Seuss (~ 0351|~ 0575)           - Dungeon Crawler Carl (~ 0903)
-- The Imaginary Foundation (~ 0543)
+- The Imaginary Foundation (~ 0543)      - Discworld (~ 0521)
 - Beat Kitty (~ 0999)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
+
+change file type: els.bmp -> els.jpg
+
+1046  Lada Gaga, The Edge of Glory
+1047  Lady Gaga, Stupid Love
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+a <?glorious|good|great|lost|lovely|magical <?day|location|moment|month|place|time|week|year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?glorious|good|great|lost|lovely|magical <?day|location|moment|month|place|time|week|year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?glorious|good|great|lost|lovely|magical <?day|location|moment|month|place|time|week|year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?glorious|good|great|lost|lovely|magical <?day|location|moment|month|place|time|week|year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day in <?the|your <?life|universe|world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day of <?action|contemplation|dread|honor|hope|imagining|joy|longing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day of <?action|contemplation|dread|honor|hope|imagining|joy|longing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day of <?action|contemplation|dread|honor|hope|imagining|joy|longing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day of <?pain|peace|rain|remembrance|rest|sunshine|troubles|wisdom ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day of <?pain|peace|rain|remembrance|rest|sunshine|troubles|wisdom ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a day of <?pain|peace|rain|remembrance|rest|sunshine|troubles|wisdom ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a few minutes after <?he|she|they|we began ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a few minutes after <?he|she|they|we began ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a forgotten <?anniversary|birthday|day|holiday|moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a forgotten <?anniversary|birthday|day|holiday|moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a forgotten <?anniversary|birthday|day|holiday|moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a little bit <?ago|earlier|farther|further|higher|later|longer|lower|sooner ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a little bit <?ago|earlier|farther|further|higher|later|longer|lower|sooner ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a little bit <?ago|earlier|farther|further|higher|later|longer|lower|sooner ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?altschmerz|anemoia|apricity|bliss|brevity|chrysalism|clarity|compassion|confusion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?altschmerz|anemoia|apricity|bliss|brevity|chrysalism|clarity|compassion|confusion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?contrapasso|courage|decision|desperation|difficulty|ellipsism|enouement|euphoria|fernweh ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?contrapasso|courage|decision|desperation|difficulty|ellipsism|enouement|euphoria|fernweh ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?hiraeth|hope|joy|kairosclerosis|longing|love|magic|monachopsis|need|nostalgia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?hiraeth|hope|joy|kairosclerosis|longing|love|magic|monachopsis|need|nostalgia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?occhiolism|opia|peace|redemption|reflection|regret|respite|rest|rubatosis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?occhiolism|opia|peace|redemption|reflection|regret|respite|rest|rubatosis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?satori|sehnsucht|serendipity|solace|sonder|truth|weltschmerz|yugen|zenosyne ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a moment of <?satori|sehnsucht|serendipity|solace|sonder|truth|weltschmerz|yugen|zenosyne ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a new <?dawn|day <?approaches|comes|nears ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a new <?dawn|day <?approaches|comes|nears ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a new age of <?compassion|discovery|empire|enlightenment|exploration|wonder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a new age of <?compassion|discovery|empire|enlightenment|exploration|wonder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a perfect <?moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a perfect <?moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a place of <?belonging|enlightenment|healing|kenopsia|renewal|respite|rest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a place of <?belonging|enlightenment|healing|kenopsia|renewal|respite|rest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a random <?day|location|moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a random <?day|location|moment|place|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a season of <?hope|rebirth|renewal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a season of <?hope|rebirth|renewal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time for <?action|change|collaboration|consideration|discussion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time for <?action|change|collaboration|consideration|discussion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time for <?fighting|honesty|hygge|living|love|peace|planning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time for <?fighting|honesty|hygge|living|love|peace|planning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time for <?reason|reconciliation|shoshin|unity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time for <?reason|reconciliation|shoshin|unity ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time of <?building|change|forgiveness|hope|longing|love|miracles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time of <?building|change|forgiveness|hope|longing|love|miracles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time of <?power|rebirth|rebuilding|recklessness|renewal|revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time of <?power|rebirth|rebuilding|recklessness|renewal|revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time of <?thunder|trials|war|wonders ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a time of <?thunder|trials|war|wonders ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+approximately <?here|now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+approximately <?here|now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?cusp|dawn of a new <?age|era ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?cusp|dawn of a new <?age|era ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?cusp|dawn of a new <?age|era ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the edge of the <?glory|known|light|moment|noosphere|possible|unknown ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the edge of the <?known|glory|light|moment|noosphere|possible|unknown ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?beginning|boundary|crossroads|edge|end|focus ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?beginning|boundary|crossroads|edge|end|focus ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?limit|limits|midpoint|opening|portal|shoreline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?limit|limits|midpoint|opening|portal|shoreline ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the <?start|threshold ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+another shot before we kiss the other side ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+build the parallel world now/don't wait for the new one to arrive/make the old systems less necessary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+don't stop the music! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+freak out freak out freak out freak out/get down get down get down get down/we want just to be loved! / ~~~~~~~~~~~~~~~~~~~~~~~~~ 1047
+i'm on the edge of glory/and i'm hanging on a moment of truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+i'm on the edge of glory/and i'm hanging on a moment with you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+nobody's gonna heal you if you don't open the door ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1047
+on the edge of something final we call life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+out on the edge of glory/and hanging on a moment of truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+out on the edge of glory/and hanging on a moment with you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+put on your shades because we'll be dancing in the flames ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+right on the limits/where we know we both belong ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
+when you hold so much/who holds you? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+where we can both fall far in love ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1046
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
