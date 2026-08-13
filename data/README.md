@@ -8,8 +8,20 @@ The second (r_brc) are meesages that are in some way related to Burning Man and 
 on-playa conditions are met.  The third (r_cond) consists entirely of conditional statements that are
 purposefully narrow (e.g.: limited to a single day, a single location, a specific time, etc.).
 
+### Line and character restrictions
+
 All of the resource files are line-length limited to 134 characters, plus a carriage return and newline
-(totaling 136 bytes per line).  All use a tilde (~) character to fill the length and indicate the end of
+(totaling 136 bytes per line).  To quickly find any line that doesn't match this, open the data files in
+Notepad++ and use the following regex: 
+```
+^.{5,133}$|^.{135,}$
+```
+Additionally, only the standard set of printable 7b ASCII characters are allowed in data files.  To make
+sure that no other characters (UTF-whatever) are in there, use this regex:
+```
+[^\n-~]
+```
+All lines in the resource files use a tilde (~) character to fill the length and indicate the end of
 the line message content.  Lines MUST be padded to the appropriate length as the code randomly accesses
 lines in files by counting bytes.  If a single line is too long or too short, it throws everything off
 for the lines that follow and those won't be read correctly.
