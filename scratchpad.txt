@@ -32,9 +32,100 @@ Add new pictures for:
 - Beat Kitty (~ 0999)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
 
+Global search/replace: imminent vs imminent -- get these right
+------------------------------------------------------------
+fix embedded images: chiron is in _` [zod] ~~ isn't working
+maybe fix...
+
+def choose_between (a, delim):
+    if (a == ""): return ("")                                   ## safety check
+    alist = a.split(delim)                                      ## split to a list along the delimiter
+    alist = [x for x in alist if x.strip()]                     ## remove empty strings
+    s     = alist[ app_numeric.arand(1, 0, len(alist) - 1) ]    ## return a random one
+    i     = ""
+    b     = re.search(r"[\x5b]([a-z0-9]{3})[\x5d]", s)          ## check for embedded image
+    if b:                                                       ## if found...
+        s = re.sub(r"[\x5b]([a-z0-9]{3})[\x5d]", r"", s)        ##      remove the embed
+        i = (str(b.group(0)))[1:4]                              ##      grab the 3-char string for image
+    
+    return (s.strip()), i
+
+    def fetch_year_based (self, coord, thing = 0):
+        s    = ""                                                       ## line placeholder
+        yy   = coord.ltc.year
+        lnum = coord.ltc.timetuple().tm_yday                            ## line number is the day of the year
+        
+        if ((yy > 2023) and (yy < 2100)):                               ## if there is a r_year file for this year
+            fname = app_files.dir_r_year + "r_" + str(yy) + ".txt"                  ## generate the target file name from the year
+            line = app_files.file_read_line(fname, lnum, app_files.k_LEN_R_20xx)    ## read the line number
+            line = line[58:104].strip('~ ')                                         ## extract the macro.txt file indicies
+            n    = [int(i) for i in (line.split(';'))]                              ## change them to an integer list and append
+        else:
+            if ((app_numeric.is_leap_year(yy) == False) and 
+                (coord.ltc.month >= 3)):                                ## if we're not a leap year and the month is march or later, we
+                lnum = lnum + 1                                         ## have to add 1 to the day since macro.txt assumes a leap year
+            n    = [ lnum ]                                             ## set the day of the year as the first line number
+
+        for j in n:                                                     ## step through each entry in the macro.txt file
+            s = s + app_files.file_read_line(app_files.file_macro, j, app_files.k_LEN_R_MACR)   ## grab the jth line (in the set n)
+            try:                                                                                ## get rid of any eol flags (~)
+                eos  = s.index('~')
+                s    = s[:(eos-1)]
+            except:                                                                 ## or just strip trailing spaces if no eol
+                s    = s.strip()
+            s = s + ";"                                                             ## tack on a delimiter and get the next line
+        
+        if (thing == 1): return (s)                                     ## return every option on debug flag
+        ii = ""
+        s, ii = app_strings.choose_between(s, ';')                          ## fetch a random one
+        if (ii != ""):
+           self.data.bg_img = ii 
+###        s = re.sub(r"[\x5b]([a-z0-9]{3})[\x5d]", r"~~ $\g<1>", s)       ## if there is an inline [img] tag, replace it with ~~ $img
+        return (s)
+
+    def fetch_time_based (self, coord, return_all = 0):
+        ln = int((coord.ltc.hour * 12) + (coord.ltc.minute / 5)) + 1    ## figure out the line to get from the time.txt file
+        if (ln >= 290): return ("")                                     ## return null if that calculation breaks
+        s = app_files.file_read_line(app_files.file_time, ln, app_files.k_LEN_R_TIME)   ## grab the line
+        try:                                                                            ## get rid of any eol flags
+            eos = s.index('~')
+            s   = s[:(eos-1)]
+        except:
+            s   = s.strip()
+        if (return_all == 1): return (s)                                ## return every possibility for debugging
+        ii = ""
+        s, ii = app_strings.choose_between(s, ';')                          ## fetch a random one
+        if (ii != ""):
+           self.data.bg_img = ii 
+        if ((s != "") and (ii == "")):
+            r = app_numeric.arand(1, 1, 100)
+            if (r < 40): self.data.bg_img = 'hrg'
+        return (s)
+
+def sub_subproc_qq (s, coord, item):
+    if (s == ""): return ("")                                           ## safety check
+    b = ""
+    a, b = app_strings.choose_between(item[2:], '|')                    ## pick a random thing
+    s = s.replace(item, a)
+    return (s)
+
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+brc:
+everything becomes dust/and yet we dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+national makeout with a <?friend|stranger day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the management is not responsible/for mischievous fae ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+time to makeout with the person next to you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+everyone wants to believe that they're chosen/but if we all waited around/for a prophecy to make us special/we'd die waiting ~~~~~~~~~
+everything becomes dust/and yet we dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $bmp
+know the difference between being fully chosen/and just kept around ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+magic is as magic does ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+trees don't talk much but they can teach us everything/their roots about holding on and/their leaves about letting go ~~~~~~~~~~~~~~~~
+who are your heroes? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+who told you that life has to have a meaning? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+you feel called to a place because/a part of you already exists there ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $map
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
