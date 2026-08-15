@@ -246,5 +246,10 @@ def choose_between (a, delim):
     alist = a.split(delim)                                      ## split to a list along the delimiter
     alist = [x for x in alist if x.strip()]                     ## remove empty strings
     s     = alist[ app_numeric.arand(1, 0, len(alist) - 1) ]    ## return a random one
-    return (s.strip())
-
+    i     = ""
+    b     = re.search(r"[\x5b]([a-z0-9]{3})[\x5d]", s)          ## check for embedded image
+    if b:                                                       ## if found...
+        s = re.sub(r"[\x5b]([a-z0-9]{3})[\x5d]", r"", s)        ##      remove the embed
+        i = (str(b.group(0)))[1:4]                              ##      grab the 3-char string for image
+    
+    return (s.strip()), i

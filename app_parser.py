@@ -246,8 +246,11 @@ class Parser:
             s = s + ";"                                                             ## tack on a delimiter and get the next line
         
         if (thing == 1): return (s)                                     ## return every option on debug flag
-        s = app_strings.choose_between(s, ';')                          ## fetch a random one
-        s = re.sub(r"[\x5b]([a-z0-9]{3})[\x5d]", r"~~ $\g<1>", s)       ## if there is an inline [img] tag, replace it with ~~ $img
+        ii = ""
+        s, ii = app_strings.choose_between(s, ';')                      ## fetch a random one
+        if (ii != ""):                                                  ## grab the image tag if there's one there
+           self.data.bg_img = ii 
+
         return (s)
     
     
@@ -265,10 +268,15 @@ class Parser:
         except:
             s   = s.strip()
         if (return_all == 1): return (s)                                ## return every possibility for debugging
-        s = app_strings.choose_between(s, ';')                          ## fetch a random one
-        if (s != ""):
+        ii = ""
+        s, ii = app_strings.choose_between(s, ';')                      ## fetch a random one
+        if (s == ""): 
+            return ("")                                                 ## get out on null choice
+        if (ii != ""):                                                  ## update the image tag if there is one
+           self.data.bg_img = ii 
+        else:                                                           ## if none, maybe add the hrg image
             r = app_numeric.arand(1, 1, 100)
-            if (r < 40): self.data.bg_img = 'hrg'
+            if (r < 75): self.data.bg_img = 'hrg'
         return (s)
     
     

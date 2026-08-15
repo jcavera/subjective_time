@@ -237,7 +237,7 @@ k_macro = [     "nativity fast",    "moon",               "under",            "o
                 "your",             "month",              "week",             "the feast of",     "festival",           "the discovery of", 
                 "almost",           "around",             "nearly",           """o'clock""",      "about",              "approximately", 
                 "half past",        "until",              "before",           "after",            "last",               "year",     
-                "happy",            "conjunction",        "days",             "hours",            "minutes",            "<?heritage|history", 
+                "happy",            "conjunction",        "days",             "hours",            "minutes",            "heritage", 
                 "right now",        "world",              "quarter",          "in the morning",   "top of the hour",    "bottom of the hour",
                 "in the afternoon", "awareness month",    "the invention of", "retrograde",       "time to",            "a.m.",
                 "p.m",              "hundred hours",      "noon",             "time for",         "straight up",        "just after",
@@ -420,8 +420,8 @@ def sub_subproc_G (s, coord, item):
     heading  = app_numeric.gps_dir_deg_rhumb(coord.lat, coord.lon, la, lo)  ## compute distance and direction from target (lat, lon)
     distance = app_numeric.gps_dist_km_rhumb(coord.lat, coord.lon, la, lo)
     if (distance < 25): return ("")                                         ## if too close to call, return null
-   
-    dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)           ## convert direction to string
+    
+    dir_idx = int(app_numeric.round_to_val(heading, 22.5) / 22.5)       ## convert direction to string
     dir_str = k_directions[dir_idx] + " of"
     if (la < -87.000): dir_str = "north of"
     if (la >  87.000): dir_str = "south of"
@@ -746,7 +746,7 @@ def sub_subproc_y (s, coord, item):
 
 def sub_subproc_qq (s, coord, item):
     if (s == ""): return ("")                                           ## safety check
-    a = app_strings.choose_between(item[2:], '|')                       ## pick a random thing
+    b = ""                                                              ## ignore image tags for this one
+    a, b = app_strings.choose_between(item[2:], '|')                    ## pick a random thing
     s = s.replace(item, a)
     return (s)
-

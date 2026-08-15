@@ -270,7 +270,7 @@ class App ():
         
         self.update_strings(a.message)                                          ## update the message string
         sleepytime = app_numeric.roll_dice("3d20") * 5000                       ## random sleepytime = 0:15 - 5:00 (nominally 2.5 minutes)
-        if (self.cfg.debug): sleepytime = 10000                                 ## debug sleepytime = 8 seconds
+        if (self.cfg.debug): sleepytime = 5000                                  ## debug sleepytime = 5 seconds
         self.root.after(sleepytime, self.update_me)                             ## set the time for the next update
         
 
