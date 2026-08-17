@@ -75,6 +75,7 @@ Attributions and credits for image files (made by me, unless specified):
     cop     Coptic calendar (Coptic cross via wikimedia)
     cyb     Cyborg pride (inspired by Dresden Codak)
     d20     d20 for gaming references
+    dcc     From Dungeon Crawler Carl
 
     els     relating to the Elswyth Archives, Dreamland, and Alisha Liston
     gfb     Bill Cypher journal page from Gravity Falls
@@ -83,26 +84,29 @@ Attributions and credits for image files (made by me, unless specified):
     ich     Hexagrams from the I Ching (Nuclear Hexagram Chart by Qian Chengzhi, Qing dynasty)
     ind     Indian national calendar (via wikimedia)
     isl     Islamic calendar (via cleanpng.com)
-
     key     Background related to the Key story (source via Adobe Firefly image generator)
+
     kim     The personal glyph for Max Fractal (nee Kim Boekbinder)
     lnf     Clock of the Long Now (via the Long Now Foundation)
     m8b     Magic 8-ball (tm) (source via Craion image generator)
     map     Stylized world map
     mar     From the Marathon series of games (via Marathon source code)
     max     One of the Delphic maxims (image via Wikimedia)
-
+    mon     From Monument Valley (the game, not the landmark)
     mrs     Martian calendar (NASA image)
+
     mun     Moon phases by Roberto Atzeni (via vecteezy.com)
     myn     Mayan calendar (from wikimedia)
     one     One ring text from the Lord of the Rings
     p##     Creative Commons "10 principles" images courtesy of James Wickham and adapted by Kelly Craig
     pbd     The famous "pale blue dot" photo from NASA
     qst     You are now on a quest (image by William Brown and Sondra Carr)
-
     run     casting runes (source via Adobe Firefly image generator)
     scp     The SCP Foundation (image from https://scp-wiki.wikidot.com/)
+
+    shp     The flag of the Straw Hat Pirates (from One Piece)
     tfe     The fire elf (source via Adobe Firefly image generator)
+    trk     From Star Trek (obviously)
     wnv     Welcome to Night Vale (image from https://wallpapercave.com/)
     zil     Large-scale structure of the universe (NASA image)
     zod     Constellation chart for the zodiac related stuff (composite of multiple NASA images)
@@ -1198,4 +1202,6 @@ have a good idea of mine.
 1045  Donny Osmond, I'll Make a Man Out of You; Mulan Original Soundtrack
 1046  Lada Gaga, The Edge of Glory
 1047  Lady Gaga, Stupid Love
+1048  Latin: I will face hard times and must be prepared
+1049  Latin: Focus on the ultimate good
 
