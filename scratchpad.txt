@@ -26,9 +26,9 @@ Add new pictures for:
 - Doctor Who (regex: ~ 0159|~ 0260)      - Beat Kitty (~ 0999)
 - Lida Pavlova (~ 1010)                  - Star Trek (~ 0334)
 - Marcus Aurelius (~ 0539)               - Futurama (~ 0259)
-- Kevin Kelly (~ 0557)                   - Monument Valley (~ 0466)
-- Doctor Seuss (~ 0351|~ 0575)           - Dungeon Crawler Carl (~ 0903)
-- The Imaginary Foundation (~ 0543)      - Discworld (~ 0521)
+- Kevin Kelly (~ 0557)                   - Discworld (~ 0521)
+- Doctor Seuss (~ 0351|~ 0575)
+- The Imaginary Foundation (~ 0543)
 - XKCD (regex: ~ 0288|~ 0289|~ 0291|~ 0292|~ 0303)
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
