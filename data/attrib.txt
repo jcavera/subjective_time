@@ -99,15 +99,22 @@ Attributions and credits for image files (made by me, unless specified):
     myn     Mayan calendar (from wikimedia)
     one     One ring text from the Lord of the Rings
     p##     Creative Commons "10 principles" images courtesy of James Wickham and adapted by Kelly Craig
+                p01 radical inclusion           p07 civic responsibility
+                p02 gifting                     p08 leave no trace
+                p03 decommodification           p09 participation
+                p04 radical self-reliance       p10 immediacy
+                p05 radical self-expression     p11 consent
+                p06 community effort
+
     pbd     The famous "pale blue dot" photo from NASA
     qst     You are now on a quest (image by William Brown and Sondra Carr)
     run     casting runes (source via Adobe Firefly image generator)
     scp     The SCP Foundation (image from https://scp-wiki.wikidot.com/)
-
     shp     The flag of the Straw Hat Pirates (from One Piece)
     tfe     The fire elf (source via Adobe Firefly image generator)
     trk     From Star Trek (obviously)
     wnv     Welcome to Night Vale (image from https://wallpapercave.com/)
+
     zil     Large-scale structure of the universe (NASA image)
     zod     Constellation chart for the zodiac related stuff (composite of multiple NASA images)
 

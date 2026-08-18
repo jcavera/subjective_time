@@ -176,10 +176,10 @@ _F #2 #30 ;a bit _K #2 #30 ;_C #2 #30 _c;#2 #30 or so;_H #2 give or take;<M ;<Y 
 #20 til #3 ;_V of #3 or so;_D a _V of #3 ;_C #2 #45 _c;_4 #2 #45 ;an afternoon in <M ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1435
 _V of #3 ;_F a _V til #3 ;_B #3 _Z;#15 _J the hour;_F a _V of;<D afternoon;<A ;<i <m <p ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1440
 _D #3 _c;just past a _V of #3 ;going on #3 _Z;a few _R _J #3 ;_D #3 ;tsha' sho'in;afternoon snack o'clock ~~~~~~~~~~~~~~~~~~~~~~~ 1445
-_i #3 _c;_F a ten of #3 ;_D #3 _Z;a little bit _I #3 ;#3 ish;a <D afternoon;d' batsha shayin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1450
+_i #3 _c;_F a ten of #3 ;_D #3 _Z;a little bit _I #3 ;#3 ish;a <D afternoon;d'batsha shayin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1450
 #3 _E or so;_F #3 _c;_i #3 ;#3 _Z;mid afternoon;post meridiem;snack time;an afternoon in <S ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1455
 _C #3 _E;a bit _K #3 ;_F #3 _c;just past #3 ;#3 _c or so;#15 _d;_g #3 _E;<H _d <?gmt|utc|zulu ;_X;<h _d ~~~~~~~~~~~~~~~~~~~~~~~~~ 1500
-#3 _Z;a little _K #3 ;_h #3 _c;#3 _E or thereabouts;a few _R past #3 _c;<D ;d' batsha shayin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1505
+#3 _Z;a little _K #3 ;_h #3 _c;#3 _E or thereabouts;a few _R past #3 _c;<D ;d'batsha shayin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1505
 _V _K #3 or so;_D a _V _K #3 ;_F #3 #15 ;#3 #15 give or take;_V past the hour;tsha' sho'in ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1510
 #3 #15 or so;going on #3 #30 ;_C a _V _K #3 ;_F #3 #15 _Z;_V past #3 ;mid afternoon;snack time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1515
 #3 #20 or so;_B _H #3 ;just past #3 #15 ;going on #3 #30 ;nearing the _Y;_Z;_t;_4 _H ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1520
