@@ -61,15 +61,15 @@ class Parser:
         aseed = int((app_numeric.cryptorand(1))[0] * 10000)
         r = app_numeric.arand(1, 1, 100)                ## roll percentile dice
         if (on_playa):                                  ## black rock city rules apply
-            if   (r <= 8):                  s = self.fetch_algorithmic(coord)       ## fetch an algorithmic message
-            elif ((r > 8) and (r <= 15)):   s = self.fetch_year_based(coord)        ## year-day-based message
-            elif ((r > 15) and (r <= 30)):  s = self.fetch_time_based(coord)        ## retreive a time-based message
-            elif ((r > 30) and (r <= 50)):  s = self.fetch_res_based(coord, 'brc')  ## black rock city specific message
+            if   (r <= 5):                  s = self.fetch_algorithmic(coord)       ## fetch an algorithmic message
+            elif ((r > 5) and (r <= 12)):   s = self.fetch_year_based(coord)        ## year-day-based message
+            elif ((r > 12) and (r <= 25)):  s = self.fetch_time_based(coord)        ## retreive a time-based message
+            elif ((r > 25) and (r <= 40)):  s = self.fetch_res_based(coord, 'brc')  ## black rock city specific message
             else:                           s = ""
         else:                                           ## we are literally anywhere else in the world
-            if   (r <= 8):                  s = self.fetch_algorithmic(coord)       ## fetch an algorithmic message
-            elif ((r > 8) and (r <= 15)):   s = self.fetch_year_based(coord)        ## year-day-based message
-            elif ((r > 15) and (r <= 35)):  s = self.fetch_time_based(coord)        ## retreive a time-based message
+            if   (r <= 5):                  s = self.fetch_algorithmic(coord)       ## fetch an algorithmic message
+            elif ((r > 5) and (r <= 12)):   s = self.fetch_year_based(coord)        ## year-day-based message
+            elif ((r > 12) and (r <= 25)):  s = self.fetch_time_based(coord)        ## retreive a time-based message
             else:                           s = ""
         self.rules_image_display(s)                     ## before going on, check for any image display rules
         s = app_markup.process_me(s, coord)             ## and fix the markups
