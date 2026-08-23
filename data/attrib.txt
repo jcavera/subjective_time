@@ -114,7 +114,8 @@ Attributions and credits for image files (made by me, unless specified):
     tfe     The fire elf (source via Adobe Firefly image generator)
     trk     From Star Trek (obviously)
     wnv     Welcome to Night Vale (image from https://wallpapercave.com/)
-
+    
+    xkc     From XKCD (choices) with the Helix nebula
     zil     Large-scale structure of the universe (NASA image)
     zod     Constellation chart for the zodiac related stuff (composite of multiple NASA images)
 
@@ -1159,7 +1160,7 @@ have a good idea of mine.
 0996  French: live, love, hope
 0997  Latin: nothing is heavy to those with wings
 0998  from The Havamal Saga
-0999  Beat Kitty
+0999  Beat Kitty (Amanda Bociek)
 1000  Latin: until it drives you crazy
 
 1001  Leonard Nimoy
@@ -1211,4 +1212,6 @@ have a good idea of mine.
 1047  Lady Gaga, Stupid Love
 1048  Latin: I will face hard times and must be prepared
 1049  Latin: Focus on the ultimate good
+1050  Magical Muse the Wanderer of the Kingdom of Elswyth
 
+1051  French: the dogs bark, the caravan moves on
