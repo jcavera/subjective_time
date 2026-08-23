@@ -33,7 +33,7 @@ imgs = set( [ 'brc', 'brd', 'car', 'chn', 'cop', 'cyb', 'd20', 'dcc', 'els', 'gf
               'heb', 'hrg', 'ich', 'ind', 'isl', 'key', 'kim', 'lnf', 'm8b', 'map', 
               'mar', 'max', 'mon', 'mrs', 'mun', 'myn', 'one', 'p01', 'p02', 'p03',  
               'p04', 'p05', 'p06', 'p07', 'p08', 'p09', 'p10', 'p11', 'pbd', 'qst', 
-              'run', 'scp', 'shp', 'tfe', 'trk', 'wnv', 'zil', 'zod'  ] )
+              'run', 'scp', 'shp', 'tfe', 'trk', 'wnv', 'xkc', 'zil', 'zod'  ] )
 
 ## ------------------------------------------------------------------------------------------------- GLOBAL VARIABLES
 

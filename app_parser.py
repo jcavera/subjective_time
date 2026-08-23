@@ -356,7 +356,7 @@ class Parser:
             s = s + "      isha:    " + app_numeric.day_fraction_format((ss + 1.00) / 2) + "\n"
             return (s)
         
-        if (r < 40):                                                    ## islamic call for prayer times
+        if (r < 20):                                                    ## islamic call for prayer times
             if   ((ct >= (sr - 0.04)) and (ct <= (sr))):            s = "fajr"                                              ## morning prayer
             elif ((ct >= (sn))        and (ct <= (sn + 0.04))):     s = "zuhr"                                              ## noon prayer
             elif ((ct >= (sn + 0.05)) and (ct <  (ss))):            s = "asr"                                               ## afternoon prayer
