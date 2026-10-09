@@ -6,22 +6,6 @@ NOTES AND TODOs (that don't deserve issues):
 Add the timetable for John Cage's, As Slow As Possible
 fix in app_parser::..extrasolar:
 - add an option for "from the earth" plus "give or take a hundred million miles"
-Add to macr: the fast of esther ~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
-             scarlet wednesday;chaharshanbe suri ~~~ last wednesday in the month of Ramadan
-             world sleep day ~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
-             cyrus the great day ~~~~~~~~~~~~~~~~~~~ seventh day of aban (arabic calendar)
-             tisha b'av ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 9th day of av (hebrew calendar)
-             Last full week of july: EAA AirVenture Oshkosh
-             First full week of oct: Albuquerque International Balloon Fiesta
-             thursday before labor day
-
-Attrib lang by count (possible background pics for these):
-    Latin       199     Mandarin    9       Scottish    3       Thai        1
-    Greek       88      Portugese   8       Welsh       2       Zulu        1
-    French      30      Arabic      3       Hebrew      1
-    Japanese    26      German      3       Maori       1
-    Spanish     20      Norwegian   3       Polish      1
-    Italian     17      Sanskrit    3       Shona       1
 
 Add new pictures for:
 - Doctor Who (regex: ~ 0159|~ 0260)      - Beat Kitty (~ 0999)
@@ -30,13 +14,50 @@ Add new pictures for:
 - Kevin Kelly (~ 0557)                   - Doctor Seuss (~ 0351|~ 0575)
 - The Imaginary Foundation (~ 0543)
 
-758 _u repair _t ~~~~~~~~~~~~~~~~~~~ third saturday in october
+the fast of esther ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
+scarlet wednesday [isl];chaharshanbe suri [isl] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last wednesday in the month of Ramadan
+world sleep day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
+cyrus the great day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ seventh day of aban (arabic calendar)
+tisha b'av [heb] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 9th day of av (hebrew calendar)
+the eaa airventure festival in oshkosh ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last full week of july
+the albuquerque international balloon fiesta ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first full week of october
+huggie and xander's (o-2025) anniversary [brc];jason and rory's (o-2013) anniversary [brc] ~~~~~~~~~~~~~~~~ thursday before labor day
+
+childrens' day [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first new moon in feb
+the great tea jamboree [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first new moon in apr
+the gathering of lutes and lyres [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ week following first full moon in jul
+the week of the prose and poetry convention [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ week following first new moon in aug
+the seaside soiree [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ week following first full moon in sep
+
+381: _* a full _& [mun];_* the wolf _& [mun];_* the black smoke _& [mun];_* the winter _& [mun];the gala of tancred [els] ~~~~~~ full jan x
+387: _* a full _& [mun];_* the buck _& [mun];_* the elk _& [mun];_* the summer _& [mun];the gathering of lutes and lyres [els] ~ full jul x
+389: _* a full _& [mun];_* the corn _& [mun];_* the barley _& [mun];_* the red plum _& [mun];the seaside soiree [els] ~~~~~ full moon sep x
+392: _* a full _& [mun];_* the beaver _& [mun];_* the turkey _& [mun];_* the frosty _& [mun];the artificer exhibition [els] ~~~~ full nov x
+758: sweetest _t/seriously? this is a real holiday? / ;_u singing _t;_u repair _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third saturday in october x
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=1,d=27 (a-1598) the first recorded game of cricket ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=28 (a-1994) the release of stargate ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=9 hangul day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d>16,h>18 everdark ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=10,d>16,h>18 spooky season ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=11,d>12,d<20 the harvest hastening ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=12,d=15 the festival of mirelune ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=12,d>16 the midwinter feast festivities ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=2,d=15 (a-1971) decimal day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=3,d=3 eudoxia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=5,d=10 the feylight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=6,d>20,d<28 the tournament of titans ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=6,d<15 the season of iridescence ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
 !M=8,d=15 benesmer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=9,d=13 (a-1922) the manhattan straw hat riots/which actually had nothing to do with pirates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=9,d=23 lilidore ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+
+!M=6 the cirque du seraphine is in town ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=7 the cirque du seraphine is in town ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
+!M=8 the cirque du seraphine is in town ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
 
 (a-1966) gene roddenberry created star trek ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk
 (a-1985) donna haraway wrote a cyborg manifesto ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
