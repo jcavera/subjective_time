@@ -15,43 +15,13 @@ Add new pictures for:
 - Kevin Kelly (~ 0557)                   - Doctor Seuss (~ 0351|~ 0575)
 - The Imaginary Foundation (~ 0543)
 
-wokwi test:
-    // https://github.com/Bodmer/TFT_eSPI/blob/master/examples/Sprite/Rotated_Sprite_1/Rotated_Sprite_1.ino
-    #include <SPI.h>
-    #include <TFT_eSPI.h>
-
-    // Create a TFT_eSPI instance:
-    TFT_eSPI tft = TFT_eSPI(); 
-    TFT_eSprite img = TFT_eSprite(&tft); // Create a Sprite object
-    int angle = 45;
-
-    void setup() {
-      Serial.begin(115200);
-      tft.init();
-      tft.fillScreen(TFT_BLACK);
-      tft.setPivot(tft.width()/2, tft.height()/2); // Change just the TFT pivot point
-
-      img.createSprite(80, 80);
-      img.fillSprite(TFT_BLACK); 
-      img.setTextColor(TFT_WHITE, TFT_BLACK);
-      img.setTextSize(3);
-      
-      img.setTextDatum(MC_DATUM);
-      img.drawString("A", 40, 40);
-      img.pushRotated(angle, TFT_BLACK); 
-    }
-
-    void loop() {
-      angle = angle + 5;
-      if (angle >= 360) angle = 0;
-      img.pushRotated(angle, TFT_BLACK);
-      delay(30);
-    }
+1054  Joseph Fasano, various poems
+1055  Bob Dylan, The Watchtower
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
-!M=10,d=13 mercedes lakail's birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=13 mercedes perguson's birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=9,d=1 (a-1969) the texas international pop festival ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (a-1796) gilbert stuart painted the athenaeum portrait ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,38 +34,72 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 <G=+24439,+027649 abu ballas ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=+48000,+084000 lake zaysan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <G=-54350,+159000 the judge and clerk islets ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=-58583,-065900 the drake passage ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=-79978,-081950 a mysterious pyramid in the quartermain mountains on the antarctic continent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t' <?action|change|dreaming|reflection|sacrifice ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t' <?compassion|destruction|nurturing|rebuilding ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t' <?growth|healing|learning|planning|renewal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t' a <?break|challenge|chance|journey|nap ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <t' a <?change|risk|stand|trip|voyage ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+a <?dangerous|lost|perilous|tragic|trying <?day|location|moment|month|place|point|season|time|week|year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?action|contemplation|dread|honor|hope|imagining|joy|longing ~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?anger|breaking|anguish|pain|suffering|sundering|troubles ~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?beauty|birth|clarity|creativity|decision|healing|renewal ~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?building|change|forgiveness|love|miracles|possibilities ~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?fortune|friendship|ripening|understanding|rebellion ~~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?peace|rain|remembrance|rest|sunshine|troubles|wisdom ~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?power|rebirth|rebuilding|recklessness|revolution ~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of <?thunder|trials|war|wonders|hopelessness|destruction ~~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of empty politeness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of meaningless promises ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a <?day|moment|month|place|point|season|time|week|year of useless meanderings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 a better world is <?coming|inevitable|near|possible ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-a day of empty politeness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-a day of meaningless promises ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-a day of useless meanderings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 a discarded journal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $key
 a distant <?horizon|mountain|path|road|shore comes in to view ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 a forgotten secret ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $key
 a leap of faith ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $key
+a photon sees every point available to it/as being zero distance away ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
 a time of great <?change|dreams|peril|upheaval ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a wonderful <?day|moment|month|place|point|season|time|week|year to be alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+a wonderful <?day|moment|month|place|point|season|time|week|year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+after <?he|she|they acknowledged the reality of the situation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they already started ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they apologized ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+after <?he|she|they died trying ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they dropped out of school ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+after <?he|she|they faced the truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they graduated ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they had gone to bed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they had started to eat ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they had woken up ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they learned the names of the stars ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+after <?he|she|they learned the truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+after <?he|she|they learned to live with it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they mastered kung fu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they mastered quantum mechanics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+after <?he|she|they perished in the resulting explosion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they <?started|stopped <?caring|cooking|crying|dancing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they <?started|stopped <?dreaming|exercising|laughing|learning ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 after <?he|she|they <?started|stopped <?planning|rebuilding|running|walking ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+all along the watchtower princes kept the view/while all the women came and went/barefoot servants too ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1055
+all in <?due|good|proper time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+almost <?his|her|their <r=2-20 year anniversary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+almost <?his|her|their <r=2-80 birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+almost <?his|her|their <?anniversary|birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+along a geodesic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
+along a nearly null geodesic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
 
+another day on the strugglebus ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+as long as you have breath/you could be a song ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1054
 ask someone to tell you their life story/and actually listen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 begin a journal with no rules/messy pages hold the most truth ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+briefly - just briefly - be here/you are not betraying anyone by choosing joy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1054
+briefly - just briefly - be here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1054
 build a playlist for a specific emotion/make it cinematic ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+celebrate a stranger's birthday/you may not know them/but they are very important to a lot of people ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 cherish that <?memory|moment|time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 cherish that which brings you delight ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 compliment <R=2-5 strangers today/notice how your world gets a little softer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -105,32 +109,52 @@ do one thing this <?day|week|month that scares you/commit to it ~~~~~~~~~~~~~~~~
 don't get overwhelmed/also don't get underwhelmed/always try to have the exact/right amound of whelm ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 eight point six billion light years from the phoenix-a hypermassive black hole ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
 find a hidden cafe and make it yours ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+find someone in this world of furious burning/who hears your life's chaos as a song ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1054
+for tens of thousands of generations/humans have looked to the stars in wonder/we are the first to begin to touch them ~~~~~~~~~~ $pbd
 fourteen thousand years since the fall/of the zep tepi civilization ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+have you eliminated any interruptions/or distractions? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 hell is other people/but so is heaven ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+it all works out in the end because nothing does/what a relief/you don't have to do any of this shit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+it would have been <?his|her|their <r=2-20 year anniversary ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+it would have been <?his|her|their <r=2-80 birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+it would have been <?his|her|their <?anniversary|birthday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+laughter is a loophole through pain fear and lonliness/it feels good because it reminds us all/that we are not from here ~~~~~~~~~~~~~
 learn one magic trick/be the person who no one expects ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+look at you bein' all alive an' shit/i'm proud of you bro! /you pulled through! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 make something with your own hands/it doesn't matter what so long as/it isn't useful ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+may those who accept their fate be granted happiness/may those who defy their fate be granted glory ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 memorize a poem so deeply that it/changes how you think ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 never play fair in a game where/everyone else is cheating ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+outside in the cold distance a wildcat did growl/two riders were approaching/and the wind began to howl ~~~~~~~~~~~~~~~~~~~~~~~~~ 1055
 paint something badly/art is expression - not perfection ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 question certainty/practice reasonable mischief ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0999
 reconnect with an old friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+so let us stop talking falsely now/the hour's getting late ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1055
 speak to people such that/if they died the next day/you would be at peace with/the last thing you said to them ~~~~~~~~~~~~~~~~~~~~~~~
 spend twenty four hours completely alone/no phone - no people - no media/only yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
+strive to be better than you were yesterday/but remember to massively fuck up on occasion/just to reset the difficulty level ~~~~~~~~~
 take a class on something you/wouldn't normally consider/make it weird and random ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 talk to a stranger/real life has better characters/than any media ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 the call to adventure is trying to contact you/about your car's extended warranty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the moon rises over the river/yes the wars and the hell and the wreckage/but you cannot save it if you are broken ~~~~~~~~~~~~~~~ 1054
 the most creative and capable person in the world/is currently crying and thinking that they are/a complete failure in life ~~~~~~~~~~
 the most compassionate and wise person in the world/is currently considering ending it/because they just can't take anymore ~~~~~~~~~~
 the most intelligent and creative person in the world/is currently looking at a stack of bills/wondering how they will survive ~~~~~~~
 the most talented and creative person in the world/is completely anonymous because/they think their ideas are shit ~~~~~~~~~~~~~~~~~~~
 the most talented and wise person in the world/is currently looking in a mirror/with tears running down their face ~~~~~~~~~~~~~~~~~~~
+the past and the future have already happened/but you can still change them ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
 the systems of the world do not reward/intelligence creativity compassion or wisdom/this is by design ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+there are many here among us/who feel that life is but a joke/we've been through that and this is not our fate ~~~~~~~~~~~~~~~~~~ 1055
+there must be some kind of way out of here/said the joker to the thief/there's too much confusion/can't get no relief ~~~~~~~~~~~ 1055
+there must be some kind of way out of here/said the joker to the thief/ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1055
 visit a part of your town that/you've never been to before ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 walk into a random bookstore/buy whatever lands in your hand ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 we are not the stuff that abides/but patterns that perpetuate themselves ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-we have to be each other's magic now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we have to be each other's magic now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $p06
 we must remain whimsical/to survive the horrors of this world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+we're all weird and everyone's pretending/so do whatever you want/have you tried that yet? /it's fucking amazing ~~~~~~~~~~~~~~~~~~~~~
 what are you willing to give? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 what do you dream about? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 what do you feel? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -140,12 +164,14 @@ what do you need? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 what do you stand for? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 what do you want out of life? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 what do you wish to create? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
-
+what will you build? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 whether this is the first day of the apocalypse/or the first day of the golden age/the mission remains the same/create a better future
+whose heart is whole? what life has not been wronged? /find someone in this world burning/who hears your life's chaos as a song ~ 1054
 write a handwritten letter to someone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 write a short story - even a bad one/you are an author now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 yas king! yas queen! yas twin! /what the fuck do you think i am? /a mattress?? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are allowed to have <?dreams|feelings|needs|opinions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you are not betraying anyone by choosing joy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1054
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
