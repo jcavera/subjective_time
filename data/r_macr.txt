@@ -378,18 +378,18 @@ ceres is at aphelion [zod];ceres is at her most distant point from the sun [zod]
 ceres is at opposition [zod];the earth is between the sun and ceres [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 ceres is at perihelion [zod];ceres is at her closest point to the sun [zod] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 _* a new _& [mun];_* a black _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ x
-_* a full _& [mun];_* the wolf _& [mun];_* the black smoke _& [mun];_* the winter _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon jan x
+_* a full _& [mun];_* the wolf _& [mun];_* the black smoke _& [mun];_* the winter _& [mun];the gala of tancred [els] ~~~~~~ full jan x
 _* a full _& [mun];_* the snow _& [mun];_* the hunger _& [mun];_* the storm _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon feb x
 _* a full _& [mun];_* the worm _& [mun];_* the crow _& [mun];_* the wind _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon mar x
 _* a full _& [mun];_* the pink _& [mun];_* the seed _& [mun];_* the spring _& [mun];_* the awakening _& [mun] ~~~~~~~~ full moon apr x
 _* a full _& [mun];_* the flower _& [mun];_* the milk _& [mun];_* the grass _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon may x
 _* a full _& [mun];_* the strawberry _& [mun];_* the mead _& [mun];_* the rose _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon jun x
-_* a full _& [mun];_* the buck _& [mun];_* the elk _& [mun];_* the summer _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon jul x
+_* a full _& [mun];_* the buck _& [mun];_* the elk _& [mun];_* the summer _& [mun];the gathering of lutes and lyres [els] ~ full jul x
 _* a full _& [mun];_* the sturgeon _& [mun];_* the dog _& [mun];_* the red _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon aug x
-_* a full _& [mun];_* the corn _& [mun];_* the barley _& [mun];_* the red plum _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon sep x
+_* a full _& [mun];_* the corn _& [mun];_* the barley _& [mun];_* the red plum _& [mun];the seaside soiree [els] ~~~~~ full moon sep x
 _* the harvest _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon closest to the fall equinox x
 _* a full _& [mun];_* the hunter's _& [mun];_* the autumn _& [mun];_* the pumpkin _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon oct x
-_* a full _& [mun];_* the beaver _& [mun];_* the turkey _& [mun];_* the frosty _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon nov x
+_* a full _& [mun];_* the beaver _& [mun];_* the turkey _& [mun];_* the frosty _& [mun];the artificer exhibition [els] ~~~~ full nov x
 _* a full _& [mun];_* the blood _& [mun];_* the leaf falling _& [mun];_* the dying _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~ alt full oct x
 _* a full _& [mun];_* the frost _& [mun];_* the dark _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alt full nov x
 _* a full _& [mun];_* the cold _& [mun];_* the oak _& [mun];_* the long nights _& [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ full moon dec x
@@ -579,18 +579,18 @@ matariki;te tautari-nui-o-matariki;te huihui o matariki ~~~~~~ first rising of t
 hariyali teej ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 up helly aa ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last tuesday in january x
 super bowl sunday;superb owl sunday;puppy bowl sunday;some sportsball _t or other ~~~~~~~~~~~~~~~~~~~~~~~~ second sunday in february x
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
+the fast of esther ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ day before purim (line 519)
+scarlet wednesday [isl];chaharshanbe suri [isl] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last wednesday in the month of Ramadan
+world sleep day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ friday before the march equinox
+cyrus the great day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ seventh day of aban (arabic calendar)
+tisha b'av [heb] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 9th day of av (hebrew calendar)
+the eaa airventure festival in oshkosh ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ last full week of july
+the albuquerque international balloon fiesta ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first full week of october
 _s sunday of advent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4th sun before dec 25 x
 second sunday of advent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3rd sun before dec 25 x
 third sunday of advent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2nd sun before dec 25 x
 fourth sunday of advent ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ sun before dec 25 x
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
+huggie and xander's (o-2025) anniversary [brc];jason and rory's (o-2013) anniversary [brc] ~~~~~~~~~~~~~~~~~ thursday before labor day
 tutu tuesday;_a burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 days before labor day x
 white party wednesday;_a burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 5 days before labor day x
 fuck off friday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3 days before labor day plus four other random fridays in the year x
@@ -755,7 +755,7 @@ _u migratory bird _t;_w chess _t;costume swap _t;ride a motorcycle;yarn _t ~~~~~
 clean _7 virtual desktop ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third monday in october x
 _w pharmacy technician _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third tuesday in october x
 hagfish _t;support _7 local chamber of commerce/or overthrow the man/whichever ~~~~~~~~~~~~~~~~~~~~~~~~~~ third wednesday in october x
-sweetest _t/seriously? this is a real holiday? ;_u singing _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third saturday in october x
+sweetest _t/seriously? this is a real holiday? / ;_u singing _t;_u repair _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ third saturday in october x
 make a difference today ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ fourth saturday in october x
 color the _u orange;job action _t ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first monday in november x
 _w stress _k ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first wednesday in november x
@@ -951,11 +951,11 @@ a _t of an annular solar eclipse [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 a _t of a hybrid solar eclipse [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 a _t of a partial solar eclipse [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
 a _t of a total solar eclipse [mun] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ from SET x
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
+childrens' day [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first new moon in feb
+the great tea jamboree [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ first new moon in apr
+the gathering of lutes and lyres [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ week following first full moon in jul
+the week of the prose and poetry convention [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ week following first new moon in aug
+the seaside soiree [els] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ week following first full moon in sep
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (unused)
