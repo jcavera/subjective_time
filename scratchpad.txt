@@ -15,6 +15,8 @@ Add new pictures for:
 - Kevin Kelly (~ 0557)                   - Doctor Seuss (~ 0351|~ 0575)
 - The Imaginary Foundation (~ 0543)
 
+_u book _t;middle name pride _t;keichitsu;dissociative identity disorder _k;_w absinthe _t;_x piran's _t;arthur oliner's _v ~~~~ 03-05
+
 1056  Spanish: tell me who you're with and I'll tell you who you are
 1057  Sheen Kaur, various poems
 
@@ -26,16 +28,21 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 !M=10,d=3 the death of robert x cringely ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=5,d=10 (a-2024) alisha liston released dreamland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $els
 !M=5,d=23 (a-1960) the great gama died undefeated ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=7,d=22 (a-1889) vincent van gogh looked into the night sky and painted exactly what he saw ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=9,d=18 (a-1988) enya released watermark ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=9,d=8 (a-1889) the birth of jadwiga ryszardowna szmidt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 !M=6 (a-530) florentius the thracian won the battle of satala by capturing the persian flag ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (a-1854) george boole wrote the laws of thought ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1857) the fall of the kingdom of kongo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1945) the publication of the underwater cabaret ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1947) chuck yeager became the fastest man alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1960) the cia assasinated patrice lumumba ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1969) geezer butler first threw the horns at a black sabbath concert ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1996) the release of muppet treasure island ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-2001) the founding of autistici inventati ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-2026) the discovery of the fractional fermion sea ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-60) the publication of the periplus of the erythraean sea ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 <G=+11447,+124021 the gato island of cebu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,6 +54,13 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 <t grab your sword and buckle your swash! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 a person who decides to live by their own code/must first make peace with being hated/by those who survive on permission ~~~~~~~~~~~~~
+an amazing <?day|moment|place|time to be alive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+analysis complete/you are indeed <?awesome|amazing|beautiful|magical|sexy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+another beautiful day in the <?realm|simulation|system|universe|world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+any place but here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+are you <?awake|aware|dreaming|ready ? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+at the beginning of a new <?age|era|reality|world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+be a little bit reckless/the careful ones will also die ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 become difficult to categorize/not mysterious - not complicated/just gloriously inconvenient to label ~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 birds sing after a storm/why shouldn't you feel as free/to delight in whatever remains to you? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 both good and evil increase with compound interest/the little devotions we make every day/are of infinite importance ~~~~~~~~~~~~ 0584
@@ -67,6 +81,7 @@ go before you feel ready/some doors only open/from the other side of leaving ~~~
 go somewhere nobody knows who you were supposed to be/there is a freedom in being a stranger/to your own reputation ~~~~~~~~ $qst 1057
 have no respect whatsoever for authority/instead ask where they started/what they ended up with/and then ask if it's reasonable ~ 0236
 healing is mostly becoming bored of things/that once destroyed you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1057
+history is full of the bones of good people/who followed bad orders hoping to somehow/soften the blow ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if you catch yourself saying/i'll start when things get better/remember how quietly a life disappears ~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 in a garden of spheres ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 just because they have a history with you/it does not guarantee them/a future with you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,10 +101,13 @@ life doesn't have story points/don't try to micromanage it ~~~~~~~~~~~~~~~~~~~~~
 make a fool of yourself often/embarrassment is a small price/for being free ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 make a habit of disappointing everyone's/expectations of you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 make a life that would be impossible to explain/at a dinner party ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
+maybe the goal should not be to become unbothered/maybe it's to become grounded enough to feel things/without being ruled by them ~~~~
+never commit your virture or your happiness/to the future/the present is the only time in which any/duty can be done or grace received
 no respawns available past this point ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20
 no save points are available at this time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20
 no save points are available in this area ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20
 nothing beautiful has ever needed you/to stare at the clock ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1057
+nothing is so good that somebody somewhere/will not hate it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 people are doors - open and you're on the other side/but some you go through and find an overgrown garden/and a childhood song ~~~~~~~
 put your grief in a little boat and send it downstream/there are stranger things to inherit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 quit rehearsing your enterance into a life/that is already asking you to dance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
@@ -97,12 +115,15 @@ refuse to become a person whose greatest achievement/is being easy to understand
 remember how quietly a life disappears/not all at once/but in postponed afternoons ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 remember that you are a mammal on a floating rock/unclench your jaw ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 respawns are not available from this point on ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20
+somewhere along the survivorship curve ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 stop expecting your life to have a plot/maybe some things are allowed to happen/without becoming a lesson ~~~~~~~~~~~~~~~~~~ $qst 1057
 stop rehearsing conversations with people/who have already left the room/there are entire days you could have lived ~~~~~~~~ $qst 1057
 stop saying - after this/look how quickly a lifetime/hides inside two little words ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 stop setting two places at the table/for the person who only arrives/in your imagination ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 tell me who you're with and/i'll tell you who you are ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 the careful ones will also die ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the higher you level up/the stronger the monsters get ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $d20
+there is no victory in becoming impossible to hurt/being numb and being at peace/are not the same thing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 to every reader you are a different story ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 wear your strangest thought like a crown/someone has to keep the kingdom interesting ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
 we're all just here being farmed by the fungi ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,6 +132,7 @@ when life hands you/a perfectly reasonable identity/lose it ~~~~~~~~~~~~~~~~~~~~
 when no one wakes you up in the morning/and when no one waits for you at night/do you call it freedom or lonliness? / ~~~~~~~~~~~ 0801
 who are you really? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 you have no choice but to grow older/but you don't have to grow up ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you must go deeper ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 you won't survive/so at least try to live ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 you'll just have to chance it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $m8b
 you'll just have to figure it out for yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $m8b
