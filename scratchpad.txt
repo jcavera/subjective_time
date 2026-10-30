@@ -21,7 +21,9 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
 !M=10,d=28 (a-1886) president grover cleveland dedicated the statue of liberty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=28 (a-2026) the death of sir patrick stewart ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=10,d=28 (a-312) constantine defeated maxentius at the battle of the milvian bridge ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=10,d=28 stewart with sails unfurled/kiazi's children/their faces wet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk 0334
 
 (a-1684) the drawing of the nova orbis tabula world map ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1938) konrad zuse designed the zee-three electronic programmable computer/he built it three years later ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,6 +31,8 @@ Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778
 (a-1976) the release of emacs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-1998) the release of serial experiments lain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-2025) the discovery of the noperhedron ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-515) pseudo-dionysius the areopagite wrote the mystical theology series ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-87) the writing of the book of hierotheus on the hidden mysteries of the house of god ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 as we learn the harsh truth/of perverse instantiation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 be bad at a hobby/you don't need to become employable/at everything you enjoy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -43,6 +47,10 @@ find a tree and sit beneath it/stare off into the distance/if anyone asks/you ar
 get the fuck out of your own way ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 half of the harm that is done in the world/is by small people who want to feel important ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 if no art makes you feel anything/make your own and feel something ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if you are trying to love yourself/then you already do/where do you think the trying comes from? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1037
+if you remember what we were and how we lived/then we'll have found life again/now we live in you ~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk 0334
+kamin and batai at rest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk 0334
+kiazi's children/their faces wet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk 0334
 keep ridiculous company/find people with whom you can discuss/absolutely nothing normal for several hours ~~~~~~~~~~~~~~~~~~~~~~~ $qst
 learn to proceed without certainty ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
 let every transgression become a lesson/every wound become a scripture ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -58,6 +66,8 @@ the corruption of others is/no excuse for your own ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the darkest day - the blackest hour/chin up and shoulders back/let's see what we're made of ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0159
 the finest souls are those who have gulped pain/and avoided making others taste it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1061
 the gods may have forgiven you but/you don't have to forgive them ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the important thing is to not stop questioning/curiosity has its own reasons for existing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0552
+the past is written/but we are left to write the future ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk 0334
 the prophecy did not fortell/this level of fuckery ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the sooner the better ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the sooner you make your first five thousand mistakes/the sooner you will be able to correct them ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,6 +75,7 @@ the universe is scattered with the remains/of dead civilizations/who never made 
 the wrong road always leads somewhere ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0808
 thirty three hundred years since tapputi bellet ekallim/invented solvent extraction and fractional distillation ~~~~~~~~~~~~~~~~~ $lnf
 we are half-hearted creatures/fooling around with drink and sex and ambition/when infinite joy is offered us ~~~~~~~~~~~~~~~~~~~~ 0584
+what we leave behind is not as important as how we lived ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $trk 0334
 why do people think that profound thoughts/must come from high places? /the gutter looks at the stars too ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are allowed to graduate from foolish youth/to fully qualified fucking idiot ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you are always just one/fuck it - let's do it! /away from changing your life ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
