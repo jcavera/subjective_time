@@ -15,9 +15,46 @@ Add new pictures for:
 - Kevin Kelly (~ 0557)                   - Doctor Seuss (~ 0351|~ 0575)
 - The Imaginary Foundation (~ 0543)
 
+1062  German: I go forth and seek longing
+
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=11,d=10 (a-1969) the first episode of sesame street aired ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=11,d=3 (a-1954) the release of the first godzilla film in tokyo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=11,d=3 japanese culture day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+!M=11,d=7 (a-1917) the october revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+!M>10,h>19 night will offer you the thick black folds/of her cloak where you're finally free to/lose what cannot be kept ~~~~~~~~~~~~~
+!M>10,h>19 now for a while the dark stays dark/the long nights will be long/no matter how you pray for light/god will not be rushed ~~
+(a-1617) robert fludd wrote utriusque cosmi maioris scilicet et minoris metaphysica physica atque technica historia ~~~~~~~~~~~~~~~~~~
+(a-1726) bach composed ich geh und suche mit verlangen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1062
+(a-1942) freya madeline stark was awarded the founders' medal of the royal geographic society ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1958) max faget invented the space capsule ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1982) the release of koyaanisqatsi ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+as a child you never dreamt of following the rules/or fitting in to a mold/or erasing yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+don't you fucking dare give up! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+evolution doesn't optimize - it tinkers/it works with whatever it already has/patching and repurposing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+in all of history there has never been/a normal year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+keep <?being|breathing|calm|caring|chasing|creating|fighting ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
+life doesn't close chapters dramatically/it quitely removes entire worlds/while you are otherwise distracted ~~~~~~~~~~~~~~~~~~~~~~~~~
+near the day of purification there will be/cobwebs spun back and forth in the sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+prior to the collapse of the atlantic/meridional overturning circulation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $map
+stop calling yourself difficult to love/just because someone arrived hungry/for something else ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
+the last ordinary day of an entire era/has the audacity to look like/just an average tuesday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the last time you enter a room will feel like/just entering a room ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the magnificent horror of being alive is that/nothing announces itself as important/while it is happening ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+the stars remember ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
+time for an emotional support <?beer|burrito|pizza|taco ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we are currently test-driving the future ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+we are trying to unravel the infinite using/a language which was designed to tell each other/where the fresh fruit was ~~~~~~~~~~ 0521
+we're in weird-ass times right now/the best thing that you can do is/love who loves you and protect yourself ~~~~~~~~~~~~~~~~~~~~~~~~~
+you are allowed to make your life easier/stop making the good option so difficult/that you end up doing nothing ~~~~~~~~~~~~~~~~~ $qst
+you are someone's favorite person/and you may not have met them yet/but they are out there waiting for you ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you are someone's favorite person/and you may not have met them yet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+you are someone's favorite person ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+your last conversation with someone/will sound like a normal conversation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
