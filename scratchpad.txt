@@ -15,70 +15,9 @@ Add new pictures for:
 - Kevin Kelly (~ 0557)                   - Doctor Seuss (~ 0351|~ 0575)
 - The Imaginary Foundation (~ 0543)
 
-1062  German: I go forth and seek longing
-1063  Latin: opposites are complementary (from Niels Bohr's coat of arms)
-
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
-!M=11,d=10 (a-1969) the first episode of sesame street aired ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=11,d=3 (a-1954) the release of the first godzilla film in tokyo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=11,d=3 japanese culture day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=11,d=7 (a-1917) the october revolution ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-!M=2,d=19 (a-1996) amy goodman founded democracy now ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-!M>10,h>19 night will offer you the thick black folds/of her cloak where you're finally free to/lose what cannot be kept ~~~~~~~~~~~~~
-!M>10,h>19 now for a while the dark stays dark/the long nights will be long/no matter how you pray for light/god will not be rushed ~~
-!h=2 two a.m. is honest/it's when the brave get scared/the strong get tired and the busy get still/and humans feel the cost of the day
-!h=7 it's seven in the morning/and she's half asleep in his shirt/waiting by the coffee maker/with his arms around her shoulders ~~~~~
-(a-1541) saint ignatius of loyola founded the jesuit order ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-1617) robert fludd wrote utriusque cosmi maioris scilicet et minoris metaphysica physica atque technica historia ~~~~~~~~~~~~~~~~~~
-(a-1726) bach composed ich geh und suche mit verlangen ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1062
-(a-1942) freya madeline stark was awarded the founders' medal of the royal geographic society ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-1958) max faget invented the space capsule ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-1982) the release of koyaanisqatsi ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(a-1986) the annual meeting of the american physical society was permanently banned from the city of las vegas ~~~~~~~~~~~~~~~~~~~~~~~
-(a-2026) karl bushby finally returned home after a twenty eight year walk from chile to england ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+42270,-070759 the lovers' light ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<G=+48367,+008804 an ominous chandelier at the atomkeller museum ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-an artist's real medium is time/attention and repetition shape the form ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-as a child you never dreamt of following the rules/or fitting in to a mold/or erasing yourself ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-at a moment of <?change|crisis|decision ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-contraria sunt complementa ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1063
-drink strong black coffee and have a dark chocolate/you need something bitter to deal with/what the crows are about to announce ~ 1010
-don't you fucking dare give up! / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-evolution doesn't optimize - it tinkers/it works with whatever it already has/patching and repurposing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-for all of the unchosen figs/the fruit picked first is not necessarily the sweetest/sometimes it was simply closer ~~~~~~~~~~~~~~ 1057
-go to where no one is saying anything/and say something ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
-in a moment of <?revelation|strength|transformation|transition|weakness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-in all of history there has never been/a normal year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-in an infinite <?continuum|cosmos|manifold|space-time ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-in the days before the coming of the <?champion|dawn|light|paragon|shadows|renaissance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-in the days of <?magic|wonder|yore ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-keep <?living|trying|walking|smiling|breathing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
-life doesn't close chapters dramatically/it quitely removes entire worlds/while you are otherwise distracted ~~~~~~~~~~~~~~~~~~~~~~~~~
-life isn't divided into genres/it's a horrifying romantic tragic/comic drama sci-fi detective novel/with some porn if you're lucky ~~~
-near the day of purification there will be/cobwebs spun back and forth in the sky ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-prior to the collapse of the atlantic/meridional overturning circulation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $map
-spend an evening living in the ninteenth century/drink tea and read by candlelight/your mysterious correspondence can wait ~ $qst 1010
-start a fantasy series thick enough to imply/that you will be unavailable for some time/your problems are in another realm now ~~ 1010
-stop calling yourself difficult to love/just because someone arrived hungry/for something else ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1057
-the last ordinary day of an entire era/has the audacity to look like/just an average tuesday ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the last time you enter a room will feel like/just entering a room ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the magnificent horror of being alive is that/nothing announces itself as important/while it is happening ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the truth is worth what it costs you ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-the stars remember ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $zil
-time for an emotional support <?beer|burrito|pizza|taco ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-we are currently test-driving the future ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-we are trying to unravel the infinite using/a language which was designed to tell each other/where the fresh fruit was ~~~~~~~~~~ 0521
-we're in weird-ass times right now/the best thing that you can do is/love who loves you and protect yourself ~~~~~~~~~~~~~~~~~~~~~~~~~
-wear black maroon and deep grey/dress like someone who just inherited a castle/and has no idea what they're doing with it ~~ $qst 1010
-you are allowed to make your life easier/stop making the good option so difficult/that you end up doing nothing ~~~~~~~~~~~~~~~~~ $qst
-you are someone's favorite person/and you may not have met them yet/but they are out there waiting for you ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you are someone's favorite person/and you may not have met them yet ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-you are someone's favorite person ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-your last conversation with someone/will sound like a normal conversation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
