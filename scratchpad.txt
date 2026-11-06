@@ -18,14 +18,20 @@ Add new pictures for:
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!M=11,d=18 (a-1915) the execution of joe hill ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !M=11,d=28 la ku'oko'a ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+(a-2014) nadia murad basee taha escaped her enslavement ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (a-2024) istanbul's train master decided/that security cameras aren't nearly as good as/a cat that hisses at people who don't pay ~~~~
-<?erase|escape <?the|your past ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<?erase|escape <?the|your past ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
+<G=+35671,-109064 the window rock ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+51592,-010301 the door to the underworld at tech duinn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+a crow would consider several things in your home/to be priceless treasures/before deciding you have nothing look around as a crow ~~~
 a story's shape depends on where we end it ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 as foretold in mystic visions... / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 at the last stop before the stars ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+before a difficult task tap on the table twice/once for yourself and once for whatever/invisible creature has agreed to help ~~~~ 1010
 but lover... you only need music to dance/not a partner ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
 counting the <?days|hours|minutes|months|seconds|weeks|years ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 don't get too attached to your art/it is of a time and place and/won't make as much sense later ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst
@@ -35,10 +41,13 @@ enough time for one more <?dance|drink|kiss|ride|song ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 if you are worth anything later/then you are worth something now/wheat is wheat even if people call it grass ~~~~~~~~~~~~~~~~~~~~ 0666
 in a world full of monsters/the bravest thing you can be is a friend ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 0921
+let the kettle finish boiling before/you decide that everything is terrible/certain verdicts require tea ~~~~~~~~~~~~~~~~~~~ $qst 1010
 love might not fix your life/but maybe it will make it feel/like it's worth fixing ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 maybe nothing is ever wasted and/it is all just getting us here? / ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 most of us when all is said and done/like what we like and/make up reasons for it afterwards ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+one of the best things you can do in life is/love your people so loudly that they never doubt/that there is love in the world for them
 perhaps your greatest act of rebellion/will be refusing to become bitter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1057
+put your hand over your heart and say/still here/this is both a spell and an accomplishment ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $qst 1010
 shit's about to get <?freaky|funky|real|weird all up in here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 shit's about to get <?freaky|funky|real|weird ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 shit's about to get super fuckin' <?freaky|funky|real|weird all up in here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,13 +58,15 @@ shit's gettin' super fuckin' <?freaky|funky|real|weird all up in here ~~~~~~~~~~
 shit's gettin' super fuckin' <?freaky|funky|real|weird ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 somehow the stranger that you have never met/can become the person you can't imagine/being without ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 the first rule is to keep an untroubled spirit/the second is to look things in the face/and know them for what they are ~~~~~~~~~ 0539
+the future is not finished furnishing all its rooms/there's still time for a library or a great love/or a window overlooking the sea ~
 time to drop it into overdrive ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 time to hit the afterburners ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tonight name three things that made the day bearable/this is how you teach your inner dragon/what to guard ~~~~~~~~~~~~~~~~~ $qst 1010
 when someone tells you that you're too much/believe them/and then go be too much somewhere else ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 when your head is mean to you/come stay in mine for a while/you're only ever loved in here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you're dangerous when you make something beautiful/you found a crack in the concrete to grow a flower/and so you can't be controlled ~
 you don't stop moving when you get old/you get old when you stop moving/do future you a favor and hit the trails ~~~~~~~~~~~~~~~~ $qst
-
+your strange little interests are leaving breadcrumbs/toward a life you would love/follow one farther than usual ~~~~~~~~~~~ $qst 1010
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
