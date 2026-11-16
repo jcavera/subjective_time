@@ -91,7 +91,7 @@ uint16_t str_get_ref_pic (char *s, char *p)
 // Test strings (\\ at the end are actually \r\n):
 //      00000000001111111111222222222233333333334444444444555
 //      01234567890123456789012345678901234567890123456789012
-//      part 1;part 2;part 3;part 4;part 5;part 6;part 7\r\n
+//      part 1;part 2;part 3;part 4;part 5;part 6;part 7\\
 
 uint16_t rand_0toN (uint16_t N)     // random number generator from 0..N
 {
@@ -99,7 +99,7 @@ uint16_t rand_0toN (uint16_t N)     // random number generator from 0..N
     return ((uint16_t) ((float)rand() / ((float)RAND_MAX + 1.0) * (N + 1)));
 }
 
-uint16_t choose_between (char* s, char* out, char delim)
+uint16_t choose_between (char *s, char *out, char delim)
 {
     if ((delim <= 0x20) || (delim > 0x7e)) return (0);          // delimiter must be a displayable char
     uint16_t r = 0, i = 0, j = 0;
@@ -242,7 +242,16 @@ uint16_t word_len (char *a, uint16_t i)
 
 // Strip off everything at the end of a line that is not displayed.  This inlcudes trailing
 // spaces, carriage returns, newlines, and tilde characters.  This is an in-place operation
-// and the new string length is returned.
+// and the new string length is returned. Note that if there is a picture or a reference at
+// the end (or both of course) then those are NOT stripped and neither are the tildes prior
+// to them (see the first test string).
+//
+// Test strings (\\ at the end are actually \r\n):
+//      0000000000111111111122222222223333333333444444444455  resulting string
+//      0123456789012345678901234567890123456789012345678901  -------------------------
+//      this is a test with a reference ~~~~~~~~~~~~ 9012\\   this is a test with a reference ~~~~~~~~~~~~ 9012
+//      this is a test without a reference or picture ~~~\\   this is a test without a reference or picture
+//      this is another test string  \\                       this is another test string
 
 uint16_t strip_eol (char *a)
 {
@@ -257,7 +266,16 @@ uint16_t strip_eol (char *a)
 // and newlines (or any other unprintable at the end).  This is an in-place operation such that
 // the original string is modified without making a copy.   This function returns the length of
 // the modified string. Note that this also includes unprintables (cr, lf, etc.) as well as the
-// tilde character (used as line length filler) from the end of the string.
+// tilde character (used as line length filler) from the end of the string.  Note that if there
+// is a picture or a reference (or both) at the end of the string then they are NOT removed nor
+// are the tildes leading up to them (see the first test string).
+//
+// Test strings (\\ at the end are actually \r\n):
+//      0000000000111111111122222222223333333333444444444455  resulting string
+//      0123456789012345678901234567890123456789012345678901  -------------------------
+//        this is a test with a reference ~~~~~~~~~~~ 9012\\  this is a test with a reference ~~~~~~~~~~~~ 9012
+//         this is a test without a reference or picture ~\\  this is a test without a reference or picture
+//          this is another test string  \\                   this is another test string
 
 uint16_t trim_string (char *s)
 {
@@ -269,8 +287,8 @@ uint16_t trim_string (char *s)
 }
 
 
-// ============ The following functions read and return a parameter from the END of a string.  Used in reading
-// ============ data from the configuration file, or stuff formatted similarly.
+// ============ The following functions read and return a parameter from the END of a string.  Used in
+// ============ reading data from the configuration file, or stuff formatted similarly.
 
 // Read and return a floating point number. The index (i) is on the LAST digit of the number
 // and the number must be of the form: (+|-)nnn.nnnnnn.   On an invalid number, the function
@@ -379,7 +397,7 @@ uint16_t return_str_end (char *s, uint16_t i, char *p)
 }
 
 // ============ The following functions are used in pattern matching and exist because regex's in C are a
-// ============ complete pain in the ass and take up way too much memory anyway.  These are used in the
+// ============ complete pain in the ass and take up waaay too much memory anyway.  These are used in the
 // ============ various markup functions to do things like year- and macro-substitution.
 
 // Find the first instance in the input string of the pattern (<abo>-n<n<n<n>>>).  If no match
