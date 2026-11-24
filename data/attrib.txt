@@ -725,7 +725,7 @@ have a good idea of mine.
 0571  Latin: a token of a better age
 0572  Douangdeuane Bounyavong
 0573  Frida Kahlo
-0574  Khalil Gibran
+0574  Kahlil Gibran, The Prophet
 0575  Doctor Seuss (Theodore Geisel)
 0576  Andrea Gibson
 0575  Lynn Margulis
@@ -1234,4 +1234,3 @@ have a good idea of mine.
 1068  French: after us, the flood
 1069  Francis Bacon
 1070  The oldest known "bar joke" from Sumeria c. 2000 BC.  The meaning of the punchline has been lost to history.
-
