@@ -15,11 +15,49 @@ Add new pictures for:
 - Kevin Kelly (~ 0557)                   - Doctor Seuss (~ 0351|~ 0575)
 - The Imaginary Foundation (~ 0543)
 
+HW targets from Waveshare (all have ESP32-S3R8, 8MB PSRAM, 16MB flash):
+    Model                           Size    pixels      Interface   Display Touch
+    ESP32-S3-Touch-AMOLED-1.75-B    1.75    466 × 466   QSPI        CO5300  CST9217
+    ESP32-S3-Touch-AMOLED-1.75      1.75    466 × 466   QSPI        CO5300  CST9217
+    ESP32-S3-Touch-AMOLED-1.43-B    1.43    466 × 466   QSPI        SH8601  FT3168
+    ESP32-S3-Touch-AMOLED-1.43      1.43    466 × 466   QSPI        SH8601  FT3168
+    ESP32-S3-Touch-LCD-2.8C         2.8     480 × 480   RGB         ST7701  GT911
+    ESP32-S3-Touch-LCD-2.1B         2.1     480 × 480   RGB         ST7701  CST820
+    ESP32-S3-Touch-LCD-2.1          2.1     480 × 480   RGB         ST7701  CST820
+    ESP32-S3-Touch-LCD-1.85C        1.85    360 × 360   QSPI        ST77916 CST816
+>>> ESP32-S3-Touch-LCD-1.85B        1.85    360 × 360   QSPI        ST77916 CST816
+    ESP32-S3-Touch-LCD-1.85         1.85    360 × 360   QSPI        ST77916 CST816
+    ESP32-S3-Touch-LCD-1.46B        1.46    412 × 412   QSPI        SPD2010 SPD2010
+    ESP32-S3-Touch-LCD-1.46         1.46    412 × 412   QSPI        SPD2010 SPD2010
+
 *** rebaseline voyager 1 distance to one light day on 2026-11-18
+*** last full weekend of July: gilroy garlic festival
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
 
+!Y<2040 <R=2-99 years until the first artificial intelligence becomes self aware ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
+!Y<2040 <R=5-20 years until a machine gains true consciousness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf -fix
+!Y<2040 <R=5-20 years until the creation of a true synthetic consciousness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf
+!Y<2040 <R=5-20 years until the first commercial fusion reactor goes live ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf -fix
+
+(a-1673) christiaan huygens published the horologium oscillatorium ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1839) the founding of patek philippe societe anonyme ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1976) the disco inferno/burn baby burn ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1977) smokey and the bandit made trucks and cb radios cool ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(a-1988) the quartz crisis ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<G=+31433,+035343 the cave of letters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+31767,+035725 mount nebo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<G=+37012,-121580 the garlic capitol of the world ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<R=2-99 years until the first artificial intelligence becomes self aware ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $lnf -del
+<R=20-100 years before the solution of the hard problem of consciousness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -fix
+<R=50-150 years until the creation of a true synthetic consciousness ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -del
+
+peel apart my rationality/riddles etched into melodies/don't you hear the whispers of rose ink? / ~~~~~~~~~~~~~~~~~~~~~~~~~~ $els 1007
+practical fusion power is still twenty years away ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -del
+take care of the luxuries and/the necessities will take care of themselves ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1071
+the world is full of interdimensional portals/you just have to look hard enough for them ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Byte Number: 1111112222222222333333333344444444445555555555666666666677777777778888888888999999999900000000001111111111222222222233333
 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
